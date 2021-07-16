@@ -318,6 +318,9 @@ def main():
 
     print("cdn_url:{}".format(cdn_url))
 
+    # URLはリンク先に置く
+    os.putenv("download_url", cdn_url)
+
     # distributionファイルを生成する
     generate_distribution_file(url=cdn_url,
                                out_file_path=_(".", "out", "dist.v2.json"),

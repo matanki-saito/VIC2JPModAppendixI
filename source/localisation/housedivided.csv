@@ -1,0 +1,836 @@
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+MIL_FROM_TROOPS;Soldiers & Army;;;;;;;;;;;;x
+MIL_FROM_CAP_SHIPS;Capital Ships;;;;;;;;;;;;x
+MIL_FROM_LEADERS;Leaders;;;;;;;;;;;;x
+OCCUPATION_SCORE;Occupation: ;;;;;;;;;;;;x
+BLOCKADE_SCORE;Blockade: ;;;;;;;;;;;;x
+OUTLINER_TOOLTIP_EMPLOYED;§Y$COUNT$§! Employed in factories (§Y$PERC$§!%);;;;;;;;;;;;x
+TRADE_SUPPLY_NEED_A;$VAL$ to supply army each day.\n;;;;;;;;;;;;x
+TRADE_SUPPLY_NEED_N;$VAL$ to supply navy each day.\n;;;;;;;;;;;;x
+DIPLOMACY_CANNOT_SET_PRIO_WAR;We cannot influence this nation while we have a war with them.;;;;;;;;;;;;x
+DIPLOMACY_INFLUENCE_NOT_WORTH;We are already influencing this country at maximum, and there is no other country influencing it. No points are spent for now.;;;;;;;;;;;;x
+COLONY_ABORT_HEADER;When our colonization has been aborted.;;;;;;;;;;;;x
+COLONY_ABORT_1;Colonization Aborted!;;;;;;;;;;;;x
+COLONY_ABORT_2;$MONARCHTITLE$, our colony in;;;;;;;;;;;;x
+COLONY_ABORT_3;§Y$TARGET$§b.;;;;;;;;;;;;x
+COLONY_ABORT_4;has been aborted!;;;;;;;;;;;;x
+COLONY_ABORT_5;We can no longer colonize this region.;;;;;;;;;;;;x
+COLONY_ABORT_6;*;;;;;;;;;;;;x
+COLONY_ABORT_BTN1;OK;;;;;;;;;;;;x
+COLONY_ABORT_BTN2;OK;;;;;;;;;;;;x
+COLONY_ABORT_BTN3;Go to;;;;;;;;;;;;x
+COLONY_ABORT_MAP;Colony Aborted!;;;;;;;;;;;;x
+COLONY_ABORT_SETUP;When colonization is aborted.;;;;;;;;;;;;x
+COLONY_ABORT_LOG;Colonization of $TARGET$ has been aborted.;;;;;;;;;;;;x
+DIPRELCH_VALID_CB;Valid Casus Belli;;;;;;;;;;;;x
+BRIGADES_COMPARE_GREATER;Brigades comparison factor of two countries is at least §Y$VAL$§!;;;;;;;;;;;;x
+BRIGADES_COMPARE_SMALLER;Brigades comparison factor of two countries is less than §Y$VAL$§!;;;;;;;;;;;;x
+CONFIRM_CREATE_STATE_DESC2;(All local effects will be removed.);;;;;;;;;;;;x
+UNIT_ENABLE_REBEL_HUNT;Hunt Rebels;;;;;;;;;;;;x
+UNIT_DISABLE_REBEL_HUNT;(hunting rebels);;;;;;;;;;;;x
+UNIT_REBEL_HUNT_WILL_HUNT;§GArmy is ready for rebel hunting.§!;;;;;;;;;;;;x
+UNIT_REBEL_HUNT_IS_BUSY;§RArmy is currently busy, and will not hunt any rebels right now.§!;;;;;;;;;;;;x
+UNIT_REBEL_HUNT_LOW_MORALE;§RArmy has too low morale, and will not hunt any rebels right now.§!;;;;;;;;;;;;x
+UNIT_REBEL_HUNT_NO_VALID;§REnemy rebels has been detected, but our army will not attack them, because they are too strong for us, or couldn't find a safe path to get there.§!;;;;;;;;;;;;x
+NOT_RELEASE_AT_WAR;§R(It is not possible to release nations when at war.)§W;;;;;;;;;;;;x
+COLONY_SUCCESS_5;§Y$PRESTIGE$§! prestige gained.;;;;;;;;;;;;x
+COLONY_SUCCESS_6;(Base value §Y$BASE$§! x §Y$PROV$§! provinces.);;;;;;;;;;;;x
+COUNTRY_PUPPETS_LIST;Puppets: ;;;;;;;;;;;;x
+POLL_ESTIMATED_ELECTION;In an election we estimate the following result.;;;;;;;;;;;;x
+MODIFIER_MOVEMENT_COST;Troop Movement Cost;;;;;;;;;;;;x
+SPEED_IMPACT_ON_CB;Speed of generation is changed by §Y$VAL$§W.;;;;;;;;;;;;x
+TERR_COMB_WIDTH_DEC;Combat width is reduced by §Y$VAL$§W% in this terrain.;;;;;;;;;;;;x
+MODIFIER_BOOST_STRONGEST_PARTY;Strength of Strongest Party;;;;;;;;;;;;x
+PEACEDEMANDDESC;$COUNTRY$ is demanding a peace on the following terms:;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_SETUP;When our war justification process is no longer valid.;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_1;War Justification;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_2;Our attempt to justify war using;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_3;§Y$CASUS$§! Casus Belli;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_4;against;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_5;$TARGET$;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_6;is no longer valid!;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_LOG;Our war justification process against $TARGET$ is no longer valid.;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN1;OK;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN2;OK;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN3;Goto;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_MAP;*;;;;;;;;;;;;x
+NO_ALLOWED_COUNTRIES;(There is no applicable country).;;;;;;;;;;;;x
+NO_ALLOWED_STATES;(There is no applicable states).;;;;;;;;;;;;x
+HAS_LESS_STATE_THAN;Has number of States < ;;;;;;;;;;;;x
+HAS_STATES_GREATER_EQ;Has number of States >= ;;;;;;;;;;;;x
+HAVE_MORE_SUBSTATES_THEN;Have more substates than ;;;;;;;;;;;;x
+HAVE_LESS_SUBSTATES_THEN;Have less substates than ;;;;;;;;;;;;x
+HAVE_MORE_VASSALS_THAN;Have more puppets than ;;;;;;;;;;;;x
+HAS_UNION_TAG;has culture union;;;;;;;;;;;;x
+HAS_NO_UNION_TAG;has NO culture union;;;;;;;;;;;;x
+HAS_CULTURE_UNION;Has culture union;;;;;;;;;;;;x
+HAS_NOT_CULTURE_UNION;Has NO culture union;;;;;;;;;;;;x
+IS_STATE_CAPITAL;is state capital;;;;;;;;;;;;x
+IS_NOT_STATE_CAPITAL;is NOT state capital;;;;;;;;;;;;x
+SUBSIDIZE_ALL_TOOLTIP;Subsidize all factories on the list.;;;;;;;;;;;;x
+UNSUBSIDIZE_ALL_TOOLTIP;Cancel subsidies for all factories on the list.;;;;;;;;;;;;x
+OPEN_ALL_TOOLTIP;Open all factories on the list.;;;;;;;;;;;;x
+CLOSE_ALL_TOOLTIP;Close all factories on the list.;;;;;;;;;;;;x
+ON_ENACT_UNCIV_REFORM;When enacted:;;;;;;;;;;;;x
+EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$§! construction will take place in: §Y$PROVS$§!;;;;;;;;;;;;x
+TRIGGER_BUILD_IN_CAPITAL_DESC;§RConstruction is not allowed for now.§!;;;;;;;;;;;;x
+DIPLOMACY_CB_INFO;War Justification;;;;;;;;;;;;x
+COLONIZE_MAX_SLOTS;No more then §Y$NUM$§! countries can compete for province colonization.;;;;;;;;;;;;x
+RIGHT_CLICK_TO_REMOVE_NF;§YRight mouse click§! to remove the current focus.;;;;;;;;;;;;x
+CONFIRM_REMOVE_COLONY_NF_TITLE;Remove Colonization National Focus;;;;;;;;;;;;x
+CONFIRM_REMOVE_COLONY_NF_DESC;Your colonization progress will be lost. Do you want to remove the national focus?;;;;;;;;;;;;x
+CB_ALLOWED_INSTALL_COMMUNIST_GOV_TYPE;Install communist government;;;;;;;;;;;;x
+po_install_communist_gov_type;Install communist government;;;;;;;;;;;;x
+install_communist_gov_cb;Install communism;;;;;;;;;;;;x
+install_communist_gov_cb_desc;Install the communist government.;;;;;;;;;;;;x
+install_communist_gov_cb_setup;Install the communist government. If achieved, the country will be automatically added into our sphere.;;;;;;;;;;;;x
+install_communist_gov_cb_short;Install communism;;;;;;;;;;;;x
+CB_ALLOWED_UNINSTALL_COMMUNIST_GOV_TYPE;Uninstall communist government;;;;;;;;;;;;x
+po_uninstall_communist_gov_type;Uninstall communist government;;;;;;;;;;;;x
+uninstall_communist_gov_cb;Uninstall communism;;;;;;;;;;;;x
+uninstall_communist_gov_cb_desc;Uninstall the communist government.;;;;;;;;;;;;x
+uninstall_communist_gov_cb_setup;Uninstall the communist government.;;;;;;;;;;;;x
+uninstall_communist_gov_cb_short;Uninstall communism.;;;;;;;;;;;;x
+NF_OVERWRITE_HEADER;To set the new national focus §Y$NF$§! you must remove another one.;;;;;;;;;;;;x
+NF_OVERWRITE_ENTRY;§Y$NF$§!\nin §G$STATE$§!;;;;;;;;;;;;x
+PRESTIGE_MORALE_BONUS;Morale bonus: §Y$VAL$§!;;;;;;;;;;;;x
+PRESTIGE_MAX_ORG_BONUS;Organization bonus: §Y$VAL$§!;;;;;;;;;;;;x
+PRESTIGE_PENALTY_ON_LEADER_TRANSFER_TITLE;Prestige penalty.;;;;;;;;;;;;x
+PRESTIGE_PENALTY_ON_LEADER_TRANSFER_DESC;Our country will suffer §R$VAL$§! prestige loss, if we unassign the current leader §Y$NAME$§! from that unit, while at war.\nDo you still want to do that?;;;;;;;;;;;;x
+REORG_PANEL_BALANCE_UNITS;Balance;;;;;;;;;;;;x
+INVEST_PROJECT_NOT_ENOUGH_MONEY;§RWe have not enough funds to do that.§!;;;;;;;;;;;;x
+INVEST_PROJECT_SHORTCUT_MAX;§RCtrl + Left mouse click§! to invest max amount into this project. (§Y$AMOUNT$§!¤);;;;;;;;;;;;x
+INVEST_PROJECT_SHORTCUT_MAX_ALL;§RShift + Left mouse click§! to invest max amount in all projects. (§Y$AMOUNT$§!¤);;;;;;;;;;;;x
+INVEST_PROJECT_CONFIRM;Invest;;;;;;;;;;;;x
+INVEST_PROJECT_MAX;Max;;;;;;;;;;;;x
+INVEST_PROJECT_TITLE;Invest into project: "§Y$PROJ$§!" at §Y$LOC$§!;;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_YOUR_BUDGET;Your current budget.;;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_PROJECT_BUDGET;Project budget is §Y$BUD$§! out of §Y$TOT$§! needed.\nYou decide to invest §Y$INV$§! into this project.;;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_APPLY;Apply your investment.;;;;;;;;;;;;x
+MIL_MULTI_CONSTRUCTION_TOOLTIP;§YLeft click + SHIFT§! to build all.;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_SHORT;Cancel All;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL;Cancel all constructions;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_TITLE;Cancel all constructions.;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_DESC;Are you sure, that you want to cancel all military constructions?;;;;;;;;;;;;x
+SORT_BY_PRESTIGE;Sort by prestige;;;;;;;;;;;;x
+SORT_BY_NAME;Sort by name;;;;;;;;;;;;x
+SORT_BY_SELECTED;Sort by selected;;;;;;;;;;;;x
+ATTACKUSREBEL_SETUP;When one of our land units is attacked by the Rebels;;;;;;;;;;;;x
+ATTACKUSREBEL_HEADER;Our Chief of Staff reports that;;;;;;;;;;;;x
+ATTACKUSREBEL_1;Our forces are under attack!;;;;;;;;;;;;x
+ATTACKUSREBEL_2;$MONARCHTITLE$, we have been attacked in;;;;;;;;;;;;x
+ATTACKUSREBEL_3;$PROV$.;;;;;;;;;;;;x
+ATTACKUSREBEL_4;Hostile forces from $ATTACKER$ have engaged us with;;;;;;;;;;;;x
+ATTACKUSREBEL_5;*;;;;;;;;;;;;x
+ATTACKUSREBEL_6;*;;;;;;;;;;;;x
+ATTACKUSREBEL_LOG;We have been attacked in $PROV$.;;;;;;;;;;;;x
+ATTACKUSREBEL_BTN1;OK;;;;;;;;;;;;x
+ATTACKUSREBEL_BTN2;OK;;;;;;;;;;;;x
+ATTACKUSREBEL_BTN3;Goto;;;;;;;;;;;;x
+ATTACKUSREBEL_MAP;Under attack!;;;;;;;;;;;;x
+ATTACKTHEMREBEL_SETUP;When one of our land units attacks the rebellion.;;;;;;;;;;;;x
+ATTACKTHEMREBEL_HEADER;Our Chief of Staff reports that;;;;;;;;;;;;x
+ATTACKTHEMREBEL_1;We have engaged the Enemy!;;;;;;;;;;;;x
+ATTACKTHEMREBEL_2;$MONARCHTITLE$, we have reports that battle has commenced in;;;;;;;;;;;;x
+ATTACKTHEMREBEL_3;$PROV$.;;;;;;;;;;;;x
+ATTACKTHEMREBEL_4;We are attacking forces of $DEFENDER$ and attempting to dislodge their defences. We have engaged with ;;;;;;;;;;;;x
+ATTACKTHEMREBEL_5;*;;;;;;;;;;;;x
+ATTACKTHEMREBEL_6;*;;;;;;;;;;;;x
+ATTACKTHEMREBEL_LOG;We have attacked the enemy in $PROV$.;;;;;;;;;;;;x
+ATTACKTHEMREBEL_BTN1;OK;;;;;;;;;;;;x
+ATTACKTHEMREBEL_BTN2;OK;;;;;;;;;;;;x
+ATTACKTHEMREBEL_BTN3;Goto;;;;;;;;;;;;x
+ATTACKTHEMREBEL_MAP;Attack Commenced;;;;;;;;;;;;x
+SIEGEUSREBEL_SETUP;When the rebellion begins to occupy our province;;;;;;;;;;;;x
+SIEGEUSREBEL_HEADER;$MESSENGER$;;;;;;;;;;;;x
+SIEGEUSREBEL_1;Our Province is beginning to be occupied;;;;;;;;;;;;x
+SIEGEUSREBEL_2;$MONARCHTITLE$,;;;;;;;;;;;;x
+SIEGEUSREBEL_3;$PROV$;;;;;;;;;;;;x
+SIEGEUSREBEL_4;is beginning to be occupied. Fear not! The forces of;;;;;;;;;;;;x
+SIEGEUSREBEL_5;$ATTACKER$;;;;;;;;;;;;x
+SIEGEUSREBEL_6;will soon be driven off by the might of our armies.;;;;;;;;;;;;x
+SIEGEUSREBEL_LOG;$PROV$ is beginning to be occupied.;;;;;;;;;;;;x
+SIEGEUSREBEL_BTN1;OK;;;;;;;;;;;;x
+SIEGEUSREBEL_BTN2;OK;;;;;;;;;;;;x
+SIEGEUSREBEL_BTN3;Goto;;;;;;;;;;;;x
+SIEGEUSREBEL_MAP;*;;;;;;;;;;;;x
+SIEGETHEMREBEL_SETUP;When we begin to occupy the province controlled by rebellion.;;;;;;;;;;;;x
+SIEGETHEMREBEL_HEADER;$MESSENGER$;;;;;;;;;;;;x
+SIEGETHEMREBEL_1;Their province is beginning to be occupied;;;;;;;;;;;;x
+SIEGETHEMREBEL_2;$MONARCHTITLE$, we have started to occupy;;;;;;;;;;;;x
+SIEGETHEMREBEL_3;$PROV$.;;;;;;;;;;;;x
+SIEGETHEMREBEL_4;It won't take long before our forces have wrenched it out of the clutches of;;;;;;;;;;;;x
+SIEGETHEMREBEL_5;$DEFENDER$.;;;;;;;;;;;;x
+SIEGETHEMREBEL_6;They will look forward to our enlightened government.;;;;;;;;;;;;x
+SIEGETHEMREBEL_LOG;We have begun to occupy $PROV$.;;;;;;;;;;;;x
+SIEGETHEMREBEL_BTN1;OK;;;;;;;;;;;;x
+SIEGETHEMREBEL_BTN2;OK;;;;;;;;;;;;x
+SIEGETHEMREBEL_BTN3;Goto;;;;;;;;;;;;x
+SIEGETHEMREBEL_MAP;*;;;;;;;;;;;;x
+REMOVE_RANDOM_ECO_REFORMS_EFFECT;Remove §R$VAL$§! economic reforms.\n;;;;;;;;;;;;x
+REMOVE_RANDOM_MIL_REFORMS_EFFECT;Remove §R$VAL$§! military reforms.\n;;;;;;;;;;;;x
+PRODUCTION_FACTORY_PURE_INCOME;Last day's pure income: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_MARKET_SPENDINGS;Market spendings: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_POP_PAYCHECKS;Workers and capitalists paychecks: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_TOTAL_BALANCE;Last day's balance: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_TODAY_PROFIT;Last day's profitability: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_PROFITABILITY;Avg. profitability (last $DAYS$ days): $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_CURRENT_BUDGET;Current factory budget: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_INVESTMENT;From investments: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_SUBSIDIES;From investments: $VALUE$;;;;;;;;;;;;x
+INFLUENCE_OVERFLOW_TOOLTIP;We are spending §Y$VALUE$§! of influence points each day, to reduce the influence of other countries.;;;;;;;;;;;;x
+TRADE_FLOW_PRODUCED;§YProduced by:§W;;;;;;;;;;;;x
+TRADE_FLOW_USED;§YUsed by:§W;;;;;;;;;;;;x
+TRADE_FLOW_MAY_BE_USED;§YMay be used for:§W;;;;;;;;;;;;x
+TRADE_FLOW_TOTAL_PRODUCED;§YTotal Produced:§W;;;;;;;;;;;;x
+TRADE_FLOW_TOTAL_USED;§YTotal Used:§W;;;;;;;;;;;;x
+TRADE_FLOW_RGO_NAME;RGOs;;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO;Our $POP$ are $ACTION$ $AMOUNT$ $RESOURCE$ each day.;;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO_ACTION_MINING;mining;;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO_ACTION_FARMING;farming;;;;;;;;;;;;x
+TRADE_FLOW_DESC_ARTISAN;Our Artisans are producing $AMOUNT$ $RESOURCE$ each day.;;;;;;;;;;;;x
+TRADE_FLOW_DESC_FACTORY;Our $FACTORY$ in $STATE$ is producing $AMOUNT$ $RESOURCE$ each day.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_ARTISAN;Artisans are using $AMOUNT$ $RESOURCE$, to produce $OUTPUT$.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_RGO;$POP$ are using $AMOUNT$ $RESOURCE$ to produce $OUTPUT$.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_FACTORY;Our $FACTORY$ in $STATE$ is using $AMOUNT$ $RESOURCE$ for an input and/or maintenance requirements.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_POPS;Our $POP$ are using $AMOUNT$ $RESOURCE$ as part of their daily needs.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_MILITARY;Our armies are using $AMOUNT$ $RESOURCE$ as a daily supply consumption.;;;;;;;;;;;;x
+TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$ may be used by our armies as a daily supply consumption.;;;;;;;;;;;;x
+TRADE_FLOW_MAY_USE_DESC;$INPUT$ may be used by $PRODUCER$ to produce $OUTPUT$.;;;;;;;;;;;;x
+TRADE_FLOW_MILITARY_SUPPLY;Military Consumption;;;;;;;;;;;;x
+TRADE_FLOW_CURRENT_PRICE;Current Price:;;;;;;;;;;;;x
+TRADE_FLOW_DETAILS;Details;;;;;;;;;;;;x
+TRADE_FLOW_PART_OF_WORLD_PROD;§Y$PERC$%§W of world production.;;;;;;;;;;;;x
+EMIGRATION_AT_PROVINCE_TOOLTIP;(§R$TOTALEMI$§!) §YEmigrations to:§!\n$EMILIST$\n(§G$TOTALIMM$§!) §YImmigrations from:§!\n$IMMLIST$;;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND1_TOOLTIP;Province belongs to: §Y$COUNTRY$§!;;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND2_TOOLTIP;No migration between countries has been noticed.;;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND3_TOOLTIP;(Select province to see details);;;;;;;;;;;;x
+PROVINCE_VIEW_BUILD_ALL_TOOLTIP;(Click + CTRL to build in all provinces in state);;;;;;;;;;;;x
+EMIGRATION_ENTRY_TOOLTIP;§R$NUM$§! to §Y$PROV$§!;;;;;;;;;;;;x
+IMMIGRATION_ENTRY_TOOLTIP;§G$NUM$§! from §Y$PROV$§!;;;;;;;;;;;;x
+CB_GENERATION_SPEED_BONUS_ON_COLONY_COMPETITION;Competing with §Y$COUNTRY$§! for colonizing §Y$REGION$§!, speed bonus §Y$BONUS$§!.;;;;;;;;;;;;x
+CB_GENERATION_BONUS_TOOLTIP;The CB generation speed bonus §Y$BONUS$§! between competing countries: §Y$COUNTRIES$§!;;;;;;;;;;;;x
+CB_GENERATION_BONUS_TROOPS_PRESENCE_TOOLTIP;(§Y$BONUS$§! for presence of opponents troops);;;;;;;;;;;;x
+CB_GENERATION_BONUS_OPPONENT_TROOPS_PRESENCE;(§Y$BONUS$§! for §Y$FOR$§! against §Y$AGAINST$§! for presence of their troops);;;;;;;;;;;;x
+MODIFIER_CB_GENERATION_SPEED_MODIFIER;Casus Belli acquisition speed;;;;;;;;;;;;x
+NOT_CONSTRUCTING_CASUS_BELLI_AGAINST;Not acquiring war justification against ;;;;;;;;;;;;x
+MODIFIER_MOBILIZATION_IMPACT;Mobilization impact;;;;;;;;;;;;x
+MOBILIZATION_IMPACT_LIMIT_DESC;Mobilization impact §Y$IMPACT$§! from §Y$POLICY$§! war policy, limits the amount of mobilized units to §Y$UNITS$§!.;;;;;;;;;;;;x
+MOBILIZATION_IMPACT_LIMIT_DESC2;(Current amount of raised regiments: §Y$CURR$§!, multiplied by §Y$IMPACT$§!);;;;;;;;;;;;x
+CONSTRUCTING_CASUS_BELLI_AGAINST;Acquiring war justification against ;;;;;;;;;;;;x
+TRIGGER_CB_CREATION_NOT_DISCOVERED;Not producing war justifications;;;;;;;;;;;;x
+TRIGGER_CB_CREATION_DISCOVERED;Are trying to produce a war justification;;;;;;;;;;;;x
+TRIGGER_CB_PROGRESS_LESS;War justification progress: §Y$PERCENTAGE$§W;;;;;;;;;;;;x
+TRIGGER_CB_PROGRESS_ATLEAST;War justification progress below: §Y$PERCENTAGE$§W;;;;;;;;;;;;x
+TRIGGER_IS_CONSTRUCTING_CB;Acquiring war justification for: §Y$TYPE$§W;;;;;;;;;;;;x
+TRIGGER_IS_NOT_CONSTRUCTING_CB;Not acquiring war justification for: §Y$TYPE$§W;;;;;;;;;;;;x
+NEED_RELATION_LESS;Relations are too high, we need to be below §Y$LIMIT$§W but are currently at §Y$VAL$§W;;;;;;;;;;;;x
+ALREADY_MAKING_CB;We are already preparing a justification for war with §Y$TARGET$§W;;;;;;;;;;;;x
+MAKE_CB_BUTTON;Justify war;;;;;;;;;;;;x
+MAKE_CB_DESC;Produce a justification for war with them;;;;;;;;;;;;x
+MAKE_CBTITLE;Justify War;;;;;;;;;;;;x
+MAPMODE_11;RGO output;;;;;;;;;;;;x
+MAPMODE_12;Population density;;;;;;;;;;;;x
+MAPMODE_13;Nationality;;;;;;;;;;;;x
+MAPMODE_14;Sphere of influence;;;;;;;;;;;;x
+MAPMODE_15;Supply limit;;;;;;;;;;;;x
+MAPMODE_16;Party loyalty;;;;;;;;;;;;x
+MAPMODE_17;Ranking;;;;;;;;;;;;x
+MAPMODE_18;Migrations;;;;;;;;;;;;x
+MAPMODE_20;Relations;;;;;;;;;;;;x
+WORLD_RANKING;World ranking:;;;;;;;;;;;;x
+WORLD_RANKING_SECONDARY_POWER;§Y$COUNTRY$§W is a Secondary Power.;;;;;;;;;;;;x
+POPULATION_DENSITY_AT_PROVINCE;Total population in §Y$PROV$§W:;;;;;;;;;;;;x
+NATIONALITY_MAJORITY_AT_PROVINCE;The national majority in §Y$PROV$§W are:;;;;;;;;;;;;x
+SPHERE_OF_INFL_GREAT_POWER;§Y$COUNTRY$§W is a Great Power.;;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_IN_SPHERE;§Y$COUNTRY1$§W is in the sphere of §Y$COUNTRY2$§W.;;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_INFL_BY;§Y$COUNTRY$§W is influenced by:;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_DESC;Loyalty towards §Y$PARTY$§W in §Y$PROV$§W will be $OPERATOR$ §Y$VALUE$§W.;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_ADD;increased by;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_REM;decreased by;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_MUL;multiplied by;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_SET;set to;;;;;;;;;;;;x
+PARTY_LOYALTY_DESC_HEADER;Party loyalty in §Y$PROV$§W:;;;;;;;;;;;;x
+PARTY_LOYALTY_DESC_NEUTRAL;Neutral;;;;;;;;;;;;x
+PARTY_POPULARITY;Party Popularity;;;;;;;;;;;;x
+PRICE_HISTORY_TIME_RANGE;Last $MONTHS$ months;;;;;;;;;;;;x
+party_loyalty_focus;Party Loyalty;;;;;;;;;;;;x
+fascist_focus;Party loyalty towards §Yfascist§! ;;;;;;;;;;;;x
+reactionary_focus;Party loyalty towards §Yreactionary§! ;;;;;;;;;;;;x
+conservative_focus;Party loyalty towards §Yconservative§! ;;;;;;;;;;;;x
+socialist_focus;Party loyalty towards §Ysocialist§! ;;;;;;;;;;;;x
+communist_focus;Party loyalty towards §Ycommunist§! ;;;;;;;;;;;;x
+liberal_focus;Party loyalty towards §Yliberal§! ;;;;;;;;;;;;x
+anarcho_liberal_focus;Party loyalty towards §Yanarcho-liberal§! ;;;;;;;;;;;;x
+NATIONAL_FOCUS_PARTY_LOYALTY_DESC;Daily loyalty change by: §Y$VAL$§W.;;;;;;;;;;;;x
+PARTY_WITH_IDEOLOGY_NOT_EXIST;There is no active party with §Y$IDEOLOGY$§W ideology.;;;;;;;;;;;;x
+NATIONAL_FOCUS_PARTY_LOYALTY_EFFECT;From national focus, daily change $VAL$ towards $PARTY$.;;;;;;;;;;;;x
+SUBSTATE_OF_NOCOLOR;Substate of;;;;;;;;;;;;x
+SUBSTATE;Substate;;;;;;;;;;;;x
+SUBSTATE_JOIN_WAR_DESC;is a substate of §Y$COUNTRY$§W and will always join it's wars.;;;;;;;;;;;;x
+IS_NOT_SUBSTATE_OF;Is NOT a substate of ;;;;;;;;;;;;x
+IS_SUBSTATE_OF;Is a substate of ;;;;;;;;;;;;x
+IS_NOT_SUBSTATE;Is NOT a substate;;;;;;;;;;;;x
+IS_SUBSTATE;Is a substate;;;;;;;;;;;;x
+ANY_SUBSTATE;Any substate of;;;;;;;;;;;;x
+acquire_substate_region;Acquire substate region;;;;;;;;;;;;x
+acquire_substate_region_desc;Acquire a region from enemy §Ysubstate§W;;;;;;;;;;;;x
+acquire_substate_region_short;Acquire $STATE$;;;;;;;;;;;;x
+acquire_substate_region_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x
+become_independent;Become Independent;;;;;;;;;;;;x
+become_independent_short;$ACTOR$ is released from $RECIPIENT$;;;;;;;;;;;;x
+become_independent_setup;$ACTOR$ is released from $RECIPIENT$ and becomes independent.;;;;;;;;;;;;x
+make_puppet;Make puppet;;;;;;;;;;;;x
+make_puppet_short;$RECIPIENT$ becomes a puppet of $ACTOR$;;;;;;;;;;;;x
+make_puppet_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;;;;;;;;;;;;x
+make_puppet_desc;Become a puppet;;;;;;;;;;;;x
+RALLY_POINT_INFO;If you enable the §Yrally point§! in this province, then all nearest units will head this way when recruiting is done.\n(See recruitment map mode for more details.);;;;;;;;;;;;x
+RALLY_POINT_ENABLE_INFO;Enable or Disable this province as a rally point.;;;;;;;;;;;;x
+RALLY_POINT_MERGE_INFO;Enable or Disable units merging at destination.\n(Armies will merge up to the local supply limit.);;;;;;;;;;;;x
+RALLY_POINT_PROVINCE_INFO;$PROV$ is a §Yrally point§!;;;;;;;;;;;;x
+RALLY_POINT_PROVINCE_MERGE_INFO;All recruited units will merge up to §Y$LIMIT$§! when arrive here.;;;;;;;;;;;;x
+CB_ALLOWED_MAKE_PUPPET;Make a Puppet;;;;;;;;;;;;x
+DIPLOMACY_NEGOTIATE_SUBSTATE;We are not allowed to negotiate with §YSubstates§W;;;;;;;;;;;;x
+DIPLOMACY_NEGOTIATE_WE_SUBSTATE;We are not allowed to negotiate with countries if we are a §YSubstate§W;;;;;;;;;;;;x
+DECL_WAR_NO_SUBSTATE;We are not allowed to declare war against §Ysubstates§W;;;;;;;;;;;;x
+DIPLO_WE_SUBSTATE;We are a substate of theirs;;;;;;;;;;;;x
+DIPLO_THEY_SUBSTATE;They are a substate of our nation;;;;;;;;;;;;x
+SELECT_CB_CREATION_TYPE;Select the type of justification we want to manufacture;;;;;;;;;;;;x
+CB_CREATION_DETAIL;Manufacture a justification for declaring war with the §Y$TYPE$§! war goal. This will take roughly §Y$DAYS$§! days.\nIf we are detected early the maximum amount of infamy we can aquire is §R$BADBOY$§!.;;;;;;;;;;;;x
+CB_MANUFACTURE_TECH;War justification efficiency;;;;;;;;;;;;x
+CB_CREATE_TECH;War justification efficiency: $VAL$;;;;;;;;;;;;x
+SUPPRESSION_TECH_DESC;Suppression efficiency: $VAL$;;;;;;;;;;;;x
+CB_CREATION_TIME_DAYS;It will take roughly §Y$DAYS$§! days to justify this war;;;;;;;;;;;;x
+CB_NOT_ON_PUPPETS;We can't justify war against §Ypuppets§W and §Ysubstates§W.;;;;;;;;;;;;x
+CB_NOT_ON_SPHERES;We can't justify war against a country that is in our sphere.;;;;;;;;;;;;x
+NO_WAR_JUSTIFICATION;We are missing a valid justification for declaring war on them.;;;;;;;;;;;;x
+NOT_HOSTILE_BUILD;Not Hostile;;;;;;;;;;;;x
+ACW_NAME;分かれたる家;;;;;;;;;;;;x
+ACW_DESC;Civil war rages in North America as the Conferate States attempt to secede from the Union. The outcome is uncertain, but already this promises to be a new type of war as both sides have access to railroads, telegraphs, and repeating rifles. Meanwhile, in Europe, Great Britain is experimenting with the first iron-hulled steam-driven warship, a combination which promises to revolutionise the war at sea. World wide the industrial revolution is gathering speed as more and more nations start to industrialise. The times they are a-changing.;;;;;;;;;;;;x
+EVTNAME90000;The $CB_TARGET_NAME_ADJ$ menace;;;;;;;;;;;;x
+EVTDESC90000;As everyone knows, $CB_TARGET_NAME$ is out to get us. It's only a matter of time before they launch an unprovoked attack, so it is only reasonable that we take steps to pre-emptively defend ourselves. As luck would have it, a report detailing their nefarious schemes has recently been “leaked” to the press, and the public have rallied to our cause.;;;;;;;;;;;;x
+EVTOPTA90000;They're coming right for us!;;;;;;;;;;;;x
+EVTNAME90001;Mission to $CB_TARGET_NAME$;;;;;;;;;;;;x
+EVTDESC90001;In a rather embarrassing blunder, several of our soldiers in the uniform of $CB_TARGET_NAME$ have been caught while trying to sneak across the border. While the rumours that their task was to stage a border incident to justify our invasion are totally unfounded, it would be wise not to provide any fresh fuel for the fire right now.;;;;;;;;;;;;x
+EVTOPTA90001;What are you talking about?;;;;;;;;;;;;x
+EVTNAME90002;The tyrany of $CB_TARGET_NAME$;;;;;;;;;;;;x
+EVTDESC90002;For too long people have suffered under the malign influence of $CB_TARGET_NAME$. For the good of all involved we must reveal the evidence of $CB_TARGET_NAME$'s mismanagement to the world and bring their Sphere members under our wing for their own good.;;;;;;;;;;;;x
+EVTOPTA90002;We will save them!;;;;;;;;;;;;x
+EVTNAME90003;The tyrany of $CB_TARGET_NAME$;;;;;;;;;;;;x
+EVTDESC90003;Despite having very much non-made-up proof that $CB_TARGET_NAME$ are up to no good there seems to be no public or international support for rescuing the poor lesser nations from their sphere of influence.;;;;;;;;;;;;x
+EVTOPTA90003;Fools!;;;;;;;;;;;;x
+EVTNAME90004;Protecting the $CB_TARGET_NAME_ADJ$;;;;;;;;;;;;x
+EVTDESC90004;Without the protection of a Great Power such as ourselves anything could happen to $CB_TARGET_NAME$. In order to protect them they must be added to our Sphere of Influence, despite any short-term objections they might have. After all, if they any sense they would be Great powers too.;;;;;;;;;;;;x
+EVTOPTA90004;We're here to help you.;;;;;;;;;;;;x
+EVTNAME90005;The $CB_TARGET_NAME_ADJ$ Fiasco;;;;;;;;;;;;x
+EVTDESC90005;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity. Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;;;;;;;;;x
+EVTOPTA90005;Good call.;;;;;;;;;;;;x
+EVTNAME90006;An end to $CB_TARGET_NAME_ADJ$ Imperialism;;;;;;;;;;;;x
+EVTDESC90006;Why should $CB_TARGET_NAME$ get all the prime colonial land? It's downright unfair, that's what it is! They probably aren't even properly exploit- educating the native population! Something must be done, we deserve our place in the sun!;;;;;;;;;;;;x
+EVTOPTA90006;Good call.;;;;;;;;;;;;x
+EVTNAME90007;Colonial Setback;;;;;;;;;;;;x
+EVTDESC90007;Despite the modest nature of our just demands, there seems to be no international support for re-adjusting the colonial balance between ourselves and $CB_TARGET_NAME$. While this is a setback, we have no doubt that one day we will possess and empire that the sun never sets on.;;;;;;;;;;;;x
+EVTOPTA90007;Good call.;;;;;;;;;;;;x
+EVTNAME90008;Its time to act!;;;;;;;;;;;;x
+EVTDESC90008;$CB_TARGET_NAME$ is getting too big for their boots, as all can agree. For too long they have been strutting around the world stage, thinking they can do as they will. Thankfully, at last the rest of the world agrees, and our population is solidly behind us: $CB_TARGET_NAME$ must be taken down a peg or two.;;;;;;;;;;;;x
+EVTOPTA90008;Good call.;;;;;;;;;;;;x
+EVTNAME90009;Misguided fools!;;;;;;;;;;;;x
+EVTDESC90009;While the hubris of $CB_TARGET_NAME$ is evident to us, apparently others fail to see it. Their so-called “sovereignty” apparently allows them to have their own army and to do as they will without deferring to us. It has even been implied that we are the arrogant ones!;;;;;;;;;;;;x
+EVTOPTA90009;Good call.;;;;;;;;;;;;x
+VOTER_ISSUES;Voter Issues;;;;;;;;;;;;x
+OL_VIEW_NATFOCUS;Toggles §YNational Focus§W view;;;;;;;;;;;;x
+OL_VIEW_NATFOCUS_HEADER;National Focus;;;;;;;;;;;;x
+OL_VIEW_NATFOCUS_TOOLTIP;National Focus (§Y$FOCUS$§!) in §Y$STATE$§!;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS;Toggles §YRally Points§W view;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_HEADER;Rally Points;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_TOOLTIP;All nearby recruited units will head towards §Y$PROV$§!;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_MERGE_TOOLTIP; and will try to merge up to §Y$LIMIT$§! when arrive here.;;;;;;;;;;;;x
+OL_VIEW_MERGE_ON;§G(Merge ON)§!;;;;;;;;;;;;x
+OL_VIEW_MERGE_OFF;§Y(Merge OFF)§!;;;;;;;;;;;;x
+OUR_CB_DETECTED_SETUP;When our war justification process is detected;;;;;;;;;;;;x
+OUR_CB_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;x
+OUR_CB_DETECTED_1;War Justification;;;;;;;;;;;;x
+OUR_CB_DETECTED_2;Our attempt to justify war using;;;;;;;;;;;;x
+OUR_CB_DETECTED_3;§Y$CASUS$§! Casus Belli;;;;;;;;;;;;x
+OUR_CB_DETECTED_4;against;;;;;;;;;;;;x
+OUR_CB_DETECTED_5;$TARGET$;;;;;;;;;;;;x
+OUR_CB_DETECTED_6;was detected! This costs us §R$BADBOY$§! infamy;;;;;;;;;;;;x
+OUR_CB_DETECTED_LOG;Our war justification process against $TARGET$ was detected.;;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN1;OK;;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN2;OK;;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN3;Goto;;;;;;;;;;;;x
+OUR_CB_DETECTED_MAP;*;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_SETUP;A war justification process against us is detected;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_1;War Justification;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_2;An attempt to justify war using;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_3;§Y$CASUS$§! Casus Belli;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_4;against us by;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_5;$COUNTRY$;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_6;was detected!;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_LOG;A war justification process against us by $COUNTRY$ was detected;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN1;OK;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN2;OK;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN3;Goto;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_MAP;*;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_SETUP;A war justification process against someone is detected;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_1;War Justification;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_2;An attempt to justify war using;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_3;§Y$CASUS$§! Casus Belli;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_4;against $TARGET$ by;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_5;$COUNTRY$;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_6;was detected!;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_LOG;A war justification process against $TARGET$ by $COUNTRY$ was detected;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN1;OK;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN2;OK;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN3;Goto;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_MAP;*;;;;;;;;;;;;x
+CB_gen_plus;CB generation speed increased;;;;;;;;;;;;x
+CB_gen_minus;CB generation speed decreased;;;;;;;;;;;;x
+CB_gen_plus_desc;Justifying wars can be done faster;;;;;;;;;;;;x
+CB_gen_minus_desc;Justifying wars now takes longer;;;;;;;;;;;;x
+BUILDING_AT_MAX_TERRAIN;Level $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);;;;;;;;;;;;x
+PRODUCTION_INVEST;Foreign Investment;;;;;;;;;;;;x
+PRODUCTION_TAB_INVEST;Shows overview of investment in foreign countries;;;;;;;;;;;;x
+FLAG_SUBMENU_INTERESTING;Set country as interesting.;;;;;;;;;;;;x
+FLAG_SUBMENU_NOTINTERESTING;Set country as §Ynot§! interesting.;;;;;;;;;;;;x
+MESSAGE_TYPE_INTERESTING;Interesting;;;;;;;;;;;;x
+MESSAGE_TYPE_NOT_INTERESTING;Other;;;;;;;;;;;;x
+MESSAGE_SEARCH;Search:;;;;;;;;;;;;x
+MESSAGE_BUTTON_SEARCH;Search;;;;;;;;;;;;x
+MESSAGE_BUTTON_CLEAR;Clear;;;;;;;;;;;;x
+MESSAGE_SEARCH_TOOLTIP;Enter key words separated by §Yspace§! to filter the list.;;;;;;;;;;;;x
+SIDEMENU_menubar_msg_settings;Click to open message filter settings.;;;;;;;;;;;;x
+RULE_BUILD_FACTORY_INVEST;Build foreign factory;;;;;;;;;;;;x
+RULE_EXPAND_FACTORY_INVEST;Expand foreign factory;;;;;;;;;;;;x
+RULE_OPEN_FACTORY_INVEST;Open foreign factory;;;;;;;;;;;;x
+RULE_BUILD_RAILWAY_INVEST;Investors can build foreign railways;;;;;;;;;;;;x
+RULE_CAN_INVEST_IN_POP_PROJECTS;Invest in pop projects;;;;;;;;;;;;x
+RULE_POP_BUILD_FACTORY_INVEST;Investors can build foreign factory;;;;;;;;;;;;x
+RULE_POP_EXPAND_FACTORY_INVEST;Investors can expand foreign factory;;;;;;;;;;;;x
+RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign factory;;;;;;;;;;;;x
+PRODUCTION_OUR_INVEST;Our investment: $AMOUNT$¤ ($PERCENTAGE$%);;;;;;;;;;;;x
+MSG_FILTER_HEADER;Messages filter settings;;;;;;;;;;;;x
+MSG_FILTER_TITLE;We are interested in:;;;;;;;;;;;;x
+MSG_FILTER_DESELECT;Deselect All;;;;;;;;;;;;x
+MSG_FILTER_BEST_GUESS;Best Guess;;;;;;;;;;;;x
+MSG_FILTER_ENEMIES;Enemies;;;;;;;;;;;;x
+MSG_FILTER_ALLIES;Allies;;;;;;;;;;;;x
+MSG_FILTER_NEIGHBOURS;Neighbors;;;;;;;;;;;;x
+MSG_FILTER_SPHERE;Sphere;;;;;;;;;;;;x
+PRODUCTION_BROWSE_INVEST;Other;;;;;;;;;;;;x
+DIPLOMACY_OPINION_INVESTMENT;§Y$GP_ADJ$§W investment: §Y$VALUE$§!¤;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_HEADER;In message filter settings window, you can select countries that you are interested in. All the messages and alerts will be shown only for those important countries.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_DELAYED;§YLeft click§! replaces current selection.\n§YRight click§! adds to current selection.\n§YLeft click + SHIFT§! toggles filter.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_DESELECT;Deselect all countries from the list.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_BESTGUESS;Select countries by using best guess method.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_ENEMIES;Select countries that are your enemies.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_ALLIES;Select countries that are your allies.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_NEIGHBOURS;Select countries that are your neighbors.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_SPHERE;Select countries that are in your sphere. (if you are a great power);;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_CONTINENT;Select countries that owns any province on the continent.;;;;;;;;;;;;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;We don't have the right to do that in a foreign country;;;;;;;;;;;;x
+INVESTMENT_PENALTY_FACTOR;Other national investors;;;;;;;;;;;;x
+SPHERE_SHARE_NOT_IN_SPHERE;Not in a sphere so free to sell on the world market;;;;;;;;;;;;x
+SPHERE_SHARE_UNCIV;Uncivilized nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market;;;;;;;;;;;;x
+SPHERE_SHARE_2NDRANK;Second rank nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market (Base: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;;x
+SPHERE_SHARE_CIV;Civilized nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market (Base: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;;x
+RULE_ALLOW_FOREIGN_INVESTMENT;Allow foreign investment;;;;;;;;;;;;x
+POLITICS_DECISIONS_TAB;Decisions;;;;;;;;;;;;x
+POLITICS_MOVEMENTS_TAB;Movements;;;;;;;;;;;;x
+EVTNAME90100;Longing for a Free Press;;;;;;;;;;;;x
+EVTNAME90102;Longing for Public Meetings;;;;;;;;;;;;x
+EVTNAME90104;Longing for Trade Unions;;;;;;;;;;;;x
+EVTDESC90100;The People long for a Free Press, and as our neighbours adopt this reform it makes their longing all the stronger.;;;;;;;;;;;;x
+EVTOPTA90100;Perhaps we can work something out;;;;;;;;;;;;x
+EVTOPTB90100;Never!;;;;;;;;;;;;x
+EVTDESC90102;The People long for the right to Public Meetings, and as our neighbours adopt this reform it makes their longing all the stronger. ;;;;;;;;;;;;x
+EVTDESC90104;The People long for Trade Unions, and as our neighbours adopt this reform it makes their longing all the stronger. ;;;;;;;;;;;;x
+EVTNAME90101;Broken promises;;;;;;;;;;;;x
+EVTDESC90101;Despite our promise to reform the press, nothing has changed and the people are somewhat upset.;;;;;;;;;;;;x
+EVTOPTA90101;How depressing;;;;;;;;;;;;x
+EVTDESC90103;Despite our promise to allow public meetings, nothing has changed and the people are somewhat upset.;;;;;;;;;;;;x
+EVTOPTA90103;I hate crowds;;;;;;;;;;;;x
+EVTDESC90105;Despite our promise to allow trade unions, nothing has changed and the people are somewhat upset.;;;;;;;;;;;;x
+EVTOPTA90105;Better dead than red!;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_BASE;Base: §R$VAL$§%§!;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_ACCUMULATED;Suppression: §R$VAL$§%§!;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_GRANTED_REFORMS;Granted reforms: §G$VAL$§%§!;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_CULTURE;$CULTURE$: $VAL$;;;;;;;;;;;;x
+ALREADY_SUPPRESSED;Movement is not radical and can't be suppressed;;;;;;;;;;;;x
+EVTNAME90900;The Middle Kingdom;;;;;;;;;;;;x
+EVTDESC90900;We are now sufficently advanced for the European barbarians to regard us as "Civilised", and so they must respect our right to centralise and reject foreign influence throughout China.;;;;;;;;;;;;x
+EVTOPTA90900;We are united again;;;;;;;;;;;;x
+EVTDESC90901;The Qing's new status has lead them to demand we submit to their authority, accepting will mean an end to our independant existence.;;;;;;;;;;;;x
+EVTOPTA90901;We are united again;;;;;;;;;;;;x
+EVTOPTA90910;Wagons West!;;;;;;;;;;;;x
+SUPPRESSION_POINTS;Suppression points;;;;;;;;;;;;x
+school_reforms;School system;;;;;;;;;;;;x
+no_schools;No School system;;;;;;;;;;;;x
+low_schools;Basic School system;;;;;;;;;;;;x
+acceptable_schools;Acceptable School system;;;;;;;;;;;;x
+good_schools;Good School system;;;;;;;;;;;;x
+no_schools_l;No School system;;;;;;;;;;;;x
+low_schools_l;Basic School system;;;;;;;;;;;;x
+acceptable_schools_l;Acceptable School system;;;;;;;;;;;;x
+good_schools_l;Good School system;;;;;;;;;;;;x
+no_schools_desc;No public Schools.;;;;;;;;;;;;x
+low_schools_desc;Public Schools are uncommon.;;;;;;;;;;;;x
+acceptable_schools_desc;Public Schools are common.;;;;;;;;;;;;x
+good_schools_desc;There are really a lot of Public Schools.;;;;;;;;;;;;x
+NATIONALIST_UNION_MOVEMENT;$COUNTRY_ADJ$ Unification Movement;;;;;;;;;;;;x
+NATIONALIST_LIBERATION_MOVEMENT;$COUNTRY$ Liberation Movement;;;;;;;;;;;;x
+SUPRESSION_MONTHLY_GAIN;Monthly gain: §G$VAL$§!;;;;;;;;;;;;x
+MODIFIER_EDUCATION_EFFICIENCY;Education efficiency;;;;;;;;;;;;x
+MODIFIER_SUPPRESSION_POINT_GAIN;Suppression point gain;;;;;;;;;;;;x
+NOT_SOCIAL_MOVEMENT_STRENGTH_TR;Social movement strength is lower than §Y$VAL$§W.\n;;;;;;;;;;;;x
+SOCIAL_MOVEMENT_STRENGTH_TR;Social movement strength is higher than §Y$VAL$§W.\n;;;;;;;;;;;;x
+NOT_POLITICAL_MOVEMENT_STRENGTH_TR;Political movement strength is lower than §Y$VAL$§W.\n;;;;;;;;;;;;x
+POLITICAL_MOVEMENT_STRENGTH_TR;Political movement strength is higher than §Y$VAL$§W.\n;;;;;;;;;;;;x
+SUPPRESS;Suppress;;;;;;;;;;;;x
+SUPPRESSION_DESC;Suppress this movement. This will cost $VAL$ points and make the movement likely to be more radical (§R+$HIT$§!) in the future.;;;;;;;;;;;;x
+CANT_SUPPRESS_DESC;We need more points to be able to suppress this movement. We have §R$VAL$§! suppression points and it requires §Y$NEED$§!.;;;;;;;;;;;;x
+REFORM_MOVEMENT_DESC;Movement calling for the enactment of §Y$REFORM$§!;;;;;;;;;;;;x
+NATIONALIST_UNION_MOVEMENT_DESC;Movement calling for the forming of §Y$COUNTRY$§!;;;;;;;;;;;;x
+NATIONALIST_LIBERATION_MOVEMENT_DESC;Movement calling for the liberation of §Y$COUNTRY$§!;;;;;;;;;;;;x
+SUPPRESSION_LABEL_DESC;Suppression points measure your governments power to suppress popular movements;;;;;;;;;;;;x
+MOVEMENT_REFORM_SUPPORT;There is a popular movement of size $VAL$ lobbying for the enactment of this reform.;;;;;;;;;;;;x
+movement_no_slavery;Abolitionist Movement;;;;;;;;;;;;x
+movement_yes_slavery;Pro-Enslavement League;;;;;;;;;;;;x
+movement_landed_voting;Suffrage Movement;;;;;;;;;;;;x
+movement_wealth_weighted_voting;Suffrage Movement;;;;;;;;;;;;x
+movement_wealth_voting;Suffrage Movement;;;;;;;;;;;;x
+movement_universal_weighted_voting;Suffrage Movement;;;;;;;;;;;;x
+movement_universal_voting;Suffrage Movement;;;;;;;;;;;;x
+movement_party_appointed;Campaign for Political Representation;;;;;;;;;;;;x
+movement_appointed;Campaign for Political Representation;;;;;;;;;;;;x
+movement_state_equal_weight;Campaign for Political Representation;;;;;;;;;;;;x
+movement_population_equal_weight;Campaign for Political Representation;;;;;;;;;;;;x
+movement_first_past_the_post;Campaign for Political Representation;;;;;;;;;;;;x
+movement_jefferson_method;Campaign for Political Representation;;;;;;;;;;;;x
+movement_proportional_representation;Campaign for Political Representation;;;;;;;;;;;;x
+movement_no_meeting;Campaign for the abolishment of Public Meetings;;;;;;;;;;;;x
+movement_yes_meeting;Campaign for Public Meetings;;;;;;;;;;;;x
+movement_censored_press;Campaign for Censored Press;;;;;;;;;;;;x
+movement_free_press;Campaign for Free Press;;;;;;;;;;;;x
+movement_state_controlled;Campaign for State Controlled Unions;;;;;;;;;;;;x
+movement_non_socialist;Campaign for Non-Socialist Unions ;;;;;;;;;;;;x
+movement_all_trade_unions;Campaign for Free Trade unions;;;;;;;;;;;;x
+movement_harassment;Voters Rights Movement;;;;;;;;;;;;x
+movement_gerrymandering;Voters Rights Movement;;;;;;;;;;;;x
+movement_non_secret_ballots;Voters Rights Movement;;;;;;;;;;;;x
+movement_secret_ballots;Voters Rights Movement;;;;;;;;;;;;x
+movement_trinket_wage;Minimum Wage Movement;;;;;;;;;;;;x
+movement_low_minimum_wage;Minimum Wage Movement;;;;;;;;;;;;x
+movement_acceptable_minimum_wage;Minimum Wage Movement;;;;;;;;;;;;x
+movement_good_minimum_wage;Minimum Wage Movement;;;;;;;;;;;;x
+movement_fourteen_hours;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_twelve_hours;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_ten_hours;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_eight_hours;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_trinket_safety;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_low_safety;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_acceptable_safety;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_good_safety;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_trinket_subsidies;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_low_subsidies;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_acceptable_subsidies;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_good_subsidies;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_trinket_pensions;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_low_pensions;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_acceptable_pensions;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_good_pensions;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_trinket_health_care;Universal Health Care Movement;;;;;;;;;;;;x
+movement_low_health_care;Universal Health Care Movement;;;;;;;;;;;;x
+movement_acceptable_health_care;Universal Health Care Movement;;;;;;;;;;;;x
+movement_good_health_care;Universal Health Care Movement;;;;;;;;;;;;x
+movement_low_schools;Common School Movement;;;;;;;;;;;;x
+movement_acceptable_schools;Common School Movement;;;;;;;;;;;;x
+movement_good_schools;Common School Movement;;;;;;;;;;;;x
+POLITICS_MOVEMENTS;Movements;;;;;;;;;;;;x
+POLITICS_ECONOMIC_REFORMS;Economic Reforms;;;;;;;;;;;;x
+POLITICS_MILITARY_REFORMS;Military Reforms;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$War of Northern Aggression;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$War of the Rebellion;;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST$ intervention in $SECOND_COUNTRY$;;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$Pastry War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Opium War;;;;;;;;;;;;x
+NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Opium War;;;;;;;;;;;;x
+NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;;;;;;;;;;;x
+NORMAL_WAR_BOXER_NAME;$ORDER$Boxer Rebellion;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ War of Honor;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Franco-Prussian War;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Franco-Prussian War;;;;;;;;;;;;x
+CAN_INVEST_IN_RAILROADS;Allowed to invest in railroads;;;;;;;;;;;;x
+land_reform;Land reform;;;;;;;;;;;;x
+land_reform_l;Land reform;;;;;;;;;;;;x
+no_land_reform;No land reform;;;;;;;;;;;;x
+yes_land_reform;Land reform;;;;;;;;;;;;x
+no_land_reform_desc;No land reform;;;;;;;;;;;;x
+yes_land_reform_desc;Redistribution of land rights resulting in more effective farming and mining;;;;;;;;;;;;x
+admin_reform;Administrative reform;;;;;;;;;;;;x
+admin_reform_l;Administrative reform;;;;;;;;;;;;x
+no_admin_reform;No Administrative reform;;;;;;;;;;;;x
+yes_admin_reform;Administrative reform;;;;;;;;;;;;x
+no_admin_reform_desc;No administrative reform;;;;;;;;;;;;x
+yes_admin_reform_desc;Our administration is now modern and efficient;;;;;;;;;;;;x
+finance_reform;Finance reform;;;;;;;;;;;;x
+finance_reform_l;Finance reform;;;;;;;;;;;;x
+no_finance_reform;No finance reform;;;;;;;;;;;;x
+yes_finance_reform;Enact Financial reform;;;;;;;;;;;;x
+finance_reform_two;International debt;;;;;;;;;;;;x
+no_finance_reform_desc;No finance;;;;;;;;;;;;x
+yes_finance_reform_desc;Finance reform;;;;;;;;;;;;x
+finance_reform_two_desc;We can now borrow money from other nations;;;;;;;;;;;;x
+education_reform;Education reform;;;;;;;;;;;;x
+education_reform_l;Education reform;;;;;;;;;;;;x
+no_education_reform;No education reform;;;;;;;;;;;;x
+yes_education_reform;Reformed system;;;;;;;;;;;;x
+no_education_reform_desc;No Education reform;;;;;;;;;;;;x
+yes_education_reform_desc;Basic organized education in our country;;;;;;;;;;;;x
+transport_improv;Transportation system;;;;;;;;;;;;x
+transport_improv_l;Transportation system;;;;;;;;;;;;x
+no_transport_improv;Not improved;;;;;;;;;;;;x
+yes_transport_improv;Improved;;;;;;;;;;;;x
+no_transport_improv_desc;Transportation system is primitive;;;;;;;;;;;;x
+yes_transport_improv_desc;Transportation system is modern;;;;;;;;;;;;x
+pre_indust;Early Industrialisation;;;;;;;;;;;;x
+pre_indust_l;Early Industrialisation;;;;;;;;;;;;x
+no_pre_indust;Stick to the old ways;;;;;;;;;;;;x
+yes_pre_indust;Industrial progress;;;;;;;;;;;;x
+no_pre_indust_desc;We have no need of industry;;;;;;;;;;;;x
+yes_pre_indust_desc;Construct some basic factories with the help of foreign advisors. Could this be the beginning of an industrial revolution?;;;;;;;;;;;;x
+industrial_construction;Industrial Construction;;;;;;;;;;;;x
+industrial_construction_l;Industrial Construction;;;;;;;;;;;;x
+no_industrial_construction;No Industrial Construction;;;;;;;;;;;;x
+yes_industrial_construction;Industrial Construction;;;;;;;;;;;;x
+no_industrial_construction_desc;No advanced factories;;;;;;;;;;;;x
+yes_industrial_construction_desc;Foreign advisors assist us in building more advanced factories;;;;;;;;;;;;x
+foreign_training;Training methods;;;;;;;;;;;;x
+foreign_training_l;Training methods;;;;;;;;;;;;x
+no_foreign_training;Local training methods;;;;;;;;;;;;x
+yes_foreign_training;Foreign training methods;;;;;;;;;;;;x
+no_foreign_training_desc;Troops are trained in the traditional manner;;;;;;;;;;;;x
+yes_foreign_training_desc;Troops trained by foreign military advisors or techniques;;;;;;;;;;;;x
+foreign_weapons;Foreign weapons;;;;;;;;;;;;x
+foreign_weapons_l;Foreign weapons;;;;;;;;;;;;x
+no_foreign_weapons;Local weapons;;;;;;;;;;;;x
+yes_foreign_weapons;Imported weapons;;;;;;;;;;;;x
+no_foreign_weapons_desc;Traditional weapons;;;;;;;;;;;;x
+yes_foreign_weapons_desc;This is my BOOMSTICK!;;;;;;;;;;;;x
+military_constructions;Military constructions;;;;;;;;;;;;x
+military_constructions_l;Military constructions;;;;;;;;;;;;x
+no_military_constructions;Simple constructions;;;;;;;;;;;;x
+yes_military_constructions;Advanced constructions;;;;;;;;;;;;x
+no_military_constructions_desc;No fortification;;;;;;;;;;;;x
+yes_military_constructions_desc;Effective fortifications;;;;;;;;;;;;x
+foreign_officers;Officer training;;;;;;;;;;;;x
+foreign_officers_l;Officer training;;;;;;;;;;;;x
+no_foreign_officers;Local officer training;;;;;;;;;;;;x
+yes_foreign_officers;Foreign officer training;;;;;;;;;;;;x
+no_foreign_officers_desc;Local officers lead our troops;;;;;;;;;;;;x
+yes_foreign_officers_desc;Our troops are now the finest in the world;;;;;;;;;;;;x
+army_schools;Army Training;;;;;;;;;;;;x
+army_schools_l;Army Training;;;;;;;;;;;;x
+no_army_schools;Ad hoc;;;;;;;;;;;;x
+yes_army_schools;Army schools;;;;;;;;;;;;x
+no_army_schools_desc;We learn on the field of battle;;;;;;;;;;;;x
+yes_army_schools_desc;Officers are well trained before leading men into battle;;;;;;;;;;;;x
+foreign_naval_officers;Naval officers;;;;;;;;;;;;x
+foreign_naval_officers_l;Naval officers;;;;;;;;;;;;x
+no_foreign_naval_officers;Local naval officers;;;;;;;;;;;;x
+yes_foreign_naval_officers;Foreign naval officers;;;;;;;;;;;;x
+no_foreign_naval_officers_desc;Local officers command our ships;;;;;;;;;;;;x
+yes_foreign_naval_officers_desc;Foreign officers advise our captains;;;;;;;;;;;;x
+naval_schools;Naval training;;;;;;;;;;;;x
+naval_schools_l;Naval training;;;;;;;;;;;;x
+no_naval_schools;Ad hoc;;;;;;;;;;;;x
+yes_naval_schools;Navy schools;;;;;;;;;;;;x
+no_naval_schools_desc;Learn by doing;;;;;;;;;;;;x
+yes_naval_schools_desc;Learn the theory first;;;;;;;;;;;;x
+foreign_navies;Foreign naval units;;;;;;;;;;;;x
+foreign_navies_l;Foreign naval units;;;;;;;;;;;;x
+no_foreign_navies;Locally produced ships;;;;;;;;;;;;x
+yes_foreign_navies;Imported ships;;;;;;;;;;;;x
+no_foreign_navies_desc;Locally manufactured ships;;;;;;;;;;;;x
+yes_foreign_navies_desc;We have imported strong ships designs from the west;;;;;;;;;;;;x
+cut_down_to_size_boxer;Put down Boxer Rebellion;;;;;;;;;;;;x
+cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;;;;;;;;;;;;x
+NUMBER_OF_REBELS_READY;§YRebel brigades ready to join in a rising§!;;;;;;;;;;;;x
+NUMBER_OF_REBELS_ACTIVE;§YRebel brigades active in revolt§!;;;;;;;;;;;;x
+TECH_YEAR_MODIFIER;Cost modifier from years known: $VAL$;;;;;;;;;;;;x
+ECONOMICREFORM_SETUP;When enacting an economic reform;;;;;;;;;;;;x
+ECONOMICREFORM_HEADER;Political News in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_1;Economic Reforms in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_2;$MONARCHTITLE$, we have now enacted;;;;;;;;;;;;x
+ECONOMICREFORM_3;$ISSUE$;;;;;;;;;;;;x
+ECONOMICREFORM_4;in;;;;;;;;;;;;x
+ECONOMICREFORM_5;$CATEGORY$;;;;;;;;;;;;x
+ECONOMICREFORM_6;*;;;;;;;;;;;;x
+ECONOMICREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$.;;;;;;;;;;;;x
+ECONOMICREFORM_BTN1;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BTN2;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BTN3;Goto;;;;;;;;;;;;x
+ECONOMICREFORM_MAP;*;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_SETUP;When removing an economic reform;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_HEADER;Political News in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_1;Economic Reforms Revoked in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_3;$CATEGORY$;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_4;from $OLD$ to $ISSUE$.;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_5;*;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_6;*;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN1;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN2;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN3;Goto;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_MAP;*;;;;;;;;;;;;x
+MILITARYREFORM_SETUP;When enacting a military reform;;;;;;;;;;;;x
+MILITARYREFORM_HEADER;Political News in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_1;Military Reforms in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_2;$MONARCHTITLE$, we have now enacted;;;;;;;;;;;;x
+MILITARYREFORM_3;$ISSUE$;;;;;;;;;;;;x
+MILITARYREFORM_4;in;;;;;;;;;;;;x
+MILITARYREFORM_5;$CATEGORY$;;;;;;;;;;;;x
+MILITARYREFORM_6;*;;;;;;;;;;;;x
+MILITARYREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$.;;;;;;;;;;;;x
+MILITARYREFORM_BTN1;OK;;;;;;;;;;;;x
+MILITARYREFORM_BTN2;OK;;;;;;;;;;;;x
+MILITARYREFORM_BTN3;Goto;;;;;;;;;;;;x
+MILITARYREFORM_MAP;*;;;;;;;;;;;;x
+MILITARYREFORM_BAD_SETUP;When removing a military reform;;;;;;;;;;;;x
+MILITARYREFORM_BAD_HEADER;Political News in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_BAD_1;Military Reforms Revoked in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;;;;;;;;;;;;x
+MILITARYREFORM_BAD_3;$CATEGORY$;;;;;;;;;;;;x
+MILITARYREFORM_BAD_4;from $OLD$ to $ISSUE$.;;;;;;;;;;;;x
+MILITARYREFORM_BAD_5;*;;;;;;;;;;;;x
+MILITARYREFORM_BAD_6;*;;;;;;;;;;;;x
+MILITARYREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN1;OK;;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN2;OK;;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN3;Goto;;;;;;;;;;;;x
+MILITARYREFORM_BAD_MAP;*;;;;;;;;;;;;x
+MODIFIER_CIVILIZATION_PROGRESS;Civilization Progress;;;;;;;;;;;;x
+SUPPRESSION_TECH;Suppression efficiency;;;;;;;;;;;;x
+REFORM_RESEARCH_COST;Research Cost: §Y$COST$§!;;;;;;;;;;;;x
+POLITICS_CIVILIZE;Westernize;;;;;;;;;;;;x
+CIVILIZE_DESC;Fully embrace western ideas. This will give us access to the technological advances of our sphere leader;;;;;;;;;;;;x
+CIVILIZE_NO_MASTER_DESC;Fully embrace western ideas. This will gives us access to the technological advances from around the world;;;;;;;;;;;;x
+INFLUENCE_RELATION;Relations;;;;;;;;;;;;x
+NO_CIV_PROGRESS;We have made no progress towards westernization. We need to enact military or economic reforms;;;;;;;;;;;;x
+RESEARCH_POINTS_LABEL;Research Points:;;;;;;;;;;;;x
+MODIFIER_UNCIV_ECONOMIC;Economic reform cost;;;;;;;;;;;;x
+MODIFIER_UNCIV_MILITARY;Military reform cost;;;;;;;;;;;;x
+MODIFIER_SELF_UNCIV_ECONOMIC;Economic reform cost;;;;;;;;;;;;x
+MODIFIER_SELF_UNCIV_MILITARY;Military reform cost;;;;;;;;;;;;x
+MODIFIER_LAND_UNIT_START_EXPERIENCE;Land Starting Experience;;;;;;;;;;;;x
+MODIFIER_NAVAL_UNIT_START_EXPERIENCE;Naval Starting Experience;;;;;;;;;;;;x
+MODIFIER_ADMINISTRATIVE_EFFICIENCY;Administrative Efficiency;;;;;;;;;;;;x
+ARMY_TECHNOLOGY_LEVELS;Army Tech: $VAL$/$MAX$;;;;;;;;;;;;x
+NAVY_TECHNOLOGY_LEVELS;Naval Tech: $VAL$/$MAX$;;;;;;;;;;;;x
+MODIFIER_TARIFF_EFFICIENCY;Tariff Efficiency;;;;;;;;;;;;x
+MODIFIER_MAX_LOAN_AMOUNT;Max loan amount;;;;;;;;;;;;x
+PROD_YOUR_CURRENT_BUDGET;Your current budget:;;;;;;;;;;;;x
+PROD_YOUR_INVESTMENT;Your investment:;;;;;;;;;;;;x
+MODIFIER_LAND_ATTACK;Land unit attack;;;;;;;;;;;;x
+MODIFIER_NAVAL_ATTACK;Naval unit attack;;;;;;;;;;;;x
+MODIFIER_LAND_DEFENSE;Land unit defense;;;;;;;;;;;;x
+MODIFIER_NAVAL_DEFENSE;Naval unit defense;;;;;;;;;;;;x
+free_press_promised;Free press promised;;;;;;;;;;;;x
+yes_meeting_promised;Right to public meetings promised;;;;;;;;;;;;x
+trade_unions_promised;Trade unions promised;;;;;;;;;;;;x
+free_press_promised_desc;We have told the people they will have a Free press, they will expect us to make good our word soon;;;;;;;;;;;;x
+yes_meeting_promised_desc;We have told the people they will have the right to Public meetings, they will expect us to make good our word soon;;;;;;;;;;;;x
+trade_unions_promised_desc;We have told the people they will have Trade unions, they will expect us to make good our word soon;;;;;;;;;;;;x
+recent_safari;Recent safari;;;;;;;;;;;;x
+recent_safari2;Too many safaris;;;;;;;;;;;;x
+recent_safari_desc;We have had a safari recently;;;;;;;;;;;;x
+recent_safari2_desc;Altogether too many safaris have been had recently;;;;;;;;;;;;x
+unciv_reactionary_rebels_title;Reactionary;;;;;;;;;;;;x
+unciv_reactionary_rebels_name;$COUNTRY$ Reactionaries;;;;;;;;;;;;x
+unciv_reactionary_rebels_desc;Reactionary rebels long to live in the traditional manner of their ancestors and reject all notion of copying the mannerisms of Europeans.;;;;;;;;;;;;x
+unciv_reactionary_rebels_army;$COUNTRY_ADJ$ Army;;;;;;;;;;;;x
+SET_ECONOMIC_REFORM_EFFECT;Economic reform selected: §Y$NAME$§W.\n;;;;;;;;;;;;x
+SET_MILITARY_REFORM_EFFECT;Military reform selected: §Y$NAME$§W.\n;;;;;;;;;;;;x
+NATIONALIZE_INDUSTRY_EFFECT;Perform Nationalization;;;;;;;;;;;;x
+DIPLOMACY_ALMOST_WESTERN_NATION_STATUS;Partially Westernized Nation;;;;;;;;;;;;x
+DIPLOMACY_PRIMITIVENATION_STATUS;Primitive Nation;;;;;;;;;;;;x
+UNCIV_CANT_RESEARCH;Westernize to be able to research;;;;;;;;;;;;x
+TB_NATIONALFOCUS_CULTURE;§Y$NUM$§W people of primary/accepted cultures give us §Y$FOCUS$§W focus points;;;;;;;;;;;;x
+meiji_restoration_boost;Meiji reformation.;;;;;;;;;;;;x
+meiji_restoration_boost_desc;Progress in the name of the Emperor!;;;;;;;;;;;;x
+OTHER_PORT;This is a naval base that we do not have access to;;;;;;;;;;;;x
+MODIFIER_UNCIV_ECONOMIC_UH;Upper house support;;;;;;;;;;;;x
+MODIFIER_UNCIV_MILITARY_UH;Upper house support;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_ADJUST;§Y$MOVEMENT$§! Radicalism: $AMOUNT$;;;;;;;;;;;;x
+MILITARY_REFORM_COST_DESC;Cost modifier for military reforms: ;;;;;;;;;;;;x
+ECONOMIC_REFORM_COST_DESC;Cost modifier for economic reforms: ;;;;;;;;;;;;x
+MAPMODE_19;Civilization Level;;;;;;;;;;;;x
+CHI_absolute_monarchy;中華帝国;;;;;;;;;;;;x
+EVTOPTB23212;Keep looking at the sky!;;;;;;;;;;;;x
+LOSE_CIVILIZED_EFFECT;We shall be known as an §YUncivilized Nation§W\n;;;;;;;;;;;;x
+french_growth_nerf;French Population decline:;;;;;;;;;;;;x
+french_growth_nerf_desc;Our growth rate is slowed:;;;;;;;;;;;;x
+EVTNAME37226;Population decline;;;;;;;;;;;;x
+EVTDESC37226;After a very long period of being the most populous nation in Europe, France had an extremely low birth rate for most of the 19th and 20th centuries for reasons still not understood. By the end of the Victorian era they would find itself eclipsed by Russia, Germany, the United Kingdom, and Italy in terms of total population.;;;;;;;;;;;;x
+EVTOPTA37226;This is quite a blow!;;;;;;;;;;;;x
+nationalize_title;Seize the means of production!;;;;;;;;;;;;x
+nationalize_desc;No more will the foreign dogs grow fat off of the sweat of our people! The time has come to seize all assets owned by outsiders, to be cared for by the state.;;;;;;;;;;;;x
+EVTNAME90950;Assets seized! ;;;;;;;;;;;;x
+EVTDESC90950;The ungrateful government of $FROMCOUNTRY$ has sized our investments and claimed them as their own!;;;;;;;;;;;;x
+EVTOPTA90950;This shall not stand! ;;;;;;;;;;;;x
+EVTOPTB90950;Let them be;;;;;;;;;;;;x
+MOVEMENT_RADICALISM;Movement Radicalism;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_DESC;This describes how much the people of the movement trust the political process in your country to get them what they want. A movement with a high value (§Y100§!) will convert to a rebel uprising if not suppressed;;;;;;;;;;;;x
+NUMBER_MOVEMENT_SUPPORTERS;Number of supporters;;;;;;;;;;;;x
+NUMBER_MOVEMENT_SUPPORTERS_DESC;The larger the movement the harder it is to suppress. If you enact a reform with less support all movements with more support will become more radical;;;;;;;;;;;;x
+PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;Can not close foreign factory\n;;;;;;;;;;;;x
+CAN_NATIONALIZE;Have foreign investors;;;;;;;;;;;;x
+IS_NOT_IN_A_SPHERE;Not in a sphere of influence;;;;;;;;;;;;x
+ACTIVATE_TECH_EFFECT;Activate technology: §Y$NAME$§!;;;;;;;;;;;;x
+TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;High level technology is only available to civilized nations. By westernizing in the §Ypolitics tab§! you can aquire base technology and start researching on your own instead.;;;;;;;;;;;;x
+RELATION_BETWEEN;Current relation between $COUNTRY1$ and $COUNTRY2$: $RELATION$;;;;;;;;;;;;x
+ADD_RELATIVE_INCOME_EFFECT;Treasury: $VALUE$¤;;;;;;;;;;;;x
+CORRUPTION_LESS_THAN;Corruption less than ;;;;;;;;;;;;x
+CORRUPTION_MORE_THAN;Corruption more than ;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_FROM_SIZE;Population support: $VAL$ ;;;;;;;;;;;;x
+dar_al_funun;The Dar al funun.;;;;;;;;;;;;x
+dar_al_funun_desc;The first modern university in Persia.;;;;;;;;;;;;x
+BOL_2305;Atacama;;;;;;;;;;;;x
+BOL_2314;Potosi;;;;;;;;;;;;x
+serfdom_not_abolished;Serfdom not abolished:;;;;;;;;;;;;x
+XIN;新疆;;;;;;;;;;;;x
+YNN;雲南;;;;;;;;;;;;x
+GXI;広西;;;;;;;;;;;;x
+MCK;Manchuria;;;;;;;;;;;;x
+LEADERSHIP;Leadership;;;;;;;;;;;;x
+XBI;Qinghai;;;;;;;;;;;;x
+EVTNAME23213;狂気山脈;;;;;;;;;;;;x
+EVTDESC23213;Our expedition to the South Pole has awoken something horrible. In the ruins of a vast alien city they discovered things unidentifiable as either plants or animals. Things that ruled the Earth in the ancient past. Things that are returning and are filled with unspeakable hungers.;;;;;;;;;;;;x
+EVTOPTA23213;Well this isn't good...;;;;;;;;;;;;x

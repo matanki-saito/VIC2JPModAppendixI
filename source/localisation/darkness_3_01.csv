@@ -150,8 +150,8 @@ TICKING_WARSCORE_FULFILL_TERRITORY_WG;§GFulfilled when occupying at least $MIN$
 TICKING_WARSCORE_FULFILL_TERRITORY_ANY;§GFulfilled when occupying at least $MIN$% provinces belonging to the targeted nation.§!;;;;;;;;;;;;x
 TICKING_WARSCORE_FULFILL_BATTLE;§GFulfilled when we have a greater war score from battles, once at least §G$BAT$§! have been fought.§!;;;;;;;;;;;;x
 CREATE_PROTECTORATE;Create Protectorate;;;;;;;;;;;;x
-JAN;Jan Mayen;;;;;;;;;;;;x
-JAN_ADJ;Jan Mayen;;;;;;;;;;;;x
+JAN;ヤン・マイエン;;;;;;;;;;;;x
+JAN_ADJ;ヤン・マイエン;;;;;;;;;;;;x
 JAN_liberal;Venstre;;;;;;;;;;;;x
 JAN_conservative;Høyre;;;;;;;;;;;;x
 JAN_socialist;Arbeiderparti;;;;;;;;;;;;x
@@ -174,17 +174,17 @@ COLONIAL_INVESTMENT;Currently invested: §R$VALUE$§!;;;;;;;;;;;;x
 COLONIAL_MAINTENANCE;Power tied up in maintenance: §R$VALUE$§!;;;;;;;;;;;;x
 AVAILABLE_COLONIAL_POWER;Available: §Y$VALUE$§!;;;;;;;;;;;;x
 PW_PROTECTORATE;Protectorate;;;;;;;;;;;;x
-D01;The Kingdom of $REGION$;;;;;;;;;;;;x
+D01;$REGION$王国;;;;;;;;;;;;x
 D01_ADJ;Kingsmen;;;;;;;;;;;;x
 D02;The Confederation of $REGION$;;;;;;;;;;;;x
 D02_ADJ;Confederate;;;;;;;;;;;;x
 D03;Commonwealth of $REGION$;;;;;;;;;;;;x
 D03_ADJ;Commonwealth;;;;;;;;;;;;x
-D04;The Republic of $REGION$;;;;;;;;;;;;x
+D04;$REGION$共和国;;;;;;;;;;;;x
 D04_ADJ;Republican;;;;;;;;;;;;x
 D05;The $REGION$ State;;;;;;;;;;;;x
 D05_ADJ;Stateite;;;;;;;;;;;;x
-D06;The People's Republic of $REGION$;;;;;;;;;;;;x
+D06;$REGION$人民共和国;;;;;;;;;;;;x
 D06_ADJ;Republican;;;;;;;;;;;;x
 D07;The Free State of $REGION$;;;;;;;;;;;;x
 D07_ADJ;Freestator;;;;;;;;;;;;x
@@ -194,7 +194,7 @@ D09;The State of $REGION$;;;;;;;;;;;;x
 D09_ADJ;Stateite;;;;;;;;;;;;x
 D10;The Principality of $REGION$;;;;;;;;;;;;x
 D10_ADJ;Princely;;;;;;;;;;;;x
-D11;The Democratic Republic of $REGION$;;;;;;;;;;;;x
+D11;$REGION$民主共和国;;;;;;;;;;;;x
 D11_ADJ;Depublican;;;;;;;;;;;;x
 D12;The $REGION$ Union;;;;;;;;;;;;x
 D12_ADJ;Unionite;;;;;;;;;;;;x
@@ -202,13 +202,13 @@ D13;The $REGION$ Kingdom;;;;;;;;;;;;x
 D13_ADJ;Kingsmen;;;;;;;;;;;;x
 D14;The Dominion of $REGION$;;;;;;;;;;;;x
 D14_ADJ;Dominion;;;;;;;;;;;;x
-D15;The Grand Duchy of $REGION$;;;;;;;;;;;;x
+D15;$REGION$大公国;;;;;;;;;;;;x
 D15_ADJ;Grandee;;;;;;;;;;;;x
 D16;The $REGION$ Nation;;;;;;;;;;;;x
 D16_ADJ;National;;;;;;;;;;;;x
 D17;The $REGION$ Federation;;;;;;;;;;;;x
 D17_ADJ;Federation;;;;;;;;;;;;x
-D18;The United States of $REGION$;;;;;;;;;;;;x
+D18;$REGION$合衆国;;;;;;;;;;;;x
 D18_ADJ;Union;;;;;;;;;;;;x
 D19;The Democratic Union of $REGION$;;;;;;;;;;;;x
 D19_ADJ;Union;;;;;;;;;;;;x
@@ -216,7 +216,7 @@ D20;The Princedom of $REGION$;;;;;;;;;;;;x
 D20_ADJ;Princely;;;;;;;;;;;;x
 D21;The Union of $REGION$;;;;;;;;;;;;x
 D21_ADJ;Unionite;;;;;;;;;;;;x
-D22;The People's Democratic Republic of $REGION$;;;;;;;;;;;;x
+D22;$REGION$人民民主共和国;;;;;;;;;;;;x
 D22_ADJ;PDR;;;;;;;;;;;;x
 D23;The $REGION$ Area;;;;;;;;;;;;x
 D23_ADJ;Areon;;;;;;;;;;;;x
@@ -256,7 +256,7 @@ D40;The Secret Kingdom of $REGION$;;;;;;;;;;;;x
 D40_ADJ;Secret;;;;;;;;;;;;x
 D41;The Commune of $REGION$;;;;;;;;;;;;x
 D41_ADJ;Communist;;;;;;;;;;;;x
-D42;The $REGION$ Commune;;;;;;;;;;;;x
+D42;$REGION$・コミューン;;;;;;;;;;;;x
 D42_ADJ;Communist;;;;;;;;;;;;x
 D43;The Worker's Union of $REGION$;;;;;;;;;;;;x
 D43_ADJ;Worker;;;;;;;;;;;;x
@@ -274,12 +274,12 @@ D49;The High Kingdom of $REGION$;;;;;;;;;;;;x
 D49_ADJ;Highest;;;;;;;;;;;;x
 D50;The Lesser Duchy of $REGION$;;;;;;;;;;;;x
 D50_ADJ;Duchy;;;;;;;;;;;;x
-dominion_conservative;The Conservative Party;;;;;;;;;;;;x
+dominion_conservative;保守党;;;;;;;;;;;;x
 dominion_reactionary;The Old Guard;;;;;;;;;;;;x
-dominion_liberal;The Liberal Party;;;;;;;;;;;;x
+dominion_liberal;自由党;;;;;;;;;;;;x
 dominion_anarcho_liberal;The Freedom Party;;;;;;;;;;;;x
-dominion_socialist;The Socialist Party;;;;;;;;;;;;x
-dominion_communist;The Communist Party;;;;;;;;;;;;x
+dominion_socialist;社会党;;;;;;;;;;;;x
+dominion_communist;共産党;;;;;;;;;;;;x
 dominion_fascist;The Imperial Party;;;;;;;;;;;;x
 PW_UPGRADE_TO_COLONY;Click to convert to upgrade to colony. You need §Y$VALUE$§! colonial power points free to do this.;;;;;;;;;;;;x
 PW_CANT_UPGRADE_TO_COLONY;Upgrading to colony cost §R$VALUE$§! colonial power points.;;;;;;;;;;;;x

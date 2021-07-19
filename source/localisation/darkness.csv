@@ -345,7 +345,7 @@ EVTNAME160502;Anti-Manchu feeling;;;;;;;;;;;;x
 EVTDESC160502;Emperor, our officials have detected growing levels of discontent and even hostility towards our Dynasty. This feeling is enflamed by the humiliating presence of the foreign devils in our cities and harbors. How shall we respond?;;;;;;;;;;;;x
 EVTOPTA160502;A show of force should deal with this.;;;;;;;;;;;;x
 EVTOPTB160502;Do not waste my time with this nonsense!;;;;;;;;;;;;x
-EVTNAME90902;The Breakup of China;;;;;;;;;;;;x
+EVTNAME90902;中国の崩壊;;;;;;;;;;;;x
 EVTDESC90902;China has fractured.;;;;;;;;;;;;x
 EVTOPTA90902;Freedom!;;;;;;;;;;;;x
 EVTNAME90040;セポイの反乱;;;;;;;;;;;;x
@@ -360,7 +360,7 @@ CRISIS_ALREADY_TAKEN_SIDE;Already taken side;;;;;;;;;;;;x
 CRISIS_OFFERTITLE;Make Offer;;;;;;;;;;;;x
 CRISIS_OFFER_OFFER;$ACTOR$ offer §Y$WARGOAL$§! to join their side in the current crisis.;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_SETUP;When we accept joining a side of a crisis;;;;;;;;;;;;x
-CRISIS_OFFER_WE_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CRISIS_OFFER_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_2;We have joined $ACTOR$ in the current crisis with the following offer:;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_3;$WARGOAL$;;;;;;;;;;;;x
@@ -369,10 +369,10 @@ CRISIS_OFFER_WE_ACCEPT_5;*;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_6;*;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CRISIS_OFFER_WE_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+CRISIS_OFFER_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 CRISIS_OFFER_WE_ACCEPT_LOG;We joined the current crisis;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_SETUP;When someone accepts joining our side in a crisis;;;;;;;;;;;;x
-CRISIS_OFFER_THEY_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CRISIS_OFFER_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_2;We have joined $RECIPIENT$ in the current crisis with the following offer:;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_3;$WARGOAL$;;;;;;;;;;;;x
@@ -381,10 +381,10 @@ CRISIS_OFFER_THEY_ACCEPT_5;*;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_6;*;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CRISIS_OFFER_THEY_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+CRISIS_OFFER_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_ACCEPT_LOG;$RECIPIENT$ joined us in the current crisis.;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_SETUP;When someone joins the side of a crisis;;;;;;;;;;;;x
-CRISIS_OFFER_OTHER_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CRISIS_OFFER_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_2;Trouble is brewing;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_3;It seems that $RECIPIENT$;;;;;;;;;;;;x
@@ -393,10 +393,10 @@ CRISIS_OFFER_OTHER_ACCEPT_5;on the side of $ACTOR$;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_6;*;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CRISIS_OFFER_OTHER_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+CRISIS_OFFER_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_ACCEPT_LOG;$RECIPIENT$ joined in the current crisis.;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_SETUP;When we decline to join a side in a crisis;;;;;;;;;;;;x
-CRISIS_OFFER_WE_DECLINE_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CRISIS_OFFER_WE_DECLINE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_1;$MONARCHTITLE$;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_2;We have declined to join $ACTOR$ in the current crisis;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_3;*;;;;;;;;;;;;x
@@ -405,10 +405,10 @@ CRISIS_OFFER_WE_DECLINE_5;*;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_6;*;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_BTN1;OK;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_BTN2;OK;;;;;;;;;;;;x
-CRISIS_OFFER_WE_DECLINE_BTN3;Go to;;;;;;;;;;;;x
+CRISIS_OFFER_WE_DECLINE_BTN3;移動;;;;;;;;;;;;x
 CRISIS_OFFER_WE_DECLINE_LOG;We declined to join the current crisis;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_SETUP;When someone declines to join our side in a crisis;;;;;;;;;;;;x
-CRISIS_OFFER_THEY_DECLINE_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CRISIS_OFFER_THEY_DECLINE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_1;$MONARCHTITLE$;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_2;$RECIPIENT$ declined to join talks over the current crisis.;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_3;*;;;;;;;;;;;;x
@@ -417,10 +417,10 @@ CRISIS_OFFER_THEY_DECLINE_5;*;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_6;*;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_BTN1;OK;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_BTN2;OK;;;;;;;;;;;;x
-CRISIS_OFFER_THEY_DECLINE_BTN3;Go to;;;;;;;;;;;;x
+CRISIS_OFFER_THEY_DECLINE_BTN3;移動;;;;;;;;;;;;x
 CRISIS_OFFER_THEY_DECLINE_LOG;$RECIPIENT$ declined to join the current crisis.;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_SETUP;When someone declines the side of a crisis;;;;;;;;;;;;x
-CRISIS_OFFER_OTHER_DECLINE_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CRISIS_OFFER_OTHER_DECLINE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_1;$MONARCHTITLE$;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_2;Things don't seem to be escalating yet.;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_3;It seems that $RECIPIENT$;;;;;;;;;;;;x
@@ -429,12 +429,12 @@ CRISIS_OFFER_OTHER_DECLINE_5;on the side of $ACTOR$;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_6;*;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_BTN1;OK;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_BTN2;OK;;;;;;;;;;;;x
-CRISIS_OFFER_OTHER_DECLINE_BTN3;Go to;;;;;;;;;;;;x
+CRISIS_OFFER_OTHER_DECLINE_BTN3;移動;;;;;;;;;;;;x
 CRISIS_OFFER_OTHER_DECLINE_LOG;$RECIPIENT$ declined to join the current crisis.;;;;;;;;;;;;x
 BACK_CRISISTITLE;Back country in crisis;;;;;;;;;;;;x
 BACK_CRISIS_OFFER;$ACTOR$ ask us to back their side in the current crisis.;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_SETUP;When we accept backing a side of a crisis;;;;;;;;;;;;x
-BACK_CRISIS_WE_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+BACK_CRISIS_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_2;We have decided to back $ACTOR$ in the current crisis.;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_3;*;;;;;;;;;;;;x
@@ -443,10 +443,10 @@ BACK_CRISIS_WE_ACCEPT_5;*;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_6;*;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-BACK_CRISIS_WE_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+BACK_CRISIS_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 BACK_CRISIS_WE_ACCEPT_LOG;We backed a side in the current crisis;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_SETUP;When someone accepts backing our side in a crisis;;;;;;;;;;;;x
-BACK_CRISIS_THEY_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+BACK_CRISIS_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_2;$RECIPIENT$ has decided to back us in the current crisis.;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_3;*;;;;;;;;;;;;x
@@ -455,10 +455,10 @@ BACK_CRISIS_THEY_ACCEPT_5;*;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_6;*;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-BACK_CRISIS_THEY_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+BACK_CRISIS_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 BACK_CRISIS_THEY_ACCEPT_LOG;$RECIPIENT$ backed us in the current crisis.;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_SETUP;When someone backs the other side of a crisis;;;;;;;;;;;;x
-BACK_CRISIS_OTHER_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+BACK_CRISIS_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_2;Trouble is brewing;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_3;It seems that $RECIPIENT$;;;;;;;;;;;;x
@@ -467,10 +467,10 @@ BACK_CRISIS_OTHER_ACCEPT_5;*;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_6;*;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-BACK_CRISIS_OTHER_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+BACK_CRISIS_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_ACCEPT_LOG;$RECIPIENT$ joined in the current crisis.;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_SETUP;When we decline backing a side of a crisis;;;;;;;;;;;;x
-BACK_CRISIS_WE_DECLINE_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+BACK_CRISIS_WE_DECLINE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_1;$MONARCHTITLE$;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_2;We have declined to back $ACTOR$ in the current crisis;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_3;*;;;;;;;;;;;;x
@@ -479,10 +479,10 @@ BACK_CRISIS_WE_DECLINE_5;*;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_6;*;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_BTN1;OK;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_BTN2;OK;;;;;;;;;;;;x
-BACK_CRISIS_WE_DECLINE_BTN3;Go to;;;;;;;;;;;;x
+BACK_CRISIS_WE_DECLINE_BTN3;移動;;;;;;;;;;;;x
 BACK_CRISIS_WE_DECLINE_LOG;We declined to join the current crisis;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_SETUP;When someone declines backing our side in a crisis;;;;;;;;;;;;x
-BACK_CRISIS_THEY_DECLINE_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+BACK_CRISIS_THEY_DECLINE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_1;$MONARCHTITLE$;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_2;$RECIPIENT$ declined to back us in the current crisis.;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_3;*;;;;;;;;;;;;x
@@ -491,10 +491,10 @@ BACK_CRISIS_THEY_DECLINE_5;*;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_6;*;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_BTN1;OK;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_BTN2;OK;;;;;;;;;;;;x
-BACK_CRISIS_THEY_DECLINE_BTN3;Go to;;;;;;;;;;;;x
+BACK_CRISIS_THEY_DECLINE_BTN3;移動;;;;;;;;;;;;x
 BACK_CRISIS_THEY_DECLINE_LOG;$RECIPIENT$ declined to back $ACTOR$ in the current crisis.;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_SETUP;When someone declines the side of a crisis;;;;;;;;;;;;x
-BACK_CRISIS_OTHER_DECLINE_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+BACK_CRISIS_OTHER_DECLINE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_1;$MONARCHTITLE$;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_2;Things don't seem to be escalating yet.;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_3;It seems that $RECIPIENT$;;;;;;;;;;;;x
@@ -503,7 +503,7 @@ BACK_CRISIS_OTHER_DECLINE_5;*;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_6;*;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_BTN1;OK;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_BTN2;OK;;;;;;;;;;;;x
-BACK_CRISIS_OTHER_DECLINE_BTN3;Go to;;;;;;;;;;;;x
+BACK_CRISIS_OTHER_DECLINE_BTN3;移動;;;;;;;;;;;;x
 BACK_CRISIS_OTHER_DECLINE_LOG;$RECIPIENT$ declined to back $ACTOR$ in the current crisis.;;;;;;;;;;;;x
 CRISIS_PROGRESS_DESC;When this meter reaches maxiumum the time for diplomacy is over and the crisis will become a war.;;;;;;;;;;;;x
 CRISIS_WAITING_DESC;At least one side of the crisis is waiting for a Great Power to support them.;;;;;;;;;;;;x
@@ -529,7 +529,7 @@ CRISIS_BACK_DOWN_WE_ACCEPT_6;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_ACCEPT_LOG;We accepted the offer to resolve the crisis from $ACTOR$.;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_ACCEPT_BTN1;Fine!;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_ACCEPT_BTN2;Fine!;;;;;;;;;;;;x
-CRISIS_BACK_DOWN_WE_ACCEPT_BTN3;Goto;;;;;;;;;;;;x
+CRISIS_BACK_DOWN_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_ACCEPT_MAP;Peace!;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_SETUP;When a nation accepts your offer of solving a crisis;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -542,7 +542,7 @@ CRISIS_BACK_DOWN_THEY_ACCEPT_6;Terms: $TERMS$;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_LOG;$RECIPIENT$ accepted our peace offer.;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_BTN1;Fine!;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_BTN2;Fine!;;;;;;;;;;;;x
-CRISIS_BACK_DOWN_THEY_ACCEPT_BTN3;Goto;;;;;;;;;;;;x
+CRISIS_BACK_DOWN_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_MAP;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_ACCEPT_SETUP;When a nation accepts an offer of solving a crisis;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_ACCEPT_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -555,7 +555,7 @@ CRISIS_BACK_DOWN_OTHER_ACCEPT_6;Terms: $TERMS$;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_ACCEPT_LOG;$RECIPIENT$ accepted the crisis offer from $ACTOR$.;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_ACCEPT_BTN1;Fine!;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_ACCEPT_BTN2;Fine!;;;;;;;;;;;;x
-CRISIS_BACK_DOWN_OTHER_ACCEPT_BTN3;Goto;;;;;;;;;;;;x
+CRISIS_BACK_DOWN_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_ACCEPT_MAP;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_SETUP;When we decline a offer to resolve a crisis;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -568,7 +568,7 @@ CRISIS_BACK_DOWN_WE_DECLINE_6;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_LOG;We declined the crisis suggestion offer from $ACTOR$.;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_BTN1;Fine!;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_BTN2;Fine!;;;;;;;;;;;;x
-CRISIS_BACK_DOWN_WE_DECLINE_BTN3;Goto;;;;;;;;;;;;x
+CRISIS_BACK_DOWN_WE_DECLINE_BTN3;移動;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_MAP;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_DECLINE_SETUP;When a nation declines your offer to resolve a crisis;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_DECLINE_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -581,7 +581,7 @@ CRISIS_BACK_DOWN_THEY_DECLINE_6;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_DECLINE_LOG;$RECIPIENT$ rejected our crisis solution offer.;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_DECLINE_BTN1;Fine!;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_DECLINE_BTN2;Fine!;;;;;;;;;;;;x
-CRISIS_BACK_DOWN_THEY_DECLINE_BTN3;Goto;;;;;;;;;;;;x
+CRISIS_BACK_DOWN_THEY_DECLINE_BTN3;移動;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_THEY_DECLINE_MAP;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_SETUP;When another nation rejects a crisis offer;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -594,7 +594,7 @@ CRISIS_BACK_DOWN_OTHER_DECLINE_6;*;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_LOG;$RECIPIENT$ rejected the offer of a crisis solution from $ACTOR$.;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_BTN1;Fine!;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_BTN2;Fine!;;;;;;;;;;;;x
-CRISIS_BACK_DOWN_OTHER_DECLINE_BTN3;Goto;;;;;;;;;;;;x
+CRISIS_BACK_DOWN_OTHER_DECLINE_BTN3;移動;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_MAP;;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_DI;Crisis solution offer;;;;;;;;;;;;x
 CRISIS_OFFER_DI;Offer of joining a side of a crisis;;;;;;;;;;;;x

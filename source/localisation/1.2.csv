@@ -122,7 +122,7 @@ ENG_absolute_monarchy;イギリス帝国;;;;;;;;;;;;x
 ENG_prussian_constitutionalism;イギリス帝国;;;;;;;;;;;;x
 GER_absolute_monarchy;ドイツ帝国;;;;;;;;;;;;x
 GER_prussian_constitutionalism;ドイツ帝国;;;;;;;;;;;;x
-the_vega_expedition_title;The Vega Expedition;;;;;;;;;;;;x
+the_vega_expedition_title;ヴェガ号の航海;;;;;;;;;;;;x
 the_vega_expedition_desc;in 1878-80 Adolf Erik Nordenskiöld, with financial support from King Oscar II, became the first person to successfully circumnavigate the whole of the Eurasian landmass with his Vega Expedition. While the existence of the Northeast Passage had been confirmed since at least the middle of the century, Nordenskiöld was the first to actually navigate the passage, and his return to Stockholm in 1880 was widely celebrated.;;;;;;;;;;;;x
 ENG_2068;ザンベジ;;;;;;;;;;;;x
 rhodesia_charter_title;イギリス南アフリカ会社;;;;;;;;;;;;x
@@ -135,9 +135,9 @@ kaiser_wilhelms_land_desc;Named after the German Emperor, 'Kaiser-Wilhelms-Land'
 megali_idea_title;メガリ・イデア;;;;;;;;;;;;x
 megali_idea_desc;The 'Megali Idea', the Great Idea, was an irredentist conception of a Greater Greek state encompassing all ethnic Greeks, including in particular the substantial Greek minorities living on the Western Coast of Asia Minor. The concept was a driving force between much of Greece's interactions with the fading Ottoman state during the 19th century, and the goals of the Great Idea came very close to a realization in the Treaty of Sèvres, signed at the end of World War One. The vast land gains that the Treaty of Sèvres accorded to Greece were however largely undone by the following Greco-Turkish war of 1919-21. Big is beautiful!;;;;;;;;;;;;x
 DIFFICULTY_LABEL;Difficulty;;;;;;;;;;;;x
-expand_motala_verkstad_title;Motala Verkstad;;;;;;;;;;;;x
+expand_motala_verkstad_title;モータラ工場;;;;;;;;;;;;x
 expand_motala_verkstad_desc;Motala Verkstad' (Motala work- or machineshop) was founded in 1822 by Baltazar von Platen during the building of the Göta Canal. During the foremanship of Otto Edvard Carlsund, from 1843 to 1870, Motala Verkstad became one of Sweden's most internationally renowned manufacturies. The Workshop is mentioned in Jules Verne's novel '20.000 Leagues under the Sea' as having produced parts for the novel's fictional 'Nautilus' submarine.;;;;;;;;;;;;x
-motala_verkstad;Motala Verkstad;;;;;;;;;;;;x
+motala_verkstad;モータラ工場;;;;;;;;;;;;x
 desc_motala_verkstad;Founded in 1822 by Baltazar von Platen during the building of the Göta Canal, Motala Verkstad is one of Sweden's most renowned machine shops.;;;;;;;;;;;;x
 court_yard_speech_title;Borggårdstalet!;;;;;;;;;;;;x
 court_yard_speech_desc;The 'Courtyard Crisis' (Swedish: Borggårdskrisen) was a constitutional crisis in Sweden provoked by the reckless cuts in the defense budget promoted by the Liberal government of, then prime minister, Karl Staaf. On the 6th of February 1914 King Gustav V addressed -- with a rousing speech in favor of increased defense spendings -- a crowd of some 30.000 farmers who from every corner of the country had marched to Stockholm in support of King, Country and the Armed Forces. It was to be the last time that a Swedish Monarch interfered directly against the sacred principles of plebeian rule.;;;;;;;;;;;;x
@@ -175,7 +175,7 @@ the_lambert_charter_desc;The Lambert Charter was a document used by France to ju
 end_the_merina_monarchy_title;End The Merina Monarchy;;;;;;;;;;;;x
 end_the_merina_monarchy_desc;Following a local uprising in 1897 France, who had long held Madagascar in its sphere of influence, formally deposed the Royal House and annexed the Island.;;;;;;;;;;;;x
 REVOLTALLIANCE_SETUP;When a nation breaks their alliances with us due to revolution.;;;;;;;;;;;;x
-REVOLTALLIANCE_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+REVOLTALLIANCE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 REVOLTALLIANCE_1;Foreign Revolution!;;;;;;;;;;;;x
 REVOLTALLIANCE_2;$MONARCHTITLE$ the nation of;;;;;;;;;;;;x
 REVOLTALLIANCE_3;§Y$ACTOR$§W;;;;;;;;;;;;x
@@ -184,7 +184,7 @@ REVOLTALLIANCE_5;All our alliances with them are broken and our influences with 
 REVOLTALLIANCE_6;*;;;;;;;;;;;;x
 REVOLTALLIANCE_BTN1;OK;;;;;;;;;;;;x
 REVOLTALLIANCE_BTN2;OK;;;;;;;;;;;;x
-REVOLTALLIANCE_BTN3;Go to;;;;;;;;;;;;x
+REVOLTALLIANCE_BTN3;移動;;;;;;;;;;;;x
 RHO;南ローデシア;;;;;;;;;;;;x
 RHO_proletarian_dictatorship;ジンバブエ;;;;;;;;;;;;x
 RHO_absolute_monarchy;南ローデシア;;;;;;;;;;;;x
@@ -235,20 +235,20 @@ ENG_2083;Namaqualand;;;;;;;;;;;;x
 ENG_2096;Eastern Cape;;;;;;;;;;;;x
 ENG_2087;Cape Colony;;;;;;;;;;;;x
 BEL_1992;Equateur;;;;;;;;;;;;x
-FRA_1978;Congo;;;;;;;;;;;;x
-CNG;Congo;;;;;;;;;;;;x
-CNG_absolute_monarchy;Congo Free State;;;;;;;;;;;;x
-CNG_presidential_dictatorship;Zaire;;;;;;;;;;;;x
-CNG_hms_government;Congo;;;;;;;;;;;;x
-CNG_democracy;Zaire;;;;;;;;;;;;x
-CNG_ADJ;Congolese;;;;;;;;;;;;x
+FRA_1978;コンゴ;;;;;;;;;;;;x
+CNG;コンゴ;;;;;;;;;;;;x
+CNG_absolute_monarchy;コンゴ自由国;;;;;;;;;;;;x
+CNG_presidential_dictatorship;ザイール;;;;;;;;;;;;x
+CNG_hms_government;コンゴ;;;;;;;;;;;;x
+CNG_democracy;ザイール;;;;;;;;;;;;x
+CNG_ADJ;コンゴ;;;;;;;;;;;;x
 the_congo_conference_title;Host The Congo Conference;;;;;;;;;;;;x
 the_congo_conference_desc;The Congo Conference, also known as the 'Berlin Conference', was an international conference held in 1884 at the initiative of German Chancellor Otto Graf von Bismarck. The immediate consequences of the 'General Act' adopted at the conference was a formalization of the rules of engagement for colonial expansion in Africa, and the confirmation of The Congo Free State as the personal property of King Leopold II of Belgium. What will be the outcome this time around? Host The Congo Conference, and let the dice be cast! We should be ready to send invitations to other countries within a few months of enacting this decision.;;;;;;;;;;;;x
-EVTNAME19330;The $CAPITAL$ Conference;;;;;;;;;;;;x
+EVTNAME19330;$CAPITAL$会議;;;;;;;;;;;;x
 EVTDESC19330;I do not want to miss a good chance of getting us a slice of this magnificent African cake.'\n- Leopold II of Belgium\n\nPreparations for a major international conference on Colonial policies in Africa have been underway in $COUNTRY$ for some time, and today the $MONARCHTITLE$ is ready to send out invitations to the other civilized nations and concerned parties of the world. The main issue on the table is a definitive settling of The Congo Question. One delegate nation will be given the exclusive right to control and exploit colonial Congo. Secondary Powers, Nations without a colonial empire and Powers already laying claims to areas in the Congo will receive preferential consideration in the negotiations.;;;;;;;;;;;;x
 EVTOPTA19330;Excellent, send the invitations!;;;;;;;;;;;;x
 EVTOPTB19330;I think it would be best if nothing came of this...;;;;;;;;;;;;x
-EVTNAME19335;The Congo Conference;;;;;;;;;;;;x
+EVTNAME19335;コンゴ会議;;;;;;;;;;;;x
 EVTDESC19335;$MONARCHTITLE$, $FROMCOUNTRY$ is hosting a major international conference on policies and practices for the further colonization of Africa. The main issue at the conference will be a settling of The Congo Question, and the likely outcome of this conference is that the whole of the Congo will be recognized as a possession of one of the delegate nations. Most every civilized nation of any standing in the world will be sending a delegation to the conference, but sending a delegation could be more costly than the potential gains merit.;;;;;;;;;;;;x
 EVTOPTA19335;I do not want to miss a good chance of getting us a slice of this magnificent African cake!;;;;;;;;;;;;x
 EVTOPTB19335;I do not feel that such an unimportant affair merits our attention.;;;;;;;;;;;;x
@@ -274,12 +274,12 @@ EVTNAME19345;Rubber From The Congo!;;;;;;;;;;;;x
 EVTDESC19345;The soil of the Congo basin is rich, fertile, and perfectly suited for the growing of natural rubber. Sadly, much of this wild but verdant land lies dormant, unexplored and unused, in the smothering grip of barbarism and backwardness. Powerful economic interests within $COUNTRY$ wish nothing more than to be given the opportunity to develop and exploit the natural wealth of the dark cornucopia that is The Congo Free State, and, besides, not doing so might give the natives dangerous ideas. What say you, your Majesty?;;;;;;;;;;;;x
 EVTOPTA19345;I am sure the natives could lend a hand!;;;;;;;;;;;;x
 EVTOPTB19345;We have come as bringers of civilization, not as looters.;;;;;;;;;;;;x
-EVTNAME19350;The Congo Reform Association;;;;;;;;;;;;x
+EVTNAME19350;コンゴ改革協会;;;;;;;;;;;;x
 EVTDESC19350;Several witness reports over the past few years have spoken of the ongoing mistreatment of $COUNTRY_ADJ$ colonial subjects in The Congo Free State. Widespread brutality, mutilation and even massacres have been reported as often used tools of colonial subjugation, and these reports have begun to cast the $COUNTRY_ADJ$ colonial policy in a very poor light. An international organization -- The Congo Reform Association -- has now been founded with the stated goal of restoring human dignity to $COUNTRY$'s colonial subjects, and several well renowned authors and international humanitarians have rallied to the cause.;;;;;;;;;;;;x
 EVTOPTA19350;Blast!;;;;;;;;;;;;x
 annex_the_congo_title;Annex The Congo;;;;;;;;;;;;x
 annex_the_congo_desc;International pressure has been mounting over the issue of The Congo Free State. The Free State, which is governed as the personal property of our Monarch, is receiving a barrage of international criticism on account of the brutal colonial policies enforced there. Our best option at this stage is probably to annex the Free State and reform its administration.;;;;;;;;;;;;x
-the_congo_reform_association;The Congo Reform Association;;;;;;;;;;;;x
+the_congo_reform_association;コンゴ改革協会;;;;;;;;;;;;x
 the_congo_refrom_association_desc;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;;;;;;;;;;;;x
 MODIFIER_BADBOY;Infamy;;;;;;;;;;;;x
 rename_the_congo_title;Explore The Congo!;;;;;;;;;;;;x
@@ -308,7 +308,7 @@ the_eiffel_tower;エッフェル塔;;;;;;;;;;;;x
 desc_eiffel_tower;The world awes at the sight of Monsieur Eiffel's marvellous iron lattice tower!;;;;;;;;;;;;x
 confiscations_of_mendizabal_title;Confiscations of Mendizabal;;;;;;;;;;;;x
 confiscations_of_mendizabal_desc;The Ecclesiastical Confiscations of Mendizábal were a series of decrees issued between 1835 and -37 aimed at the privatization and expropriation of monastic land and property in Spain. Inspired by anticlerical liberalism, and the polarization of Spanish society during the events of The Carlist wars, the decrees led to the abandonment of many ancient Spanish monasteries.;;;;;;;;;;;;x
-haussmanns_renovations_title;Haussmann's Renovations;;;;;;;;;;;;x
+haussmanns_renovations_title;オスマンのパリ改造;;;;;;;;;;;;x
 haussmanns_renovations_desc;The Haussmann Plan was a project for the modernization and urban renewal of Paris, carried out between 1852 and 1870. The project was initiated after a period of rapid urban growth and development, as the old city center of Paris had proven itself incapable of meeting the infrastructure demands of a growing city. The long, open boulevards championed by Hausmann have remained defining characteristics of Paris' street layout ever since.;;;;;;;;;;;;x
 SM_COUNTERDISTANCE;Counter Distance;;;;;;;;;;;;x
 OL_GP_INFLUENCE;Influence;;;;;;;;;;;;x
@@ -316,7 +316,7 @@ OL_VIEW_GP_INFLUENCE;Toggles §YInfluence§W view;;;;;;;;;;;;x
 CB_EXPIRE_DATE;Expires §Y$DATE$§W;;;;;;;;;;;;x
 BUDGET_CANT_LOAN_DESC;Banks will only loan you money if you have been meeting your interest payments and are not hostile. Foreign banks will currently never loan you more than $MAXLOAN$¤ of their total available funds for security reasons.;;;;;;;;;;;;x
 MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO_OUR_SIDE;We cannot negotiate with the enemy §YWar leader§W since we are target of a wargoal and our leader has added a §YStatus Quo§W wargoal;;;;;;;;;;;;x
-witwatersrand_gold_rush;Witwatersrand Gold Rush;;;;;;;;;;;;x
+witwatersrand_gold_rush;ウィットウォーターズランド・ゴールドラッシュ;;;;;;;;;;;;x
 desc_witwatersrand_gold_rush;A Gold Rush in the Witwatersrand is making us known internationally.;;;;;;;;;;;;x
 ENG_bourgeois_dictatorship;Republic of Britannia;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_SET_PRIO_TRUCE;We cannot influence this nation while we have a truce with them;;;;;;;;;;;;x

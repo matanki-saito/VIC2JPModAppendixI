@@ -53,7 +53,7 @@ NEW_PARTY_AVAIL_5;*;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_6;*;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_BTN1;OK;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_BTN2;OK;;;;;;;;;;;;x
-NEW_PARTY_AVAIL_BTN3;Go to;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_BTN3;移動;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_LOG;New political party;;;;;;;;;;;;x
 PARTY_UNAVAIL_SETUP;Political party defunct;;;;;;;;;;;;x
 PARTY_UNAVAIL_HEADER;Political party defunct;;;;;;;;;;;;x
@@ -65,7 +65,7 @@ PARTY_UNAVAIL_5;*;;;;;;;;;;;;x
 PARTY_UNAVAIL_6;*;;;;;;;;;;;;x
 PARTY_UNAVAIL_BTN1;OK;;;;;;;;;;;;x
 PARTY_UNAVAIL_BTN2;OK;;;;;;;;;;;;x
-PARTY_UNAVAIL_BTN3;Go to;;;;;;;;;;;;x
+PARTY_UNAVAIL_BTN3;移動;;;;;;;;;;;;x
 PARTY_UNAVAIL_LOG;Political party now unavailable;;;;;;;;;;;;x
 PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Days of insolvency: §R$DAYS$§W;;;;;;;;;;;;x
 EXPENSE_NO_AFFORD;We can only afford to pay §R$VAL$§W¤ of our expenses!;;;;;;;;;;;;x
@@ -88,5 +88,5 @@ USE_LEADER;Use leader;;;;;;;;;;;;x
 SHORTCUT;§WShortcut: §Y;;;;;;;;;;;;x
 SM_SHORTCUT;Shortcut tooltip;;;;;;;;;;;;x
 TUR_proletarian_dictatorship_ADJ;トルコ;;;;;;;;;;;;x
-move_capital_to_moscow_title;Return to the Third Rome;;;;;;;;;;;;x
+move_capital_to_moscow_title;第三のローマへの帰還;;;;;;;;;;;;x
 move_capital_to_moscow_desc;Glorious St Petersburg, the city of Peter the Great, is uncomfortably close to the border. Perhaps it would be prudent to move our capital back to Moscow, the Pervoprestolnaya", which invading armies might find harder to reach...";;;;;;;;;;;;x

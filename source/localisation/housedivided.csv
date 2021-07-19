@@ -19,7 +19,7 @@ COLONY_ABORT_5;We can no longer colonize this region.;;;;;;;;;;;;x
 COLONY_ABORT_6;*;;;;;;;;;;;;x
 COLONY_ABORT_BTN1;OK;;;;;;;;;;;;x
 COLONY_ABORT_BTN2;OK;;;;;;;;;;;;x
-COLONY_ABORT_BTN3;Go to;;;;;;;;;;;;x
+COLONY_ABORT_BTN3;移動;;;;;;;;;;;;x
 COLONY_ABORT_MAP;Colony Aborted!;;;;;;;;;;;;x
 COLONY_ABORT_SETUP;When colonization is aborted.;;;;;;;;;;;;x
 COLONY_ABORT_LOG;Colonization of $TARGET$ has been aborted.;;;;;;;;;;;;x
@@ -54,7 +54,7 @@ CB_JUSTIFY_NO_LONGER_VALID_6;is no longer valid!;;;;;;;;;;;;x
 CB_JUSTIFY_NO_LONGER_VALID_LOG;Our war justification process against $TARGET$ is no longer valid.;;;;;;;;;;;;x
 CB_JUSTIFY_NO_LONGER_VALID_BTN1;OK;;;;;;;;;;;;x
 CB_JUSTIFY_NO_LONGER_VALID_BTN2;OK;;;;;;;;;;;;x
-CB_JUSTIFY_NO_LONGER_VALID_BTN3;Goto;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN3;移動;;;;;;;;;;;;x
 CB_JUSTIFY_NO_LONGER_VALID_MAP;*;;;;;;;;;;;;x
 NO_ALLOWED_COUNTRIES;(There is no applicable country).;;;;;;;;;;;;x
 NO_ALLOWED_STATES;(There is no applicable states).;;;;;;;;;;;;x
@@ -128,7 +128,7 @@ ATTACKUSREBEL_6;*;;;;;;;;;;;;x
 ATTACKUSREBEL_LOG;We have been attacked in $PROV$.;;;;;;;;;;;;x
 ATTACKUSREBEL_BTN1;OK;;;;;;;;;;;;x
 ATTACKUSREBEL_BTN2;OK;;;;;;;;;;;;x
-ATTACKUSREBEL_BTN3;Goto;;;;;;;;;;;;x
+ATTACKUSREBEL_BTN3;移動;;;;;;;;;;;;x
 ATTACKUSREBEL_MAP;Under attack!;;;;;;;;;;;;x
 ATTACKTHEMREBEL_SETUP;When one of our land units attacks the rebellion.;;;;;;;;;;;;x
 ATTACKTHEMREBEL_HEADER;Our Chief of Staff reports that;;;;;;;;;;;;x
@@ -141,7 +141,7 @@ ATTACKTHEMREBEL_6;*;;;;;;;;;;;;x
 ATTACKTHEMREBEL_LOG;We have attacked the enemy in $PROV$.;;;;;;;;;;;;x
 ATTACKTHEMREBEL_BTN1;OK;;;;;;;;;;;;x
 ATTACKTHEMREBEL_BTN2;OK;;;;;;;;;;;;x
-ATTACKTHEMREBEL_BTN3;Goto;;;;;;;;;;;;x
+ATTACKTHEMREBEL_BTN3;移動;;;;;;;;;;;;x
 ATTACKTHEMREBEL_MAP;Attack Commenced;;;;;;;;;;;;x
 SIEGEUSREBEL_SETUP;When the rebellion begins to occupy our province;;;;;;;;;;;;x
 SIEGEUSREBEL_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -154,7 +154,7 @@ SIEGEUSREBEL_6;will soon be driven off by the might of our armies.;;;;;;;;;;;;x
 SIEGEUSREBEL_LOG;$PROV$ is beginning to be occupied.;;;;;;;;;;;;x
 SIEGEUSREBEL_BTN1;OK;;;;;;;;;;;;x
 SIEGEUSREBEL_BTN2;OK;;;;;;;;;;;;x
-SIEGEUSREBEL_BTN3;Goto;;;;;;;;;;;;x
+SIEGEUSREBEL_BTN3;移動;;;;;;;;;;;;x
 SIEGEUSREBEL_MAP;*;;;;;;;;;;;;x
 SIEGETHEMREBEL_SETUP;When we begin to occupy the province controlled by rebellion.;;;;;;;;;;;;x
 SIEGETHEMREBEL_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -167,7 +167,7 @@ SIEGETHEMREBEL_6;They will look forward to our enlightened government.;;;;;;;;;;
 SIEGETHEMREBEL_LOG;We have begun to occupy $PROV$.;;;;;;;;;;;;x
 SIEGETHEMREBEL_BTN1;OK;;;;;;;;;;;;x
 SIEGETHEMREBEL_BTN2;OK;;;;;;;;;;;;x
-SIEGETHEMREBEL_BTN3;Goto;;;;;;;;;;;;x
+SIEGETHEMREBEL_BTN3;移動;;;;;;;;;;;;x
 SIEGETHEMREBEL_MAP;*;;;;;;;;;;;;x
 REMOVE_RANDOM_ECO_REFORMS_EFFECT;Remove §R$VAL$§! economic reforms.\n;;;;;;;;;;;;x
 REMOVE_RANDOM_MIL_REFORMS_EFFECT;Remove §R$VAL$§! military reforms.\n;;;;;;;;;;;;x
@@ -360,7 +360,7 @@ OUR_CB_DETECTED_6;was detected! This costs us §R$BADBOY$§! infamy;;;;;;;;;;;;x
 OUR_CB_DETECTED_LOG;Our war justification process against $TARGET$ was detected.;;;;;;;;;;;;x
 OUR_CB_DETECTED_BTN1;OK;;;;;;;;;;;;x
 OUR_CB_DETECTED_BTN2;OK;;;;;;;;;;;;x
-OUR_CB_DETECTED_BTN3;Goto;;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN3;移動;;;;;;;;;;;;x
 OUR_CB_DETECTED_MAP;*;;;;;;;;;;;;x
 CB_TOWARDS_US_DETECTED_SETUP;A war justification process against us is detected;;;;;;;;;;;;x
 CB_TOWARDS_US_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;x
@@ -373,7 +373,7 @@ CB_TOWARDS_US_DETECTED_6;was detected!;;;;;;;;;;;;x
 CB_TOWARDS_US_DETECTED_LOG;A war justification process against us by $COUNTRY$ was detected;;;;;;;;;;;;x
 CB_TOWARDS_US_DETECTED_BTN1;OK;;;;;;;;;;;;x
 CB_TOWARDS_US_DETECTED_BTN2;OK;;;;;;;;;;;;x
-CB_TOWARDS_US_DETECTED_BTN3;Goto;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN3;移動;;;;;;;;;;;;x
 CB_TOWARDS_US_DETECTED_MAP;*;;;;;;;;;;;;x
 OTHERS_CB_DETECTED_SETUP;A war justification process against someone is detected;;;;;;;;;;;;x
 OTHERS_CB_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;x
@@ -386,7 +386,7 @@ OTHERS_CB_DETECTED_6;was detected!;;;;;;;;;;;;x
 OTHERS_CB_DETECTED_LOG;A war justification process against $TARGET$ by $COUNTRY$ was detected;;;;;;;;;;;;x
 OTHERS_CB_DETECTED_BTN1;OK;;;;;;;;;;;;x
 OTHERS_CB_DETECTED_BTN2;OK;;;;;;;;;;;;x
-OTHERS_CB_DETECTED_BTN3;Goto;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN3;移動;;;;;;;;;;;;x
 OTHERS_CB_DETECTED_MAP;*;;;;;;;;;;;;x
 CB_gen_plus;CB generation speed increased;;;;;;;;;;;;x
 CB_gen_minus;CB generation speed decreased;;;;;;;;;;;;x
@@ -695,7 +695,7 @@ ECONOMICREFORM_6;*;;;;;;;;;;;;x
 ECONOMICREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$.;;;;;;;;;;;;x
 ECONOMICREFORM_BTN1;OK;;;;;;;;;;;;x
 ECONOMICREFORM_BTN2;OK;;;;;;;;;;;;x
-ECONOMICREFORM_BTN3;Goto;;;;;;;;;;;;x
+ECONOMICREFORM_BTN3;移動;;;;;;;;;;;;x
 ECONOMICREFORM_MAP;*;;;;;;;;;;;;x
 ECONOMICREFORM_BAD_SETUP;When removing an economic reform;;;;;;;;;;;;x
 ECONOMICREFORM_BAD_HEADER;Political News in $COUNTRY$;;;;;;;;;;;;x
@@ -708,7 +708,7 @@ ECONOMICREFORM_BAD_6;*;;;;;;;;;;;;x
 ECONOMICREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;;;;;;;;;;;;x
 ECONOMICREFORM_BAD_BTN1;OK;;;;;;;;;;;;x
 ECONOMICREFORM_BAD_BTN2;OK;;;;;;;;;;;;x
-ECONOMICREFORM_BAD_BTN3;Goto;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN3;移動;;;;;;;;;;;;x
 ECONOMICREFORM_BAD_MAP;*;;;;;;;;;;;;x
 MILITARYREFORM_SETUP;When enacting a military reform;;;;;;;;;;;;x
 MILITARYREFORM_HEADER;Political News in $COUNTRY$;;;;;;;;;;;;x
@@ -721,7 +721,7 @@ MILITARYREFORM_6;*;;;;;;;;;;;;x
 MILITARYREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$.;;;;;;;;;;;;x
 MILITARYREFORM_BTN1;OK;;;;;;;;;;;;x
 MILITARYREFORM_BTN2;OK;;;;;;;;;;;;x
-MILITARYREFORM_BTN3;Goto;;;;;;;;;;;;x
+MILITARYREFORM_BTN3;移動;;;;;;;;;;;;x
 MILITARYREFORM_MAP;*;;;;;;;;;;;;x
 MILITARYREFORM_BAD_SETUP;When removing a military reform;;;;;;;;;;;;x
 MILITARYREFORM_BAD_HEADER;Political News in $COUNTRY$;;;;;;;;;;;;x
@@ -734,7 +734,7 @@ MILITARYREFORM_BAD_6;*;;;;;;;;;;;;x
 MILITARYREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;;;;;;;;;;;;x
 MILITARYREFORM_BAD_BTN1;OK;;;;;;;;;;;;x
 MILITARYREFORM_BAD_BTN2;OK;;;;;;;;;;;;x
-MILITARYREFORM_BAD_BTN3;Goto;;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN3;移動;;;;;;;;;;;;x
 MILITARYREFORM_BAD_MAP;*;;;;;;;;;;;;x
 MODIFIER_CIVILIZATION_PROGRESS;Civilization Progress;;;;;;;;;;;;x
 SUPPRESSION_TECH;Suppression efficiency;;;;;;;;;;;;x

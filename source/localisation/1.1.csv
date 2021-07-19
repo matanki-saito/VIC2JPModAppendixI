@@ -30,11 +30,11 @@ MODIFIER_CORE_POP_MILITANCY_MODIFIER;Militancy in Non-Colonial;;;;;;;;;;;;x
 MODIFIER_CORE_POP_CONSCIOUSNESS_MODIFIER;Consciousness in Non-Colonial;;;;;;;;;;;;x
 MODIFIER_NON_ACCEPTED_POP_MILITANCY_MODIFIER;Militancy for Non-Accepted;;;;;;;;;;;;x
 MODIFIER_NON_ACCEPTED_POP_CONSCIOUSNESS_MODIFIER;Consciousness for Non-Accepted;;;;;;;;;;;;x
-AUS_734;South Tirol;;;;;;;;;;;;x
+AUS_734;南チロル;;;;;;;;;;;;x
 EVTNAME23212;彗星の観測;;;;;;;;;;;;x
 EVTDESC23212;A Comet was sighted in the sky, some believe that this portends fell times ahead. Others believe that they are in fact pixie fairies floating in the sky. There are also those who believe that this comet is most probably a giant ball of ice floating through the sky and the long tail is created due to the energy of the sun. The arguments amongst the three equally viable theories is stimulating the pursuit of knowledge in our country.;;;;;;;;;;;;x
 EVTOPTA23212;Thank God we live in such enlightened times;;;;;;;;;;;;x
-EVTNAME60140;Constitutional Convention;;;;;;;;;;;;x
+EVTNAME60140;憲法制定会議;;;;;;;;;;;;x
 EVTDESC60140;With the liberals firmly in control of our country, they feel that now is the time for a constitutional convention. Everyone's views, well at least everyone who truly matters, will be represented in this new gathering to shape the path of our nation.;;;;;;;;;;;;x
 EVTOPTA60140;Otherwise people would exploit the situation;;;;;;;;;;;;x
 become_guatemala_title;Become Guatemala;;;;;;;;;;;;x

@@ -15,7 +15,7 @@ DO_NOT_HAVE_TECH_TRI;Have NOT invented §Y$TECH$§W.\n;;;;;;;;;;;;x
 HAVE_TECH_TRI;Have invented §Y$TECH$§W.\n;;;;;;;;;;;;x
 NO_RAIL_YET;We can not encourage rail road building when we do not know how to build them yet.;;;;;;;;;;;;x
 NOT_DISC_THESE_YET;We can not encourage industries that have not yet been invented.;;;;;;;;;;;;x
-WAR_WE_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+WAR_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WAR_WE_ACCEPT_1;戦争だ！;;;;;;;;;;;;x
 WAR_WE_ACCEPT_2;$MONARCHTITLE$, $BADWORD$ in;;;;;;;;;;;;x
 WAR_WE_ACCEPT_3;$AGRESSOR$ declared war;;;;;;;;;;;;x
@@ -25,10 +25,10 @@ WAR_WE_ACCEPT_6;*;;;;;;;;;;;;x
 WAR_WE_ACCEPT_LOG;$AGRESSOR$ declared war on us!;;;;;;;;;;;;x
 WAR_WE_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WAR_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-WAR_WE_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+WAR_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 WAR_WE_ACCEPT_MAP;戦争だ！;;;;;;;;;;;;x
 WAR_OTHER_ACCEPT_SETUP;When a nation declares war on another nation;;;;;;;;;;;;x
-WAR_OTHER_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+WAR_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WAR_OTHER_ACCEPT_1;$AGRESSOR$;;;;;;;;;;;;x
 WAR_OTHER_ACCEPT_2;$MONARCHTITLE$, $AGRESSOR$;;;;;;;;;;;;x
 WAR_OTHER_ACCEPT_3;declared war;;;;;;;;;;;;x
@@ -38,10 +38,10 @@ WAR_OTHER_ACCEPT_6;*;;;;;;;;;;;;x
 WAR_OTHER_ACCEPT_LOG;$AGRESSOR$ declared war on $DEFENDER$.;;;;;;;;;;;;x
 WAR_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WAR_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-WAR_OTHER_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+WAR_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 DECLWAR_LIMITED;This war is a limited war.;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_SETUP;When we declare war on another nation;;;;;;;;;;;;x
-WAR_THEY_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+WAR_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_1;We declared war on;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_2;$DEFENDER$;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_3;*;;;;;;;;;;;;x
@@ -51,7 +51,7 @@ WAR_THEY_ACCEPT_6;*;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_LOG;We declared war on $DEFENDER$.;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-WAR_THEY_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+WAR_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 WAR_THEY_ACCEPT_MAP;戦争だ！;;;;;;;;;;;;x
 LOSE_CORE_EFFECT_2;$WHO$ lose core on $LOSE$.\n;;;;;;;;;;;;x
 INFRA_LEVEL_HERE;Infrastructure at §Y$VAL$%§W.;;;;;;;;;;;;x
@@ -1230,7 +1230,7 @@ EVTDESC16001;The one issue that the Founding Fathers of our great nation were ne
 EVTOPTA16001;We can expect this issue to linger for some time;;;;;;;;;;;;x
 the_slavery_debate;The Slavery Debate;;;;;;;;;;;;x
 desc_the_slavery_debate;The debate over slavery is alive in The United States, and popular consciousness over the issue is rising every day. If the Upper House ever has 30 percent or more Liberal representation, the South might very well decide to secede.;;;;;;;;;;;;x
-CANCELGIVEMILITARYACCESS_THEY_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_1;§Y$ACTOR$§W;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_2;$MONARCHTITLE$, we have grown tired of the foul presence of the troops of ;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_3;§Y$RECIPIENT$§W;;;;;;;;;;;;x
@@ -1239,8 +1239,8 @@ CANCELGIVEMILITARYACCESS_THEY_ACCEPT_5;*;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_6;The people of §Y$ACTOR$§W rejoice at the news.;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
-CANCELGIVEMILITARYACCESS_WE_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_WE_ACCEPT_1;§Y$ACTOR$§W;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_WE_ACCEPT_2;$MONARCHTITLE$ we are outraged to discover that ;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_WE_ACCEPT_3;§Y$ACTOR$§W;;;;;;;;;;;;x
@@ -1249,8 +1249,8 @@ CANCELGIVEMILITARYACCESS_WE_ACCEPT_5;*;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_WE_ACCEPT_6;Although we should really have beaten them to it.;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_WE_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CANCELGIVEMILITARYACCESS_WE_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
-CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_1;§Y$ACTOR$§W;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_2;$MONARCHTITLE$;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_3;§Y$ACTOR$§W;;;;;;;;;;;;x
@@ -1259,7 +1259,7 @@ CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_5;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_6;Looks like trouble is brewing. We could profit from this.;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 DECREASERELATIONTITLE;Decrease Relations;;;;;;;;;;;;x
 WARGOALTITLE;Add War Goal;;;;;;;;;;;;x
 WARSUBSIDIESTITLE;Offer War Subsidies;;;;;;;;;;;;x
@@ -1280,7 +1280,7 @@ REMOVEFROMSPHERETITLE;Remove from Sphere of Influence;;;;;;;;;;;;x
 INCREASERELATION_BUTTON;Increase Relations;;;;;;;;;;;;x
 DECREASERELATION_BUTTON;Decrease Relations;;;;;;;;;;;;x
 CALLALLY_OFFER;The nation of $ACTOR$, your faithful ally, is requesting that you come to their aid in the $LIST$.;;;;;;;;;;;;x
-CALLALLY_THEY_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CALLALLY_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_2;$MONARCHTITLE$, we are not surprised to learn that;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_3;§Y$RECIPIENT$§W;;;;;;;;;;;;x
@@ -1289,8 +1289,8 @@ CALLALLY_THEY_ACCEPT_5;$VERSUS$;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_6;*;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_BTN1;Great!;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_BTN2;Great!;;;;;;;;;;;;x
-CALLALLY_THEY_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
-CALLALLY_WE_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CALLALLY_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
+CALLALLY_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_1;Military Alliance Honored;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_2;$MONARCHTITLE$, we have decided that;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_3;§Y$ACTOR$§W;;;;;;;;;;;;x
@@ -1299,8 +1299,8 @@ CALLALLY_WE_ACCEPT_5;$VERSUS$;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_6;*;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CALLALLY_WE_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
-CALLALLY_OTHER_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+CALLALLY_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
+CALLALLY_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CALLALLY_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 CALLALLY_OTHER_ACCEPT_2;$MONARCHTITLE$, §Y$RECIPIENT$§W have honored their;;;;;;;;;;;;x
 CALLALLY_OTHER_ACCEPT_3;Military Alliance with;;;;;;;;;;;;x
@@ -1309,7 +1309,7 @@ CALLALLY_OTHER_ACCEPT_5;They are now part of the;;;;;;;;;;;;x
 CALLALLY_OTHER_ACCEPT_6;$VERSUS$;;;;;;;;;;;;x
 CALLALLY_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 CALLALLY_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CALLALLY_OTHER_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+CALLALLY_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 BUILD_CIVILIZED;Civilized;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_JOIN_WAR_INVALID_ALLY;Already at war with §Y$COUNTRY$§W, we cannot join their side in this war.;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_JOIN_WAR_INVALID_ENEMY;Already at war with §Y$COUNTRY$§W, we cannot start another war against them.;;;;;;;;;;;;x

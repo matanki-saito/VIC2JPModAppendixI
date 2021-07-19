@@ -179,8 +179,7 @@ def generate_dot_mod_file(mod_title_name,
         lines = [
             'name="{}"'.format(mod_title_name),
             'archive="mod/{}.zip"'.format(mod_file_name),
-            'user_dir="{}"'.format(mod_file_name),
-            'replace_path="localisation"'
+            'user_dir="{}"'.format(mod_file_name)
         ]
 
         fw.write("\n".join(lines))

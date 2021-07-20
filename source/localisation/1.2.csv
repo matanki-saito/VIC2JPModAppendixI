@@ -2,8 +2,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 RECRUITED_PERCENTAGE_LESS_THAN;Less than §Y$VAL$§W% of possible soldiers recruited.\n;;;;;;;;;;;;x
 RECRUITED_PERCENTAGE_MORE_THAN;At least §Y$VAL$§W% of possible soldiers recruited.\n;;;;;;;;;;;;x
-SEPARATISM_TECH;Separatism;;;;;;;;;;;;x
-INC_RES_TECH;Research Points;;;;;;;;;;;;x
+SEPARATISM_TECH;分離主義;;;;;;;;;;;;x
+INC_RES_TECH;研究点;;;;;;;;;;;;x
 TOTAL_POPS_NOT_TR;Less than §Y$VAL$§W pops in $WHERE$.\n;;;;;;;;;;;;x
 TOTAL_POPS_TR;At least §Y$VAL$§W pops in $WHERE$.\n;;;;;;;;;;;;x
 IS_CRIME_NOT_HIGHER_THAN_EDU_TR;More is spent on §Yeducation§W than on administration.\n;;;;;;;;;;;;x
@@ -46,10 +46,10 @@ ANY_CORE_LIMITED;For any core that is\n;;;;;;;;;;;;x
 ANY_CORE_NORMAL;All core provinces will get\n;;;;;;;;;;;;x
 POLITICS_NOT_BEFORE;We can not change ruling party again before §Y$DATE$§W.;;;;;;;;;;;;x
 POLITICS_NOT_ACCEPTED;Our form of government does not allow §Y$WHICH$§W parties.;;;;;;;;;;;;x
-RELEASE_PRESTIGE;Prestige: ;;;;;;;;;;;;x
-RELEASE_INFAMY;Infamy: ;;;;;;;;;;;;x
-PROV3247;West Hawaii;;;;;;;;;;;;x
-PROV3248;West Magellan Strait;;;;;;;;;;;;x
+RELEASE_PRESTIGE;威信：;;;;;;;;;;;;x
+RELEASE_INFAMY;汚名：;;;;;;;;;;;;x
+PROV3247;西ハワイ;;;;;;;;;;;;x
+PROV3248;西マゼラン海峡;;;;;;;;;;;;x
 EVTDESC1002;A group of liberals disgruntled with their lack of economic freedom, and the pace of parliamentary reform, have formed a new faction in $COUNTRY_ADJ$ politics. The Anarcho-Liberals are the revolutionary avantgarde of the liberal ideology, and they will not hesitate to use whatever means necessary to see their ideas of freedom and free trade instituted both in $COUNTRY$ and abroad.;;;;;;;;;;;;x
 SOMEONE_HAS_ADDED_STATUS_QUO;We cannot add a wargoal if someone has added a §YStatus Quo§W wargoal;;;;;;;;;;;;x
 NO_INTERVENTION_NOT_ENOUGH_OPINION;In order to intervene, a nation targeted by a wargoal need to have at least §Y$REQLEVEL$§W opinion of us;;;;;;;;;;;;x
@@ -215,20 +215,20 @@ ENG_2019;Uganda;;;;;;;;;;;;x
 TRN_2108;Transvaal;;;;;;;;;;;;x
 POR_2060;Mocambique;;;;;;;;;;;;x
 FRA_1884;Sierra Leone;;;;;;;;;;;;x
-FRA_1813;Niger;;;;;;;;;;;;x
-FRA_1892;Ivory Coast;;;;;;;;;;;;x
-FRA_1893;Windward Coast;;;;;;;;;;;;x
-FRA_1788;Gambia;;;;;;;;;;;;x
-FRA_1783;Senegal;;;;;;;;;;;;x
-FRA_1775;Mauritania;;;;;;;;;;;;x
-MOR_1696;West Morocco;;;;;;;;;;;;x
-POR_2003;South Angola;;;;;;;;;;;;x
-POR_2006;East Angola;;;;;;;;;;;;x
-ALD_1718;Sahara;;;;;;;;;;;;x
-ALD_1714;West Sahara;;;;;;;;;;;;x
-TRI_1739;Libyan Desert;;;;;;;;;;;;x
-EGY_1754;Libya;;;;;;;;;;;;x
-FRA_1780;Inner Mauritania;;;;;;;;;;;;x
+FRA_1813;ニジェール;;;;;;;;;;;;x
+FRA_1892;象牙海岸;;;;;;;;;;;;x
+FRA_1893;ウィンドワード海岸;;;;;;;;;;;;x
+FRA_1788;ガンビア;;;;;;;;;;;;x
+FRA_1783;セネガル;;;;;;;;;;;;x
+FRA_1775;モーリタニア;;;;;;;;;;;;x
+MOR_1696;西モロッコ;;;;;;;;;;;;x
+POR_2003;南アンゴラ;;;;;;;;;;;;x
+POR_2006;東アンゴラ;;;;;;;;;;;;x
+ALD_1718;サハラ;;;;;;;;;;;;x
+ALD_1714;西サハラ;;;;;;;;;;;;x
+TRI_1739;リビア砂漠;;;;;;;;;;;;x
+EGY_1754;リビュア;;;;;;;;;;;;x
+FRA_1780;内モーリタニア;;;;;;;;;;;;x
 ORA_2103;Vrystaat;;;;;;;;;;;;x
 ENG_2092;Northern Cape;;;;;;;;;;;;x
 ENG_2083;Namaqualand;;;;;;;;;;;;x

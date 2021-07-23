@@ -260,7 +260,7 @@ CNG_conservative;保守党;;;;;;;;;;;;x
 CNG_socialist;社会党;;;;;;;;;;;;x
 CNG_communist;共産党;;;;;;;;;;;;x
 CNG_reactionary;Reactionary Party;;;;;;;;;;;;x
-CNG_fascist;Fascist Party;;;;;;;;;;;;x
+CNG_fascist;ファシスト党;;;;;;;;;;;;x
 CNG_anarcho_liberal;Anarcho-Liberal Party;;;;;;;;;;;;x
 EVTNAME70000;$STATE$ Granted Statehood!;;;;;;;;;;;;x
 EVTNAME70001;$STATE$ Granted Statehood!;;;;;;;;;;;;x

@@ -407,7 +407,7 @@ MCK_socialist;Manchu Socialist Party;;;;;;;;;;;;x
 MCK_communist;中国共産党;;;;;;;;;;;;x
 MCK_liberal;自由党;;;;;;;;;;;;x
 MCK_conservative;Palace Faction;;;;;;;;;;;;x
-MCK_fascist;Fascist Party;;;;;;;;;;;;x
+MCK_fascist;ファシスト党;;;;;;;;;;;;x
 MCK_anarcho_liberal;A Very Unlikely Candidate;;;;;;;;;;;;x
 CHI_1504;広西;;;;;;;;;;;;x
 CHI_1529;湖南;;;;;;;;;;;;x
@@ -419,7 +419,7 @@ GXI_socialist;社会党;;;;;;;;;;;;x
 GXI_communist;中国共産党;;;;;;;;;;;;x
 GXI_liberal;自由党;;;;;;;;;;;;x
 GXI_conservative;Kuomintang Faction;;;;;;;;;;;;x
-GXI_fascist;Fascist Party;;;;;;;;;;;;x
+GXI_fascist;ファシスト党;;;;;;;;;;;;x
 GXI_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 CHI_1576;山西;;;;;;;;;;;;x
 SXI;Shanxi Clique;;;;;;;;;;;;x
@@ -429,7 +429,7 @@ SXI_socialist;社会党;;;;;;;;;;;;x
 SXI_communist;中国共産党;;;;;;;;;;;;x
 SXI_liberal;自由党;;;;;;;;;;;;x
 SXI_conservative;Kuomintang Faction;;;;;;;;;;;;x
-SXI_fascist;Fascist Party;;;;;;;;;;;;x
+SXI_fascist;ファシスト党;;;;;;;;;;;;x
 SXI_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 REAL_DEMAND;Real Demand: $VAL$;;;;;;;;;;;;x
 CHI_1601;雲南;;;;;;;;;;;;x
@@ -440,7 +440,7 @@ YNN_socialist;社会党;;;;;;;;;;;;x
 YNN_communist;中国共産党;;;;;;;;;;;;x
 YNN_liberal;自由党;;;;;;;;;;;;x
 YNN_conservative;Kuomintang Faction;;;;;;;;;;;;x
-YNN_fascist;Fascist Party;;;;;;;;;;;;x
+YNN_fascist;ファシスト党;;;;;;;;;;;;x
 YNN_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 CHI_1557;青海;;;;;;;;;;;;x
 CHI_1490;甘粛;;;;;;;;;;;;x
@@ -452,7 +452,7 @@ XBI_socialist;社会党;;;;;;;;;;;;x
 XBI_communist;中国共産党;;;;;;;;;;;;x
 XBI_liberal;自由党;;;;;;;;;;;;x
 XBI_conservative;Kuomintang Faction;;;;;;;;;;;;x
-XBI_fascist;Fascist Party;;;;;;;;;;;;x
+XBI_fascist;ファシスト党;;;;;;;;;;;;x
 XBI_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 CHI_1600;新疆;;;;;;;;;;;;x
 XIN;Xinjiang Clique;;;;;;;;;;;;x
@@ -462,7 +462,7 @@ XIN_socialist;社会党;;;;;;;;;;;;x
 XIN_communist;中国共産党;;;;;;;;;;;;x
 XIN_liberal;自由党;;;;;;;;;;;;x
 XIN_conservative;Kuomintang Faction;;;;;;;;;;;;x
-XIN_fascist;Fascist Party;;;;;;;;;;;;x
+XIN_fascist;ファシスト党;;;;;;;;;;;;x
 XIN_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 TRADE_TOP_PRODUCERS;Top 5 producers:;;;;;;;;;;;;x
 EVTNAME10001;An Age of Liberalism;;;;;;;;;;;;x

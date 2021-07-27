@@ -1213,8 +1213,8 @@ TRE_ADJ;トリエステ;;;;;;;;;;;;x
 TRI_ADJ;Tripolitanian;;;;;;;;;;;;x
 TRN_ADJ;トランスヴァール;;;;;;;;;;;;x
 TUS_ADJ;トスカーナ;;;;;;;;;;;;x
-germanic;Germanic;;;;;;;;;;;;x
-dutch;Dutch;;;;;;;;;;;;x
+germanic;ゲルマン;;;;;;;;;;;;x
+dutch;オランダ;;;;;;;;;;;;x
 flemish;Flemish;;;;;;;;;;;;x
 north_german;North German;;;;;;;;;;;;x
 south_german;South German;;;;;;;;;;;;x
@@ -2063,7 +2063,7 @@ po_reparations;Must pay §Y$PERCENTAGE$%§b of tax income for §Y$YEARS$§b year
 po_reduce_prestige;Prestige is reduced by §R$VALUE$§b;;;;;;;;;;;;x
 SELECT_WAR_GOAL;Select a war goal;;;;;;;;;;;;x
 nocasusbelli;No war justification;;;;;;;;;;;;x
-conquest;Conquest;;;;;;;;;;;;x
+conquest;征服;;;;;;;;;;;;x
 conquest_setup;Annex $RECIPIENT$;;;;;;;;;;;;x
 conquest_short;Annex $RECIPIENT$;;;;;;;;;;;;x
 add_to_sphere;Add to Sphere;;;;;;;;;;;;x
@@ -2090,7 +2090,7 @@ free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;;;;;;x
 protect_minor;Protect minor;;;;;;;;;;;;x
 protect_minor_short;$THIRD$ acquires $STATE$;;;;;;;;;;;;x
 protect_minor_setup;Force $RECIPIENT$ to give $STATE$ back to $THIRD$;;;;;;;;;;;;x
-humiliate;Humiliate;;;;;;;;;;;;x
+humiliate;屈辱;;;;;;;;;;;;x
 humiliate_short;Humiliate $RECIPIENT$;;;;;;;;;;;;x
 humiliate_setup;Humiliate $RECIPIENT$;;;;;;;;;;;;x
 WETARGET_DISCREDIT_LOG;$ACTOR$ has discredited us! It will lessen our influence on $RECIPIENT$.;;;;;;;;;;;;x
@@ -5737,21 +5737,21 @@ EVTOPTA36607;Terrible!;;;;;;;;;;;;x
 EVTNAME36608;Railroads are Joined!;;;;;;;;;;;;x
 EVTDESC36608;In 1871 a grand ceremony was held in Arvika to celebrate the joining of the Swedish and the Norwegian national railroad networks.;;;;;;;;;;;;x
 EVTOPTA36608;Let's celebrate!;;;;;;;;;;;;x
-EVTNAME36609;The Sale of St. Barthelemy;;;;;;;;;;;;x
+EVTNAME36609;サン・バルテルミー島の売却;;;;;;;;;;;;x
 EVTDESC36609;The small island of St. Barthelemy in the West Indies had been under Swedish administration for 94 years, when in 1878 it was decided that it should be sold back to France. It no longer enjoyed the prosperity of its earliest decades as a free-trade port during the Revolutionary and Napoleonic wars and it had now become an economic burden.;;;;;;;;;;;;x
 EVTOPTA36609;Sell that barren rock NOW!;;;;;;;;;;;;x
 EVTOPTB36609;For the glory of Sweden, we must keep it!;;;;;;;;;;;;x
 EVTNAME36610;Workers' Strike in Sundsvall;;;;;;;;;;;;x
 EVTDESC36610;In 1879 the Swedish economy was in recession and sawmill employers in Sundsvall were forced to make wage cuts. A spontaneous and organised strike broke out, spreading to 21 different saw mills and involving 6000 workers. It was the first strike on a major scale in Sweden. It united the workers and served as an early starting point of the working class and social democrat movement as well as the organization of workers' unions in the decades to come.;;;;;;;;;;;;x
 EVTOPTA36610;Law and order please!;;;;;;;;;;;;x
-EVTNAME36611;August Strindberg Publishes 'The Red Room';;;;;;;;;;;;x
+EVTNAME36611;アウグスト・ストリンドベリが『赤い部屋』を発表;;;;;;;;;;;;x
 EVTDESC36611;August Strindberg (1849-1912) was one of the most talented personalities of world literature. Playwright, novelist, and short-story writer, his work exhibited a fury and genius that combined naturalism, psychology and mysticism. 'The Red Room' brought him to fame in 1879. It satirized the institutions and conditions of Sweden in the late 1870s. A multifaceted man, Strindberg possessed a fanatic hatred of the emancipated woman, was interested in science and the occult and also tried his hand at painting, photography and alchemy!;;;;;;;;;;;;x
 EVTOPTA36611;Intriguing!;;;;;;;;;;;;x
 EVTNAME36612;The Boden Fortress;;;;;;;;;;;;x
 EVTDESC36612;In 1900 the Swedish parliament decided to build an extensive fortification system in Boden near the Finnish border. Built on top of a mountain rock strategically located near the Luleå river with an incredible field of view, its purpose was to guard the northern flank and the natural riches of the area against any Russian aggression.;;;;;;;;;;;;x
 EVTOPTA36612;Yes, our defense must be strong!;;;;;;;;;;;;x
 EVTOPTB36612;No, not at this time;;;;;;;;;;;;x
-EVTNAME36614;Carl Jonas Love Almqvist Publishes 'Det går an';;;;;;;;;;;;x
+EVTNAME36614;カール・ユーナス・ルーヴェ・アルムクヴィストが『それでよい』を発表;;;;;;;;;;;;x
 EVTDESC36614;One of Sweden's most prominent writers and complex personalities, Carl Jonas Love Almqvist had a great impact on the development of Swedish literature with a vast literary output of prose works characterized by romanticism, mysticism and social awareness. In 'Det går an' he challenged traditional views on marriage and women's role in society. The book promptly caused a scandal.;;;;;;;;;;;;x
 EVTOPTA36614;Great stuff!;;;;;;;;;;;;x
 EVTNAME36615;Agricultural Depression and Mass Emigration;;;;;;;;;;;;x
@@ -5770,11 +5770,11 @@ EVTOPTA36622;The peoples of Scandinavia must stand together!;;;;;;;;;;;;x
 EVTNAME36938;Durgesnandini is published.;;;;;;;;;;;;x
 EVTDESC36938;Bankim Chandra Chatterjee published the first Bengali novel.;;;;;;;;;;;;x
 EVTOPTA36938;The Indian people have a voice!;;;;;;;;;;;;x
-EVTNAME36939;Dalhousie's Reforms;;;;;;;;;;;;x
+EVTNAME36939;ダルハウジーの改革;;;;;;;;;;;;x
 EVTDESC36939;Lord Dalhousie, Governor-General of India, has introduced a number of reforms in India. While they are unpopular in some quarters, they are extremely effective.;;;;;;;;;;;;x
 EVTOPTA36939;Our mission in India requires reforms!;;;;;;;;;;;;x
 EVTOPTB36939;Don't stir up the hornet's nest.;;;;;;;;;;;;x
-EVTNAME36940;The Treaty of Waitangi;;;;;;;;;;;;x
+EVTNAME36940;ワイタンギ条約;;;;;;;;;;;;x
 EVTDESC36940;A treaty formalizing the nation of New Zealand was signed, wherein the Maori Chiefs recognized the sovereignty of Her Majesty Queen Victoria, and in turn she guaranteed the chiefs their lands, estates, forests and fisheries.;;;;;;;;;;;;x
 EVTOPTA36940;Hooray!;;;;;;;;;;;;x
 EVTNAME36941;The Flagstaff War;;;;;;;;;;;;x
@@ -5788,7 +5788,7 @@ EVTNAME37200;Louis Napoleon in Switzerland;;;;;;;;;;;;x
 EVTDESC37200;An outspoken critic of our regime, the current head of the Bonapartes has been granted asylum in Switzerland and from there is encouraging our subjects to challenge our legitimacy. Should we demand the Swiss extradite him?;;;;;;;;;;;;x
 EVTOPTA37200;Demand the Swiss extradite him!;;;;;;;;;;;;x
 EVTOPTB37200;His ramblings in the Alps are no threat to us.;;;;;;;;;;;;x
-EVTNAME37201;Arc de Triomphe;;;;;;;;;;;;x
+EVTNAME37201;凱旋門;;;;;;;;;;;;x
 EVTDESC37201;The Arc de Triomphe in Paris, commissioned by Napoléon Bonaparte, was unveiled in 1836 after thirty years of building. Inspired by the triumphal arches of the Romans, the monument displays scenes from the French Revolutionary war and Napoléon's successes.;;;;;;;;;;;;x
 EVTOPTA37201;Wonderful!;;;;;;;;;;;;x
 EVTNAME37202;July Column unveiled;;;;;;;;;;;;x
@@ -5797,7 +5797,7 @@ EVTOPTA37202;Let us remember the dead!;;;;;;;;;;;;x
 EVTNAME37203;Coup attempt!;;;;;;;;;;;;x
 EVTDESC37203;Charles Louis Napoléon, nephew of Napoléon I, made an unsuccessful bid for power in Boulogne.;;;;;;;;;;;;x
 EVTOPTA37203;Send the troops!;;;;;;;;;;;;x
-EVTNAME37204;Napoléon I returns;;;;;;;;;;;;x
+EVTNAME37204;ナポレオン1世の帰還;;;;;;;;;;;;x
 EVTDESC37204;The body of Napoléon Bonaparte, who died in 1821 on St. Helena, was returned to France in December 1840. During the first days after his funeral in the Dôme des Invalides in Paris, hundreds of thousands paid him their respects.;;;;;;;;;;;;x
 EVTOPTA37204;Un grand homme!;;;;;;;;;;;;x
 EVTNAME37205;Across the Alps! ;;;;;;;;;;;;x
@@ -5809,19 +5809,19 @@ EVTOPTA37206;What a noise!;;;;;;;;;;;;x
 EVTNAME37207;Louis Napoléon Flees!;;;;;;;;;;;;x
 EVTDESC37207;After his failed coup of 1840, Louis Napoléon, nephew of Emperor Napoléon I, was sentenced to spend the remainder of his life in the fortress of Ham. However in May 1846, he managed to flee and escape to Great Britain.;;;;;;;;;;;;x
 EVTOPTA37207;Merde!;;;;;;;;;;;;x
-EVTNAME37208;Charles Louis Napoléon Bonaparte;;;;;;;;;;;;x
+EVTNAME37208;シャルル・ルイ＝ナポレオン・ボナパルト;;;;;;;;;;;;x
 EVTDESC37208;After the abdication of King Louis Philippe following the February Revolution of 1848, the nephew of Emperor Napoléon I was elected president of the Republic.;;;;;;;;;;;;x
 EVTOPTA37208;Vive la Républic!;;;;;;;;;;;;x
-EVTNAME37209;Foucault's Pendulum;;;;;;;;;;;;x
+EVTNAME37209;フーコーの振り子;;;;;;;;;;;;x
 EVTDESC37209;In an observatory in Paris, the physicist Léon Foucault proved that the Earth was rotating around its axis. He repeated the experiment in the Panthéon in Paris before the eyes of an amazed public.;;;;;;;;;;;;x
 EVTOPTA37209;Mon dieu!;;;;;;;;;;;;x
-EVTNAME37210;Pierre Joseph Proudhon;;;;;;;;;;;;x
+EVTNAME37210;ピエール・ジョゼフ・プルードン;;;;;;;;;;;;x
 EVTDESC37210;In July 1851 Proudhon published his 'General Idea of the Revolution in the Nineteenth Century', formulating basic thoughts of Anarchism.;;;;;;;;;;;;x
 EVTOPTA37210;Anarchism? Doesn't sound nice!;;;;;;;;;;;;x
 EVTNAME37211;Through the Air!;;;;;;;;;;;;x
 EVTDESC37211;To the marvel of spectators, pioneer Henry Giffard traveled 27 kilometers from Versailles to Trappes, employing a one-man air ship, a balloon propelled by a small motor.;;;;;;;;;;;;x
 EVTOPTA37211;Flying! What's next?;;;;;;;;;;;;x
-EVTNAME37212;Paris World's Fair;;;;;;;;;;;;x
+EVTNAME37212;パリ万国博覧会;;;;;;;;;;;;x
 EVTDESC37212;On May 15th,1855, the World's Fair was opened in Paris. 20,839 exhibitors showcase their products, winning 11,073 awards and drawing 4.5 million visitors.;;;;;;;;;;;;x
 EVTOPTA37212;Products of the future!;;;;;;;;;;;;x
 EVTNAME37213;Democracy in America;;;;;;;;;;;;x
@@ -5840,7 +5840,7 @@ EVTOPTA37217;J'accuse!;;;;;;;;;;;;x
 EVTNAME37218;Dreyfus is innocent!;;;;;;;;;;;;x
 EVTDESC37218;As the evidence against Dreyfus was shown to have been faked, his case was referred to the Court of Appeals in 1899. Outrage followed after he was once again found guilty by a military court, the establishment refusing to admit its earlier mistake. Although he was pardoned by the President and later exonerated in 1906, the result of the whole affair increased anticlericalism, antimilitarism, and united the French left.;;;;;;;;;;;;x
 EVTOPTA37218;The affair is closed;;;;;;;;;;;;x
-EVTNAME37219;Mount Pelee Erupts in Martinique;;;;;;;;;;;;x
+EVTNAME37219;マルティニーク島のプレー山が噴火;;;;;;;;;;;;x
 EVTDESC37219;Though thought to be extinct, Mt. Pelee erupted on May 7 1902, killing over 30,000 people on the island of Martinique.;;;;;;;;;;;;x
 EVTOPTA37219;C'est terrible!;;;;;;;;;;;;x
 EVTNAME37220;A Miracle?;;;;;;;;;;;;x
@@ -5854,12 +5854,12 @@ EVTDESC37222;Louis Bleriot, flying his Type XI monoplane, became the first perso
 EVTOPTA37222;Amazing!;;;;;;;;;;;;x
 EVTNAME37223;Tres Grande Vitesse;;;;;;;;;;;;x
 EVTDESC37223;Camille Jenatzky, driving his 'Jamais Contente' automobile, established a land speed record on a measured course along the Route des Noyers near St. Germain. His speed reached 79.9 kilometres per hour.;;;;;;;;;;;;x
-EVTNAME37224;Les Ballets Russes;;;;;;;;;;;;x
+EVTNAME37224;バレエ・リュス;;;;;;;;;;;;x
 EVTDESC37224;Serge Diaghilev's ideas about ballet were not well appreciated in his native Russia, so he emigrated to Paris, where he produced works of Stravinsky, Tchaikovsky and Rimsky-Korsakov and worked with dancers such as Nijinsky and Balanchine.;;;;;;;;;;;;x
-EVTNAME37225;Édouard Manet;;;;;;;;;;;;x
+EVTNAME37225;エドゥアール・マネ;;;;;;;;;;;;x
 EVTDESC37225;A painter paving the way from Realism to Impressionism, Manet's work 'Le Bain', better known as 'Déjeuner sur l'herbe', provoked a scandal in Paris 1863 because of its depiction of naked women.;;;;;;;;;;;;x
 EVTOPTA37225;Let me have just one more peek...;;;;;;;;;;;;x
-EVTNAME37700;Desamortisation;;;;;;;;;;;;x
+EVTNAME37700;永代所有財産解放令;;;;;;;;;;;;x
 EVTDESC37700;To consolidate the budget, the government in Madrid ordered that Church properties be sold. The Catholic Church's tax privileges were also revoked, while in turn the state agreed to assume the costs of church upkeep.;;;;;;;;;;;;x
 EVTOPTA37700;Don't touch the Holy Church!;;;;;;;;;;;;x
 EVTOPTB37700;We need the money!;;;;;;;;;;;;x
@@ -5881,7 +5881,7 @@ EVTNAME37705;A Reform Commission for Cuba;;;;;;;;;;;;x
 EVTDESC37705;Should the King empower a commission to discuss much needed reforms in the colony of Cuba?;;;;;;;;;;;;x
 EVTOPTA37705;No commission is warranted;;;;;;;;;;;;x
 EVTOPTB37705;Si, reforms are needed;;;;;;;;;;;;x
-EVTNAME37706;Les Demoiselles d'Avignon;;;;;;;;;;;;x
+EVTNAME37706;アビニヨンの娘たち;;;;;;;;;;;;x
 EVTDESC37706;Pablo Picasso abandoned the conventional ideas of painting and began using a far more conceptual style, influenced by sculpture and African art.;;;;;;;;;;;;x
 EVTOPTA37706;Hmmm...interesting.;;;;;;;;;;;;x
 EVTNAME37707;Madoz's Desamortisation.;;;;;;;;;;;;x
@@ -5889,14 +5889,14 @@ EVTDESC37707;In 1855, needing cash for the state, the Minister of Public Wealth,
 EVTOPTA37707;Desamortise because we need cash.;;;;;;;;;;;;x
 EVTOPTB37707;The people need those lands!;;;;;;;;;;;;x
 EVTOPTC37707;We shall find another way to get some money.;;;;;;;;;;;;x
-EVTNAME37708;La Guardia Civil;;;;;;;;;;;;x
+EVTNAME37708;グアルディア・シビル;;;;;;;;;;;;x
 EVTDESC37708;After the dissolution of the Napoleonic Guards, security in Spanish cities was the responsibility of the National Militia, formed from local militias. In 1844 the Marquis of Ahumada decided to create a national corps directed by the Ministry of War. This corps would be called Civil Guard and become a substitute for the unruly National Militia.;;;;;;;;;;;;x
 EVTOPTA37708;Create the Civil Guard;;;;;;;;;;;;x
 EVTOPTB37708;We are satisfied with the National Militia;;;;;;;;;;;;x
 EVTNAME38500;Voyage of the Sultana;;;;;;;;;;;;x
 EVTDESC38500;The first Omani vessel to sail to the New World, the Sultana arrived in New York in 1840, bringing the personal representative of Sultan Sayyid Said ibn Sultan to trade with America and to meet with the American government.;;;;;;;;;;;;x
 EVTOPTA38500;Greetings!;;;;;;;;;;;;x
-EVTNAME38501;Death of Sultan Said;;;;;;;;;;;;x
+EVTNAME38501;スルタン・サイードの崩御;;;;;;;;;;;;x
 EVTDESC38501;Under Sultan Said Zanzibar had become the richest province in the Sultanate. Upon his death in 1856 the Sultanate was divided between Majid in Zanzibar and Thuwaini in Muscat.;;;;;;;;;;;;x
 EVTOPTA38501;Accept the division;;;;;;;;;;;;x
 EVTOPTB38502;Resist it by force!;;;;;;;;;;;;x
@@ -5907,50 +5907,50 @@ EVTNAME38503;The Zanzibar Question;;;;;;;;;;;;x
 EVTDESC38503;Four years after Sultan Said's death, Majid refused to pay the tribute to his brother Thuwaini. With the help of the British under Lord Canning, the Viceroy of India, a deal was reached which recognised Zanzibari independence in return for a tribute.;;;;;;;;;;;;x
 EVTOPTA38503;Accept their independence;;;;;;;;;;;;x
 EVTOPTB38503;Zanzibar is OURS!;;;;;;;;;;;;x
-EVTNAME44100;The Adventures of Huckleberry Finn;;;;;;;;;;;;x
+EVTNAME44100;ハックルベリー・フィンの冒険;;;;;;;;;;;;x
 EVTDESC44100;In 1885 Mark Twain published 'The Adventures of Huckleberry Finn' and completely revolutionized American fiction. Up until its publication, American fiction had tended to utilize the form and language of its European predecessors -- Mark Twain fired a shot in the name of linguistic independence by beautifully depicting the speech of the American illiterate and disenfranchised. The book was clearly an attempt to show how peoples of all kinds are worthy of respect due to their actions and not their status. At the time, it caused an uproar because of its unconventional form and its theme was mostly ignored. Even today people seem to miss the point.;;;;;;;;;;;;x
 EVTOPTA44100;Well then I'll go to Hell!;;;;;;;;;;;;x
 EVTNAME44101;Number 999 Sets a Speed Record;;;;;;;;;;;;x
 EVTDESC44101;Engine #999 heading up the Empire State Express on the New York Central and Hudson River Railroad was clocked at a speed of 112 miles per hour.;;;;;;;;;;;;x
 EVTOPTA44101;Amazing!;;;;;;;;;;;;x
-EVTNAME44102;Cross of Gold;;;;;;;;;;;;x
+EVTNAME44102;金の十字架;;;;;;;;;;;;x
 EVTDESC44102;Presidential candidate William Jennings Bryan called for the minting of free silver, earning him nominations from the Populist, Silver Republican, National Silver and Progressive parties, and rallying western and southern farmers to a common cause for the first time since the class wars. His endorsement was viewed by northern industrialists as an attempt to sabotage creditors and break the trusts.;;;;;;;;;;;;x
 EVTOPTA44102;You shall not crucify mankind on a cross of gold;;;;;;;;;;;;x
-EVTNAME44103;The Resolute Returned;;;;;;;;;;;;x
+EVTNAME44103;レゾリュートの帰還;;;;;;;;;;;;x
 EVTDESC44103;The HMS Resolute was found adrift in the North Atlantic, after having been abandoned by the squadron in search of the lost polar explorer, Sir John Franklin. The United States bought the ship from salvagers, refitted the vessel and returned it to Great Britain.;;;;;;;;;;;;x
 EVTOPTA44103;It is right and proper to return it.;;;;;;;;;;;;x
-EVTNAME44104;Horace Mann;;;;;;;;;;;;x
+EVTNAME44104;ホーレス・マン;;;;;;;;;;;;x
 EVTDESC44104;Politician and lawyer Horace Mann began his reforms of the educational system of Massachusetts. His system of schools became a model for the entire United States.;;;;;;;;;;;;x
 EVTOPTA44104;You can never be too educated.;;;;;;;;;;;;x
-EVTNAME44105;Smithsonian Institution;;;;;;;;;;;;x
+EVTNAME44105;スミソニアン協会;;;;;;;;;;;;x
 EVTDESC44105;The United States Congress founded the Smithsonian Institution which reports directly to the President. Its goals were and remain the support of research and expeditions, as well as the popularization of science.;;;;;;;;;;;;x
 EVTOPTA44105;There are more things in the heavens and the earth...;;;;;;;;;;;;x
 EVTNAME44106;The Essays;;;;;;;;;;;;x
 EVTDESC44106;Ralph Waldo Emerson's first collection of 'Essays' was published in 1841 and introduced the world to a new, rather mystical, philosophy indigenous to the New World. Although many Europeans didn't consider him much of a philosopher per se, his influence on Continental thinking was unmistakable -- most significantly on Nietzsche.;;;;;;;;;;;;x
 EVTOPTA44106;Speech is a kind of act.;;;;;;;;;;;;x
-EVTNAME44107;The Common Law;;;;;;;;;;;;x
+EVTNAME44107;コモン・ロー;;;;;;;;;;;;x
 EVTDESC44107;In 1861 Oliver Wendell Holmes' published The Common Law, a history of the common-law tradition. In it he asserted that law was not logical, but rather the will of the judge tempered by circumstances, or,  as its most famous maxim put it, The Life of the law has not been logic, but experience. It quickly became a classic and Holmes was appointed to a professorship at Harvard the next year and was eventually made a Justice of the U.S. Supreme Court. The publication of The Common Law signalled the rise of pragmatism among American intellectuals and presaged a growing distrust of moralism after the horrible slaughter of the Civil War.;;;;;;;;;;;;x
 EVTOPTA44107;The law is the will of he whom the sheriff will obey.;;;;;;;;;;;;x
 EVTNAME44108;Ulysses S. Grant's Personal Memoirs;;;;;;;;;;;;x
 EVTDESC44108;In 1885 Ulysses S. Grant published his 'Personal Memoirs', which were a nearly complete retelling of his life. He wrote the book while suffering from throat cancer in order to try and guarantee his family a living after he died. Universally considered a masterpiece of American letters, Grant's memoirs are distinctive for their directness, clarity and economy of style. Mark Twain compared it favorably with Caesar's 'Commentaries'. The 'Personal Memoirs' was a smashing success in its time and remains one of the few books continuously in print since the Civil War. It is probably the best book written by an American President.;;;;;;;;;;;;x
 EVTOPTA44108;I must have them!;;;;;;;;;;;;x
-EVTNAME44109;Alfred Thayer Mahan;;;;;;;;;;;;x
+EVTNAME44109;アルフレッド・セイヤー・マハン;;;;;;;;;;;;x
 EVTDESC44109;Alfred Thayer Mahan published 'The Influence of Sea Power on History', in which he analyzed the role of sea power in history. It was embraced by those interested in expanding both the US Navy, and the United States' world-wide interests.;;;;;;;;;;;;x
 EVTOPTA44109;Sea power is the arbiter of victory.;;;;;;;;;;;;x
 EVTNAME44110;Espionage and Sedition Acts;;;;;;;;;;;;x
 EVTDESC44110;Responding to growing antiwar and labour conscious sentiment among conscripts and the under-classes, Congress passed an amended version of the 1799 Alien and Sedition Acts, making it illegal to protest the President and national policies in a time of war and greatly undermining foreign nationals and asylum seekers. Upheld by the Supreme Court in several landmark rulings over the next decade, the laws would persist in varying forms until overturned by the Warren Court half a century later. During the First World War, all 168 members of the IWW's executive committees were arrested and tried, breaking the union forever.;;;;;;;;;;;;x
 EVTOPTA44110;To attack one's country while the sword is in her hand is treason;;;;;;;;;;;;x
 EVTOPTB44110;Dissent is the lifeblood of a free people;;;;;;;;;;;;x
-EVTNAME44111;Pinkerton's Detective Agency;;;;;;;;;;;;x
+EVTNAME44111;ピンカートン探偵社;;;;;;;;;;;;x
 EVTDESC44111;Pinkerton men, who have proven themselves effective at solving train robberies and capturing counterfeiters, have now turned to working as strike-breakers and infiltrating such secret societies as the Molly Maguires.;;;;;;;;;;;;x
 EVTOPTA44111;We never sleep;;;;;;;;;;;;x
-EVTNAME44112;The National League;;;;;;;;;;;;x
+EVTNAME44112;ナショナルリーグ;;;;;;;;;;;;x
 EVTDESC44112;Eight teams have banded to form a clean, well-run baseball league -- the Boston Red Caps, Chicago White Stockings, Cincinnati Reds, Hartford Dark Blues, Louisville Grays, New York Mutuals, Philadelphia Athletics, and St. Louis Browns.;;;;;;;;;;;;x
 EVTOPTA44112;Play ball!;;;;;;;;;;;;x
-EVTNAME44113;The Great Chicago Fire;;;;;;;;;;;;x
+EVTNAME44113;シカゴ大火;;;;;;;;;;;;x
 EVTDESC44113;A fire that began in the barn at the residence of Patrick O'Leary on DeKoven Street spread throughout the business district, destroying 17,450 buildings, killing 300 people and leaving over 98,000 homeless.;;;;;;;;;;;;x
 EVTOPTA44113;Where is your cow, Mrs O'Leary?;;;;;;;;;;;;x
-EVTNAME44114;Gunfight at the OK Corral;;;;;;;;;;;;x
+EVTNAME44114;OK牧場の決闘;;;;;;;;;;;;x
 EVTDESC44114;In a thirty-second gun fight in Tombstone, Arizona, Wyatt, Morgan and Virgil Earp along with Doc Holliday, killed Billy Clanton and Tom and Bob McLaury - three members of their political rivals, the Cowboys.;;;;;;;;;;;;x
 EVTOPTA44114;Peacemaker!;;;;;;;;;;;;x
 EVTNAME44115;Time to Play Ball!;;;;;;;;;;;;x
@@ -5966,7 +5966,7 @@ EVTOPTA44801;Viva la revolucion!;;;;;;;;;;;;x
 EVTNAME44802;Peasant Army Under Zapata Joins the Revolucion;;;;;;;;;;;;x
 EVTDESC44802;Emiliano Zapata led a revolt of peasants in the province of Oaxaca.;;;;;;;;;;;;x
 EVTOPTA44802;Viva Zapata!;;;;;;;;;;;;x
-EVTNAME44803;Jose Posada;;;;;;;;;;;;x
+EVTNAME44803;ホセ・ポサダ;;;;;;;;;;;;x
 EVTDESC44803;Jose Posada's satirical cartoons of the present regime have landed him in jail once again.;;;;;;;;;;;;x
 EVTOPTA44803;Dangerous ideas spreading.;;;;;;;;;;;;x
 EVTNAME45100;Concordat with the Vatican;;;;;;;;;;;;x
@@ -5975,10 +5975,10 @@ EVTOPTA45100;Harmony with the Church.;;;;;;;;;;;;x
 EVTNAME45101;Soulique Declares Himself Emperor;;;;;;;;;;;;x
 EVTDESC45101;Faustan Soulique, the compromise candidate for President in 1847, declared himself the second emperor of Haiti as Faustin I.;;;;;;;;;;;;x
 EVTOPTA45101;Vive l'Empereur Faustin!;;;;;;;;;;;;x
-EVTNAME46400;Jose Batlle y Ordonez;;;;;;;;;;;;x
+EVTNAME46400;ホセ・バッジェ・イ・オルドーニェス;;;;;;;;;;;;x
 EVTDESC46400;The noted journalist and leader of the Colorado Party, Jose Batlle y Ordonez achieved the passage of strong legislation for political reform in Uruguay.;;;;;;;;;;;;x
 EVTOPTA46400;A time for reform has come.;;;;;;;;;;;;x
-EVTNAME46800;Macchu Picchu Is Discovered;;;;;;;;;;;;x
+EVTNAME46800;マチュピチュの発見;;;;;;;;;;;;x
 EVTDESC46800;American explorer Hiram Bingham, discovered the remains of the lost Inca city of Macchu Picchu in 1911.;;;;;;;;;;;;x
 EVTOPTA46800;We have reclaimed part of our history!;;;;;;;;;;;;x
 EVTNAME46801;Wealth From Guano;;;;;;;;;;;;x
@@ -5987,9 +5987,9 @@ EVTOPTA46801;Ah the fragrant smell of success.;;;;;;;;;;;;x
 EVTNAME31501;Smoking Ban!;;;;;;;;;;;;x
 EVTDESC31501;Smoking tobacco became an increasingly widespread fashion. In 1837, the authorities in Vienna forbade smoking in public.;;;;;;;;;;;;x
 EVTOPTA31501;It doesn't taste, anyways!;;;;;;;;;;;;x
-EVTNAME31502;Franz I Dies.;;;;;;;;;;;;x
+EVTNAME31502;フランツ1世が崩御;;;;;;;;;;;;x
 EVTDESC31502;At the age of 67, Emperor Franz I of Austria-Hungary died, whereupon his mentally and physically impaired son Ferdinand I ascended the throne. Because of Ferdinand's inabilities, a so-called Geheime Regierungskonferenz (Secret Government Conference), which includes Klemens Wenzel, Fürst Metternich, assumed day-to-day control of the government for him.;;;;;;;;;;;;x
-EVTOPTA31502;Long live the Emperor! ;;;;;;;;;;;;x
+EVTOPTA31502;皇帝陛下万歳！;;;;;;;;;;;;x
 EVTNAME31503;Speak Hungarian!;;;;;;;;;;;;x
 EVTDESC31503;To strengthen the stature and independence of Hungary within the double monarchy, Hungarian became the sole language spoken in the Hungarian parliament.;;;;;;;;;;;;x
 EVTOPTA31503;Let them speak Hungarian, if it makes them feel better.;;;;;;;;;;;;x
@@ -6002,23 +6002,23 @@ EVTOPTA31505;Vivat!;;;;;;;;;;;;x
 EVTNAME31506;Toward a New Theatre;;;;;;;;;;;;x
 EVTDESC31506;After the brilliant Viennese designer Joseph Urban began working at the Boston Opera Company, design in the American theatre took on a decidedly continental approach, becoming a more dynamic, colorful, and exciting experience.;;;;;;;;;;;;x
 EVTOPTA31506;An artistic genius;;;;;;;;;;;;x
-EVTNAME33004;Germanization of Schleswig;;;;;;;;;;;;x
+EVTNAME33004;シュレースヴィヒのゲルマン化;;;;;;;;;;;;x
 EVTDESC33004;Our governor in Schleswig has proposed that the anti-German element in the region be reduced through the enforcement of German-language education and the expulsion of Danish citizens still resident in the province. Should we undertake this proposal?;;;;;;;;;;;;x
 EVTOPTA33004;We must make Schleswig German!;;;;;;;;;;;;x
 EVTOPTB33004;The Danes of Schleswig are not a threat;;;;;;;;;;;;x
 EVTNAME33300;Fire!;;;;;;;;;;;;x
 EVTDESC33300;The Theater of the grand duchy burnt to the ground in Karlsruhe. 63 people died in the disaster.;;;;;;;;;;;;x
 EVTOPTA33300;A tragedy!;;;;;;;;;;;;x
-EVTNAME33400;The Walhalla;;;;;;;;;;;;x
+EVTNAME33400;ヴァルハラ神殿;;;;;;;;;;;;x
 EVTDESC33400;In Donaustauf near Regensburg the Walhalla, a classicist monument fashioned after Greek temples and named after the legendary afterworld of Norse mythology, was opened in 1842. In this hall of fame busts of famous Germans are displayed for the public.;;;;;;;;;;;;x
 EVTOPTA33400;Marvellous!;;;;;;;;;;;;x
-EVTNAME33401;Lola Montez;;;;;;;;;;;;x
+EVTNAME33401;ローラ・モンテス;;;;;;;;;;;;x
 EVTDESC33401;The affair with the dancer Lola Montez, who he had made a countess, proved to be the end of King Ludwig I's reign. Conservative-Catholic circles objected so strongly to their relationship that he had to abdicate. Lola Montez died an impoverished woman in New York.;;;;;;;;;;;;x
 EVTOPTA33401;Scandalous!;;;;;;;;;;;;x
 EVTNAME33402;New Pinacotheque;;;;;;;;;;;;x
 EVTDESC33402;Founded in 1836, The New Pinacotheque opened its door to the public in 1853. The focus of the works in its collection are the Old Masters.;;;;;;;;;;;;x
 EVTOPTA33402;Art for everyone!;;;;;;;;;;;;x
-EVTNAME33403;Richard Wagner;;;;;;;;;;;;x
+EVTNAME33403;リヒャルト・ワーグナー;;;;;;;;;;;;x
 EVTDESC33403;The composer Richard Wagner has completed construction of the Festspielhaus in Bayreuth. It is envisioned that a festival devoted to performing great German works of the theatre will be held here each year.;;;;;;;;;;;;x
 EVTOPTA33403;An artistic genius;;;;;;;;;;;;x
 EVTNAME35000;The British Monarchy Splits From the House of Saxe-Coburg-Gotha;;;;;;;;;;;;x
@@ -6042,7 +6042,7 @@ EVTNAME36204;Slave rebellion in the Danish West Indies;;;;;;;;;;;;x
 EVTDESC36204;In 1848, slaves in the Danish Virgin Islands rebelled. The Governor, Peter von Scholten, decided to free them, rather than use force to crush the rebellion. Von Scholten cited an 1847 law that stated that all babies born to slaves were to be free. Von Scholten's action met with considerable resistance from planters. He was recalled to Denmark and put on trial, but he was later exonerated by the Supreme Court.;;;;;;;;;;;;x
 EVTOPTA36204;Free the slaves;;;;;;;;;;;;x
 EVTOPTB36204;Crush the rebellion;;;;;;;;;;;;x
-EVTNAME36205;The Fortification of Copenhagen;;;;;;;;;;;;x
+EVTNAME36205;コペンハーゲンの要塞化;;;;;;;;;;;;x
 EVTDESC36205;From 1886 to 1892, more than 25 modern fortifications were built on Sjaelland to ensure that any possible threat from Germany would be thwarted.;;;;;;;;;;;;x
 EVTOPTA36205;Strengthen the defenses of Copenhagen.;;;;;;;;;;;;x
 EVTOPTB36205;This is an unnecessary expense.;;;;;;;;;;;;x
@@ -6055,7 +6055,7 @@ EVTOPTA36207;Damn!;;;;;;;;;;;;x
 EVTNAME36208;Alberti Turns Himself In;;;;;;;;;;;;x
 EVTDESC36208;P.A. Alberti had resigned one month earlier as Secretary of Justice, when he turned himself in to answer charges that had swindled his own bank for more than 15 million Kroner, a sum equal to one-fifth of Denmark's annual budget. Alberti resigned after having used the national exchequer to help finance a number of loans, and his arrest led to the fall of the government. A “Rigsretsag” or State Trial was initiated against Alberti and two accomplices who had helped him hide his crimes.;;;;;;;;;;;;x
 EVTOPTA36208;Damn!;;;;;;;;;;;;x
-EVTNAME36209;Sale of the Danish Virgin Islands to the US;;;;;;;;;;;;x
+EVTNAME36209;デンマーク領ヴァージン諸島のアメリカへの売却;;;;;;;;;;;;x
 EVTDESC36209;Following a request from the US to purchase the islands, an advisory election was held and in 1917 Denmark sold the islands for cash.;;;;;;;;;;;;x
 EVTOPTA36209;A Sell!;;;;;;;;;;;;x
 EVTNAME36210;Fyrretyve fortællinger af fædrelandets historie;;;;;;;;;;;;x
@@ -6067,7 +6067,7 @@ EVTOPTA36211; Let's develop this land!;;;;;;;;;;;;x
 EVTNAME36212;The Christiansborg fire of 1884;;;;;;;;;;;;x
 EVTDESC36212;The Castle of Christiansborg, rebuilt after a fire in 1794, caught fire once again in 1884. The main part burned to the ground, and was not rebuilt before 1907 because of the political climate.;;;;;;;;;;;;x
 EVTOPTA36212;Oh no, not again!;;;;;;;;;;;;x
-EVTNAME36213;Ny Carlsberg Glyptoteket;;;;;;;;;;;;x
+EVTNAME36213;ニイ・カールスベルグ・グリプトテク美術館;;;;;;;;;;;;x
 EVTDESC36213;The Ny Carlsberg Glyptotek was founded by Carl Jacobsen, Owner of the brewery Ny Carlsberg in 1892. In the beginning it was mainly used for Carl Jacobsen's extensive collection of modern sculptures, but later classical sculptures were included as well.;;;;;;;;;;;;x
 EVTOPTA36213;Splendid! Art for the people!;;;;;;;;;;;;x
 EVTNAME36214;Assassination attempt on Estrup.;;;;;;;;;;;;x
@@ -6079,7 +6079,7 @@ EVTOPTA36215;Mmmm...beer!;;;;;;;;;;;;x
 EVTNAME36216;Jacob Christian Ellehammer;;;;;;;;;;;;x
 EVTDESC36216;Jacob Christian Ellehamer was the first to construct an aeroplane in Denmark. He made the first flight on the 12th of September 1906. He also made various other discoveries including an air-cooled engine, a hovercraft, and a helicopter that flew on the 1st of September 1912.;;;;;;;;;;;;x
 EVTOPTA36216;Marvelous!;;;;;;;;;;;;x
-EVTNAME36217;Sören Kierkegaard ;;;;;;;;;;;;x
+EVTNAME36217;セーレン・キェルケゴール;;;;;;;;;;;;x
 EVTDESC36217;Danish writer and philosopher Kierkegaard published his work Either - Or in 1843. Kierkegaard is generally regarded as the first existentialist philosopher.;;;;;;;;;;;;x
 EVTOPTA36217;Thought provoking indeed.;;;;;;;;;;;;x
 EVTNAME36218;Tivoli opens;;;;;;;;;;;;x
@@ -6097,7 +6097,7 @@ EVTOPTB36221;Forget about it;;;;;;;;;;;;x
 EVTNAME36222;Denmark Refuses!;;;;;;;;;;;;x
 EVTDESC36222;Historically, Denmark accepted the US offer, but it might have happened that Denmark had refused, either because the price was too low or because more jingoistic feelings were dominant at that time.;;;;;;;;;;;;x
 EVTOPTA36222;Damn!;;;;;;;;;;;;x
-EVTNAME36700;Hendrik Conscience publishes 'De Vlaamse Leeuw';;;;;;;;;;;;x
+EVTNAME36700;ヘンドリック・コンシャンスが『フランデレンの獅子』を発表;;;;;;;;;;;;x
 EVTDESC36700;In 1838, Hendrik Conscience (1812-1883), the most popular Flemish-language novelist of the 19th century,  published one of his two masterpieces, 'De Vlaamse Leeuw' ('The Flemish Lion'). The other was 'De Loteling'. The story of the oppressed Flemish population that stood up against the French oppressor in the Battle of the Golden Spurs (1302) was quickly adopted by the Flemish Movement and is a symbol for Flemings even today;;;;;;;;;;;;x
 EVTOPTA36700;Hail the Lion!;;;;;;;;;;;;x
 EVTNAME36701;Formation of the Flemish Movement;;;;;;;;;;;;x
@@ -6109,44 +6109,44 @@ EVTOPTA36702;We must help those suffering;;;;;;;;;;;;x
 EVTNAME36703;Formation of the Association for Free Trade;;;;;;;;;;;;x
 EVTDESC36703;Belgium was still suffering from the effects of the Potato Plague and the resulting famine when in 1846 the Association for Free Trade (Association pour la Liberté Commerciale) was formed. In order to ensure food for the starving population the import tariffs on grain were abolished.;;;;;;;;;;;;x
 EVTOPTA36703;Form the Association;;;;;;;;;;;;x
-EVTNAME36704;Adolphe Sax builds the saxophone;;;;;;;;;;;;x
+EVTNAME36704;アドルフ・サックスがサクソフォーンを製作;;;;;;;;;;;;x
 EVTDESC36704;Adolphe Sax was a talented musician and instrument builder from Namur in Southern Belgium. In 1846 he invented the glorious instrument that is now known as the saxophone. The instrument was quickly adopted by musicians in Paris and later made the move over the Atlantic, where it was put to good use by the various jazz bands.;;;;;;;;;;;;x
 EVTOPTA36704;Feel the vibes!;;;;;;;;;;;;x
 EVTNAME36705;Solvay Invents the Ammonia Process;;;;;;;;;;;;x
 EVTDESC36705;Ernest Solvay (1838-1922) was one of the world's most talented chemists. Today, one of the biggest chemical companies in the world and the biggest one in Belgium is named after him. In 1862 Solvay invented the ammonia process (or Solvay process) for the industrial production of soda. Industrial production of the product started in 1865.;;;;;;;;;;;;x
 EVTOPTA36705;Brilliant work;;;;;;;;;;;;x
-EVTNAME36706;Father Damiaan Departs For Hawaii;;;;;;;;;;;;x
+EVTNAME36706;ダミアン神父がハワイへ出発;;;;;;;;;;;;x
 EVTDESC36706;In 1865, Father Damiaan De Veuster, a priest from Tienen in Brabant, departed with a ship to the island of Molokai in Hawaii to aid the lepers colony there. He worked and lived with the lepers on Molokai for more than 20 years before he died from the same disease in 1889.;;;;;;;;;;;;x
 EVTOPTA36706;A true humanitarian;;;;;;;;;;;;x
 EVTNAME36900;The Reform Club;;;;;;;;;;;;x
 EVTDESC36900;In 1836, the Liberals, following the example of the Tories' founding of the Carlton Club of 1832, established the Reform Club, which would become the focus of Liberalism in the United Kingdom for decades to come.;;;;;;;;;;;;x
 EVTOPTA36900;Reforms? Not sure we want those!;;;;;;;;;;;;x
-EVTNAME36901;Dickens Publishes 'Oliver Twist';;;;;;;;;;;;x
+EVTNAME36901;ディケンズが『オリヴァー・ツイスト』を発表;;;;;;;;;;;;x
 EVTDESC36901;In 1838, Charles Dickens' novel 'Oliver Twist' was published in London. In it, he drew readers' attention to the poverty and lack of workers' rights in his time.;;;;;;;;;;;;x
 EVTOPTA36901;A touching story;;;;;;;;;;;;x
-EVTNAME36902;Package Tours;;;;;;;;;;;;x
+EVTNAME36902;パッケージツアー;;;;;;;;;;;;x
 EVTDESC36902;British printer and lay preacher Thomas Cook conducted the first group package tour via train from Leicester to Loughborough. With low prices and travel, lodging, and food and beverages included, tours became possible for more people than ever before.;;;;;;;;;;;;x
 EVTOPTA36902;I could use a vacation too!;;;;;;;;;;;;x
-EVTNAME36903;Queen Victoria marries;;;;;;;;;;;;x
+EVTNAME36903;ヴィクトリア女王が結婚;;;;;;;;;;;;x
 EVTDESC36903;On February 10th 1840, Queen Victoria married her cousin, Prince Albert of Sachsen-Coburg-Gotha. Unlike many other marriages of the time, this one was based primarily on sympathy, not dynastic calculations.;;;;;;;;;;;;x
 EVTOPTA36903;A glorious couple!;;;;;;;;;;;;x
 EVTNAME36904;Punch!;;;;;;;;;;;;x
 EVTDESC36904;In July 1841, the first issue of 'Punch' was published. It would go on to become the longest-running, uninterruptedly published satirical magazine in history.;;;;;;;;;;;;x
 EVTOPTA36904;We'll keep an eye on them!;;;;;;;;;;;;x
-EVTNAME36905;The YMCA;;;;;;;;;;;;x
+EVTNAME36905;YMCA;;;;;;;;;;;;x
 EVTDESC36905;George Williams founded the Young Men's Christian Association in London in 1844. The movement would spread throughout the world and thrive for generations to come.;;;;;;;;;;;;x
 EVTOPTA36905;It's fun to be in it!;;;;;;;;;;;;x
 EVTNAME36906;Ruinous Irish Harvests!;;;;;;;;;;;;x
 EVTDESC36906;A fungus destroyed a large part of the Irish potato harvest in 1845. Famine followed hard on its heels.;;;;;;;;;;;;x
 EVTOPTA36906;I'm afraid we cannot help them!;;;;;;;;;;;;x
 EVTOPTB36906;Let us see what we can do!;;;;;;;;;;;;x
-EVTNAME36907;Vanity Fair;;;;;;;;;;;;x
+EVTNAME36907;ヴァニティ・フェア;;;;;;;;;;;;x
 EVTDESC36907;In 1847, writer William Makepeace Thackeray published 'Vanity Fair', a work criticizing the unspirited and artificial world of the so-called better circles.;;;;;;;;;;;;x
 EVTOPTA36907;A scandal!;;;;;;;;;;;;x
 EVTNAME36908;Wiring the Continent;;;;;;;;;;;;x
 EVTDESC36908;In 1850, the first telegraph line between Great Britain and the European continent was opened. The wire stretched 25 miles between Dover and Calais, running through the English Channel.;;;;;;;;;;;;x
 EVTOPTA36908;This will speed up communications!;;;;;;;;;;;;x
-EVTNAME36909;A World Fair;;;;;;;;;;;;x
+EVTNAME36909;万国博覧会;;;;;;;;;;;;x
 EVTDESC36909;In 1851, the Great Exhibition took place in London, drawing 6,39,195 visitors who marvelled at the products of 13,937 exhibitors from 15 nations. The Crystal Palace, built especially for the occasion, became a famous landmark.;;;;;;;;;;;;x
 EVTOPTA36909;Glorious!;;;;;;;;;;;;x
 EVTNAME36910;Realism Comes to the British Stage;;;;;;;;;;;;x
@@ -6155,10 +6155,10 @@ EVTOPTA36910;Brilliant work;;;;;;;;;;;;x
 EVTNAME36911;The Rose;;;;;;;;;;;;x
 EVTDESC36911;William Butler Yeats' second volume of poetry, 'The Rose', was published in 1893. By now his voice had become more than just distinctive and his control over meter and rhyme was the stuff of genius. Yeats was now developing specifically Irish themes and began his long association with Irish Republicanism mixed with an aesthetic mysticism;;;;;;;;;;;;x
 EVTOPTA36911;Courage equal to desire;;;;;;;;;;;;x
-EVTNAME36912;Gerard Manley Hopkins;;;;;;;;;;;;x
+EVTNAME36912;ジェラード・マンリ・ホプキンス;;;;;;;;;;;;x
 EVTDESC36912;In 1918, Gerard Manley Hopkins' collected poetry was published posthumously, even though Hopkins himself was uncomfortable with its publication during his lifetime. The poetry introduced a new meter known as 'sprung-rhythm' to the world and gave new impetus to the growing modernist movement. Hopkins poetry was modernist, but at the same time he was considered a religious poet. He had converted to Catholicism early in his life and was a student and professor of medieval Christian philosophy.;;;;;;;;;;;;x
 EVTOPTA36912;Is the shipwreck then a harvest, does tempest carry grain for thee?;;;;;;;;;;;;x
-EVTNAME36913;America's Cup;;;;;;;;;;;;x
+EVTNAME36913;アメリカスカップ;;;;;;;;;;;;x
 EVTDESC36913;Queen Victoria initiated the America's Cup Trophy, a contest for hobby sailors on the high seas. Throughout the 19th century, all of the races were won by U.S. sailing teams.;;;;;;;;;;;;x
 EVTOPTA36913;Another prestigious sporting event.;;;;;;;;;;;;x
 EVTNAME36914;The Great Britain;;;;;;;;;;;;x
@@ -6177,48 +6177,48 @@ EVTOPTA36917;To the peak!;;;;;;;;;;;;x
 EVTNAME36918;A True Man's Sport!;;;;;;;;;;;;x
 EVTDESC36918;The first football club was founded in Sheffield and was aptly named FC Sheffield. The goal was to remove the confusion after the rise of popularity of rugby football, and the rules laid out in Sheffield would become integral to the development of the sport.;;;;;;;;;;;;x
 EVTOPTA36918;GOOOOOOAL!!!!;;;;;;;;;;;;x
-EVTNAME36919;Florence Nightingale;;;;;;;;;;;;x
+EVTNAME36919;フローレンス・ナイチンゲール;;;;;;;;;;;;x
 EVTDESC36919;Florence Nightingale is recognized throughout the world as the founder of modern nursing. During the Crimean War, Britain's Minister of War appointed her as 'Lady-In-Chief' to 38 nurses in army field hospitals in Turkey. The success of this mission triggered the first nursing school in England and led to the establishment a program to examine and reorganize the Army's medical services. Nightingale also worked in the area of public health, hospital administration, and sanitary reform.;;;;;;;;;;;;x
 EVTOPTA36919;Let's get healthy!;;;;;;;;;;;;x
-EVTNAME36920;The Chartist Movement;;;;;;;;;;;;x
+EVTNAME36920;チャーティスト運動;;;;;;;;;;;;x
 EVTDESC36920;After the first Reform Act was passed by Parliament, middle- and lower-class men who were still unable to vote led a movement to extensively democratise the British constitution, and argued that democratising the state would economically and socially improve the lives of the working man.;;;;;;;;;;;;x
 EVTOPTA36920;Deny the Chartist Petition;;;;;;;;;;;;x
 EVTOPTB36920;Grant them some of what they desire;;;;;;;;;;;;x
 EVTNAME36921;The Taff Vale Decision;;;;;;;;;;;;x
 EVTDESC36921;Taff Vale, a railway in Wales, broke a strike against it in 1901 by appealing to the House of Lords, who allowed the company to sue the workers' union for damages. This decision was a sharp blow to trade unionism and helped fuel support for the nascent Labour Party.;;;;;;;;;;;;x
 EVTOPTA36921;The unions look to Labour;;;;;;;;;;;;x
-EVTNAME36922;The Ashes;;;;;;;;;;;;x
+EVTNAME36922;ジ・アッシズ;;;;;;;;;;;;x
 EVTDESC36922;In 1882 at the Oval in London, England and Australia played one of the most memorable international matches in the history of cricket. In a three-day match that seesawed back and forth as wickets fell on the wet pitch, the English side fell a mere seven runs short of defeating Australia in their last innings. It was a match so thrilling that one spectator died of a heart attack, and at its conclusion The Sporting Times published this immortal obituary: 'In Affectionate Remembrance of English Cricket Which Died at the Oval on 29th August,1882, deeply lamented by a large circle of sorrowing fans and acquaintances. R.I.P. The body will be cremated and the ashes taken to Australia'. Thus was a name given to the series.;;;;;;;;;;;;x
 EVTOPTA36922;Horrible!;;;;;;;;;;;;x
-EVTNAME36923;Charles Darwin;;;;;;;;;;;;x
+EVTNAME36923;チャールズ・ダーウィン;;;;;;;;;;;;x
 EVTDESC36923;Charles Darwin, drawing upon observations made on his famous voyage aboard the Beagle, and synthesizing the observations of many of his contemporaries, published The Origin of Species ,in which he claimed that all life forms on earth had evolved over time through a process of natural selection and not through an act of creation. His views were hotly contested at the time and remain so today.;;;;;;;;;;;;x
 EVTOPTA36923;Man developing from apes? Ridiculous!;;;;;;;;;;;;x
-EVTNAME36924;The Wimbledon Championships;;;;;;;;;;;;x
+EVTNAME36924;ウィンブルドン選手権;;;;;;;;;;;;x
 EVTDESC36924;In 1877, the first men's singles lawn tennis championship was held at the All England Croquet and Lawn Tennis Club in Wimbledon, London, with the winner being Spencer Gore. Spectators paid 1 shilling each, with about 200 spectators viewing the final.;;;;;;;;;;;;x
 EVTOPTA36924;I say, anyone for Tennis?;;;;;;;;;;;;x
-EVTNAME36925;Jack the Ripper and the Plight of the Poor in London;;;;;;;;;;;;x
+EVTNAME36925;切り裂きジャックとロンドンの貧困層の窮状;;;;;;;;;;;;x
 EVTDESC36925;The murder of at least six prostitutes by Jack the Ripper, the most notorious modern serial killer, horrified and shocked the Victorian establishment. The dismay evoked by these murders, however, indirectly awoke the British public to the extreme poverty and depravity reigning, in the streets of the East End, especially in Whitechapel,  where the murders had been committed. While the authorities were far too occupied to hunt down the madman, who would never be apprehended, the social problems of poverty would continue to weigh on the consciences of rich Englishmen for the years to come.;;;;;;;;;;;;x
 EVTOPTA36925;Repress these depraved criminals!;;;;;;;;;;;;x
 EVTOPTB36925;Let's concentrate on the problems of poverty!;;;;;;;;;;;;x
 EVTNAME36926;Shakespeare at Sadler's Wells;;;;;;;;;;;;x
 EVTDESC36926;Samuel Phelps's production of 'A Midsummer Night's Dream' restored the magic to Shakespeare. His simple production showed that fine drama can be successful and afterwards it seemed that every theatre company in England was intent on copying his lead. A revival of interest in producing Shakespeare's plays for the stage was the result.;;;;;;;;;;;;x
 EVTOPTA36926;Bravo!;;;;;;;;;;;;x
-EVTNAME36927;Alice's Adventures in Wonderland;;;;;;;;;;;;x
+EVTNAME36927;不思議の国のアリス;;;;;;;;;;;;x
 EVTDESC36927;Charles L. Dodgson, writing as 'Lewis Carroll', published the first of two children's books, with illustrations by Sir John Tenniel.;;;;;;;;;;;;x
 EVTOPTA36927;Through the looking glass we go..;;;;;;;;;;;;x
-EVTNAME36928;The Thermopylae;;;;;;;;;;;;x
+EVTNAME36928;サーモピレー;;;;;;;;;;;;x
 EVTDESC36928;On her maiden voyage from Gravesend to Melbourne, the clipper Thermopylae established a record run of 63 days.;;;;;;;;;;;;x
 EVTOPTA36928;Amazing!;;;;;;;;;;;;x
-EVTNAME36929;Collapse of the Tay Bridge;;;;;;;;;;;;x
+EVTNAME36929;テイ橋の崩壊;;;;;;;;;;;;x
 EVTDESC36929;Nineteen months after completion, the bridge across the Firth of Tay near Dundee, collapsed under stress caused by high winds. A six-carriage train was also lost. The bridge's designer, Sir Thomas Bouch, was held responsible and removed from his position as designer of the Firth of Forth bridge.;;;;;;;;;;;;x
 EVTOPTA36929;A tragedy!;;;;;;;;;;;;x
 EVTNAME36930;The Great Tea Race;;;;;;;;;;;;x
 EVTDESC36930;A race to bring in the year's first tea shipment was begun among four tea clippers -- the Fiery Cross, the Ariel, the Taiping, and the Serica, with all departing from Fuchow at the end of May. The Taiping edged out her sister ships by a half hour and so won the prize of an extra 10 shillings per ton of cargo.;;;;;;;;;;;;x
 EVTOPTA36930;Hurrah for the Taiping;;;;;;;;;;;;x
-EVTNAME36931;William Morris;;;;;;;;;;;;x
+EVTNAME36931;ウィリアム・モリス;;;;;;;;;;;;x
 EVTDESC36931;Artist, entrepreneur, designer, socialist -- William Morris broke with the 'sorry state of the decorative arts in Britain' to create simple yet beautiful furniture. His innovative design for his reclining-back and footstool easy chair became a classic.;;;;;;;;;;;;x
 EVTOPTA36931;Ahh, how comfortable!;;;;;;;;;;;;x
-EVTNAME36932;The Enigma Variations;;;;;;;;;;;;x
+EVTNAME36932;エニグマ変奏曲;;;;;;;;;;;;x
 EVTDESC36932;With this work, Edward Elgar became a composer of international renown. His body of choral and symphonic work revived the classical form in Great Britain.;;;;;;;;;;;;x
 EVTOPTA36932;An incredible composer;;;;;;;;;;;;x
 EVTNAME36933;First Athletics Championships;;;;;;;;;;;;x
@@ -6228,31 +6228,31 @@ EVTNAME36934;Purchase of Army Commissions Abolished;;;;;;;;;;;;x
 EVTDESC36934;Partly in reaction to the colossal deficiencies displayed by the army in the Crimean War and manifesting broader sentiments against the aristocracy, in 1871 Great Britain abolished the practice of allowing officers' commissions to be bought. Henceforth officers would at least have to be given formal training. While the army did become more professional, a portion of its tendency to blindly charge at anything was sapped, to some older officers' dismay.;;;;;;;;;;;;x
 EVTOPTA36934;An idea long since due;;;;;;;;;;;;x
 EVTOPTB36934;The current system is fine;;;;;;;;;;;;x
-EVTNAME36937;The Name of the Royal House;;;;;;;;;;;;x
+EVTNAME36937;王家の家名;;;;;;;;;;;;x
 EVTDESC36937;The German origins of our royal house have become an issue for some of our subjects in this time of war with the Germans. Some have even questioned the royal family's loyalty to Britain. It has been suggested we domesticate the name of the royal family to show the crown's total devotion to Britain.;;;;;;;;;;;;x
 EVTOPTA36937;The House of Windsor, long may it reign;;;;;;;;;;;;x
 EVTNAME43800;Charles Sturt's Fourth Expedition;;;;;;;;;;;;x
 EVTDESC43800;Charles Sturt, has returned from an attempt to locate the center of Australia. He has determined that the inland area does not have any large lakes nor an inland sea as was hoped.;;;;;;;;;;;;x
 EVTOPTA43800;Hooray for Sturt!;;;;;;;;;;;;x
-EVTNAME43801;Burke and Wills;;;;;;;;;;;;x
+EVTNAME43801;バークとウィルズ;;;;;;;;;;;;x
 EVTDESC43801;Seeking the reward for a south to north crossing of Australia, Robert Burke and William Wills were able to make it all the way to the Gulf of Carpentaria, only to perish at Coopers Creek on their return journey. Their base party had given them up for lost and left Coopers Creek only eight hours before their return.;;;;;;;;;;;;x
 EVTOPTA43801;A tragedy!;;;;;;;;;;;;x
 EVTNAME43802;A Federal Flag;;;;;;;;;;;;x
 EVTDESC43802;The Federal government announced that the prize of 200 pounds would be shared among five citizens who submitted essentially identical designs to the national flag design competition. There were over 32,000 entries in all.;;;;;;;;;;;;x
 EVTOPTA43802;And isn't it a beaut!;;;;;;;;;;;;x
-EVTNAME43803;A. B. 'Banjo' Patterson;;;;;;;;;;;;x
+EVTNAME43803;A・B・“バンジョー”・パターソン;;;;;;;;;;;;x
 EVTDESC43803;Beginning with the publication of The Man From Snowy River,  Patterson's stories painted a fascinating portrait of the Australian outback, and his song Waltzing Matilda has almost become the national anthem.;;;;;;;;;;;;x
 EVTOPTA43803;Good onya, Patterson!;;;;;;;;;;;;x
-EVTNAME44000;Father Damien and the Lepers of Molokai;;;;;;;;;;;;x
+EVTNAME44000;ダミアン神父とモロカイ島のハンセン病患者;;;;;;;;;;;;x
 EVTDESC44000;With the opening of Hawaii to outside influence, new diseases arrived to plague the islands. Leprosy was among the scourges, and fearing the disease was highly communicable, a leper colony has been established on the island of Molokai to quarantine the victims. A Belgian missionary, Father Damien, has offered his services to oversee the colony and ensure its operation for the benefit of the victims.;;;;;;;;;;;;x
 EVTOPTA44000;Appoint him to oversee the Molokai colony;;;;;;;;;;;;x
-EVTNAME44116;The Second Great Awakening;;;;;;;;;;;;x
+EVTNAME44116;第二次大覚醒;;;;;;;;;;;;x
 EVTDESC44116;By the mid-1830s a wave of religious zeal was sweeping across the USA. Driven by charismatic preachers who called for the faithful to return to the original teachings of the Bible and lead upstanding moral lives, the movement would spawn several new Protestant sects, lead to debates and schisms within established sects over points of theology and ritual, and reinforce the power and influence of Christian teachings among the lower and middle classes of the American people at a time when religious fervor in Europe was decreasing.;;;;;;;;;;;;x
 EVTOPTA44116;The spirit seizes the imagination.;;;;;;;;;;;;x
-EVTNAME44117;Unitarianism in America;;;;;;;;;;;;x
+EVTNAME44117;アメリカのユニテリアン主義;;;;;;;;;;;;x
 EVTDESC44117;The rise of numerous sects within Protestant Christianity in the USA in the early 19th Century would create an environment for further theological speculation. One of the most influential movements to arise from this would be American Unitarianism. Emphasizing the role of reason in understanding theology (and thus rejecting the concept of the Trinity) and the inherent goodness of humanity and its capability for improvement because of reason, Unitarianism would become very influential among middle and upper-class populations in the Northeastern USA and encourage several movements of social improvement, from public education to abolitionism.;;;;;;;;;;;;x
 EVTOPTA44117;Faith and reason can be reconciled to improve humanity.;;;;;;;;;;;;x
-EVTNAME44118;The Benevolent Empire;;;;;;;;;;;;x
+EVTNAME44118;慈悲深い帝国;;;;;;;;;;;;x
 EVTDESC44118;One direct impact of the religious revival in the USA in the early nineteenth century would be the explosion in the number of voluntary organizations organized to help improve society by tackling perceived social or moral problems in society, providing comfort to the less fortunate, or promoting self-help via education. Dubbed 'The Benevolent Empire' by historians, these organizations helped provide a community infrastructure for a society rapidly expanding in numbers and being transformed by new economic forces.;;;;;;;;;;;;x
 EVTOPTA44118;For the betterment of society.;;;;;;;;;;;;x
 EVTNAME44119;John Joseph Hughes;;;;;;;;;;;;x
@@ -6261,10 +6261,10 @@ EVTOPTA44119;An extraordinary man.;;;;;;;;;;;;x
 EVTNAME44120;Moral Crusaders;;;;;;;;;;;;x
 EVTDESC44120;One of the impacts of the religious revival in the USA in the early 19th Century would be sustained campaigns against perceived vices by those who believed they were doing God's work by attempting to stamp out such behavior. Saloons were often a favorite target of such crusaders, and on occasion saloons and their patrons would be physically attacked by zealots.;;;;;;;;;;;;x
 EVTOPTA44120;Wickedness must be stamped out.;;;;;;;;;;;;x
-EVTNAME44121;The American Methodist Episcopal Church;;;;;;;;;;;;x
+EVTNAME44121;アメリカメソジスト監督教会;;;;;;;;;;;;x
 EVTDESC44121;Established in 1816 as by African-American members of the Methodist community of Philadelphia, in the 1830s and 1840s the AME Church would rapidly expand its membership among both free and slave populations in the United States during the era of religious revival, providing a spiritual outlet for the African-American community completely under their own control and direction and a new platform for challenging the continued practice of slavery in the Union.;;;;;;;;;;;;x
 EVTOPTA44121;God our Father, Christ our Redeemer, Man our Brother;;;;;;;;;;;;x
-EVTNAME44300;The Pacific Scandal;;;;;;;;;;;;x
+EVTNAME44300;パシフィック・スキャンダル;;;;;;;;;;;;x
 EVTDESC44300;After the Conservative administration had been voted into majority in Parliament in 1872, charges were levied against John A. Macdonald of the most serious nature. Macdonald’s pet project had been the trans-continental railway, and the Liberal administration charged that Sir Hugh Allan had given him campaign funds in exchange for a guaranteed contract with his company, Canadian Pacific. Despite Macdonald’s claims of innocence, he was forced to resign as Prime Minister. Donald A. Smith’s lack of confidence in Macdonald only further contributed to the decline of the party’s popularity;;;;;;;;;;;;x
 EVTOPTA44300;Macdonald must resign!;;;;;;;;;;;;x
 EVTOPTB44300;No, Macdonald will continue as Prime Minister!;;;;;;;;;;;;x
@@ -6317,7 +6317,7 @@ EVTOPTA46601;Dangerous Ideas Afloat!;;;;;;;;;;;;x
 EVTNAME48300;Leopold IV of Anhalt-Dessau is Duke of All Anhalt!;;;;;;;;;;;;x
 EVTDESC48300;Our duke was the nearest relative in the succession of the Duchy of Anhalt-Köthen in 1847, and became the successor to Alexander Karl, Duke of Anhalt-Bernburg, who did not have a direct heir. Anhalt was at last united under one duke.;;;;;;;;;;;;x
 EVTOPTA48300;Long Live The Duke!;;;;;;;;;;;;x
-EVTNAME60000;Workers of The World Unite!;;;;;;;;;;;;x
+EVTNAME60000;万国の労働者よ、団結せよ！;;;;;;;;;;;;x
 EVTDESC60000;By parliamentary class struggle, and as effect of intensified class struggle on account of the increasing exploitation of the proletariat by the capitalist classes, the gradual concentration of the means of production in the hands of the few, a club and a revolver, our so called democracy has now transformed into a dictatorship of the proletariat.;;;;;;;;;;;;x
 EVTOPTA60000;Excellent, comrade!;;;;;;;;;;;;x
 EVTNAME60010;Viva El Presidente!;;;;;;;;;;;;x
@@ -6672,7 +6672,7 @@ MODIFIER_RULING_PARTY_SUPPORT;Ruling Party Support;;;;;;;;;;;;x
 MODIFIER_RICH_VOTE;Rich Vote;;;;;;;;;;;;x
 MODIFIER_MIDDLE_VOTE;Middle Vote;;;;;;;;;;;;x
 MODIFIER_POOR_VOTE;Poor Vote;;;;;;;;;;;;x
-MODIFIER_MINIMUN_WAGE;Minimum Wage;;;;;;;;;;;;x
+MODIFIER_MINIMUN_WAGE;最低賃金;;;;;;;;;;;;x
 MODIFIER_POOR_LUXURY_NEEDS;Luxury Needs for Poor Strata;;;;;;;;;;;;x
 MODIFIER_FACTORY_EFFICIENCY;Factory Efficiency;;;;;;;;;;;;x
 MODIFIER_FACTORY_MAINTENANCE;Factory Maintenance;;;;;;;;;;;;x
@@ -9049,7 +9049,7 @@ TUN_communist;The Communist Faction;;;;;;;;;;;;x
 TUN_fascist;The Fascist Faction;;;;;;;;;;;;x
 TUR_reactionary;Janitschars;;;;;;;;;;;;x
 TUR_conservative;Imperial Party;;;;;;;;;;;;x
-TUR_liberal;Young Turk Party;;;;;;;;;;;;x
+TUR_liberal;青年トルコ党;;;;;;;;;;;;x
 TUR_socialist;Kurdish Party;;;;;;;;;;;;x
 TUR_communist;Revolutionary Party;;;;;;;;;;;;x
 TUR_liberal_2;People's Union;;;;;;;;;;;;x
@@ -9198,13 +9198,13 @@ absolute_monarchy;絶対君主制;;;;;;;;;;;;x
 prussian_constitutionalism;プロイセン立憲君主制;;;;;;;;;;;;x
 REMOVE_hms_government;HMS Government;;;;;;;;;;;;x
 democracy;民主制;;;;;;;;;;;;x
-proletarian_dictatorship_ruler;Chairman;;;;;;;;;;;;x
+proletarian_dictatorship_ruler;議長;;;;;;;;;;;;x
 presidential_dictatorship_ruler;大統領;;;;;;;;;;;;x
 bourgeois_dictatorship_ruler;大統領;;;;;;;;;;;;x
 fascist_dictatorship_ruler;総統;;;;;;;;;;;;x
-absolute_monarchy_ruler;King;;;;;;;;;;;;x
-prussian_constitutionalism_ruler;King;;;;;;;;;;;;x
-hms_government_ruler;King;;;;;;;;;;;;x
+absolute_monarchy_ruler;国王;;;;;;;;;;;;x
+prussian_constitutionalism_ruler;国王;;;;;;;;;;;;x
+hms_government_ruler;国王;;;;;;;;;;;;x
 democracy_ruler;大統領;;;;;;;;;;;;x
 TERM_FOR_LIFE;No Elections in this form of government;;;;;;;;;;;;x
 CAN_APPOINT_RULING_PARTY;Can appoint ruling party.;;;;;;;;;;;;x
@@ -9441,42 +9441,42 @@ non_secret_ballots;Non-Secret Ballots;;;;;;;;;;;;x
 non_secret_ballots_desc;The voter's choices are non-confidential. The ruling party knows who the people vote for and can use pressure in order to get the people to vote for them.;;;;;;;;;;;;x
 secret_ballots;Secret Ballots;;;;;;;;;;;;x
 secret_ballots_desc;The voter's choices are confidential in order to prevent others from influencing the voter by bribery or intimidation. The ruling party can't affect the way people votes.;;;;;;;;;;;;x
-social_reforms;Social Reforms;;;;;;;;;;;;x
-wage_reform;Minimum Wage;;;;;;;;;;;;x
+social_reforms;社会改革;;;;;;;;;;;;x
+wage_reform;最低賃金;;;;;;;;;;;;x
 no_minimum_wage;No Minimum Wage;;;;;;;;;;;;x
 no_minimum_wage_desc;No minimum level for wages.;;;;;;;;;;;;x
 REMOVE_trinket_wage;Symbolic Minimum Wage;;;;;;;;;;;;x
 trinket_wage_desc;Minimum wages are very low.;;;;;;;;;;;;x
-low_minimum_wage;Low Minimum Wage;;;;;;;;;;;;x
+low_minimum_wage;低い最低賃金;;;;;;;;;;;;x
 low_minimum_wage_desc;Minimum wages are low.;;;;;;;;;;;;x
-acceptable_minimum_wage;Acceptable Minimum Wage;;;;;;;;;;;;x
+acceptable_minimum_wage;容認可能な最低賃金;;;;;;;;;;;;x
 acceptable_minimum_wage_desc;Minimum wages are acceptable to most people.;;;;;;;;;;;;x
-good_minimum_wage;Good Minimum Wage;;;;;;;;;;;;x
+good_minimum_wage;良い最低賃金;;;;;;;;;;;;x
 good_minimum_wage_desc;Minimum wages are above the normal.;;;;;;;;;;;;x
-work_hours;Max. Workhours;;;;;;;;;;;;x
-no_work_hour_limit;Unlimited Work Day;;;;;;;;;;;;x
+work_hours;最大労働時間;;;;;;;;;;;;x
+no_work_hour_limit;無制限;;;;;;;;;;;;x
 no_work_hour_limit_desc;No limit on working hours per day.;;;;;;;;;;;;x
-fourteen_hours;14 Hour Work Day;;;;;;;;;;;;x
+fourteen_hours;1日14時間労働;;;;;;;;;;;;x
 fourteen_hours_desc;Maximum 14 working hours per day.;;;;;;;;;;;;x
-twelve_hours;12 Hour Work Day;;;;;;;;;;;;x
+twelve_hours;1日12時間労働;;;;;;;;;;;;x
 twelve_hours_desc;Maximum 12 working hours per day.;;;;;;;;;;;;x
-ten_hours;10 Hour Work Day;;;;;;;;;;;;x
+ten_hours;1日10時間労働;;;;;;;;;;;;x
 ten_hours_desc;Maximum 10 working hours per day.;;;;;;;;;;;;x
-eight_hours;8 Hour Work Day;;;;;;;;;;;;x
+eight_hours;1日8時間労働;;;;;;;;;;;;x
 eight_hours_desc;Maximum 8 working hours per day.;;;;;;;;;;;;x
-safety_regulations;Safety Regulations;;;;;;;;;;;;x
-no_safety;No Safety Regulations;;;;;;;;;;;;x
+safety_regulations;安全規制;;;;;;;;;;;;x
+no_safety;安全規制なし;;;;;;;;;;;;x
 no_safety_desc;There are no safety regulations at all.;;;;;;;;;;;;x
-trinket_safety;Minimal Safety Regulations;;;;;;;;;;;;x
+trinket_safety;最低限の安全規制;;;;;;;;;;;;x
 trinket_safety_desc;There are safety regulations governing lethal tasks.;;;;;;;;;;;;x
-low_safety;Limited Safety Regulations;;;;;;;;;;;;x
+low_safety;限定的な安全規制;;;;;;;;;;;;x
 low_safety_desc;There are safety regulations governing dangerous tasks.;;;;;;;;;;;;x
-acceptable_safety;Acceptable Safety Regulations;;;;;;;;;;;;x
+acceptable_safety;容認可能な安全規制;;;;;;;;;;;;x
 acceptable_safety_desc;There are safety regulations governing all physical tasks.;;;;;;;;;;;;x
-good_safety;Excellent Safety Regulations;;;;;;;;;;;;x
+good_safety;優良な安全規制;;;;;;;;;;;;x
 good_safety_desc;There is a full-blown safety regulation system.;;;;;;;;;;;;x
-unemployment_subsidies;Unemployment Subsidies;;;;;;;;;;;;x
-no_subsidies;No Subsidies;;;;;;;;;;;;x
+unemployment_subsidies;失業給付;;;;;;;;;;;;x
+no_subsidies;給付金なし;;;;;;;;;;;;x
 no_subsidies_desc;No unemployment subsidies.;;;;;;;;;;;;x
 trinket_subsidies;Trinket Subsidies;;;;;;;;;;;;x
 trinket_subsidies_desc;Very low unemployment subsidies.;;;;;;;;;;;;x
@@ -10026,11 +10026,11 @@ PROV143;リトルロック;;;;;;;;;;;;x
 PROV144;ホットスプリングス;;;;;;;;;;;;x
 PROV145;ファイエットビル;;;;;;;;;;;;x
 PROV146;セントルイス;;;;;;;;;;;;x
-PROV147;Joplin;;;;;;;;;;;;x
-PROV148;Malden;;;;;;;;;;;;x
-PROV149;Jefferson City;;;;;;;;;;;;x
-PROV150;Kansas City;;;;;;;;;;;;x
-PROV151;Des Moines;;;;;;;;;;;;x
+PROV147;ジョプリン;;;;;;;;;;;;x
+PROV148;モールデン;;;;;;;;;;;;x
+PROV149;ジェファーソンシティ;;;;;;;;;;;;x
+PROV150;カンザスシティ;;;;;;;;;;;;x
+PROV151;デモイン;;;;;;;;;;;;x
 PROV152;Oskaloosa;;;;;;;;;;;;x
 PROV153;Cedar Rapids;;;;;;;;;;;;x
 PROV154;Sioux City;;;;;;;;;;;;x
@@ -13489,20 +13489,20 @@ ENG_68;New Brunswick;;;;;;;;;;;;x
 SPA_1463;Mindanao;;;;;;;;;;;;x
 SPA_1455;Luzón;;;;;;;;;;;;x
 SPA_1459;Visayas;;;;;;;;;;;;x
-catholic;Catholic;;;;;;;;;;;;x
-protestant;Protestant;;;;;;;;;;;;x
-orthodox;Orthodox;;;;;;;;;;;;x
-coptic;Coptic;;;;;;;;;;;;x
-sunni;Sunni;;;;;;;;;;;;x
-shiite;Shiite;;;;;;;;;;;;x
-jewish;Jewish;;;;;;;;;;;;x
-mahayana;Mahayana;;;;;;;;;;;;x
-gelugpa;Gelugpa;;;;;;;;;;;;x
-theravada;Theravada;;;;;;;;;;;;x
-hindu;Hindu;;;;;;;;;;;;x
-shinto;Shinto;;;;;;;;;;;;x
-sikh;Sikh;;;;;;;;;;;;x
-animist;Animist;;;;;;;;;;;;x
+catholic;カトリック;;;;;;;;;;;;x
+protestant;プロテスタント;;;;;;;;;;;;x
+orthodox;正教会;;;;;;;;;;;;x
+coptic;コプト正教会;;;;;;;;;;;;x
+sunni;スンナ派;;;;;;;;;;;;x
+shiite;シーア派;;;;;;;;;;;;x
+jewish;ユダヤ教;;;;;;;;;;;;x
+mahayana;大乗仏教;;;;;;;;;;;;x
+gelugpa;ゲルク派;;;;;;;;;;;;x
+theravada;上座部仏教;;;;;;;;;;;;x
+hindu;ヒンドゥー教;;;;;;;;;;;;x
+shinto;神道;;;;;;;;;;;;x
+sikh;シク教;;;;;;;;;;;;x
+animist;アニミズム;;;;;;;;;;;;x
 NONE;None;;;;;;;;;;;;x
 RULE_BUILD_FACTORY;Build Factory;;;;;;;;;;;;x
 RULE_EXPAND_FACTORY;Expand Factory;;;;;;;;;;;;x
@@ -14086,87 +14086,87 @@ early_classical_theory_and_critique;Early Classical Theory and Critique;;;;;;;;;
 early_classical_theory_and_critique_desc;Early Classical Theory and Critique;;;;;;;;;;;;x
 late_classical_theory;Late Classical Theory;;;;;;;;;;;;x
 late_classical_theory_desc;Late Classical Theory;;;;;;;;;;;;x
-john_elliot_cairnes;John Elliot Cairnes;;;;;;;;;;;;x
+john_elliot_cairnes;ジョン・エリオット・ケアンズ;;;;;;;;;;;;x
 john_elliot_cairnes_desc;John Elliot Cairnes was a follower of John Stuart Mill. His Slave Power (1862), a defense of the North in the American Civil War, made a great impression in England. He has written about noncompeting groups in the labor market and is known for his distrust of mathematical economics. Among his works are The Character and Logical Method of Political Economy (1857) and Some Leading Principles of Political Economy Newly Expounded (1874). ;;;;;;;;;;;;x
 robert_torrens;Robert Torrens;;;;;;;;;;;;x
 robert_torrens_desc;Robert Torrens was a British army officer and owner of the influential Globe newspaper. Torrens was an independent discoverer of the Ricardo's principle of 'comparative advantage' in international trade (albeit a promoter of 'reciprocal tariffs', rather than unilateral free trade). Torrens was also a co-discoverer of the Ricardian theory of 'differential rent', although, in later editions, recanted the Malthusian population doctrine on which it was partly based.  Torrens remained a consistent critic of the 'labor theory of value'. ;;;;;;;;;;;;x
-john_ramsay_mcculloch;John Ramsay McCulloch;;;;;;;;;;;;x
+john_ramsay_mcculloch;ジョン・ラムジー・マカロック;;;;;;;;;;;;x
 john_ramsay_mcculloch_desc;A prolific Scottish journalist, John Ramsay McCulloch was one of the most ardent and doctrinaire expositors of the Classical Ricardian School. McCulloch began his career as the editor of The Scotsman, eventually moving on to the whiggish Edinburgh Review, where he served as economics editor until the late 1830s. McCulloch used his position at the Review to popularize the Classical theories and promote his favorite economic policies, such as the repeal of the Corn Laws, the retention of the Poor Laws and the legalization of trade unions. McCulloch also lectured on political economy at University College London from 1828 to 1832. In 1838, he was appointed the Comptroller of HM Stationary Office. McCulloch's main work, Principles (1825), was perhaps the first successful 'serious' textbook in economics (and a rather loyal reading of Ricardo's theory). However, McCulloch is often considered a 'lightweight' in terms of the development of economic theory. His main contribution was the ill-fated 'wages fund' doctrine (1824, 1825, 1826). McCulloch was also the editor of the 1828 edition of Adam Smith's Wealth of Nations and the 1846 edition of David Ricardo's Works. He also composed some of the earliest accounts of the history of economic thought (naturally, flattering to the Ricardians).  His monumental 1837 treatise provides a statistical account of the failure of the Malthusian population doctrine.;;;;;;;;;;;;x
 nassau_william_sr;Nassau William Sr;;;;;;;;;;;;x
 nassau_william_sr_desc;The works of this economist have been printed and distributed in your country. When the academics have debated and refined their dialogue, its merits will soon be known by large segments of your population. At this point it will produce changed economic behaviour and procedures in your country.;;;;;;;;;;;;x
-james_mill;James Mill;;;;;;;;;;;;x
+james_mill;ジェームズ・ミル;;;;;;;;;;;;x
 james_mill_desc;James Mill was a radical thinker that worked in the shadows of the brilliant, Jeremy Bentham. Together these two men can be described as the inventors of Utilitarianism, and much of its general applicability was explained in Mills works, Elements of Political Economy (1821) and Analysis of the Phenomenon of the Human Mind (1829).;;;;;;;;;;;;x
-john_stuart_mill;John Stuart Mill;;;;;;;;;;;;x
+john_stuart_mill;ジョン・スチュアート・ミル;;;;;;;;;;;;x
 john_stuart_mill_desc;John Stuart Mill was the son of James Mill, the famous utilitarian, he quickly became known as one of the more brilliant minds of the United Kingdom, and also one of the more radical. He published several books among them A System of Logic (1843), Principles of Political Economy (1848), On Liberty (1859), Considerations on Representative Government (1861) and Utilitarianism (1861), all of which made him the centre-figure of social liberalism and a more humane view of society.;;;;;;;;;;;;x
 collectivist_theory;Collectivist Theory;;;;;;;;;;;;x
 collectivist_theory_desc;Collectivist Theory;;;;;;;;;;;;x
-pierre_joseph_proudhon;Pierre Joseph Proudhon;;;;;;;;;;;;x
+pierre_joseph_proudhon;ピエール・ジョゼフ・プルードン;;;;;;;;;;;;x
 pierre_joseph_proudhon_desc;Proudhon was apprenticed as a printer and became interested in politics after he was involved in the printing of The New Industrial and Cooperative World by Charles Fourier. Proudhon now turned to writing and in 1843 published What is Property? In the book Proudhon attacks the injustices of inequality and coined the phrase, 'property is theft'. Proudhon published his most important work, System of Economic Contradictions, was published in 1846. Karl Marx responded to Proudhon's book by writing The Poverty of Philosophy (1847). This was the beginning of the long-term struggle of ideas between the two men. Proudhon was opposed to Marx's authoritarianism and his main influence was on the libertarian socialist movement.;;;;;;;;;;;;x
-karl_marx;Karl Marx;;;;;;;;;;;;x
+karl_marx;カール・マルクス;;;;;;;;;;;;x
 karl_marx_desc;Karl Marx was originally disciple of Hegel, but evolved his idealistic philosophy. Later in Paris he began mixing with members of the working class for the first time. Marx was shocked by their poverty but impressed by their sense of comradeship. In an article that he wrote for the Franco-German Annals, Marx applied Hegel's dialectic theory to what he had observed in Paris. Marx, who now described himself as a communist, argued that the working class (the proletariat), would eventually be the emancipators of society. Marx' most influential works were, The German Ideology, The Communist Manifesto, Principles of Communism, and Das Kapital. For most of his life he lived in England where he published his works and from where he became the most influential socialist of all time.;;;;;;;;;;;;x
-friedrich_engels;Friedrich Engels;;;;;;;;;;;;x
+friedrich_engels;フリードリヒ・エンゲルス;;;;;;;;;;;;x
 friedrich_engels_desc;As a young man Engels went to Manchester to help his father manage his cotton-factory. Engels was shocked by the poverty in the city and began writing an account that was published as Condition of the Working Classes in England (1844). Here Engels met Marx with whom he would write and try to organize the international worker organizations for the rest of his life. Engels lived in the shadows of Marx' intellectually, but economically he financed Marx so that he could write. Basically there wouldn't have been a Marx without an Engels and vice versa.;;;;;;;;;;;;x
-eduard_bernstein;Eduard Bernstein;;;;;;;;;;;;x
+eduard_bernstein;エドゥアルト・ベルンシュタイン;;;;;;;;;;;;x
 eduard_bernstein_desc;Eduard Bernstein was originally a staunch disciple of Marx and started his life in the German Socialdemocratic Party, but during his later exile in London Bernstein gradually became convinced that the best way to obtain socialism in an industrialized country was through trade union activity and parliamentary politics. He published a series of articles where he argued that the predictions made by Karl Marx about the development of capitalism had not come true. He pointed out that the real wages of workers had risen and the polarization of classes between an oppressed proletariat and capitalists, had not materialized. Nor had capital become concentrated in fewer hands. Bernstein's revisionist views appeared in his extremely influential book Evolutionary Socialism (1899).;;;;;;;;;;;;x
-sidney_webb;Sidney Webb;;;;;;;;;;;;x
+sidney_webb;シドニー・ウェッブ;;;;;;;;;;;;x
 sidney_webb_desc;Webb developed socialist ideas while at university and in 1885 he joined the Fabian Society. The society believed that capitalism had created an unjust and inefficient society. The members agreed that the ultimate aim of the group should be to reconstruct 'society in accordance with the highest moral possibilities'. The Fabian Society was a 'fact-finding and fact-dispensing body' and it produced a series of pamphlets on a wide variety of different social issues. Many of these were written by Sidney Webb including Facts for Socialists (1887), Facts for Londoners (1888) and The Eight Hour Day (1891). Webb also wrote A Plan on Campaign for Labour with George Bernard Shaw. Webb later became an important socialdemocratic figure with influence in the international worker organizations.;;;;;;;;;;;;x
-karl_kautsky;Karl Kautsky;;;;;;;;;;;;x
+karl_kautsky;カール・カウツキー;;;;;;;;;;;;x
 karl_kautsky_desc;Karl Kautsky joined the Social Democrat Party (SDP) and was responsible for drafting the Erfurt Program which committed the SDP to an evolutionary form of Marxism. He also wrote and published The Economic Doctrines of Karl Marx (1887) and Thomas Moore and His Utopia (1888). After a while he broke with Bernstein, whom he viewed to lenient and instead stayed true to his more revolutionary view of socialism.;;;;;;;;;;;;x
-jean_jaurès;Jean Jaurès;;;;;;;;;;;;x
+jean_jaurès;ジャン・ジョレス;;;;;;;;;;;;x
 jean_jaurès_desc;Jaurès was elected to the Chamber of Deputies in 1885. Defeated in the 1889 elections he returned to the University of Toulouse. He became increasingly radical in his political views and after reading Karl Marx he began advocating socialism. He was not a revolutionary and supported the Independent Socialists. While out of parliament Jaurès completed his mammoth Socialist History of the French Revolution. He also joined with Aristide Briand and Rene Viviani in 1904 to establish the left-wing newspaper, L'Humanité in 1904. A new Socialist Party under Jaurès grew rapidly at the beginning of the century but split over the correct response to German militarism. Jaurès advocated a policy of international arbitration whereas others supported the Triple Entente.;;;;;;;;;;;;x
 the_historical_theory;The Historical Theory;;;;;;;;;;;;x
 the_historical_theory_desc;The Historical Theory;;;;;;;;;;;;x
-friedrich_list;Friedrich List;;;;;;;;;;;;x
+friedrich_list;フリードリッヒ・リスト;;;;;;;;;;;;x
 friedrich_list_desc;Friedrich List was a nationalist and romantic critic of economic theory and one of the forefathers of the German Historical School. His best-known work, The National System of Political Economy (1841) was written as against the free-trade doctrines that permeated Classical economics. However, his was not a polemical defense of protectionism. He argued it on the basis of his analysis of economics, which stressed political factors - notably, the 'nation' - in economics. List argued that it was the government's responsibility to foster the 'productive powers' of a nation and, once these were in place, then free trade could ensue, but not before. This is akin to the modern 'infant industry' argument for protection. More relevantly, he developed a theory of economic 'stages' which was to serve as a blueprint for the German Historical School.;;;;;;;;;;;;x
-wilhelm_roscher;Wilhelm Roscher;;;;;;;;;;;;x
+wilhelm_roscher;ヴィルヘルム・ロッシャー;;;;;;;;;;;;x
 wilhelm_roscher_desc;A professor at the Univ. of Leipzig (1848-94), he was a founder of the German historical school of economics, which rejected the classical laissez-faire view. Roscher's work emphasized the developmental character of capitalism through detailed historical analyses of the cultures of ancient nations. His System der Volkswirtschaft (5 vol., 1854-94, tr. of 13th ed., Principles of Political Economy, 1878) was an influential textbook in the second half of the 19th cent. His most significant work is Geschichte der National-oekonomik in Deutschland (1874).;;;;;;;;;;;;x
-bruno_hildebrand;Bruno Hildebrand;;;;;;;;;;;;x
+bruno_hildebrand;ブルーノ・ヒルデブラント;;;;;;;;;;;;x
 bruno_hildebrand_desc;Highly critical of Classical theory, Hildebrand spent much of his time attacking Ricardo relentlessly for being materialistic, universalistic and cosmopolitan. Only later in his life did he put his own idea down - in particular, developing a linear 'stages' theory of economic history. His empirical and statistical work, however, did not make much use of these insights.;;;;;;;;;;;;x
-karl_knies;Karl Knies;;;;;;;;;;;;x
+karl_knies;カール・クニース;;;;;;;;;;;;x
 karl_knies_desc;Knies's linear stages argument spoke of 'moral progress' which would render most theories obsolete. His 1873 work, however, contained little of the historical method in it. His political involvements earned him temporary exile in 1848. He wrote Political Economy from the Standpoint of the Historical Method (1853), and Money and Credit (1873).;;;;;;;;;;;;x
-gustav_von_schmoller;Gustav von Schmoller;;;;;;;;;;;;x
+gustav_von_schmoller;グスタフ・フォン・シュモラー;;;;;;;;;;;;x
 gustav_von_schmoller_desc;Schmoller's opposition to Neoclassical economics entered him into a famous methodological debate (Methodenstreit) with Carl Menger. Although many argue that he lost the debate by the simple fact of non-engagement (it is reported that upon receiving Menger's Investigations, he returned it unread to its author and published a 'semi-review' of it claiming that, indeed, it had not even been worth reading), Schmoller nonetheless retained his grip on the German university appointment system and kept Classical and Neoclassical economic theory largely out of German teaching - earning him the eternal enmity of the only potential challenger at the time, Menger's Austrian School. Gustav Schmoller's political involvements were also important, in 1872, he formed the Verein für Sozialpolitik, ('Society for Social Policy'), a group of largely conservative economists which supported a kind of corporatist state-industry-labor nexus. Liberals deplored their advocacy for state interventionism and came to label Schmoller and the Historicists as Kathedersozialisten (or 'Socialists of the Chair') - a jest they never entirely lived down.;;;;;;;;;;;;x
-adolph_wagner;Adolph Wagner;;;;;;;;;;;;x
+adolph_wagner;アドルフ・ワーグナー;;;;;;;;;;;;x
 adolph_wagner_desc;Although one of the more active members of Schmoller's Verein, Wagner actually supported Menger in the Methodenstreit. His work on public finance is what he is best known for in economics. Outside economics, he was a companion of Lassalle and Rodbertus - although not sharing wholly in their socialist ideals and of more conservative instincts in political matters, Wagner was a severe critic of unfettered capitalism and recommended state alleviation of the burden upon labor. He wrote Science of Finance Vol 1-4 (1877-1901), and Foundations of Political Economy (1876). ;;;;;;;;;;;;x
 william_cunningham;William Cunningham;;;;;;;;;;;;x
 william_cunningham_desc;Cunningham was a vocal opponent of the nascent Neoclassical economics, particularly as propounded by his colleague, Alfred Marshall and the Cambridge School.  In economics, he sought to promote the historical method, making him one of the most leading advocates of the English Historical School.  Despite the sustained attacks levied by Cunningham, Marshall was sufficiently influenced by his pleas to try to include some more historical content in his work and operate more 'inductively' in the derivation of his economic principles.  However, he refused to accept Cunningham's main charge -- that the validity of economic laws is conditional on historical, social and cultural context. Cunningham's opposition to Neoclassicism was not only one of method, but also of politics.  Cunningham was deeply opposed to utilitarian philosophy and laissez-faire politics, and penned several tracts defending labor unions and protectionism.  He also resurrected much interest in old Mercantilist thought.;;;;;;;;;;;;x
 neoclassical_theory;Neoclassical Theory;;;;;;;;;;;;x
 neoclassical_theory_desc;Neoclassical Theory;;;;;;;;;;;;x
-johann_heinrich_von_thünen;Johann Heinrich von Thünen;;;;;;;;;;;;x
+johann_heinrich_von_thünen;ヨハン・ハインリヒ・フォン・チューネン;;;;;;;;;;;;x
 johann_heinrich_von_thünen_desc;Johann Heinrich von Thünen was a North German landowner from the Mecklenburg area. Although educated at Göttingen, he spent most of his life managing his rural estate, Tellow.  In the first volume of his treatise, The Isolated State (1826), he laid down the first serious treatment of spatial economics, connecting with the theory of rent.  His second volume (1850) developed the essence of the marginal productivity theory of distribution in a mathematically precise way, thereby making one of the most important Proto-Marginalists of the era. Nearing his death, he asked that his famous equation for the marginal product of labor, or natural wage, be carved into his tombstone.;;;;;;;;;;;;x
-léon_walras;Léon Walras;;;;;;;;;;;;x
+léon_walras;レオン・ワルラス;;;;;;;;;;;;x
 léon_walras_desc;The French economist Léon Walras (pronounced 'Valrasse') has been hailed by Joseph Schumpeter as 'the greatest of all economists'. Walras was one of the three leaders of the Marginalist Revolution, even though his greatest work, Elements of Pure Economics, was published in 1874, three years after those of William Stanley Jevons and Carl Menger. Nonetheless, alone among the three revolutionaries, Léon Walras set forth the new 'marginalist' or 'Neoclassical' theory in a formal general equilibrium setting.   Thus, he endowed it with the multi-market considerations Jevons had largely avoided and the mathematical precision Menger had eschewed. Léon Walras is widely and rightfully regarded as the father of general equilibrium theory.;;;;;;;;;;;;x
-stanley_jevons;Stanley Jevons;;;;;;;;;;;;x
+stanley_jevons;スタンレー・ジェヴォンズ;;;;;;;;;;;;x
 stanley_jevons_desc;The impact of Jevons on economics can hardly be exaggerated.  As the father of Neoclassical economics, his legacy is secure.  However, in some ways, he stopped short of the mark.  Jevons could have gone further by connecting his insights in pure exchange into a wider theory incorporating production, capital, money and the business cycle in a more systematic and consistent manner that would have knocked the Ricardian School completely out of the picture.  Had he not died so young, Jevons might yet have done so, but the next economics treatise he was working on (published posthumously in 1905), did not really seem to go in that ambitious direction.  As such, by the time of his death, the Marginalist Revolution was still in its insurrectionist phase.  It was still a tentative proposition rather than a firmly-set and integrated system, a scientific hypothesis but not quite yet a science. It should be noted that Jevons made maybe as much for the subject of Logics as for economics, which is quite a feat.;;;;;;;;;;;;x
-carl_menger;Carl Menger;;;;;;;;;;;;x
+carl_menger;カール・メンガー;;;;;;;;;;;;x
 carl_menger_desc;Carl Menger has been hailed as one of the three leaders of the 'Marginalist Revolution' of the 1870s, along with William Stanley Jevons and Léon Walras. However, Menger's Grundsätze (Principles), published in 1871, eschewed all the mathematical scaffolding that characterized the works of the other two revolutionaries. As such, many economists have insisted that Menger should be placed apart. In one sense, he can be considered different. Unlike Jevons or Walras, Carl Menger founded a proper 'school of thought' which has more-or-less retained its distinctive character since - namely, the Austrian School. His two disciples at Vienna, Eugen von Böhm-Bawerk and Friedrich von Wieser did much to advance and forge that school. ;;;;;;;;;;;;x
-thorstein_veblen;Thorstein Veblen;;;;;;;;;;;;x
+thorstein_veblen;ソースティン・ヴェブレン;;;;;;;;;;;;x
 thorstein_veblen_desc;Thorstein Veblen is to economics what Jonathan Swift is to English literature: a master of the art of satire. It is essential to effective satire that its message be ambiguous: the reader should never be sure whether the author is absolutely serious or just pulling his or her leg. That quality is certainly present in Swift's Gulliver's Travels and it is also present in Veblen's Theory of the Leisure Class (1899), The Instinct of Workmanship (1914), Imperial Germany and the Industrial Revolution (1915), The Higher Learning in America (1918), Absentee Ownership (1923), and his many essays. In fact, it is there in everything he wrote except The Theory of Business Enterprise (1904), which is as near as he ever came to writing a conventional academic book. No matter which of these books we open, we find the idea that life in a modern industrial community is the result of a polar conflict between 'pecuniary employments' and 'industrial employments', between 'business enterprise' and 'the machine process', between 'vendibility' and 'serviceability'-in short, between making money and making goods. There is a class struggle under capitalism, not between the bourgeoisie and the proletariat, but between businessmen and engineers. Pecuniary habits of thought unite bankers, brokers, lawyers and managers in a defence of private acquisition;;;;;;;;;;;;x
-alfred_marshall;Alfred Marshall;;;;;;;;;;;;x
+alfred_marshall;アルフレッド・マーシャル;;;;;;;;;;;;x
 alfred_marshall_desc;He was, first and foremost, a brilliant and original theorist.;;;;;;;;;;;;x
-augustin_cournot;Augustin Cournot;;;;;;;;;;;;x
+augustin_cournot;オーギュスタン・クールノー;;;;;;;;;;;;x
 augustin_cournot_desc;French philosopher, mathematician and economist, Augustin Cournot has been rightly hailed as one of the greatest of the Proto-Marginalists.  The unique insights of his major economics work, Researches into the Mathematical Principles of Wealth (1838) were without parallel.  Although neglected in his time, the impact of Cournot work on modern economics can hardly be overstated.;;;;;;;;;;;;x
-jules_dupuit;Jules Dupuit;;;;;;;;;;;;x
+jules_dupuit;ジュール・デュピュイ;;;;;;;;;;;;x
 jules_dupuit_desc;Jules Dupuit was perhaps the most illustrious of the French engineer-economists. Trained at the École des Ponts et Chaussées in Paris, Dupuit had a distinguished career as a civil engineer. From his work with infrastructure he was inspired to develop economic theory deeper.;;;;;;;;;;;;x
-vilfredo_pareto;Vilfredo Pareto;;;;;;;;;;;;x
+vilfredo_pareto;ヴィルフレド・パレート;;;;;;;;;;;;x
 vilfredo_pareto_desc;The Italian economist Vilfredo Pareto was one of the leaders of the Lausanne School and an illustrious member of the 'second generation' of the Neoclassical revolution.  Although only mildly influential during his lifetime, his 'tastes-and-obstacles' approach to general equilibrium theory were resurrected during the great 'Paretian Revival' of the 1930s and have guided much of economics since.;;;;;;;;;;;;x
-knut_wicksell;Knut Wicksell;;;;;;;;;;;;x
+knut_wicksell;クヌート・ヴィクセル;;;;;;;;;;;;x
 knut_wicksell_desc;He was a Swedish economist whose work led to the widespread use of the word 'natural' to explain the long-run equilibrium rate of interest. Wicksell had a tremendous influence on economist James M. Buchanan. According to Buchanan, his theory of public choice 'was an almost natural consequence of my absorption of the Wicksellian message,' which stated that economists must cease acting as if government were a benevolent despot. Wicksell was a Malthusian and a strong advocate of birth control. He spoke out on moral issues quite often. He is best known for his work in 'Interest and Prices', in which he laid out his version of the quantity theory of money. His version was different from the standard view at that time in that he looked at the indirect effect that the money supply has on prices. Wicksell also elaborated on the theory of marginal productivity, which states that the payment to each factor of production equals that factors marginal productivity. He also stated that an efficient allocation of resources does not guarantee equitable distribution, because the preexisting distribution of income determines what form this allocation will take, and the preexisting distribution of income is not always just. The Stockholm School developed its own version of macroeconomics, which was based on Wicksell's work on quantity and price theory.;;;;;;;;;;;;x
-irving_fischer;Irving Fischer;;;;;;;;;;;;x
+irving_fischer;アーヴィング・フィッシャー;;;;;;;;;;;;x
 irving_fischer_desc;Irving Fisher was one of the earliest American Neoclassicals of unusual mathematical sophistication. He made numerous important contributions to the Neoclassical Marginalist Revolution. This Yale economist was an eccentric and colorful figure. When Irving Fisher wrote his 1892 dissertation, he constructed a remarkable machine equipped with pumps, wheels, levers and pipes in order to illustrate his price theory. Socially, he was an avid advocate of eugenics and health food diets. He made a fortune with his visible index card system - known today as the rolodex - and advocated the establishment of an 100 percent reserve requirement banking system. His fortune was lost and his reputation was severely marred by the 1929 Wall Street Crash, when just days before the crash, he was reassuring investors that stock prices were not overinflated but, rather, had achieved a new, permanent plateau.;;;;;;;;;;;;x
-joseph_schumpeter;Joseph Schumpeter;;;;;;;;;;;;x
+joseph_schumpeter;ヨーゼフ・シュンペーター;;;;;;;;;;;;x
 joseph_schumpeter_desc;After a quick doctorate at Vienna, Schumpeter roamed about as something of a footloose lawyer until he rejoined academia in 1909. It was while he was teaching at Czernowitz (now in the Ukraine) that he wrote his Theory of Economic Development (1911), where he first outlined his famous theory of entrepreneurship. He argued those daring spirits, entrepreneurs, created technical and financial innovations in the face of competition and falling profits - and that it was these spurts of activity which generated (irregular) economic growth. In 1919, Schumpeter became the Austrian Minister of Finance - unfortunately, presiding over the hyperinflation of the period, and thus was dismissed later that year. Although excelling as a teacher above everything, Joseph Schumpeter nonetheless completed three more books while at Harvard: his didactic Business Cycles (1939), his popular Capitalism, Socialism and Democracy (1942) - in which he famously predicted the downfall of capitalism in the hands of intellectuals.;;;;;;;;;;;;x
-eugen_von_böhm_bawerk;Eugen von Böhm-Bawerk;;;;;;;;;;;;x
+eugen_von_böhm_bawerk;オイゲン・フォン・ベーム＝バヴェルク;;;;;;;;;;;;x
 eugen_von_böhm_bawerk_desc;Böhm-Bawerk's career as a scholar was an intermittent one. The most significant span of scholarly activity was his years at the University of Innsbruck (1881-1889). It was during the 1880s that he first published two of the three volumes of his magnum opus, Capital and Interest. His later years were dominated by his duties as the Austrian Minister of Finance, a position he held, though not continuously, throughout the 1890s and beyond-and for which he is fittingly honored by having his likeness on Austria's one-hundred schilling note. After serving in this capacity and assuming other governmental duties, he returned to teaching in 1904. With a chair at the University of Vienna, he became a colleague of Wieser, successor to the retired Menger. Students who passed through the university during the last decade of Böhm-Bawerk's career (and life: he died in 1914) included Joseph Schumpeter and Ludwig von Mises.;;;;;;;;;;;;x
 keynesian_economics;Keynesian Economics;;;;;;;;;;;;x
 keynesian_economics_desc;Keynesian Economics;;;;;;;;;;;;x
-john_maynard_keynes;John Maynard Keynes;;;;;;;;;;;;x
+john_maynard_keynes;ジョン・メイナード・ケインズ;;;;;;;;;;;;x
 john_maynard_keynes_desc;An English economist who challenged the orthodox view of the role of the State in the management of economic forces in society and the relationship between supply and demand in times of economic crisis. Drawing upon the abilities of states to mobilize their economies during wars with other industrial nations, Keynes maintained that the State could use its influence to promote more efficient economic development. But his most radical theory involved the role of aggregate demand in the economy, arguing that it was demand, not supply, that was the final determinant in the levels of output and growth that an economy could produce, and that in times of economic slowdown or crisis, the solution to the crisis involved revival of demand to absorb excess supply and create the conditions for a revival of production to meet further increases in demand. While his theories had many critics, they became highly influential as the twentieth century progressed;;;;;;;;;;;;x
-richard_kahn;Richard Kahn;;;;;;;;;;;;x
+richard_kahn;リチャード・カーン;;;;;;;;;;;;x
 richard_kahn_desc;An English economist who first developed the concept of the multiplier effect of spending in an economy in the early 1930s. At its base, this is the concept that spending in the economy for goods and services produced new potentials for demand by the providers of those initial goods and services, creating an expansion of demand beyond the initial value of the original spending. Adopted by John Maynard Keynes in his concept of the role of aggregate demand in the functioning of the economy, the concept of the multiplier effect would be increasingly adopted by States facing economic slowdowns by encouraging the State itself to increase its spending in the economy as a way to revive weakened demand and restore economic growth;;;;;;;;;;;;x
-ludwig_von_mises;Ludwig von Mises;;;;;;;;;;;;x
+ludwig_von_mises;ルートヴィヒ・フォン・ミーゼス;;;;;;;;;;;;x
 ludwig_von_mises_desc;An Austrian economist who would challenge the growing influence of Keynesian economics upon the actions of the State in the 1930s. Von Mises argued that the attempt by the State to use its resources to revive demand in the economy created dangerous potentials for inflation of the economy and severe imbalances in the ability of the marketplace to find the balance between supply and demand that would ensure stable economic growth. Von Mises was also a sharp critic of socialist economic models, arguing that such models removed the ability of the market to determine price levels that would ensure adequate supply based on the demands of consumers for goods;;;;;;;;;;;;x
-friedrich_hayek;Friedrich Hayek;;;;;;;;;;;;x
+friedrich_hayek;フリードリヒ・ハイエク;;;;;;;;;;;;x
 friedrich_hayek_desc;An Austrian economist who would challenge the influence of Keynesian economics upon the actions of the State in the 1930s and attach the planned economic models inherent in both socialist and fascist political models increasingly in vogue in the era. Much like his teacher Ludwig von Mises, Hayek attacked Keynesian economic prescriptions for dealing with economic downturns as causing more potential problems than solutions by creating conditions for inflation by raising demand more rapidly than supply could meet. Hayek rejected the idea of central planning in the marketplace as highly inefficient in its ability to produce the supply and quality of goods that would be generated by consumer demand;;;;;;;;;;;;x
 market_functionality;Market Functionality;;;;;;;;;;;;x
 market_functionality_desc;This area centres around the functionality of the market. It concerns both the number of actors on the market and the level of regulations to guide its performance.;;;;;;;;;;;;x

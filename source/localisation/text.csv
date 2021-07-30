@@ -13556,8 +13556,8 @@ army_doctrine;Army Doctrine;;;;;;;;;;;;x
 army_doctrine_desc;This is the doctrinal change of your army. New ideas of how to move and defend while increasing the defense of your units, increasing their speed, and giving you the possibility to enhance your fortifications.;;;;;;;;;;;;x
 post_napoleonic_thought;Post-Napoleonic Thought;;;;;;;;;;;;x
 post_napoleonic_thought_desc;Post-Napoleonic Thought;;;;;;;;;;;;x
-strategic_mobility;Strategic Mobility;;;;;;;;;;;;x
-strategic_mobility_desc;Strategic Mobility;;;;;;;;;;;;x
+strategic_mobility;戦略機動;;;;;;;;;;;;x
+strategic_mobility_desc;戦略機動;;;;;;;;;;;;x
 field_fortifications;Field Fortifications;;;;;;;;;;;;x
 field_fortifications_desc;This was the first fortification using modern materials and new engineering techniques. This application gives you the possibility to build a new fortification type.;;;;;;;;;;;;x
 railroad_transport_groups;Railroad Transport Groups;;;;;;;;;;;;x
@@ -13602,18 +13602,18 @@ grand_battle_plan_vs_superior_firepower;Grand Battle Plan vs Superior Firepower;
 grand_battle_plan_vs_superior_firepower_desc;For those armies that focused on firepower, another crucial decision revolved around how that firepower was to be utilized. One possibility was to craft intricate and detailed plans that integrated artillery strikes on specific targets timed to end just as the main assault was launched, while another possibility was simply to mass together as much artillery as possible and bombard the enemy until he gave way.;;;;;;;;;;;;x
 human_wave_vs_spearhead;Human Wave vs Spearhead;;;;;;;;;;;;x
 human_wave_vs_spearhead_desc;For those armies that focused on mobility, it was important to decide how precisely the army was to be mobile. One option was to use standard infantry forces, and to overwhelm the enemy when contact was made, while another option was to focus on specialized spearhead units, often with a mechanized component, that were best suited for mobility and could quickly exploit weaknesses in the enemy line.;;;;;;;;;;;;x
-light_armament;Light Armament;;;;;;;;;;;;x
+light_armament;軽火器;;;;;;;;;;;;x
 light_armament_desc;This is the development of the main side arms of your units. The applications will upgrade the combat values of your divisions. Better applications within this branch will increase the Fire attack value of your units.;;;;;;;;;;;;x
-flintlock_rifles;Flintlock Rifles;;;;;;;;;;;;x
-flintlock_rifles_desc;Flintlock Rifles;;;;;;;;;;;;x
-muzzle_loaded_rifles;Muzzle-loaded Rifles;;;;;;;;;;;;x
-muzzle_loaded_rifles_desc;Muzzle-loaded Rifles;;;;;;;;;;;;x
-breech_loaded_rifles;Breech-loaded Rifles;;;;;;;;;;;;x
-breech_loaded_rifles_desc;Breech-loaded Rifles;;;;;;;;;;;;x
-machine_guns;Machine Guns;;;;;;;;;;;;x
-machine_guns_desc;Machine Guns;;;;;;;;;;;;x
-bolt_action_rifles;Bolt-action Rifles;;;;;;;;;;;;x
-bolt_action_rifles_desc;Bolt-action Rifles;;;;;;;;;;;;x
+flintlock_rifles;フリントロック式ライフル;;;;;;;;;;;;x
+flintlock_rifles_desc;フリントロック式ライフル;;;;;;;;;;;;x
+muzzle_loaded_rifles;前装式ライフル;;;;;;;;;;;;x
+muzzle_loaded_rifles_desc;前装式ライフル;;;;;;;;;;;;x
+breech_loaded_rifles;後装式ライフル;;;;;;;;;;;;x
+breech_loaded_rifles_desc;後装式ライフル;;;;;;;;;;;;x
+machine_guns;機関銃;;;;;;;;;;;;x
+machine_guns_desc;機関銃;;;;;;;;;;;;x
+bolt_action_rifles;ボルトアクション式ライフル;;;;;;;;;;;;x
+bolt_action_rifles_desc;ボルトアクション式ライフル;;;;;;;;;;;;x
 modern_divisional_structure;Modern Divisional Structure;;;;;;;;;;;;x
 modern_divisional_structure_desc;Modern Divisional Structure;;;;;;;;;;;;x
 interwar_infantry;Interwar Infantry;;;;;;;;;;;;x
@@ -13622,37 +13622,37 @@ interwar_cavalry;Interwar Cavalry;;;;;;;;;;;;x
 interwar_cavalry_desc;With the mass casulaties suffered in the Great War, and the dawning of the motorised age, traditional horse cavalry was on its way out. The new focus on motorisation changed the way cavalry was to be used, and its role on the battlefield. No longer horse-mounted, soldiers would be mounted instead on motorised vehicles. Motorisation would also allow for more fire power from heavier guns, and speed up deployment times.;;;;;;;;;;;;x
 rear_area_dumps;Rear Area Dumps;;;;;;;;;;;;x
 rear_area_dumps_desc;As technology advanced, particularly in terms of motorisation, new concepts needed to be applied to more traditional doctrines. Supply, always an issue to an army, was greatly enhanced by these changes. It was now possible, as well as necessary, to establish major supply depots, from which entire sectors could be supplied. It was no longer necessary for long supply trains to feed frontline units, as centralised depots could rapidly dispense needed material to units.;;;;;;;;;;;;x
-heavy_armament;Heavy Armament;;;;;;;;;;;;x
+heavy_armament;重火器;;;;;;;;;;;;x
 heavy_armament_desc;This is your heavy support as artillery pieces and mortars. The applications will upgrade the combat values of your artillery detachments. Those detachments will give your units an extra punch that will be formidable with the later applications.;;;;;;;;;;;;x
-bronze_muzzle_loaded_artillery;Bronze Muzzle-loaded Artillery;;;;;;;;;;;;x
-bronze_muzzle_loaded_artillery_desc;Bronze Muzzle-loaded Artillery;;;;;;;;;;;;x
-iron_muzzle_loaded_artillery;Iron Muzzle-loaded Artillery;;;;;;;;;;;;x
-iron_muzzle_loaded_artillery_desc;Iron Muzzle-loaded Artillery;;;;;;;;;;;;x
-iron_breech_loaded_artillery;Iron Breech-loaded Artillery;;;;;;;;;;;;x
-iron_breech_loaded_artillery_desc;Iron Breech-loaded Artillery;;;;;;;;;;;;x
-steel_breech_loaded_artillery;Steel Breech-loaded Artillery;;;;;;;;;;;;x
-steel_breech_loaded_artillery_desc;Steel Breech-loaded Artillery;;;;;;;;;;;;x
-indirect_artillery_fire;Indirect Artillery Fire;;;;;;;;;;;;x
-indirect_artillery_fire_desc;Indirect Artillery Fire;;;;;;;;;;;;x
-heavy_armament_dunno;Heavy Armament;;;;;;;;;;;;x
-heavy_armament_dunno_desc;Heavy Armament;;;;;;;;;;;;x
-tankette;Tankette;;;;;;;;;;;;x
+bronze_muzzle_loaded_artillery;青銅製前装砲;;;;;;;;;;;;x
+bronze_muzzle_loaded_artillery_desc;青銅製前装砲;;;;;;;;;;;;x
+iron_muzzle_loaded_artillery;鉄製前装砲;;;;;;;;;;;;x
+iron_muzzle_loaded_artillery_desc;鉄製前装砲;;;;;;;;;;;;x
+iron_breech_loaded_artillery;鉄製後装砲;;;;;;;;;;;;x
+iron_breech_loaded_artillery_desc;鉄製後装砲;;;;;;;;;;;;x
+steel_breech_loaded_artillery;鋼鉄製後装砲;;;;;;;;;;;;x
+steel_breech_loaded_artillery_desc;鋼鉄製後装砲;;;;;;;;;;;;x
+indirect_artillery_fire;間接砲撃;;;;;;;;;;;;x
+indirect_artillery_fire_desc;間接砲撃;;;;;;;;;;;;x
+heavy_armament_dunno;重火器;;;;;;;;;;;;x
+heavy_armament_dunno_desc;重火器;;;;;;;;;;;;x
+tankette;豆戦車;;;;;;;;;;;;x
 tankette_desc;Experience in the Great War showed the value and usefulness of tanks. However, those that saw action tended to be a bit unwieldy in rough terrain, and not very mobile. Tankettes were the first in a long line of developments in tank technology, that allowed for greater speeds and better maneuverability.;;;;;;;;;;;;x
-light_tank;Light Tank;;;;;;;;;;;;x
+light_tank;軽戦車;;;;;;;;;;;;x
 light_tank_desc;A major step forward in tank technology was the light tank. Generally mounting machine guns or a light gun, these were the first ''true'' tanks to be produced. Used in an infantry-support role, these tanks gave divisions much-needed mobile firepower with a solid defensive capability.;;;;;;;;;;;;x
-armoured_cars;Armoured Cars;;;;;;;;;;;;x
+armoured_cars;装甲車;;;;;;;;;;;;x
 armoured_cars_desc;Armored Cars filled a role not well suited to tanks or to regular infantry mounted on trucks. Providing lighter vehicles to cavalry and police units, armored cars could travel at speed over regular roads, and provide a high degree of fire power per vehicle.;;;;;;;;;;;;x
-anti_aircraft_artillery;Anti-Aircraft Artillery;;;;;;;;;;;;x
+anti_aircraft_artillery;対空砲;;;;;;;;;;;;x
 anti_aircraft_artillery_desc;In response to the increasing role of aircraft in armed conflict, new methods and weapons were designed to counter this new threat. Dedicated anti-aircraft artillery was a major step forward in this area.;;;;;;;;;;;;x
-improved_anti_aircraft_artillery;Improved Anti-Aircraft Artillery;;;;;;;;;;;;x
+improved_anti_aircraft_artillery;改良型対空砲;;;;;;;;;;;;x
 improved_anti_aircraft_artillery_desc;"As aircraft improved over time, so too did the weapons to counter them. Heavier guns, with improved sights,"" and better designed shells made the dreaded """"ack-ack"""" all the more dangerous.";;;;;;;;;;;;x
-light_artillery;Light Artillery;;;;;;;;;;;;x
+light_artillery;軽砲;;;;;;;;;;;;x
 light_artillery_desc;As experience from the Great War demonstrated, infantry units, especially those operating in rough terrain, needed a viable option for increased fire power. Traditional guns were too heavy, and too bulky to be used effectively or moved rapidly in adverse conditions. Shorter range guns of smaller calibers, which were easily moved by horse, vehicle, or manpower, were developed to fill this need. These are the so called ''mountain guns.'';;;;;;;;;;;;x
-medium_artillery;Medium Artillery;;;;;;;;;;;;x
+medium_artillery;中砲;;;;;;;;;;;;x
 medium_artillery_desc;Coming out of the mold of traditional artillery, combined with the experiences of the Great War and the rapid increase in motorisation, the medium artillery gun was developed. Of modest calibers, these guns were the standard for regular infantry units, providing them with a greater fire power capability and mobility that they had previously lacked.;;;;;;;;;;;;x
-heavy_artillery;Heavy Artillery;;;;;;;;;;;;x
+heavy_artillery;重砲;;;;;;;;;;;;x
 heavy_artillery_desc;Monsters of the battlefield, these heavy guns were the long-range threats feared by infantrymen everywhere. Large caliber guns that could be placed well behind the front lines, they could support multiple operations within their range.;;;;;;;;;;;;x
-military_science;Military Science;;;;;;;;;;;;x
+military_science;軍事科学;;;;;;;;;;;;x
 military_science_desc;This is the scientific evolution of your army. Statistics, logistics and well laid plans became an important facet of war. New applications will increase the organization value of your units.;;;;;;;;;;;;x
 military_staff_system;Military Staff System;;;;;;;;;;;;x
 military_staff_system_desc;Military Staff System;;;;;;;;;;;;x
@@ -14010,12 +14010,12 @@ amphibious_warfare_training;Amphibious Warfare Training;;;;;;;;;;;;x
 amphibious_warfare_training_desc;The experiences of the First World War had demonstrated not only the potential of large-scale amphibious warfare, but also the limitations of current practices and equipment. As such, in the interwar period the major powers worked to increase their capability to launch effective amphibious assaults. These efforts included not only the development of needed equipment, such as purpose-built landing craft, but also the creation and training of land units specializing in amphibious assaults, and the creation of specific naval strategies and tactics to best utilize warships in support and defence of amphibious operations.;;;;;;;;;;;;x
 naval_exercises;Naval Exercises;;;;;;;;;;;;x
 naval_exercises_desc;A critical component of training for war at sea were naval exercises, in which ships would engage in mock-battles and other realistic training missions so as to understand how to act under wartime conditions. These exercises could involve entire fleets and stretch over days if not weeks, and were important not just for the training they gave, but also for the evaluation of the abilities under pressure of officers and sailors themselves.;;;;;;;;;;;;x
-financial_institutions;Financial Institutions;;;;;;;;;;;;x
+financial_institutions;金融機関;;;;;;;;;;;;x
 financial_institutions_desc;Financial Institutions are organizations that improve the flow of financial assets in your country. The development goes from having not even private banks to instituting a bank inspection board.;;;;;;;;;;;;x
 private_banks;Private Banks;;;;;;;;;;;;x
 private_banks_desc;Private Banks;;;;;;;;;;;;x
-stock_exchange;Stock Exchange;;;;;;;;;;;;x
-stock_exchange_desc;Stock Exchange;;;;;;;;;;;;x
+stock_exchange;証券取引所;;;;;;;;;;;;x
+stock_exchange_desc;証券取引所;;;;;;;;;;;;x
 multitude_of_financial_instruments;Multitude of Financial Instruments;;;;;;;;;;;;x
 multitude_of_financial_instruments_desc;The introduction of a multitude of financial instruments meant not only a smoother flow of capital, but also that the middle class got better return on their private investments.;;;;;;;;;;;;x
 insurance_companies;Insurance Companies;;;;;;;;;;;;x
@@ -14030,8 +14030,8 @@ capital_for_investors;Capital for Investors;;;;;;;;;;;;x
 capital_for_investors_desc;At this point market behaviour had been directed and demand for capital had been focused so that a market for capital had been created.;;;;;;;;;;;;x
 distribution_channels;Distribution Channels;;;;;;;;;;;;x
 distribution_channels_desc;As the line for resource to finished value-added product became longer from specialization, channels of distribution opened as some companies specialized in distribution to shops. This made the supply side more effective.;;;;;;;;;;;;x
-investment_banks;Investment Banks;;;;;;;;;;;;x
-investment_banks_desc;Investment Banks;;;;;;;;;;;;x
+investment_banks;投資銀行;;;;;;;;;;;;x
+investment_banks_desc;投資銀行;;;;;;;;;;;;x
 industrial_rnd_investments;Industrial R&D Investments;;;;;;;;;;;;x
 industrial_rnd_investments_desc;At this point businesses start to make long range production more efficient by investing in the research of new tools and products.;;;;;;;;;;;;x
 industrial_production_investments;Industrial Production Investments;;;;;;;;;;;;x
@@ -14044,29 +14044,29 @@ private_bank_monitoring;Private Bank Monitoring;;;;;;;;;;;;x
 private_bank_monitoring_desc;By instituting a separate agency for monitoring the behaviour of private banks the government had a chance to stop bank crashes and also to restrain banks from committing fraud.;;;;;;;;;;;;x
 market_behaviour_monitoring;Market Behaviour Monitoring;;;;;;;;;;;;x
 market_behaviour_monitoring_desc;By instituting a separate agency for monitoring the behaviour of actors on the market the government had a chance to stop firms from crashing and also to restrain them from committing fraud.;;;;;;;;;;;;x
-mutual_funds;Mutual Funds;;;;;;;;;;;;x
-mutual_funds_desc;Mutual Funds;;;;;;;;;;;;x
+mutual_funds;投資信託会社;;;;;;;;;;;;x
+mutual_funds_desc;投資信託会社;;;;;;;;;;;;x
 buying_on_margin;Buying on Margin;;;;;;;;;;;;x
 buying_on_margin_desc;As more individuals became involved in investing in securities markets in the early twentieth century, the practice of buying on margin developed to increase the amount of shares that could be bought with minimal initial overhead. The principal of buying on margin is that if the investment makes a profit, the profit would cover the cost of the commission charged for allowing the purchase of large amounts of securities with only a minimal initial investment. The risk involved in this type of investment is that if the investment shows a loss, the difference between the initial investment and the commission charged for the purchase must be made up by the investor. How low an initial margin was prudent for the securities industry to accept would be the subject of intense debate, as lower margins both allowed investors with limited capital to invest in markets, but raised the risk of default by these limited-capital investors should the investments fail to produce profits;;;;;;;;;;;;x
-monetary_system;Monetary System;;;;;;;;;;;;x
+monetary_system;貨幣制度;;;;;;;;;;;;x
 monetary_system_desc;A functional economy needs a working monetary system. It needs a balanced money stock for the economic transactions to be done smoothly. Also an effective regulation of this is also needed.;;;;;;;;;;;;x
-no_standard;No Standard;;;;;;;;;;;;x
-no_standard_desc;No Standard;;;;;;;;;;;;x
+no_standard;本位制なし;;;;;;;;;;;;x
+no_standard_desc;本位制なし;;;;;;;;;;;;x
 ad_hoc_money_bill_printing;Ad-Hoc Money Bill Printing;;;;;;;;;;;;x
 ad_hoc_money_bill_printing_desc;Ad-Hoc Money Bill Printing;;;;;;;;;;;;x
-silver_standard;Silver Standard;;;;;;;;;;;;x
+silver_standard;銀本位制;;;;;;;;;;;;x
 silver_standard_desc;This meant a currency system based on silver. Money was cheaper to produce by the government which meant that there was rarely any lack of money in the country. However, the problem was that the silver prices had a tendency to be dominated by gold prices, which meant that foreign trade was often suffering.;;;;;;;;;;;;x
-decimal_monetary_system;Decimal Monetary System;;;;;;;;;;;;x
+decimal_monetary_system;貨幣の十進化;;;;;;;;;;;;x
 decimal_monetary_system_desc;By abolishing non-standardized and strange divisions of the currency like guineas and shillings, and only having a decimal system such as the one in the United States (1 US Dollar = 100 cent), the everyday usage of money was simplified.;;;;;;;;;;;;x
 private_bank_money_bill_printing;Private Bank Money Bill Printing;;;;;;;;;;;;x
 private_bank_money_bill_printing_desc;Private Bank Money Bill Printing;;;;;;;;;;;;x
-double_standard;Double Standard;;;;;;;;;;;;x
+double_standard;金銀複本位制;;;;;;;;;;;;x
 double_standard_desc;This meant a currency system where both gold and silver ran as parallel monetary units. It ensured the state always to be able to produce cheap money, but the difference in price changes between the currencies could have grave effect for the individual citizen.;;;;;;;;;;;;x
 fixed_intramonetary_exchange_rates;Fixed Intramonetary Exchange Rates;;;;;;;;;;;;x
 fixed_intramonetary_exchange_rates_desc;This meant a system of comparing prices of different currencies, and a simplified system of buying and selling them. This improved the efficiency of foreign trade enormously.;;;;;;;;;;;;x
 central_bank_money_bill_printing;Central Bank Money Bill Printing;;;;;;;;;;;;x
 central_bank_money_bill_printing_desc;Central Bank Money Bill Printing;;;;;;;;;;;;x
-gold_standard;Gold Standard;;;;;;;;;;;;x
+gold_standard;金本位制;;;;;;;;;;;;x
 gold_standard_desc;This meant a currency system based on gold. Money was rather expensive to produce by the government and this could sometimes result in a low of money stock. However, the good thing was that the gold prices were rather stable and the trust in gold was high, making the currency stable.;;;;;;;;;;;;x
 international_monetary_exchange_rates;International Monetary Exchange Rates;;;;;;;;;;;;x
 international_monetary_exchange_rates_desc;This meant a system of comparing prices of different currencies, and a simplified system of buying and selling them. This improved the efficiency of foreign trade enormously.;;;;;;;;;;;;x
@@ -14078,9 +14078,9 @@ interest_inflation_weapon;Interest-Inflation Weapon;;;;;;;;;;;;x
 interest_inflation_weapon_desc;By letting the National Bank change the interest rates, the government could, at least to an extent, balance inflation against unemployment.;;;;;;;;;;;;x
 market_determined_exchange_rates;Market-Determined Exchange Rates;;;;;;;;;;;;x
 market_determined_exchange_rates_desc;Market-Determined Exchange Rates;;;;;;;;;;;;x
-hyperinflation;Hyperinflation;;;;;;;;;;;;x
+hyperinflation;ハイパーインフレ;;;;;;;;;;;;x
 hyperinflation_desc;For many nations, the socioeconomic strains caused by involvement in wars with other industrial nations resulted in huge deficits that made it impossible to return immediately to the gold standard. Some nations, facing new demands upon their incomes as a result of new social obligations to those involved in recent wars or obligations for being on the losing side of wars, found the demands too great, and sought to resolve their problems by expanding the amount of currency of circulation. With nothing to guarantee the value of the currency, the result would be to rapidly depreciate the value of the currency relative to other currencies or materials such as gold. The social impact of such government policies were traumatic, especially for those who lived on limited or fixed incomes or those who had investments denominated in the rapidly depreciating currency. To many, the willingness of the State to engage in such activity, and the market reaction to such activities, would lead to a search for alternative ideologies to restore order and stability in society;;;;;;;;;;;;x
-economic_thought_and_critique;Economic Thought and Critique;;;;;;;;;;;;x
+economic_thought_and_critique;経済思想と批評;;;;;;;;;;;;x
 economic_thought_and_critique_desc;The scientific development of Economics gave large repercussions into the functions of the world economy, both on a micro and macro level. New ideas and knowledge was swiftly applied by business and the state to increase the efficiency of their work.;;;;;;;;;;;;x
 early_classical_theory_and_critique;Early Classical Theory and Critique;;;;;;;;;;;;x
 early_classical_theory_and_critique_desc;Early Classical Theory and Critique;;;;;;;;;;;;x
@@ -14088,7 +14088,7 @@ late_classical_theory;Late Classical Theory;;;;;;;;;;;;x
 late_classical_theory_desc;Late Classical Theory;;;;;;;;;;;;x
 john_elliot_cairnes;ジョン・エリオット・ケアンズ;;;;;;;;;;;;x
 john_elliot_cairnes_desc;John Elliot Cairnes was a follower of John Stuart Mill. His Slave Power (1862), a defense of the North in the American Civil War, made a great impression in England. He has written about noncompeting groups in the labor market and is known for his distrust of mathematical economics. Among his works are The Character and Logical Method of Political Economy (1857) and Some Leading Principles of Political Economy Newly Expounded (1874). ;;;;;;;;;;;;x
-robert_torrens;Robert Torrens;;;;;;;;;;;;x
+robert_torrens;ロバート・トーレンズ;;;;;;;;;;;;x
 robert_torrens_desc;Robert Torrens was a British army officer and owner of the influential Globe newspaper. Torrens was an independent discoverer of the Ricardo's principle of 'comparative advantage' in international trade (albeit a promoter of 'reciprocal tariffs', rather than unilateral free trade). Torrens was also a co-discoverer of the Ricardian theory of 'differential rent', although, in later editions, recanted the Malthusian population doctrine on which it was partly based.  Torrens remained a consistent critic of the 'labor theory of value'. ;;;;;;;;;;;;x
 john_ramsay_mcculloch;ジョン・ラムジー・マカロック;;;;;;;;;;;;x
 john_ramsay_mcculloch_desc;A prolific Scottish journalist, John Ramsay McCulloch was one of the most ardent and doctrinaire expositors of the Classical Ricardian School. McCulloch began his career as the editor of The Scotsman, eventually moving on to the whiggish Edinburgh Review, where he served as economics editor until the late 1830s. McCulloch used his position at the Review to popularize the Classical theories and promote his favorite economic policies, such as the repeal of the Corn Laws, the retention of the Poor Laws and the legalization of trade unions. McCulloch also lectured on political economy at University College London from 1828 to 1832. In 1838, he was appointed the Comptroller of HM Stationary Office. McCulloch's main work, Principles (1825), was perhaps the first successful 'serious' textbook in economics (and a rather loyal reading of Ricardo's theory). However, McCulloch is often considered a 'lightweight' in terms of the development of economic theory. His main contribution was the ill-fated 'wages fund' doctrine (1824, 1825, 1826). McCulloch was also the editor of the 1828 edition of Adam Smith's Wealth of Nations and the 1846 edition of David Ricardo's Works. He also composed some of the earliest accounts of the history of economic thought (naturally, flattering to the Ricardians).  His monumental 1837 treatise provides a statistical account of the failure of the Malthusian population doctrine.;;;;;;;;;;;;x
@@ -14098,8 +14098,8 @@ james_mill;ジェームズ・ミル;;;;;;;;;;;;x
 james_mill_desc;James Mill was a radical thinker that worked in the shadows of the brilliant, Jeremy Bentham. Together these two men can be described as the inventors of Utilitarianism, and much of its general applicability was explained in Mills works, Elements of Political Economy (1821) and Analysis of the Phenomenon of the Human Mind (1829).;;;;;;;;;;;;x
 john_stuart_mill;ジョン・スチュアート・ミル;;;;;;;;;;;;x
 john_stuart_mill_desc;John Stuart Mill was the son of James Mill, the famous utilitarian, he quickly became known as one of the more brilliant minds of the United Kingdom, and also one of the more radical. He published several books among them A System of Logic (1843), Principles of Political Economy (1848), On Liberty (1859), Considerations on Representative Government (1861) and Utilitarianism (1861), all of which made him the centre-figure of social liberalism and a more humane view of society.;;;;;;;;;;;;x
-collectivist_theory;Collectivist Theory;;;;;;;;;;;;x
-collectivist_theory_desc;Collectivist Theory;;;;;;;;;;;;x
+collectivist_theory;集産主義理論;;;;;;;;;;;;x
+collectivist_theory_desc;集産主義理論;;;;;;;;;;;;x
 pierre_joseph_proudhon;ピエール・ジョゼフ・プルードン;;;;;;;;;;;;x
 pierre_joseph_proudhon_desc;Proudhon was apprenticed as a printer and became interested in politics after he was involved in the printing of The New Industrial and Cooperative World by Charles Fourier. Proudhon now turned to writing and in 1843 published What is Property? In the book Proudhon attacks the injustices of inequality and coined the phrase, 'property is theft'. Proudhon published his most important work, System of Economic Contradictions, was published in 1846. Karl Marx responded to Proudhon's book by writing The Poverty of Philosophy (1847). This was the beginning of the long-term struggle of ideas between the two men. Proudhon was opposed to Marx's authoritarianism and his main influence was on the libertarian socialist movement.;;;;;;;;;;;;x
 karl_marx;カール・マルクス;;;;;;;;;;;;x
@@ -14114,8 +14114,8 @@ karl_kautsky;カール・カウツキー;;;;;;;;;;;;x
 karl_kautsky_desc;Karl Kautsky joined the Social Democrat Party (SDP) and was responsible for drafting the Erfurt Program which committed the SDP to an evolutionary form of Marxism. He also wrote and published The Economic Doctrines of Karl Marx (1887) and Thomas Moore and His Utopia (1888). After a while he broke with Bernstein, whom he viewed to lenient and instead stayed true to his more revolutionary view of socialism.;;;;;;;;;;;;x
 jean_jaurès;ジャン・ジョレス;;;;;;;;;;;;x
 jean_jaurès_desc;Jaurès was elected to the Chamber of Deputies in 1885. Defeated in the 1889 elections he returned to the University of Toulouse. He became increasingly radical in his political views and after reading Karl Marx he began advocating socialism. He was not a revolutionary and supported the Independent Socialists. While out of parliament Jaurès completed his mammoth Socialist History of the French Revolution. He also joined with Aristide Briand and Rene Viviani in 1904 to establish the left-wing newspaper, L'Humanité in 1904. A new Socialist Party under Jaurès grew rapidly at the beginning of the century but split over the correct response to German militarism. Jaurès advocated a policy of international arbitration whereas others supported the Triple Entente.;;;;;;;;;;;;x
-the_historical_theory;The Historical Theory;;;;;;;;;;;;x
-the_historical_theory_desc;The Historical Theory;;;;;;;;;;;;x
+the_historical_theory;歴史学派理論;;;;;;;;;;;;x
+the_historical_theory_desc;歴史学派理論;;;;;;;;;;;;x
 friedrich_list;フリードリッヒ・リスト;;;;;;;;;;;;x
 friedrich_list_desc;Friedrich List was a nationalist and romantic critic of economic theory and one of the forefathers of the German Historical School. His best-known work, The National System of Political Economy (1841) was written as against the free-trade doctrines that permeated Classical economics. However, his was not a polemical defense of protectionism. He argued it on the basis of his analysis of economics, which stressed political factors - notably, the 'nation' - in economics. List argued that it was the government's responsibility to foster the 'productive powers' of a nation and, once these were in place, then free trade could ensue, but not before. This is akin to the modern 'infant industry' argument for protection. More relevantly, he developed a theory of economic 'stages' which was to serve as a blueprint for the German Historical School.;;;;;;;;;;;;x
 wilhelm_roscher;ヴィルヘルム・ロッシャー;;;;;;;;;;;;x
@@ -14130,8 +14130,8 @@ adolph_wagner;アドルフ・ワーグナー;;;;;;;;;;;;x
 adolph_wagner_desc;Although one of the more active members of Schmoller's Verein, Wagner actually supported Menger in the Methodenstreit. His work on public finance is what he is best known for in economics. Outside economics, he was a companion of Lassalle and Rodbertus - although not sharing wholly in their socialist ideals and of more conservative instincts in political matters, Wagner was a severe critic of unfettered capitalism and recommended state alleviation of the burden upon labor. He wrote Science of Finance Vol 1-4 (1877-1901), and Foundations of Political Economy (1876). ;;;;;;;;;;;;x
 william_cunningham;William Cunningham;;;;;;;;;;;;x
 william_cunningham_desc;Cunningham was a vocal opponent of the nascent Neoclassical economics, particularly as propounded by his colleague, Alfred Marshall and the Cambridge School.  In economics, he sought to promote the historical method, making him one of the most leading advocates of the English Historical School.  Despite the sustained attacks levied by Cunningham, Marshall was sufficiently influenced by his pleas to try to include some more historical content in his work and operate more 'inductively' in the derivation of his economic principles.  However, he refused to accept Cunningham's main charge -- that the validity of economic laws is conditional on historical, social and cultural context. Cunningham's opposition to Neoclassicism was not only one of method, but also of politics.  Cunningham was deeply opposed to utilitarian philosophy and laissez-faire politics, and penned several tracts defending labor unions and protectionism.  He also resurrected much interest in old Mercantilist thought.;;;;;;;;;;;;x
-neoclassical_theory;Neoclassical Theory;;;;;;;;;;;;x
-neoclassical_theory_desc;Neoclassical Theory;;;;;;;;;;;;x
+neoclassical_theory;新古典派理論;;;;;;;;;;;;x
+neoclassical_theory_desc;新古典派理論;;;;;;;;;;;;x
 johann_heinrich_von_thünen;ヨハン・ハインリヒ・フォン・チューネン;;;;;;;;;;;;x
 johann_heinrich_von_thünen_desc;Johann Heinrich von Thünen was a North German landowner from the Mecklenburg area. Although educated at Göttingen, he spent most of his life managing his rural estate, Tellow.  In the first volume of his treatise, The Isolated State (1826), he laid down the first serious treatment of spatial economics, connecting with the theory of rent.  His second volume (1850) developed the essence of the marginal productivity theory of distribution in a mathematically precise way, thereby making one of the most important Proto-Marginalists of the era. Nearing his death, he asked that his famous equation for the marginal product of labor, or natural wage, be carved into his tombstone.;;;;;;;;;;;;x
 léon_walras;レオン・ワルラス;;;;;;;;;;;;x
@@ -14158,8 +14158,8 @@ joseph_schumpeter;ヨーゼフ・シュンペーター;;;;;;;;;;;;x
 joseph_schumpeter_desc;After a quick doctorate at Vienna, Schumpeter roamed about as something of a footloose lawyer until he rejoined academia in 1909. It was while he was teaching at Czernowitz (now in the Ukraine) that he wrote his Theory of Economic Development (1911), where he first outlined his famous theory of entrepreneurship. He argued those daring spirits, entrepreneurs, created technical and financial innovations in the face of competition and falling profits - and that it was these spurts of activity which generated (irregular) economic growth. In 1919, Schumpeter became the Austrian Minister of Finance - unfortunately, presiding over the hyperinflation of the period, and thus was dismissed later that year. Although excelling as a teacher above everything, Joseph Schumpeter nonetheless completed three more books while at Harvard: his didactic Business Cycles (1939), his popular Capitalism, Socialism and Democracy (1942) - in which he famously predicted the downfall of capitalism in the hands of intellectuals.;;;;;;;;;;;;x
 eugen_von_böhm_bawerk;オイゲン・フォン・ベーム＝バヴェルク;;;;;;;;;;;;x
 eugen_von_böhm_bawerk_desc;Böhm-Bawerk's career as a scholar was an intermittent one. The most significant span of scholarly activity was his years at the University of Innsbruck (1881-1889). It was during the 1880s that he first published two of the three volumes of his magnum opus, Capital and Interest. His later years were dominated by his duties as the Austrian Minister of Finance, a position he held, though not continuously, throughout the 1890s and beyond-and for which he is fittingly honored by having his likeness on Austria's one-hundred schilling note. After serving in this capacity and assuming other governmental duties, he returned to teaching in 1904. With a chair at the University of Vienna, he became a colleague of Wieser, successor to the retired Menger. Students who passed through the university during the last decade of Böhm-Bawerk's career (and life: he died in 1914) included Joseph Schumpeter and Ludwig von Mises.;;;;;;;;;;;;x
-keynesian_economics;Keynesian Economics;;;;;;;;;;;;x
-keynesian_economics_desc;Keynesian Economics;;;;;;;;;;;;x
+keynesian_economics;ケインズ経済学;;;;;;;;;;;;x
+keynesian_economics_desc;ケインズ経済学;;;;;;;;;;;;x
 john_maynard_keynes;ジョン・メイナード・ケインズ;;;;;;;;;;;;x
 john_maynard_keynes_desc;An English economist who challenged the orthodox view of the role of the State in the management of economic forces in society and the relationship between supply and demand in times of economic crisis. Drawing upon the abilities of states to mobilize their economies during wars with other industrial nations, Keynes maintained that the State could use its influence to promote more efficient economic development. But his most radical theory involved the role of aggregate demand in the economy, arguing that it was demand, not supply, that was the final determinant in the levels of output and growth that an economy could produce, and that in times of economic slowdown or crisis, the solution to the crisis involved revival of demand to absorb excess supply and create the conditions for a revival of production to meet further increases in demand. While his theories had many critics, they became highly influential as the twentieth century progressed;;;;;;;;;;;;x
 richard_kahn;リチャード・カーン;;;;;;;;;;;;x
@@ -14260,170 +14260,170 @@ i_scientific_management;Scientific Management;;;;;;;;;;;;x
 i_scientific_management_desc;A theory of production management developed by Frederick William Taylor in 1911 that asserted that worker productivity could be maximized by optimizing different tasks to those workers who are best able to perform those tasks. In combination with the provision of break times to workers to break the monotony of the daily work routine, Taylor’s theories of worker management and “fitting the worker to the job” would come to be embraced as a basic tenet to maintaining and expanding production. However, one limit to Taylorism was its emphasis of the worker as simply part of the production process and as the twentieth century evolved some commentators came to see Taylor’s approach to worker management as a cause of increased interest in labor unions and socialism among the working class;;;;;;;;;;;;x
 human_resource_development;Human Resource Development;;;;;;;;;;;;x
 human_resource_development_desc;A theory of production management developed from the work of Elton Mayo based on research into productivity conducted at the Hawthorne Works in Chicago in the United States in the 1920s. Challenging the theories of Scientific Management, the Hawthorne Studies, and the interpretation of the data provided by Mayo, a more “human-centered” approach to worker management as the key to improved productivity was developed. By making workers feel they were a valued part of the production process and not simply “cogs in the machine” productivity would increase. While the analysis of the data was disputed by many researchers, the arguments gained influence as the twentieth century evolved;;;;;;;;;;;;x
-aesthetics;Aesthetics;;;;;;;;;;;;x
+aesthetics;芸術;;;;;;;;;;;;x
 aesthetics_desc;This area involves the development and refinements in Literature, Art and Music.;;;;;;;;;;;;x
-classicism_n_early_romanticism;Classicism & Early Romanticism;;;;;;;;;;;;x
-classicism_n_early_romanticism_desc;Classicism & Early Romanticism;;;;;;;;;;;;x
-romanticism;Romanticism;;;;;;;;;;;;x
-romanticism_desc;Romanticism;;;;;;;;;;;;x
-romanticist_literature;Romanticist Literature;;;;;;;;;;;;x
+classicism_n_early_romanticism;古典主義と初期ロマン主義;;;;;;;;;;;;x
+classicism_n_early_romanticism_desc;古典主義と初期ロマン主義;;;;;;;;;;;;x
+romanticism;ロマン主義;;;;;;;;;;;;x
+romanticism_desc;ロマン主義;;;;;;;;;;;;x
+romanticist_literature;ロマン派文学;;;;;;;;;;;;x
 romanticist_literature_desc;The romanticists finally broke with the classical demands on strictness and correctness. By celebrating and exploring human emotions and imagination, they set the path for future artistic movements in the 19th- and early 20th century. Expressing their emotional response to nature were, amongst others: William Wordsworth, Samuel Taylor Coleridge, Lord Byron, Percy Bysshe Shelley and John Keats.;;;;;;;;;;;;x
-romanticist_art;Romanticist Art;;;;;;;;;;;;x
+romanticist_art;ロマン派美術;;;;;;;;;;;;x
 romanticist_art_desc;The romanticists finally broke with the classical demands on strictness and correctness. By celebrating and exploring human emotions and imagination, they set the path for future artistic movements in the 19th- and early 20th century. Great artists closely associated with Romanticism include J.M.W. Turner, Caspar David Friedrich, John Constable, and William Blake.;;;;;;;;;;;;x
-romanticist_music;Romanticist Music;;;;;;;;;;;;x
+romanticist_music;ロマン派音楽;;;;;;;;;;;;x
 romanticist_music_desc;The romanticists finally broke with the classical demands on strictness and correctness. By celebrating and exploring human emotions and imagination, they set the path for future artistic movements in the 19th- and early 20th century. Of the romanticist era a few composers stand out against the rest. Ludwig van Beethoven, Frederic Chopin and Franz Schubert were among those.;;;;;;;;;;;;x
-realism;Realism;;;;;;;;;;;;x
-realism_desc;Realism;;;;;;;;;;;;x
-realist_literature;Realist Literature;;;;;;;;;;;;x
+realism;写実主義;;;;;;;;;;;;x
+realism_desc;写実主義;;;;;;;;;;;;x
+realist_literature;写実主義文学;;;;;;;;;;;;x
 realist_literature_desc;The realists opposed the ever-present glorification and dramatisation in the arts. Their ambition was to portray the world naked, just as they saw it with their own eyes. With an unblurred vision and eye for each detail in their surroundings, they set their focus on the everyday life of the ordinary man.;;;;;;;;;;;;x
-realist_art;Realist Art;;;;;;;;;;;;x
+realist_art;写実主義美術;;;;;;;;;;;;x
 realist_art_desc;The realists opposed the ever-present glorification and dramatisation in the arts. Their ambition was to portray the world naked, just as they saw it with their own eyes. With an unblurred vision and eye for each detail in their surroundings, they set their focus on the everyday life of the ordinary man.;;;;;;;;;;;;x
-realist_music;Realist Music;;;;;;;;;;;;x
+realist_music;写実主義音楽;;;;;;;;;;;;x
 realist_music_desc;The realists opposed the ever-present glorification and dramatisation in the arts. Their ambition was to portray the world naked, just as they saw it with their own eyes. With an unblurred vision and eye for each detail in their surroundings, they set their focus on the everyday life of the ordinary man.;;;;;;;;;;;;x
-impressionism;Impressionism;;;;;;;;;;;;x
-impressionism_desc;Impressionism;;;;;;;;;;;;x
-impressionist_literature;Impressionist Literature;;;;;;;;;;;;x
+impressionism;印象派;;;;;;;;;;;;x
+impressionism_desc;印象派;;;;;;;;;;;;x
+impressionist_literature;印象派文学;;;;;;;;;;;;x
 impressionist_literature_desc;The ambition of the impressionists was depicting the world not only as it was seen and known, but also as it was felt and experienced. This ambition led them to explore and extend the boundaries of their tools and traditions. Literary impressionism was manifested through mostly symbolic poetry, describing the world in vague, sometimes momentary words. Major writers were Paul Verlaine, Stéphane Mallarmé, and in America T.S. Eliot and James Joyce.;;;;;;;;;;;;x
-impressionist_art;Impressionist Art;;;;;;;;;;;;x
+impressionist_art;印象派美術;;;;;;;;;;;;x
 impressionist_art_desc;The ambition of the impressionists was depicting the world not only as it was seen and known, but also as it was felt and experienced. This ambition led them to explore and extend the boundaries of their tools and traditions. Claude Monet, Auguste Renoir, Alfred Sisley, and Frederic Bazille were among those that defined the era and made some deep impressions in the history of art.;;;;;;;;;;;;x
-impressionist_music;Impressionist Music;;;;;;;;;;;;x
+impressionist_music;印象派音楽;;;;;;;;;;;;x
 impressionist_music_desc;The ambition of the impressionists was depicting the world not only as it was seen and known, but also as it was felt and experienced. This ambition led them to explore and extend the boundaries of their tools and traditions. Claude Debussy was considered the ancestor of musical impressionism, but others like Maurice Ravel, Frederick Delius and Ottorino Respighi were major players in this revolt against the romantic ideals that had dominated music for so long.;;;;;;;;;;;;x
-expressionism;Expressionism;;;;;;;;;;;;x
-expressionism_desc;Expressionism;;;;;;;;;;;;x
-expressionist_literature;Expressionist Literature;;;;;;;;;;;;x
+expressionism;表現主義;;;;;;;;;;;;x
+expressionism_desc;表現主義;;;;;;;;;;;;x
+expressionist_literature;表現主義文学;;;;;;;;;;;;x
 expressionist_literature_desc;The expressionists rushed to exploit the newly expanded boundaries of expression, and break some of their own. But unlike their predecessors, they did not wish to portray the physical world, but use it as a medium for expressing the emotions, and the soul, within.;;;;;;;;;;;;x
-expressionist_art;Expressionist Art;;;;;;;;;;;;x
+expressionist_art;表現主義美術;;;;;;;;;;;;x
 expressionist_art_desc;The expressionists rushed to exploit the newly expanded boundaries of expression, and break some of their own. But unlike their predecessors, they did not wish to portray the physical world, but use it as a medium for expressing the emotions, and the soul, within. The most important expressionist group was the German school, which included painters Ernst Ludwig Kirchner, Erich Heckel, Karl Schmidt-Rottluff, Emil Nolde, Max Pechstein, and Otto Müller.;;;;;;;;;;;;x
-expressionist_music;Expressionist Music;;;;;;;;;;;;x
+expressionist_music;表現主義音楽;;;;;;;;;;;;x
 expressionist_music_desc;The expressionists rushed to exploit the newly expanded boundaries of expression, and break some of their own. But unlike their predecessors, they did not wish to portray the physical world, but use it as a medium for expressing the emotions, and the soul, within. Music went through a dramatic change during the Expressionist movement. No longer were songs ruled by melody and continuity. Three major expressionist composers are Schoenberg, Alban Berg and Paul Hindemith.;;;;;;;;;;;;x
-mass_culture_n_the_avant_garde;Mass Culture & the Avant-Garde;;;;;;;;;;;;x
-mass_culture_n_the_avant_garde_desc;Mass Culture & the Avant-Garde;;;;;;;;;;;;x
+mass_culture_n_the_avant_garde;大衆文化とアバンギャルド;;;;;;;;;;;;x
+mass_culture_n_the_avant_garde_desc;大衆文化とアバンギャルド;;;;;;;;;;;;x
 avantgarde_literature;Avantgarde Literature;;;;;;;;;;;;x
 avantgarde_literature_desc;Using the newly developed means of expressions, the avant-garde gave the means a meaning of itself. Setting off to break down those pillars of tradition that were still standing, the avant-garde spread like seeds in the wind. A few rooted, many didn't.;;;;;;;;;;;;x
 avantgarde_art;Avantgarde Art;;;;;;;;;;;;x
 avantgarde_art_desc;Using the newly developed means of expressions, the avant-garde gave the means a meaning of itself. Setting off to break down those pillars of tradition that were still standing, the avant-garde spread like seeds in the wind. A few rooted, many didn't.;;;;;;;;;;;;x
 avantgarde_music;Avantgarde Music;;;;;;;;;;;;x
 avantgarde_music_desc;Using the newly developed means of expressions, the avant-garde gave the means a meaning of itself. Setting off to break down those pillars of tradition that were still standing, the avant-garde spread like seeds in the wind. A few rooted, many didn't.;;;;;;;;;;;;x
-surrealism;Surrealism;;;;;;;;;;;;x
+surrealism;シュルレアリスム;;;;;;;;;;;;x
 surrealism_desc;Evolving from the iconoclasm of the Dada movement, Surrealism sought via its works to engage the public into a voyage of discovery of the inner workings of the mind, where they felt true reality lay in a world increasingly corrupted by incessant materialism and the horrors of modern warfare. Though the term was coined by Andre Breton, its most famous proponent within the world of painting would be the flamboyant Salvador Dali;;;;;;;;;;;;x
 modern_design;Modern Design;;;;;;;;;;;;x
 modern_design_desc;With the rise of modern industrial practices and the increasing availability of new materials for construction purposes, a new school of architecture and design would evolve in the early twentieth century that would mark a radical break with the definitions of style of the past. Following upon the dictum “Form Follows Function,” a new focus in architechture and design based around clean lines, verticality and a deliberate lack of orientation would come to the fore in the work of architects such as Louis Henri Sullivan, Frank Lloyd Wright, Walter Gropius and Le Courboisier and in schools of design such as the Bauhaus;;;;;;;;;;;;x
-jazz;Jazz;;;;;;;;;;;;x
+jazz;ジャズ;;;;;;;;;;;;x
 jazz_desc;Originating in the fusion of Western musical tradition with elements of traditional African music, Jazz evolved out of the nightclubs of New Orleans in the southern United States in the early twentieth century. Its blend of frenetic, intoxicating rhythms, powerful melodies which encouraged improvisation by performers to add their own distinctive touches to each performance, and energetic vocals would hit upon the world just as new technologies to spread new music, such as the phonograph record, radio and sound cinema, provided a platform to showcase it to a worldwide audience. In the 1920s it became one of the dominant forms of popular music in the world, though many of the traditional arbiters of taste frowned upon its popularity as further proof that society was rebelling against proper authority;;;;;;;;;;;;x
-socialist_realism;Socialist Realism;;;;;;;;;;;;x
+socialist_realism;社会主義リアリズム;;;;;;;;;;;;x
 socialist_realism_desc;The growing split between elite and popular forms of cultural production in the early twentieth century would merge with the rise of new anti-liberal political ideologies to result in a backlash against the cultural avant-garde by the growing power of the State in the name of ‘the people.” In both fascist and communist regimes, a new artistic ethos would develop that encouraged production that the masses could not only understand, but encourage the installation of the values that these regimes wished to instill upon the societies they governed. For the cultural elite, a stark choice was offered, either accept the limits of creativity imposed by the State in one’s work, or face the retribution of the State for challenging its authority. In communist regimes this new artistic ethos came to be known as Socialist Realism, but fascist regimes had their own analogous stylistic ethos which was imposed from above;;;;;;;;;;;;x
-philosophy;Philosophy;;;;;;;;;;;;x
+philosophy;哲学;;;;;;;;;;;;x
 philosophy_desc;This area is the development of thoughts in general. Specifically though it is the change view of the human being and its consciousness, it is also a discussion concerning the metaquestion of what we can know anything about. However, the areas that Philosophy undertakes are so big it could be called 'a forthgoing discussion about everything'.;;;;;;;;;;;;x
 late_enlightenment_philosophy;Enlightenment Philosophy;;;;;;;;;;;;x
 late_enlightenment_philosophy_desc;Enlightenment Philosophy;;;;;;;;;;;;x
-idealism;Idealism;;;;;;;;;;;;x
-idealism_desc;Idealism;;;;;;;;;;;;x
-neokantian_idealism;Neokantian Idealism;;;;;;;;;;;;x
+idealism;観念論;;;;;;;;;;;;x
+idealism_desc;観念論;;;;;;;;;;;;x
+neokantian_idealism;新カント派観念論;;;;;;;;;;;;x
 neokantian_idealism_desc;Kants transcendental idealism had meant that the world can only be understood through categories, or ideal concepts that are immanent in us, and empirically. This is sometimes called weak empiricism. The neokantian idealist, however, departed very far from Kant and more or less went back to a more classical idealism though interpreted in a kantian language referring to categories in their analyses of the world.;;;;;;;;;;;;x
-hegelian_idealism;Hegelian Idealism;;;;;;;;;;;;x
+hegelian_idealism;ヘーゲル派観念論;;;;;;;;;;;;x
 hegelian_idealism_desc;As neokantian thinkers fought over the best way to interpret the knowledge Kant had developed, Hegel a rare breed among philosophers delivered his own version of idealist philosophy. Its main tenant was the philosophical view that the mind or spirit constitutes the fundamental reality which draws history onwards in a semi-deterministic fashion. His influence cannot be underestimated, among his disciples was the young Karl Marx who further developed this type of idealism though into a different direction.;;;;;;;;;;;;x
 proto_existentialism;Proto-Existentialism;;;;;;;;;;;;x
 proto_existentialism_desc;This was not a philosophical movement but disparate philosophers analyzing and discussing concepts and conceptions which they considered flawed. The general notion about things as Intuition, Time, Intellect, and Being had to be reformulated not to create pseudoproblems.;;;;;;;;;;;;x
-empiricism;Empiricism;;;;;;;;;;;;x
-empiricism_desc;Empiricism;;;;;;;;;;;;x
-pragmatism;Pragmatism;;;;;;;;;;;;x
+empiricism;経験論;;;;;;;;;;;;x
+empiricism_desc;経験論;;;;;;;;;;;;x
+pragmatism;実用主義;;;;;;;;;;;;x
 pragmatism_desc;Pragmatism is perhaps the only peculiarly American school of philosophy. The name denotes a concern for the practical, taking human action and its consequences as the basic measure of truth, value, etc. This translates to experimentation not merely as a method of scientific investigation but as the primary way humans engage each other and the world around them.;;;;;;;;;;;;x
-i_empiricism;Empiricism;;;;;;;;;;;;x
+i_empiricism;経験論;;;;;;;;;;;;x
 i_empiricism_desc;In its strong form, it is the thesis that there is no reality behind appearances. A weaker form of empiricism admits of the existence of a reality which is, however, trans-empirical. The transcendent nature of reality determines that we can have no knowledge of it and thus must simply catalog the formal relations between appearances.;;;;;;;;;;;;x
-analytic_philosophy;Analytic Philosophy;;;;;;;;;;;;x
-analytic_philosophy_desc;Analytic Philosophy;;;;;;;;;;;;x
-i_analytic_philosophy;Analytic Philosophy;;;;;;;;;;;;x
+analytic_philosophy;分析哲学;;;;;;;;;;;;x
+analytic_philosophy_desc;分析哲学;;;;;;;;;;;;x
+i_analytic_philosophy;分析哲学;;;;;;;;;;;;x
 i_analytic_philosophy_desc;This was originally a disparate movement of philosophers who wanted to free logics and the foundation of mathematics from elder defunct and inconsistent thesis. It later developed into trying to bridge language and formal logics and thus create a objective realist ground for reality. This took a sidepath into logical positivism. However the objectivist position crashed as one of its early protegés Ludwig Wittgenstein took a 90 degree turn and tried to refute his own earlier position.;;;;;;;;;;;;x
-modern_logics;Modern Logics;;;;;;;;;;;;x
+modern_logics;現代論理学;;;;;;;;;;;;x
 modern_logics_desc;Many of those philosophers belonging in some sense to the area of Analytic Philosophy were also those who revolutionized logics. Others where famous mathematicians who as they delved into the fundaments of mathematics developed ideas that were as important for logics as mathematics.;;;;;;;;;;;;x
-logical_positivism;Logical Positivism;;;;;;;;;;;;x
+logical_positivism;論理実証主義;;;;;;;;;;;;x
 logical_positivism_desc;Logical positivists denied the soundness of metaphysics and traditional philosophy. They asserted that many philosophical problems are indeed meaningless, primarily concerned with the logical analysis of scientific knowledge. They though failed to secure what they themselves considered to be the sound foundation of knowledge and is today most often considered a dead-end.;;;;;;;;;;;;x
-philosophy_of_language;Philosophy of Language;;;;;;;;;;;;x
+philosophy_of_language;言語哲学;;;;;;;;;;;;x
 philosophy_of_language_desc;This is the study of philosophical questions about language, especially about meaning and truth of words, phrases, and sentences in general. It doesn't ask what particular words mean, or whether particular sentences are true. Except of course for words and sentences about the language. Rather, it asks what meaning and truth in general are. It was developed out of Wittgensteins critique of his own earlier work Tractatus Logico-Philosophicus, and to some extent the whole analytic tradition.;;;;;;;;;;;;x
-phenomenology_n_hermeneutic;Phenomenology & Hermeneutic;;;;;;;;;;;;x
-phenomenology_n_hermeneutic_desc;Phenomenology & Hermeneutic;;;;;;;;;;;;x
-phenomenology;Phenomenology;;;;;;;;;;;;x
+phenomenology_n_hermeneutic;現象学と解釈学;;;;;;;;;;;;x
+phenomenology_n_hermeneutic_desc;現象学と解釈学;;;;;;;;;;;;x
+phenomenology;現象学;;;;;;;;;;;;x
 phenomenology_desc;Phenomenology was the view that something 'is' in relation to how it is experienced, its causes, its purposes and its grounds. It is neither correctly described as either realism or idealism, but to some degree refutes both.;;;;;;;;;;;;x
-hermeneutics;Hermeneutics;;;;;;;;;;;;x
+hermeneutics;解釈学;;;;;;;;;;;;x
 hermeneutics_desc;Hermeneutics is either a side-branch, or an evolution of Phenomenology, and stands for a interpretionist view of reality, but its belonging is more clearer associated with idealism than realism.;;;;;;;;;;;;x
-anti__rationalism;Anti- Rationalism;;;;;;;;;;;;x
-anti__rationalism_desc;Anti- Rationalism;;;;;;;;;;;;x
-existentialism;Existentialism;;;;;;;;;;;;x
+anti__rationalism;非合理主義;;;;;;;;;;;;x
+anti__rationalism_desc;非合理主義;;;;;;;;;;;;x
+existentialism;実存主義;;;;;;;;;;;;x
 existentialism_desc;Existentialism has many mothers. In one way it could be interpreted as a radical individualism traced from Kierkegaard and Nietzsche, but it is more. But it also the notion of the given as not really given but only meaningful through the process of interpretation something that it got from Husserl and more indirectly from Bretano. However it was take further by Heidegger and later Sartre, Beauvoir, and Camus, and became focused on what give meaning to the person, where the person should be understood more like a being that is free to make action and thus create her own meaning than the old cartesian self.;;;;;;;;;;;;x
-nihilism_and_the_will;Nihilism and The Will;;;;;;;;;;;;x
+nihilism_and_the_will;ニヒリズムと意志;;;;;;;;;;;;x
 nihilism_and_the_will_desc;The foundations for the trend away from the emphasis on human rationality in philosophy in the late nineteenth and early twentieth centuries would be established with a revival in the interest among some philosophers in nihilism, the rejection of the idea that the life of the individual has any meaning or purpose in the grand workings of the universe. In place of the self-value of the individual as a being, focus was placed on The Will, the human ability to intervene in a situation to his own benefit. Developed most effectively in the writings of Friedrich Nietzsche in the late nineteenth century, the dramatic impact of warfare in the industrial era would lead to further refinement of the concept by philosophers such as Martin Heidegger in the early twentieth century. In its denial of the value of absolutes as guides for the conduct of human behavior, Nihilism would help contribute to the further questioning, and for many the ultimate rejection, of the values and beliefs that had shaped the Victorian world, while the emphasis on Will would encourage action to challenge accepted practices and encourage the construction of new values;;;;;;;;;;;;x
-futurism;Futurism;;;;;;;;;;;;x
+futurism;未来派;;;;;;;;;;;;x
 futurism_desc;As the questioning of the values and structures of the Victorian era gained momentum in intellectual circles in the early twentieth century, some intellectuals began to argue that a clean break with the past was needed in order to build a brilliant new future that the rise of industrial civilization had promised. Beginning as a movement within the arts that embraced new materials and stylistic techniques that attempted to capture the essence of material power and speed, Futurism would soon spread as an idea to challenge conventional structures of society and call for their replacement with a new social, political and economic order that embraced the reality of industrial society;;;;;;;;;;;;x
-quantum_theory;Quantum Theory;;;;;;;;;;;;x
+quantum_theory;量子論;;;;;;;;;;;;x
 quantum_theory_desc;The dramatic expansion of scientific knowledge in the nineteenth century would lead to a questioning of the rational model of the basic structures of the universe that had culminated in the work of Isaac Newton in the late seventeenth century. As scientific equipment became more precise, discrepancies in the models of atomic behavior as understood in the nineteenth century resulted in further research into the nature of atomic particles and their interaction with forces such as energy. As a result of the work of physicists such as Albert Einstein and Werner Heisenberg, the idea that the basic structures of the universe could be known with precision by humans was shown to be incorrect, and an alternative view that there were elements of unpredictability in the structure and behavior of atomic particles would be proposed. While a major step forward in human understanding of the basic structures of matter, the emphasis of the random nature of some elements of the natural world further shook the Victorian faith in the ability of humanity to understand fully the natural world and reinforced the sense that the world was indeed not built upon completely rational behavior and assumptions;;;;;;;;;;;;x
-social_thought;Social Thought;;;;;;;;;;;;x
+social_thought;社会思想;;;;;;;;;;;;x
 social_thought_desc;This area covers the developments in the social sciences and in much influences how the fabric of your society is organized.;;;;;;;;;;;;x
-malthusian_thought;Malthusian Thought;;;;;;;;;;;;x
-malthusian_thought_desc;Malthusian Thought;;;;;;;;;;;;x
-positivism;Positivism;;;;;;;;;;;;x
-positivism_desc;Positivism;;;;;;;;;;;;x
-functionalism;Functionalism;;;;;;;;;;;;x
-functionalism_desc;Functionalism;;;;;;;;;;;;x
-biologism;Biologism;;;;;;;;;;;;x
-biologism_desc;Biologism;;;;;;;;;;;;x
-darwinism;Darwinism;;;;;;;;;;;;x
+malthusian_thought;マルサス主義的思想;;;;;;;;;;;;x
+malthusian_thought_desc;マルサス主義的思想;;;;;;;;;;;;x
+positivism;実証主義;;;;;;;;;;;;x
+positivism_desc;実証主義;;;;;;;;;;;;x
+functionalism;機能主義;;;;;;;;;;;;x
+functionalism_desc;機能主義;;;;;;;;;;;;x
+biologism;生物学主義;;;;;;;;;;;;x
+biologism_desc;生物学主義;;;;;;;;;;;;x
+darwinism;ダーウィン主義;;;;;;;;;;;;x
 darwinism_desc;Darwinism is a theory that says that natural selection operates on variations in older species to produce offspring that can be called new species, and that this explains the appearance of all species.;;;;;;;;;;;;x
-social_darwinism;Social-darwinism;;;;;;;;;;;;x
+social_darwinism;社会ダーウィン主義;;;;;;;;;;;;x
 social_darwinism_desc;Social darwinism is a theory in sociology that says that individuals or groups achieve advantage over others as the result of genetic or biological superiority.;;;;;;;;;;;;x
-social_science;Social Science;;;;;;;;;;;;x
-social_science_desc;Social Science;;;;;;;;;;;;x
-sociology;Sociology;;;;;;;;;;;;x
+social_science;社会科学;;;;;;;;;;;;x
+social_science_desc;社会科学;;;;;;;;;;;;x
+sociology;社会学;;;;;;;;;;;;x
 sociology_desc;Sociology is the science of society, social institutions and social relationship. It attempts to recreate the effect of certain actions on societies.;;;;;;;;;;;;x
-social_psychology;Social-psychology;;;;;;;;;;;;x
+social_psychology;社会心理学;;;;;;;;;;;;x
 social_psychology_desc;Social Psychology is the scientific study of how we think about, influence and relate to one another.;;;;;;;;;;;;x
-political_science;Political Science;;;;;;;;;;;;x
+political_science;政治学;;;;;;;;;;;;x
 political_science_desc;Political Science is the study of government of states and other political units. Theoretically, it is applicable to any political entity.;;;;;;;;;;;;x
-social_anthropology;Social Anthropology;;;;;;;;;;;;x
+social_anthropology;社会人類学;;;;;;;;;;;;x
 social_anthropology_desc;Social Anthropology is the social science that studies the origins and social relationships of human beings.;;;;;;;;;;;;x
-social_alienation;Social Alienation;;;;;;;;;;;;x
-social_alienation_desc;Social Alienation;;;;;;;;;;;;x
-the_revolt_of_the_masses;The Revolt Of The Masses;;;;;;;;;;;;x
+social_alienation;社会的疎外;;;;;;;;;;;;x
+social_alienation_desc;社会的疎外;;;;;;;;;;;;x
+the_revolt_of_the_masses;大衆の反逆;;;;;;;;;;;;x
 the_revolt_of_the_masses_desc;The move towards the establishment of universal suffrage as the basis for determining the balance of political power in society led to an increased sense of hope that with democracy the issues and concerns of The People would finally be addressed. The resulting factionalism caused by the growth of political parties in wake of universal suffrage soon exposed the limitations of liberal democracy as a system for the arbitration of power in society (especially in times of social, economic or political crisis) and led to a great deal of disenchantment with the ideals of democracy as the best system of governance and a search for potential alternatives to more effectively achieve the promises of a better life for all. Written in 1930 by the Spanish intellectual Jose Ortega y Gasset, “The Revolt Of The Masses” warns of the potential threat to the ideal of liberal democracy in its current limitations and the potential for the masses to overwhelm the political system and replace it with alternatives that in the end would destroy the basic principles of classic liberal democracy unless liberal democracy was able to reform itself to meet the challenges produced by mass politics.;;;;;;;;;;;;x
-the_decline_of_the_west_and_the_lost_generation;The Decline Of The West and The Lost Generation;;;;;;;;;;;;x
+the_decline_of_the_west_and_the_lost_generation;西洋の没落と失われた世代;;;;;;;;;;;;x
 the_decline_of_the_west_and_the_lost_generation_desc;The combination of the dramatic social, economic and political transformations undertaken in the nineteenth century with the rise of industry and the devastation produced by mass warfare in the industrial age created a crisis of confidence among many intellectuals that the whole structure of society was under siege and in danger of complete collapse. Oswald Spengler began work on “The Decline Of The West” in 1911 as the challenges of new social, political and economic forces were shaking advanced industrial societies to their cores, with Spengler concluding that what these societies were experiencing was part of the natural cycle of civilizations that rise, have a period of brilliance, and eventually decline and collapse – a direct challenge to the Victorian idea that modern industrial society could continually be improved as a result of humanity’s rational abilities. Coined by American author Gertrude Stein, “The Lost Generation” captured the sense of loss and emptiness that many veterans of Great War felt after surviving the carnage of the battlefields and questioning the values and beliefs that had encouraged their nations to participate in the conflicts in the first place. These themes of decline and loss that Spengler and Woolf developed would dominate the cultural landscape in the early twentieth century.;;;;;;;;;;;;x
-political_thought;Political Thought;;;;;;;;;;;;x
+political_thought;政治思想;;;;;;;;;;;;x
 political_thought_desc;This area covers the developments in political science. It influences the political system of your country and changes the attitudes of your population.;;;;;;;;;;;;x
-REMOVE_enlightenment_thought;Enlightenment Thought;;;;;;;;;;;;x
-REMOVE_enlightenment_thought_desc;Enlightenment Thought;;;;;;;;;;;;x
+REMOVE_enlightenment_thought;啓蒙思想;;;;;;;;;;;;x
+REMOVE_enlightenment_thought_desc;啓蒙思想;;;;;;;;;;;;x
 ideological_thought;Ideological Thought;;;;;;;;;;;;x
 ideological_thought_desc;Ideological Thought;;;;;;;;;;;;x
-authoritarianism;Authoritarianism;;;;;;;;;;;;x
+authoritarianism;権威主義;;;;;;;;;;;;x
 authoritarianism_desc;Authoritarianism is the view that authority is the most important value which gives balance and stability to it. It is often combined with traditionalism to give an epistemological foundation for who should wield this authority.;;;;;;;;;;;;x
-hierarchical_order;Hierarchical Order;;;;;;;;;;;;x
+hierarchical_order;階層的秩序;;;;;;;;;;;;x
 hierarchical_order_desc;Hierarchical Order is a system where several components or levels are dependent on the respective higher one. The components get smaller the higher they are.;;;;;;;;;;;;x
-traditionalism;Traditionalism;;;;;;;;;;;;x
+traditionalism;伝統主義;;;;;;;;;;;;x
 traditionalism_desc;Traditionalism is the doctrine that all knowledge is transmitted through the common sense of the people, and that this knowledge that the people bear should be the foundation of society. It fiercely rejects rationalism which it views as a hazardous and counterproductive view of societal transformation.;;;;;;;;;;;;x
 political_religion;Political Religion;;;;;;;;;;;;x
 political_religion_desc;Political Religion is the doctrine that ties religion and political means together. Knowledge is often viewed as divinely given, and religious truth cannot be disapproved.;;;;;;;;;;;;x
-paternalism;Paternalism;;;;;;;;;;;;x
+paternalism;父権主義;;;;;;;;;;;;x
 paternalism_desc;Paternalism is the attitude of a person or a government that subordinates should be controlled in a fatherly way for their own good.;;;;;;;;;;;;x
-constitutionalism;Constitutionalism;;;;;;;;;;;;x
+constitutionalism;立憲主義;;;;;;;;;;;;x
 constitutionalism_desc;Constitutionalism is a constitutional system of government, usually with a written constitution. It advocates that all actions taken by the government must be in accordance with constitutional principles.;;;;;;;;;;;;x
-individualism;Individualism;;;;;;;;;;;;x
+individualism;個人主義;;;;;;;;;;;;x
 individualism_desc;Individualism is the belief in the importance of the individual and the virtue of self-reliance and personal independence. This doctrine also states that the government should not interfere in commercial affairs.;;;;;;;;;;;;x
-rationalism;Rationalism;;;;;;;;;;;;x
+rationalism;理性主義;;;;;;;;;;;;x
 rationalism_desc;Rationalism is the theological doctrine that human reason rather than divine revelation establishes religious truth. This doctrine states that knowledge is acquired by reason without resort to experience.;;;;;;;;;;;;x
-secularization;Secularization;;;;;;;;;;;;x
+secularization;世俗化;;;;;;;;;;;;x
 secularization_desc;Secularization is the activity of changing something like art or education so it is no longer under the control or influence of religion. This doctrine also proposes the transfer of property from ecclesiastical to civil possession.;;;;;;;;;;;;x
-social_conscience;Social Conscience;;;;;;;;;;;;x
+social_conscience;社会的良心;;;;;;;;;;;;x
 social_conscience_desc;Social Conscience is motivation deriving logically from ethical or moral principles that govern a society as well as individual’s thoughts and actions.;;;;;;;;;;;;x
-egalitarianism;Egalitarianism;;;;;;;;;;;;x
+egalitarianism;平等主義;;;;;;;;;;;;x
 egalitarianism_desc;Egalitarianism is the doctrine of the equality of mankind and the desirability of political, economic and social equality.;;;;;;;;;;;;x
-collectivism;Collectivism;;;;;;;;;;;;x
+collectivism;集産主義;;;;;;;;;;;;x
 collectivism_desc;Collectivism is a political theory that the people should own all the means of production.;;;;;;;;;;;;x
-determinism;Determinism;;;;;;;;;;;;x
+determinism;決定論;;;;;;;;;;;;x
 determinism_desc;Determinism is a philosophical doctrine holding that all events are inevitable consequences of sufficient causes. This is often understood as denying the possibility of free will.;;;;;;;;;;;;x
-atheism;Atheism;;;;;;;;;;;;x
+atheism;無神論;;;;;;;;;;;;x
 atheism_desc;Atheism is the doctrine or belief that there is no God. People sharing this belief often resort to different means to compensate for the lack of a 'higher figure'.;;;;;;;;;;;;x
-social_justice;Social Justice;;;;;;;;;;;;x
+social_justice;社会正義;;;;;;;;;;;;x
 social_justice_desc;Social justice is about preventing human rights abuses and ensuring adherence to international law.;;;;;;;;;;;;x
-state_n_government;State & Government;;;;;;;;;;;;x
-state_n_government_desc;State & Government;;;;;;;;;;;;x
+state_n_government;国家と政府;;;;;;;;;;;;x
+state_n_government_desc;国家と政府;;;;;;;;;;;;x
 populism_vs._establishment;Populism vs. Establishment;;;;;;;;;;;;x
 populism_vs._establishment_desc;For gaining power, the would-be politician would usually try to obtain the support of people already well-established in the elite. It was the easiest road for climbing the power ladder, but a minority of them, mostly coming from a more liberal bourgeoisie, bet instead on the support from the uneducated masses, excluded from the political scene.;;;;;;;;;;;;x
 clericalism_vs._anticlericalism;Clericalism vs. Anticlericalism;;;;;;;;;;;;x
@@ -14432,53 +14432,53 @@ bureaucracy_vs._nepotism;Bureaucracy vs. Nepotism;;;;;;;;;;;;x
 bureaucracy_vs._nepotism_desc;Civil services, always seeking maximum efficiency, progressively tried to free themselves from political control. They began to set their own sets of regulations and hire their own staff. In other countries, however, civil servants were chosen among political supporters and allies. By use of patronage the administration was thus kept into line.;;;;;;;;;;;;x
 meritocracy_vs._aristocracy;Meritocracy vs. Aristocracy;;;;;;;;;;;;x
 meritocracy_vs._aristocracy_desc;Birth and blood had always been an unbearable limit for the ambitions of the bourgeoisie. For them, logically, men with talents and merits should be promoted. However, the privileges of the old aristocracy keep the commoners into inferior stratas, as only nobility of birth and tradition would be the sole determinant of the fittest of men.;;;;;;;;;;;;x
-nationalism_n_imperialism;Nationalism & Imperialism;;;;;;;;;;;;x
-nationalism_n_imperialism_desc;Nationalism & Imperialism;;;;;;;;;;;;x
+nationalism_n_imperialism;ナショナリズムと帝国主義;;;;;;;;;;;;x
+nationalism_n_imperialism_desc;ナショナリズムと帝国主義;;;;;;;;;;;;x
 national_fraternity;National Fraternity;;;;;;;;;;;;x
 national_fraternity_desc;The cohesion of nations is not always built over the spilt blood of other nations. It is also built by the belief that the people inside a territorial entity are like brothers, sharing common goals, ties, and symbols. The discovery of a common past and similarities in culture ensure that the people still wishes to live together inside one nation, even against external threat.;;;;;;;;;;;;x
 biased_multiculturalism;Biased Multiculturalism;;;;;;;;;;;;x
 biased_multiculturalism_desc;Multiculturalism means the acceptation that many cultures may cohabit equally inside a political entity. However, some cultures are more equal than others. While members of some cultures may be welcome with open arms, others are, on the other hand, either considered 'persona non grata', expelled or even encouraged to leave the country.;;;;;;;;;;;;x
-manifest_destiny;Manifest Destiny;;;;;;;;;;;;x
+manifest_destiny;明白なる使命;;;;;;;;;;;;x
 manifest_destiny_desc;The doctrine of 'Manifest Destiny' appeared first in the United States in the 1840s to justify the its' need to expand westward. Already in 1823, the Monroe Doctrine had forbidden America to European colonization. The United States had new a duty to reach its continental boundaries and expand its civilization all over the continent. The basic idea was that the nation was destined to greatness and expansion.;;;;;;;;;;;;x
-expansionism;Expansionism;;;;;;;;;;;;x
+expansionism;拡張主義;;;;;;;;;;;;x
 expansionism_desc;An expansionist country seeks to expand its territory, influence, or power over a territory, population, or political entity by any means deemed necessary, ultimately by use of armed force. At it threatens peace and stability, neighboring states and great powers rarely let a country expand by force without responding to the threat.;;;;;;;;;;;;x
 mission_to_civilize;Mission to Civilize;;;;;;;;;;;;x
 mission_to_civilize_desc;This was the idea that what was defined as the uncivilized world needed to be civilized and that its inhabitants were like children who needed to be enlightened by a fair but harsh hand. This was the ideology that led and justified the colonialization and occupation done by the Great Powers.;;;;;;;;;;;;x
-separatism;Separatism;;;;;;;;;;;;x
+separatism;分離主義;;;;;;;;;;;;x
 separatism_desc;The idea of national sovereignty and the view that a people was a distinct group based on blood and language with certain rights evolved during the century and at several spots these ethnic groups started to work for independence.;;;;;;;;;;;;x
-national_trauma;National Trauma;;;;;;;;;;;;x
+national_trauma;国家的トラウマ;;;;;;;;;;;;x
 national_trauma_desc;When a population has been told that it is undefeatable for years, and it suddenly it loses a war, it can trigger a National Trauma. It means that too much psychological energy is spent at trying to understand why the country was lost and whom should be judged responsible. Sometimes this can trigger revanschism though.;;;;;;;;;;;;x
-revanchism;Revanchism;;;;;;;;;;;;x
+revanchism;報復主義;;;;;;;;;;;;x
 revanchism_desc;After having lost an important war against a main competitor many population groups will call for revenge and a new war to cleanse the dirt from the honor of the Nation.;;;;;;;;;;;;x
-revolution_n_counterrevolution;Revolution & Counterrevolution;;;;;;;;;;;;x
-revolution_n_counterrevolution_desc;Revolution & Counterrevolution;;;;;;;;;;;;x
+revolution_n_counterrevolution;革命と反革命;;;;;;;;;;;;x
+revolution_n_counterrevolution_desc;革命と反革命;;;;;;;;;;;;x
 dogma_of_violence;Dogma of Violence;;;;;;;;;;;;x
 dogma_of_violence_desc;At certain point a line of thought that developed from general radicalism was the dogma of violence, which meant that only by the forced means of violence could the old society be removed and the new one created.;;;;;;;;;;;;x
 dogma_of_mass_action;Dogma of Mass Action;;;;;;;;;;;;x
 dogma_of_mass_action_desc;At certain point a line of thought that developed from general radicalism was the dogma of mass action, which meant that only by means of mass actions as rallying and strikes could the consciousness level of the worker be raised adequately for him to understand what to be good for him.;;;;;;;;;;;;x
-terrorism;Terrorism;;;;;;;;;;;;x
+terrorism;テロリズム;;;;;;;;;;;;x
 terrorism_desc;By the use of random violence the public would get to know the evil face of the police state and its blind justice swinging back at the innocents.;;;;;;;;;;;;x
-general_strikes;General Strikes;;;;;;;;;;;;x
+general_strikes;ゼネラル・ストライキ;;;;;;;;;;;;x
 general_strikes_desc;At this time political goals were achievable by General Strikes or even by the threat of the same. ;;;;;;;;;;;;x
-secret_police;Secret Police;;;;;;;;;;;;x
+secret_police;秘密警察;;;;;;;;;;;;x
 secret_police_desc;This special department of the Police was instituted to get at political groups disrespecting the current order. For people in general this could be understood either as a fair and good institution or an evil repressive face of power.;;;;;;;;;;;;x
-womens_suffrage_movement;Women's Suffrage Movement;;;;;;;;;;;;x
+womens_suffrage_movement;女性参政権運動;;;;;;;;;;;;x
 womens_suffrage_movement_desc;This protest movement had as its aim to raise the subjugated position of women as well as giving them voting rights. They used passive resistance, protests and marches. The violence used against them was abhorred in many circles and eventually women won the day. Still there will be many more fights that have to be won...;;;;;;;;;;;;x
 rhetoric_of_hate;Rhetoric of Hate;;;;;;;;;;;;x
 rhetoric_of_hate_desc;This was a certain brand of public speech which incited hate and the urge to do violence against a certain group in society. Most governments tried to forbid and stop such activities, but at some points they were unable to.;;;;;;;;;;;;x
 nostalgic_romanticism;Nostalgic Romanticism;;;;;;;;;;;;x
 nostalgic_romanticism_desc;This was a general cultural theme where the glory of the past was raised to nigh-on-divine status. As equality and plurality were ideas of the future, Nostalgic Romanticism, quickly became a reactionary movement raising the goblet for absolute monarchy and the church of the fathers.;;;;;;;;;;;;x
-anti_egalitarianism;Anti-Egalitarianism;;;;;;;;;;;;x
+anti_egalitarianism;反平等主義;;;;;;;;;;;;x
 anti_egalitarianism_desc;This view is based on the theory of natural justice, which says that how people are born can never be unjust. Justice is completely relational. The effect is that the view that actions must be made to increase equality is wrong, if such action is not correcting a legal error.;;;;;;;;;;;;x
-vangaurd_party;Vanguard Party;;;;;;;;;;;;x
+vangaurd_party;前衛党;;;;;;;;;;;;x
 vangaurd_party_desc;As the Socialist movement grew in influence in some industrial nations, in other societies that were less industrialized the idea that the working class could lead an overthrow of the State and seize power was realized to be limited. Coined by the Russian socialist Vladimir Lenin in 1902, the concept of the vanguard party was that a small group of dedicated revolutionaries could lead the struggle for revolution in the name of the masses who lacked the ability or desire to carry out revolution themselves and, having achieved power in their name, establish control over the State and carry out the transformations necessary to achieve the ultimate goal of the socialist movement, the worker’s utopia. While most influential within Leftist political circles in the early twentieth century, the concept of an ideological vanguard seizing power on behalf of groups in society as a whole would also be influential on the Right as ultra-nationalist movements began to move towards a more concrete ideological system, Fascism;;;;;;;;;;;;x
-mass_politics;Mass Politics;;;;;;;;;;;;x
-mass_politics_desc;Mass Politics;;;;;;;;;;;;x
-the_doctrine_of_fascism;The Doctrine Of Fascism;;;;;;;;;;;;x
+mass_politics;大衆政治;;;;;;;;;;;;x
+mass_politics_desc;大衆政治;;;;;;;;;;;;x
+the_doctrine_of_fascism;ファシズムの原理;;;;;;;;;;;;x
 the_doctrine_of_fascism_desc;The spread of revolutionary Communism in the early twentieth century as a potential alternative model to Liberal Capitalism as the basis of the organization of society would lead to the development of new models on the political Right that sought to offer a third alternative that would replace the weaknesses inherent in Liberal Capitalist systems without promoting a social revolution that would dispossess the power and status of the upper and middle classes. By the early 1920s such a model would crystallize in the evolution of Fascism. Although less rigorously defined in terms of ideological content than Communism, Fascism at its base called for the reorganization of The State for the benefit of The Nation as a whole, so that all who are defined as members of the national community, regardless of socioeconomic class, receive the benefits of modern industrial society. This would be achieved by subsuming the desires and concerns of the individual to the needs of the Nation under the leadership of a single party that would govern according to the needs of the Nation as a whole and prepare the Nation to compete successfully with other nations for power and influence in the world. Fully elaborated in the writings of the Italian Giovanni Gentile in the early 1930s, Fascism as an alternative to both Liberal Capitalism and Communism would grow rapidly in the early twentieth century.;;;;;;;;;;;;x
-paramilitary_groups;Paramilitary Groups;;;;;;;;;;;;x
+paramilitary_groups;準軍事組織;;;;;;;;;;;;x
 paramilitary_groups_desc;As a result of the huge manpower requirements of militaries in an age of industrial warfare, the restoration of peace often resulted in the creation of large numbers of veterans, many of whom found it difficult to adjust to a return to civilian life and who possessed basic military training that could be put to use if needed. With the growth of revolutionary movements on the Left and particularly on the Right, the potential use of disgruntled military veterans for the purpose of challenging the actions and influence of ideological opponents grew rapidly. Their existence and growth in times of political, social and economic upheaval proved challenging to the ability of many States to maintain law and order, and the activities of such paramilitaries were often cited by those opposed to Liberal Capitalism of the inherent weakness of democracy in the face of revolutionary challenges that threatened the social order;;;;;;;;;;;;x
-the_police_state;The Police State;;;;;;;;;;;;x
+the_police_state;警察国家;;;;;;;;;;;;x
 the_police_state_desc;Why is it you only see a policeman when you don't need one?;;;;;;;;;;;;x
 psychology;Psychology;;;;;;;;;;;;x
 psychology_desc;This area covers the developments in psychology. It changed not only mankind’s view of itself but also created systematic knowledge in behaviour especially on a macrolevel.;;;;;;;;;;;;x

@@ -4,8 +4,8 @@
 name: Python application
 
 on:
-  schedule:
-    - cron: '45 17 * * tue,fri'
+  repository_dispatch:
+    types: [build]
   workflow_dispatch:
     inputs:
       name:

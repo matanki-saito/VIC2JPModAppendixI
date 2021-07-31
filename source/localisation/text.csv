@@ -203,7 +203,7 @@ FE_EXIT;終了;;;;;;;;;;;;x
 FE_NATION_TO_PLAY;Click the nation you wish to play...;;;;;;;;;;;;x
 FE_NEW_GAME;New Game;;;;;;;;;;;;x
 FE_SAVE_GAME;Save Games;;;;;;;;;;;;x
-FE_HISTORICAL_START;Historical Start;;;;;;;;;;;;x
+FE_HISTORICAL_START;史実スタート;;;;;;;;;;;;x
 FE_SAVED_GAMES;Saved Games;;;;;;;;;;;;x
 FE_SELECT_NATION;Click on the map to select a nation...;;;;;;;;;;;;x
 FE_NO_COUNTRY_SELECTED;No country selected;;;;;;;;;;;;x
@@ -372,11 +372,11 @@ ME_INSTALL_FAIL;Installation failed!;;;;;;;;;;;;x
 MESSAGE_IS_PAUSE;This message type $TRUTH$ currently displayed as a popup and will pause the game.;;;;;;;;;;;;x
 MICRO_ERROR_TITLE;Error!;;;;;;;;;;;;x
 MICRO_ERROR_DESC;Failed to open ggcoins.dll. Make sure this file is present or reinstall game.;;;;;;;;;;;;x
-VERY_EASY;Very Easy;;;;;;;;;;;;x
-EASY;Easy;;;;;;;;;;;;x
-NORMAL;Normal;;;;;;;;;;;;x
-HARD;Hard;;;;;;;;;;;;x
-VERY_HARD;Very Hard;;;;;;;;;;;;x
+VERY_EASY;非常に簡単;;;;;;;;;;;;x
+EASY;簡単;;;;;;;;;;;;x
+NORMAL;普通;;;;;;;;;;;;x
+HARD;難しい;;;;;;;;;;;;x
+VERY_HARD;非常に難しい;;;;;;;;;;;;x
 NEVER;Never;;;;;;;;;;;;x
 MONTHLY;Monthly;;;;;;;;;;;;x
 HALFYEAR;Half Year;;;;;;;;;;;;x
@@ -390,22 +390,22 @@ COMPRESS_ERROR;Compression Error...;;;;;;;;;;;;x
 MS_LOGOUT;Logout;;;;;;;;;;;;x
 on;On;;;;;;;;;;;;x
 off;Off;;;;;;;;;;;;x
-very easy;Very Easy;;;;;;;;;;;;x
-easy;Easy;;;;;;;;;;;;x
-normal;Normal;;;;;;;;;;;;x
-hard;Hard;;;;;;;;;;;;x
-very hard;Very Hard;;;;;;;;;;;;x
+very easy;非常に簡単;;;;;;;;;;;;x
+easy;簡単;;;;;;;;;;;;x
+normal;普通;;;;;;;;;;;;x
+hard;難しい;;;;;;;;;;;;x
+very hard;非常に難しい;;;;;;;;;;;;x
 SM_MULTISAMPLE;Multisample Level;;;;;;;;;;;;x
 RESTART_REQ;Restart Required;;;;;;;;;;;;x
 RESTART_REQ_DESC;You must restart the game for these changes to take effect.;;;;;;;;;;;;x
-very_easy_player;Very Easy Difficulty;;;;;;;;;;;;x
-easy_player;Easy Difficulty;;;;;;;;;;;;x
-hard_player;Hard Difficulty;;;;;;;;;;;;x
-very_hard_player;Very Hard Difficulty;;;;;;;;;;;;x
-very_easy_ai;Very Easy Difficulty;;;;;;;;;;;;x
-easy_ai;Easy Difficulty;;;;;;;;;;;;x
-hard_ai;Hard Difficulty;;;;;;;;;;;;x
-very_hard_ai;Very Hard Difficulty;;;;;;;;;;;;x
+very_easy_player;非常に簡単な難易度;;;;;;;;;;;;x
+easy_player;簡単な難易度;;;;;;;;;;;;x
+hard_player;難しい難易度;;;;;;;;;;;;x
+very_hard_player;非常に難しい難易度;;;;;;;;;;;;x
+very_easy_ai;非常に簡単な難易度;;;;;;;;;;;;x
+easy_ai;簡単な難易度;;;;;;;;;;;;x
+hard_ai;難しい難易度;;;;;;;;;;;;x
+very_hard_ai;非常に難しい難易度;;;;;;;;;;;;x
 CORE_MP_PAUSED_NAME;Paused by $PLAYER$.;;;;;;;;;;;;x
 CORE_MP_PAUSED;$TIME$ left until anybody can unpause....;;;;;;;;;;;;x
 OOS_TITLE;Error!;;;;;;;;;;;;x
@@ -424,14 +424,14 @@ artillery;Artillery;;;;;;;;;;;;x
 tank;Armor;;;;;;;;;;;;x
 plane;Airplane;;;;;;;;;;;;x
 commerce_raider;Commerce Raider;;;;;;;;;;;;x
-cruiser;Cruiser;;;;;;;;;;;;x
-frigate;Frigate;;;;;;;;;;;;x
+cruiser;巡洋艦;;;;;;;;;;;;x
+frigate;フリゲート;;;;;;;;;;;;x
 manowar;Man'o'war;;;;;;;;;;;;x
-ironclad;Ironclad;;;;;;;;;;;;x
+ironclad;装甲艦;;;;;;;;;;;;x
 dreadnought;Dreadnought;;;;;;;;;;;;x
 clipper_transport;Clipper Transport;;;;;;;;;;;;x
-steam_transport;Steam Transport;;;;;;;;;;;;x
-monitor;Monitor;;;;;;;;;;;;x
+steam_transport;蒸気輸送船;;;;;;;;;;;;x
+monitor;モニター艦;;;;;;;;;;;;x
 army_base_short;(A);;;;;;;;;;;;x
 navy_base_short;(N);;;;;;;;;;;;x
 infantry_short;Inf;;;;;;;;;;;;x
@@ -495,8 +495,8 @@ TRAIT_ATTRITION;Attrition;;;;;;;;;;;;x
 TRAIT_EXPERIENCE;Experience;;;;;;;;;;;;x
 TRAIT_RELIABILITY;Reliability;;;;;;;;;;;;x
 no_personality;No Personality;;;;;;;;;;;;x
-aggressive;Aggressive;;;;;;;;;;;;x
-relentless;Relentless;;;;;;;;;;;;x
+aggressive;攻撃的;;;;;;;;;;;;x
+relentless;冷酷;;;;;;;;;;;;x
 active_p;Active;;;;;;;;;;;;x
 earnest;Earnest;;;;;;;;;;;;x
 persistant;Persistent;;;;;;;;;;;;x
@@ -726,38 +726,38 @@ BUILDING_NO_RAILWAYS;Economic policy allows building;;;;;;;;;;;;x
 BUILDING_ANOTHER;Another building construction is in progress;;;;;;;;;;;;x
 BUILDING_CONSTRUCTION_TOOLTIP;Currently building §Y$NAME$§W, which will be finished earliest §Y$DATE$§W.;;;;;;;;;;;;x
 UNIT_CONSTRUCTION_TOOLTIP;Currently building §Y$NAME$§W, which will be finished earliest §Y$DATE$§W.;;;;;;;;;;;;x
-aeroplane_factory;Aeroplane Factory;;;;;;;;;;;;x
-barrel_factory;Tank Factory;;;;;;;;;;;;x
-automobile_factory;Automobile Factory;;;;;;;;;;;;x
-radio_factory;Radio Factory;;;;;;;;;;;;x
-telephone_factory;Telephone Factory;;;;;;;;;;;;x
+aeroplane_factory;飛行機工場;;;;;;;;;;;;x
+barrel_factory;戦車工場;;;;;;;;;;;;x
+automobile_factory;自動車工場;;;;;;;;;;;;x
+radio_factory;ラジオ工場;;;;;;;;;;;;x
+telephone_factory;電話工場;;;;;;;;;;;;x
 electric_gear_factory;Electric Gear Factory;;;;;;;;;;;;x
-machine_parts_factory;Machine Parts Factory;;;;;;;;;;;;x
+machine_parts_factory;機械部品工場;;;;;;;;;;;;x
 synthetic_oil_factory;Synthetic Oil Factory;;;;;;;;;;;;x
-fuel_refinery;Fuel Refinery;;;;;;;;;;;;x
-steamer_shipyard;Steamer Shipyard;;;;;;;;;;;;x
-luxury_clothes_factory;Luxury Clothes Factory;;;;;;;;;;;;x
-luxury_furniture_factory;Luxury Furniture Factory;;;;;;;;;;;;x
-steel_factory;Steel Factory;;;;;;;;;;;;x
+fuel_refinery;製油所;;;;;;;;;;;;x
+steamer_shipyard;蒸気船造船所;;;;;;;;;;;;x
+luxury_clothes_factory;高級衣類工場;;;;;;;;;;;;x
+luxury_furniture_factory;高級家具工場;;;;;;;;;;;;x
+steel_factory;製鋼所;;;;;;;;;;;;x
 artillery_factory;Artillery Factory;;;;;;;;;;;;x
 clipper_shipyard;Clipper Shipyard;;;;;;;;;;;;x
-small_arms_factory;Small Arms Factory;;;;;;;;;;;;x
-furniture_factory;Furniture Factory;;;;;;;;;;;;x
-paper_mill;Paper Mill;;;;;;;;;;;;x
+small_arms_factory;小火器工場;;;;;;;;;;;;x
+furniture_factory;家具工場;;;;;;;;;;;;x
+paper_mill;製紙工場;;;;;;;;;;;;x
 regular_clothes_factory;Regular Clothes Factory;;;;;;;;;;;;x
 explosives_factory;Explosives Factory;;;;;;;;;;;;x
-ammunition_factory;Ammunition Factory;;;;;;;;;;;;x
-canned_food_factory;Canned Food Factory;;;;;;;;;;;;x
-dye_factory;Dye Factory;;;;;;;;;;;;x
-liquor_distillery;Liquor Distillery;;;;;;;;;;;;x
-winery;Winery;;;;;;;;;;;;x
-lumber_mill;Lumber Mill;;;;;;;;;;;;x
+ammunition_factory;弾薬工場;;;;;;;;;;;;x
+canned_food_factory;缶詰工場;;;;;;;;;;;;x
+dye_factory;染料工場;;;;;;;;;;;;x
+liquor_distillery;蒸留酒製造所;;;;;;;;;;;;x
+winery;ワイン醸造所;;;;;;;;;;;;x
+lumber_mill;製材所;;;;;;;;;;;;x
 fabric_factory;Fabric Factory;;;;;;;;;;;;x
-cement_factory;Cement Factory;;;;;;;;;;;;x
-glass_factory;Glass Factory;;;;;;;;;;;;x
-fertilizer_factory;Fertilizer Factory;;;;;;;;;;;;x
+cement_factory;セメント工場;;;;;;;;;;;;x
+glass_factory;ガラス工場;;;;;;;;;;;;x
+fertilizer_factory;肥料工場;;;;;;;;;;;;x
 naval_base;Naval Base;;;;;;;;;;;;x
-railroad;Railroad;;;;;;;;;;;;x
+railroad;鉄道;;;;;;;;;;;;x
 aeroplane_factory_desc;Machine parts, electric gear and rubber are needed to produce aeroplanes.;;;;;;;;;;;;x
 barrel_factory_desc;Tanks were little more than artillery mounted on a moving chassis. Therefore, automobiles and artillery are required to produce tanks.;;;;;;;;;;;;x
 automobile_factory_desc;Machine parts, electric gear and rubber are needed to produce automobiles.;;;;;;;;;;;;x
@@ -792,19 +792,19 @@ mild_climate;Mild Climate;;;;;;;;;;;;x
 temperate_climate;Temperate Climate;;;;;;;;;;;;x
 harsh_climate;Harsh Climate;;;;;;;;;;;;x
 inhospitable_climate;Inhospitable Climate;;;;;;;;;;;;x
-ocean;Ocean;;;;;;;;;;;;x
-arctic;Arctic;;;;;;;;;;;;x
-farmlands;Farmlands;;;;;;;;;;;;x
-forest;Forest;;;;;;;;;;;;x
-hills;Hills;;;;;;;;;;;;x
-woods;Woods;;;;;;;;;;;;x
-mountain;Mountains;;;;;;;;;;;;x
-steppe;Steppe;;;;;;;;;;;;x
-plains;Plains;;;;;;;;;;;;x
-jungle;Jungle;;;;;;;;;;;;x
-marsh;Marsh;;;;;;;;;;;;x
-desert;Desert;;;;;;;;;;;;x
-coastal_desert;Coastal Desert;;;;;;;;;;;;x
+ocean;海洋;;;;;;;;;;;;x
+arctic;北極圏;;;;;;;;;;;;x
+farmlands;農地;;;;;;;;;;;;x
+forest;森;;;;;;;;;;;;x
+hills;丘陵;;;;;;;;;;;;x
+woods;林;;;;;;;;;;;;x
+mountain;山岳;;;;;;;;;;;;x
+steppe;ステップ;;;;;;;;;;;;x
+plains;平原;;;;;;;;;;;;x
+jungle;熱帯雨林;;;;;;;;;;;;x
+marsh;沼沢;;;;;;;;;;;;x
+desert;砂漠;;;;;;;;;;;;x
+coastal_desert;沿岸砂漠;;;;;;;;;;;;x
 STRATA_POOR;Poor;;;;;;;;;;;;x
 STRATA_MIDDLE;Middle;;;;;;;;;;;;x
 STRATA_RICH;Rich;;;;;;;;;;;;x
@@ -9405,7 +9405,7 @@ universal_voting_desc;Everyone is allowed to vote.;;;;;;;;;;;;x
 voting_system;Voting System;;;;;;;;;;;;x
 first_past_the_post;First Past the Post;;;;;;;;;;;;x
 first_past_the_post_desc;The candidate with the most votes wins.;;;;;;;;;;;;x
-jefferson_method;Jefferson Method;;;;;;;;;;;;x
+jefferson_method;ジェファーソン方式;;;;;;;;;;;;x
 jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats.;;;;;;;;;;;;x
 proportional_representation;Proportional Representation;;;;;;;;;;;;x
 proportional_representation_desc;The percentage of votes that groups of candidates obtain in elections equals the percentage of seats they receive;;;;;;;;;;;;x
@@ -10031,101 +10031,101 @@ PROV148;モールデン;;;;;;;;;;;;x
 PROV149;ジェファーソンシティ;;;;;;;;;;;;x
 PROV150;カンザスシティ;;;;;;;;;;;;x
 PROV151;デモイン;;;;;;;;;;;;x
-PROV152;Oskaloosa;;;;;;;;;;;;x
-PROV153;Cedar Rapids;;;;;;;;;;;;x
-PROV154;Sioux City;;;;;;;;;;;;x
-PROV155;Minneapolis;;;;;;;;;;;;x
-PROV156;Granite Falls;;;;;;;;;;;;x
-PROV157;Moorhead;;;;;;;;;;;;x
-PROV158;Duluth;;;;;;;;;;;;x
-PROV159;Milwaukee;;;;;;;;;;;;x
-PROV160;Eau Claire;;;;;;;;;;;;x
-PROV161;Green Bay;;;;;;;;;;;;x
-PROV162;Madison;;;;;;;;;;;;x
-PROV163;Chicago;;;;;;;;;;;;x
-PROV164;Rockford;;;;;;;;;;;;x
-PROV165;Champaign;;;;;;;;;;;;x
-PROV166;Peoria;;;;;;;;;;;;x
-PROV167;Springfield;;;;;;;;;;;;x
-PROV168;Carbondale;;;;;;;;;;;;x
-PROV169;Indianapolis;;;;;;;;;;;;x
-PROV170;Evansville;;;;;;;;;;;;x
-PROV171;South Bend;;;;;;;;;;;;x
-PROV172;Fort Wayne;;;;;;;;;;;;x
-PROV173;Detroit;;;;;;;;;;;;x
-PROV174;Grand Rapids;;;;;;;;;;;;x
-PROV175;Saginaw;;;;;;;;;;;;x
-PROV176;Traverse City;;;;;;;;;;;;x
-PROV177;Marquette;;;;;;;;;;;;x
-PROV178;Cleveland;;;;;;;;;;;;x
-PROV179;Columbus;;;;;;;;;;;;x
-PROV180;Sandusky;;;;;;;;;;;;x
-PROV181;Dayton;;;;;;;;;;;;x
-PROV182;Cincinnati;;;;;;;;;;;;x
-PROV183;Marietta;;;;;;;;;;;;x
-PROV184;Louisville;;;;;;;;;;;;x
-PROV185;Lexington;;;;;;;;;;;;x
-PROV186;Bowling Green;;;;;;;;;;;;x
-PROV187;Paducah;;;;;;;;;;;;x
-PROV188;Nashville;;;;;;;;;;;;x
-PROV189;Memphis;;;;;;;;;;;;x
-PROV190;Knoxville;;;;;;;;;;;;x
-PROV191;Chattanooga;;;;;;;;;;;;x
-PROV192;Jackson;;;;;;;;;;;;x
-PROV193;Vicksburg;;;;;;;;;;;;x
-PROV194;Biloxi;;;;;;;;;;;;x
-PROV195;Montgomery;;;;;;;;;;;;x
-PROV196;Tuscaloosa;;;;;;;;;;;;x
-PROV197;Mobile;;;;;;;;;;;;x
-PROV198;Tallahassee;;;;;;;;;;;;x
-PROV199;St Augustine;;;;;;;;;;;;x
-PROV200;Tampa;;;;;;;;;;;;x
-PROV201;Atlanta;;;;;;;;;;;;x
-PROV202;Valdosta;;;;;;;;;;;;x
-PROV203;Bermuda;;;;;;;;;;;;x
-PROV204;Savannah;;;;;;;;;;;;x
-PROV205;Charleston;;;;;;;;;;;;x
-PROV206;Columbia;;;;;;;;;;;;x
-PROV207;Greenville;;;;;;;;;;;;x
-PROV208;Raleigh;;;;;;;;;;;;x
-PROV209;Charlotte;;;;;;;;;;;;x
-PROV210;Wilmington;;;;;;;;;;;;x
-PROV211;Richmond;;;;;;;;;;;;x
-PROV212;Manassas;;;;;;;;;;;;x
-PROV213;Fredericksburg;;;;;;;;;;;;x
-PROV214;Norfolk;;;;;;;;;;;;x
-PROV215;Staunton;;;;;;;;;;;;x
-PROV216;Roanoke;;;;;;;;;;;;x
-PROV217;Wheeling;;;;;;;;;;;;x
-PROV218;Huntington;;;;;;;;;;;;x
-PROV219;Baltimore;;;;;;;;;;;;x
-PROV220;Washington;;;;;;;;;;;;x
-PROV221;Hagerstown;;;;;;;;;;;;x
-PROV222;Dover;;;;;;;;;;;;x
-PROV223;Philadelphia;;;;;;;;;;;;x
-PROV224;Scranton;;;;;;;;;;;;x
-PROV225;Williamsport;;;;;;;;;;;;x
-PROV226;Harrisburg;;;;;;;;;;;;x
-PROV227;Pittsburgh;;;;;;;;;;;;x
-PROV228;Erie;;;;;;;;;;;;x
-PROV229;Newark;;;;;;;;;;;;x
-PROV230;Trenton;;;;;;;;;;;;x
-PROV231;Atlantic City;;;;;;;;;;;;x
-PROV232;New York;;;;;;;;;;;;x
-PROV233;Long Island;;;;;;;;;;;;x
-PROV234;Albany;;;;;;;;;;;;x
-PROV235;Binghamton;;;;;;;;;;;;x
-PROV236;Buffalo;;;;;;;;;;;;x
-PROV237;Rochester;;;;;;;;;;;;x
-PROV238;Syracuse;;;;;;;;;;;;x
-PROV239;Watertown;;;;;;;;;;;;x
-PROV240;Plattsburgh;;;;;;;;;;;;x
-PROV241;Hartford;;;;;;;;;;;;x
-PROV242;Providence;;;;;;;;;;;;x
-PROV243;Boston;;;;;;;;;;;;x
-PROV244;New Bedford;;;;;;;;;;;;x
-PROV245;Pittsfield;;;;;;;;;;;;x
-PROV246;Burlington;;;;;;;;;;;;x
+PROV152;オスカルーサ;;;;;;;;;;;;x
+PROV153;シーダーラピッズ;;;;;;;;;;;;x
+PROV154;スーシティ;;;;;;;;;;;;x
+PROV155;ミネアポリス;;;;;;;;;;;;x
+PROV156;グラニットフォールズ;;;;;;;;;;;;x
+PROV157;ムーアヘッド;;;;;;;;;;;;x
+PROV158;ダルース;;;;;;;;;;;;x
+PROV159;ミルウォーキー;;;;;;;;;;;;x
+PROV160;オークレア;;;;;;;;;;;;x
+PROV161;グリーンベイ;;;;;;;;;;;;x
+PROV162;マディソン;;;;;;;;;;;;x
+PROV163;シカゴ;;;;;;;;;;;;x
+PROV164;ロックフォード;;;;;;;;;;;;x
+PROV165;シャンペーン;;;;;;;;;;;;x
+PROV166;ピオリア;;;;;;;;;;;;x
+PROV167;スプリングフィールド;;;;;;;;;;;;x
+PROV168;カーボンデール;;;;;;;;;;;;x
+PROV169;インディアナポリス;;;;;;;;;;;;x
+PROV170;エバンズビル;;;;;;;;;;;;x
+PROV171;サウスベンド;;;;;;;;;;;;x
+PROV172;フォートウェイン;;;;;;;;;;;;x
+PROV173;デトロイト;;;;;;;;;;;;x
+PROV174;グランドラピッズ;;;;;;;;;;;;x
+PROV175;サギノー;;;;;;;;;;;;x
+PROV176;トラバースシティ;;;;;;;;;;;;x
+PROV177;マーケット;;;;;;;;;;;;x
+PROV178;クリーブランド;;;;;;;;;;;;x
+PROV179;コロンバス;;;;;;;;;;;;x
+PROV180;サンダスキー;;;;;;;;;;;;x
+PROV181;デイトン;;;;;;;;;;;;x
+PROV182;シンシナティ;;;;;;;;;;;;x
+PROV183;マリエッタ;;;;;;;;;;;;x
+PROV184;ルイビル;;;;;;;;;;;;x
+PROV185;レキシントン;;;;;;;;;;;;x
+PROV186;ボーリンググリーン;;;;;;;;;;;;x
+PROV187;パデューカ;;;;;;;;;;;;x
+PROV188;ナッシュビル;;;;;;;;;;;;x
+PROV189;メンフィス;;;;;;;;;;;;x
+PROV190;ノックスビル;;;;;;;;;;;;x
+PROV191;チャタヌーガ;;;;;;;;;;;;x
+PROV192;ジャクソン;;;;;;;;;;;;x
+PROV193;ヴィックスバーグ;;;;;;;;;;;;x
+PROV194;ビロクシ;;;;;;;;;;;;x
+PROV195;モンゴメリー;;;;;;;;;;;;x
+PROV196;タスカルーサ;;;;;;;;;;;;x
+PROV197;モビール;;;;;;;;;;;;x
+PROV198;タラハシー;;;;;;;;;;;;x
+PROV199;セントオーガスティン;;;;;;;;;;;;x
+PROV200;タンパ;;;;;;;;;;;;x
+PROV201;アトランタ;;;;;;;;;;;;x
+PROV202;バルドスタ;;;;;;;;;;;;x
+PROV203;バミューダ;;;;;;;;;;;;x
+PROV204;サバンナ;;;;;;;;;;;;x
+PROV205;チャールストン;;;;;;;;;;;;x
+PROV206;コロンビア;;;;;;;;;;;;x
+PROV207;グリーンビル;;;;;;;;;;;;x
+PROV208;ローリー;;;;;;;;;;;;x
+PROV209;シャーロット;;;;;;;;;;;;x
+PROV210;ウィルミントン;;;;;;;;;;;;x
+PROV211;リッチモンド;;;;;;;;;;;;x
+PROV212;マナサス;;;;;;;;;;;;x
+PROV213;フレデリックスバーグ;;;;;;;;;;;;x
+PROV214;ノーフォーク;;;;;;;;;;;;x
+PROV215;スタントン;;;;;;;;;;;;x
+PROV216;ロアノーク;;;;;;;;;;;;x
+PROV217;ホイーリング;;;;;;;;;;;;x
+PROV218;ハンティントン;;;;;;;;;;;;x
+PROV219;ボルチモア;;;;;;;;;;;;x
+PROV220;ワシントン;;;;;;;;;;;;x
+PROV221;ヘイガーズタウン;;;;;;;;;;;;x
+PROV222;ドーバー;;;;;;;;;;;;x
+PROV223;フィラデルフィア;;;;;;;;;;;;x
+PROV224;スクラントン;;;;;;;;;;;;x
+PROV225;ウィリアムズポート;;;;;;;;;;;;x
+PROV226;ハリスバーグ;;;;;;;;;;;;x
+PROV227;ピッツバーグ;;;;;;;;;;;;x
+PROV228;エリー;;;;;;;;;;;;x
+PROV229;ニューアーク;;;;;;;;;;;;x
+PROV230;トレントン;;;;;;;;;;;;x
+PROV231;アトランティックシティ;;;;;;;;;;;;x
+PROV232;ニューヨーク;;;;;;;;;;;;x
+PROV233;ロングアイランド;;;;;;;;;;;;x
+PROV234;オールバニー;;;;;;;;;;;;x
+PROV235;ビンガムトン;;;;;;;;;;;;x
+PROV236;バッファロー;;;;;;;;;;;;x
+PROV237;ロチェスター;;;;;;;;;;;;x
+PROV238;シラキュース;;;;;;;;;;;;x
+PROV239;ウォータータウン;;;;;;;;;;;;x
+PROV240;プラッツバーグ;;;;;;;;;;;;x
+PROV241;ハートフォード;;;;;;;;;;;;x
+PROV242;プロビデンス;;;;;;;;;;;;x
+PROV243;ボストン;;;;;;;;;;;;x
+PROV244;ニューベッドフォード;;;;;;;;;;;;x
+PROV245;ピッツフィールド;;;;;;;;;;;;x
+PROV246;バーリントン;;;;;;;;;;;;x
 PROV247;Concord;;;;;;;;;;;;x
 PROV248;Lewiston;;;;;;;;;;;;x
 PROV249;Bangor;;;;;;;;;;;;x
@@ -13552,7 +13552,7 @@ NAVAL_ATTRITION_TECH;Navy Attrition;;;;;;;;;;;;x
 SUPPLY_RANGE_TECH;Supply Range;;;;;;;;;;;;x
 SUPPLY_LIMIT_TECH;Supply Limit;;;;;;;;;;;;x
 MUL_WITH_TECHNOLOGY;Multiplied by Technology;;;;;;;;;;;;x
-army_doctrine;Army Doctrine;;;;;;;;;;;;x
+army_doctrine;陸軍ドクトリン;;;;;;;;;;;;x
 army_doctrine_desc;This is the doctrinal change of your army. New ideas of how to move and defend while increasing the defense of your units, increasing their speed, and giving you the possibility to enhance your fortifications.;;;;;;;;;;;;x
 post_napoleonic_thought;Post-Napoleonic Thought;;;;;;;;;;;;x
 post_napoleonic_thought_desc;Post-Napoleonic Thought;;;;;;;;;;;;x
@@ -13688,8 +13688,8 @@ army_military_political_decision_making;Military-Political Decision-making;;;;;;
 army_military_political_decision_making_desc;In wartime an influential Army that had lobbied for their cause for a long time could get full control not only over the execution of the war, but also over the resource management of the country. This could basically be called a Military Dictatorship governed by the General Staff.;;;;;;;;;;;;x
 army_local_military_government;Local Military Government;;;;;;;;;;;;x
 army_local_military_government_desc;In a highly militarized society, or a normal society in war, often not only military-civilian cooperation boards on a local level were needed, but sometimes most of the local government could be appointed officers as well. This meant not only a strong military control, but also that the power of the Army increased disproportionally in comparison to other governmental agencies.;;;;;;;;;;;;x
-aeronautics;Aeronautics;;;;;;;;;;;;x
-aeronautics_desc;Aeronautics;;;;;;;;;;;;x
+aeronautics;航空工学;;;;;;;;;;;;x
+aeronautics_desc;航空工学;;;;;;;;;;;;x
 early_interwar_bombers;Early Interwar Bombers;;;;;;;;;;;;x
 early_interwar_bombers_desc;Beginning with the first pilot to drop a grenade on his enemy, the use of aircraft to deliver munitions to the enemy was acknowledged to be of great tactical and strategic value. To enhance and expand this ability, dedicated bomber aircraft were developed.;;;;;;;;;;;;x
 late_interwar_bombers;Late Interwar Bombers;;;;;;;;;;;;x
@@ -13748,7 +13748,7 @@ army_nco_tactical_training;NCO Tactical Training;;;;;;;;;;;;x
 army_nco_tactical_training_desc;By excessively training the NCOs in the field and with tactical situations, these not only became the leaders of the men, but also the initiative takers in combat.;;;;;;;;;;;;x
 great_war_experience;Great War Experience;;;;;;;;;;;;x
 great_war_experience_desc;Great War Experience;;;;;;;;;;;;x
-naval_doctrine;Naval Doctrine;;;;;;;;;;;;x
+naval_doctrine;海軍ドクトリン;;;;;;;;;;;;x
 naval_doctrine_desc;This is the doctrinal change of your navy. New ideas on how to move, attack and defend. The applications will change the combat values of your ships as tactics and strategies evolve.;;;;;;;;;;;;x
 post_nelsonian_thought;Post-Nelsonian Thought;;;;;;;;;;;;x
 post_nelsonian_thought_desc;Post-Nelsonian Thought;;;;;;;;;;;;x

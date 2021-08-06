@@ -158,11 +158,11 @@ FE_SETTING_POLITICS;Politics;;;;;;;;;;;;x
 FE_SETTING_INTEL;Intelligence;;;;;;;;;;;;x
 FE_SETTING_TECHNOLOGY;Technology;;;;;;;;;;;;x
 FE_SETTING_UNITINTERFACE;Armies;;;;;;;;;;;;x
-DIFF_VERY_EASY;Very Easy;;;;;;;;;;;;x
-DIFF_EASY;Easy;;;;;;;;;;;;x
-DIFF_NORMAL;Normal;;;;;;;;;;;;x
-DIFF_HARD;Hard;;;;;;;;;;;;x
-DIFF_VERY_HARD;Very Hard;;;;;;;;;;;;x
+DIFF_VERY_EASY;非常に簡単;;;;;;;;;;;;x
+DIFF_EASY;簡単;;;;;;;;;;;;x
+DIFF_NORMAL;普通;;;;;;;;;;;;x
+DIFF_HARD;難しい;;;;;;;;;;;;x
+DIFF_VERY_HARD;非常に難しい;;;;;;;;;;;;x
 CORE_PAUSED;PAUSE;;;;;;;;;;;;x
 SM_SETTINGS;Settings;;;;;;;;;;;;x
 SM_GAME;Game;;;;;;;;;;;;x
@@ -715,7 +715,7 @@ BE_INDEPENDENT_NATION;Independent Nation;;;;;;;;;;;;x
 BE_PRESTIGE;Prestige;;;;;;;;;;;;x
 BE_INDUSTRY;Industry Score;;;;;;;;;;;;x
 BE_MILITARY;Military Score;;;;;;;;;;;;x
-GC_NAME;The Grand Campaign;;;;;;;;;;;;x
+GC_NAME;グランドキャンペーン;;;;;;;;;;;;x
 REMOVE_GC_DESC;The dust has settled on the fields of Waterloo, where the ideals of the French Revolution were believed to have met their final demise at the hands of the Ancien Régimes of Europe. After the tribulations of Napoleon's wars, the consensus established at the Congress of Vienna has restored a tentative calm to a troubled continent. While the flames of revolution may have been put out for now, the ideas of human liberty, nationalism and liberalism will soon prove themselves more alive than ever. In the Americas, those same ideas threaten to plunge a young republic into the devastation of a civil war. Princess Victoria is 16 years old, and will soon ascend to the throne of Great Britain, the greatest industrial empire ever to span the globe. Her ascension, to a long and prosperous reign, marks the beginning of an age that is to last all the way up until the First World War. In this new era of unprecedented technological progress, doubts will be cast on certainties that have stood since time immemorial, and new dogmas will rise in their place. Far away, across the briny foam, the riches of Asia and Africa, and The Heart of Darkness, beckon that their songs may also be heard, in the Concert of Europe. Maestro, choose your instrument, and let the music play.;;;;;;;;;;;;x
 BUILDING_NO_TECH;Discovered §Y$TECH$§W;;;;;;;;;;;;x
 BUILDING_AT_MAX;Level $CURR$/$MAX$;;;;;;;;;;;;x
@@ -4153,7 +4153,7 @@ EVTNAME23403;Attend The First Olympic Games?;;;;;;;;;;;;x
 EVTDESC23403;With the announcement of a host nation, the International Olympic Committee has sent invitations to its members to attend the games. Shall we attend?;;;;;;;;;;;;x
 EVTOPTA23403;Yes we will attend.;;;;;;;;;;;;x
 EVTOPTB23403;We unfortunately can not attend.;;;;;;;;;;;;x
-EVTNAME23404;The Games of The First Olympiad;;;;;;;;;;;;x
+EVTNAME23404;第1回オリンピアード競技大会;;;;;;;;;;;;x
 EVTDESC23404;Athletes from around the world have gathered in our capital to compete in the Olympic Games. This is a great moment for our nation on the world stage.;;;;;;;;;;;;x
 EVTOPTA23404;We declare open the Games celebrating the First Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23405;Our athletes are victorious!;;;;;;;;;;;;x
@@ -4162,43 +4162,43 @@ EVTOPTA23405;Glory to the youth of our nation!;;;;;;;;;;;;x
 EVTNAME23406;Shall we host the Second Olympic Games?;;;;;;;;;;;;x
 EVTDESC23406;The International Olympic Committee has invited our nation to host the next Olympic Games. Should we accept this responsibility?;;;;;;;;;;;;x
 EVTNAME23407;Attend The Second Olympic Games?;;;;;;;;;;;;x
-EVTNAME23408;The Games of The Second Olympiad;;;;;;;;;;;;x
+EVTNAME23408;第2回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23408;We declare open the Games celebrating the Second Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23410;Shall we host the Third Olympic Games?;;;;;;;;;;;;x
 EVTNAME23411;Attend The Third Olympic Games?;;;;;;;;;;;;x
-EVTNAME23412;The Games of The Third Olympiad;;;;;;;;;;;;x
+EVTNAME23412;第3回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23412;We declare open the Games celebrating the Third Olympiad of the modern era.;;;;;;;;;;;;x
-EVTNAME23413;The Games of The Third Olympiad;;;;;;;;;;;;x
+EVTNAME23413;第3回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23413;We declare open the Games celebrating the Third Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23414;Shall we host the Fourth Olympic Games?;;;;;;;;;;;;x
 EVTNAME23415;Attend The Fourth Olympic Games?;;;;;;;;;;;;x
-EVTNAME23416;The Games of The Fourth Olympiad;;;;;;;;;;;;x
+EVTNAME23416;第4回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23416;We declare open the Games celebrating the Fourth Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23418;Shall we host the Fifth Olympic Games?;;;;;;;;;;;;x
 EVTNAME23419;Attend The Fifth Olympic Games?;;;;;;;;;;;;x
-EVTNAME23420;The Games of The Fifth Olympiad;;;;;;;;;;;;x
+EVTNAME23420;第5回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23420;We declare open the Games celebrating the Fifth Olympiad of the modern era.;;;;;;;;;;;;x
-EVTNAME23421;The Games of The Fifth Olympiad;;;;;;;;;;;;x
+EVTNAME23421;第5回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23421;We declare open the Games celebrating the Fifth Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23422;Shall we host the Sixth Olympic Games?;;;;;;;;;;;;x
 EVTNAME23423;Attend The Sixth Olympic Games?;;;;;;;;;;;;x
-EVTNAME23424;The Games of The Sixth Olympiad;;;;;;;;;;;;x
+EVTNAME23424;第6回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23424;We declare open the Games celebrating the Sixth Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23426;Shall we host the Seventh Olympic Games?;;;;;;;;;;;;x
 EVTNAME23427;Attend The Seventh Olympic Games?;;;;;;;;;;;;x
-EVTNAME23428;The Games of The Seventh Olympiad;;;;;;;;;;;;x
+EVTNAME23428;第7回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23428;We declare open the Games celebrating the Seventh Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23430;Shall we host the Eighth Olympic Games?;;;;;;;;;;;;x
 EVTNAME23431;Attend The Eighth Olympic Games?;;;;;;;;;;;;x
-EVTNAME23432;The Games of The Eighth Olympiad;;;;;;;;;;;;x
+EVTNAME23432;第8回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23432;We declare open the Games celebrating the Eight Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23434;Shall we host the Ninth Olympic Games?;;;;;;;;;;;;x
 EVTNAME23435;Attend The Ninth Olympic Games?;;;;;;;;;;;;x
-EVTNAME23436;The Games of The Ninth Olympiad;;;;;;;;;;;;x
+EVTNAME23436;第9回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23436;We declare open the Games celebrating the Ninth Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23438;Shall we host the Tenth Olympic Games?;;;;;;;;;;;;x
 EVTNAME23439;Attend The Tenth Olympic Games?;;;;;;;;;;;;x
-EVTNAME23440;The Games of The Tenth Olympiad;;;;;;;;;;;;x
+EVTNAME23440;第10回オリンピアード競技大会;;;;;;;;;;;;x
 EVTOPTA23440;We declare open the Games celebrating the Tenth Olympiad of the modern era.;;;;;;;;;;;;x
 EVTNAME23450;Alfred Nobel's Bequest To Humanity;;;;;;;;;;;;x
 EVTDESC23450;The last will of the recently deceased Swedish inventor and industrialist Alfred Nobel has reserved his entire fortune for the establishment of a foundation to award prizes each year to meritorious researchers in the fields of chemistry, physics, and physiology or medicine, as well as authors of groundbreaking literature and activists whose work best promotes international peace and cooperation.;;;;;;;;;;;;x
@@ -14480,20 +14480,20 @@ paramilitary_groups;準軍事組織;;;;;;;;;;;;x
 paramilitary_groups_desc;As a result of the huge manpower requirements of militaries in an age of industrial warfare, the restoration of peace often resulted in the creation of large numbers of veterans, many of whom found it difficult to adjust to a return to civilian life and who possessed basic military training that could be put to use if needed. With the growth of revolutionary movements on the Left and particularly on the Right, the potential use of disgruntled military veterans for the purpose of challenging the actions and influence of ideological opponents grew rapidly. Their existence and growth in times of political, social and economic upheaval proved challenging to the ability of many States to maintain law and order, and the activities of such paramilitaries were often cited by those opposed to Liberal Capitalism of the inherent weakness of democracy in the face of revolutionary challenges that threatened the social order;;;;;;;;;;;;x
 the_police_state;警察国家;;;;;;;;;;;;x
 the_police_state_desc;Why is it you only see a policeman when you don't need one?;;;;;;;;;;;;x
-psychology;Psychology;;;;;;;;;;;;x
+psychology;心理学;;;;;;;;;;;;x
 psychology_desc;This area covers the developments in psychology. It changed not only mankind’s view of itself but also created systematic knowledge in behaviour especially on a macrolevel.;;;;;;;;;;;;x
-introspectionism;Introspectionism;;;;;;;;;;;;x
-introspectionism_desc;Introspectionism;;;;;;;;;;;;x
-associationism;Associationism;;;;;;;;;;;;x
-associationism_desc;Associationism;;;;;;;;;;;;x
-phenomenalism;Phenomenalism;;;;;;;;;;;;x
-phenomenalism_desc;Phenomenalism;;;;;;;;;;;;x
-experimental_psychology;Experimental Psychology;;;;;;;;;;;;x
-experimental_psychology_desc;Experimental Psychology;;;;;;;;;;;;x
-psychoanalysis;Psychoanalysis;;;;;;;;;;;;x
-psychoanalysis_desc;Psychoanalysis;;;;;;;;;;;;x
-behaviorism;Behaviorism;;;;;;;;;;;;x
-behaviorism_desc;Behaviorism;;;;;;;;;;;;x
+introspectionism;内観主義;;;;;;;;;;;;x
+introspectionism_desc;内観主義;;;;;;;;;;;;x
+associationism;連合主義;;;;;;;;;;;;x
+associationism_desc;連合主義;;;;;;;;;;;;x
+phenomenalism;現象主義;;;;;;;;;;;;x
+phenomenalism_desc;現象主義;;;;;;;;;;;;x
+experimental_psychology;実験心理学;;;;;;;;;;;;x
+experimental_psychology_desc;実験心理学;;;;;;;;;;;;x
+psychoanalysis;精神分析学;;;;;;;;;;;;x
+psychoanalysis_desc;精神分析学;;;;;;;;;;;;x
+behaviorism;行動主義;;;;;;;;;;;;x
+behaviorism_desc;行動主義;;;;;;;;;;;;x
 mass_advertising;Mass Advertising;;;;;;;;;;;;x
 mass_advertising_desc;The rapid spread of basic functional literacy in industrial societies combined with the improvements in communication technologies to lay the basis for the development of new approaches to the promotion of creating demand for the rapidly increasing output of goods by increasingly efficient industrial systems. Drawing upon increased understanding of the nature of human compulsions shaped by the environment around them, advertisers would also learn lessons gained by States in their propaganda efforts during periods of war to rally the population to support the goals of the nation in its conflict. The result would be a rapid expansion of the use of simple, direct means of advertising to popularize new products and increase the appeal and demand for established products would become permanent features of popular culture as the twentieth century evolved, and would eventually come to impact other realms of public life, including politics;;;;;;;;;;;;x
 national_radio_networks;National Radio Networks;;;;;;;;;;;;x
@@ -14502,39 +14502,39 @@ the_talkies;The Talkies;;;;;;;;;;;;x
 the_talkies_desc;The development of the cinema in the late nineteenth and early twentieth century would result in the creation of a new mass cultural activity that would soon become one of the hallmarks of the era. The power and influence of the cinema would be further enhanced when in the 1920s technological improvements allowed for the ability of sounds to be synchronized with the moving images so that not just the visual representation of a scene could be represented on screen, but its aural component as well. “The Jazz Singer,” released in the United States in 1927, was the first sound motion picture, and within half a decade the silent movie had become a relic of the past, and a new, powerful medium had entered the public sphere, forever changing not only popular culture, but the nature of politics and international relations as well;;;;;;;;;;;;x
 tech_power;Power;;;;;;;;;;;;x
 tech_power_desc;This area involves the development of power and engines. Note that each application within this area is the prerequisite for each other application at the same level within the technology branch of Industry.;;;;;;;;;;;;x
-water_wheel_power;Water-wheel Power;;;;;;;;;;;;x
-water_wheel_power_desc;Water-wheel Power;;;;;;;;;;;;x
-practical_steam_engine;Practical Steam Engine;;;;;;;;;;;;x
-practical_steam_engine_desc;Practical Steam Engine;;;;;;;;;;;;x
-high_n_low_pressure_steam_engines;High & Low Pressure Steam Engines;;;;;;;;;;;;x
-high_n_low_pressure_steam_engines_desc;High & Low Pressure Steam Engines;;;;;;;;;;;;x
-steam_turbine;Steam Turbine;;;;;;;;;;;;x
-steam_turbine_desc;Steam Turbine;;;;;;;;;;;;x
-combustion_engine;Combustion Engine;;;;;;;;;;;;x
-combustion_engine_desc;Combustion Engine;;;;;;;;;;;;x
-daimlers_automobile;Daimler's Automobile;;;;;;;;;;;;x
+water_wheel_power;水車動力;;;;;;;;;;;;x
+water_wheel_power_desc;水車動力;;;;;;;;;;;;x
+practical_steam_engine;実用的蒸気機関;;;;;;;;;;;;x
+practical_steam_engine_desc;実用的蒸気機関;;;;;;;;;;;;x
+high_n_low_pressure_steam_engines;高圧・低圧蒸気機関;;;;;;;;;;;;x
+high_n_low_pressure_steam_engines_desc;高圧・低圧蒸気機関;;;;;;;;;;;;x
+steam_turbine;蒸気タービン;;;;;;;;;;;;x
+steam_turbine_desc;蒸気タービン;;;;;;;;;;;;x
+combustion_engine;内燃機関;;;;;;;;;;;;x
+combustion_engine_desc;内燃機関;;;;;;;;;;;;x
+daimlers_automobile;ダイムラー自動車;;;;;;;;;;;;x
 daimlers_automobile_desc;This was the first commercial automobile. It was reliable, but slow, and it took a decade before they became usual even among high class people.;;;;;;;;;;;;x
 wright_n_langleys_aeroplanes;Wright & Langley's Aeroplanes;;;;;;;;;;;;x
 wright_n_langleys_aeroplanes_desc;This was the first durable aircraft. It was extremely expensive and it would take a decade before a commercial version was produced and then only the ultrarich could afford it.;;;;;;;;;;;;x
-electrical_power_generation;Electrical Power Generation;;;;;;;;;;;;x
-electrical_power_generation_desc;Electrical Power Generation;;;;;;;;;;;;x
-direct_current;Direct Current;;;;;;;;;;;;x
+electrical_power_generation;発電;;;;;;;;;;;;x
+electrical_power_generation_desc;発電;;;;;;;;;;;;x
+direct_current;直流;;;;;;;;;;;;x
 direct_current_desc;The first common way to transmit electricity was direct current or DC, where the electrons flow in only one direction. Batteries produce direct current and it is commonly used in applications requiring low voltages. High voltage direct current is used to transmit power to long distances, especially when using underwater cables and to run trains. Thomas Alva Edison sponsored direct current, but lost the battle of standards to Nikola Tesla and his alternating current.;;;;;;;;;;;;x
-alternating_current;Alternating Current;;;;;;;;;;;;x
+alternating_current;交流;;;;;;;;;;;;x
 alternating_current_desc;In alternating current or AC systems electrons flow in both directions in wave patterns. After a fierce competition with direct current, alternating current got dominance for most domestic and industrial applications. One of the first applications were the electric chairs, which didn't help in convincing that alternating current wasn't more dangerous than direct current.;;;;;;;;;;;;x
 polyphase_system;Polyphase System;;;;;;;;;;;;x
 polyphase_system_desc;The polyphase system is a way to help transmit alternating current efficiently. In it two or more phases travel simultaneously. In industrial applications three waves is the standards, although at first two phases were used. The invention of the polyphase system by Nikola Tesla meant the final loss for Thomas Alva Edison and his direct current.;;;;;;;;;;;;x
-mechanization;Mechanization;;;;;;;;;;;;x
+mechanization;機械化;;;;;;;;;;;;x
 mechanization_desc;This area involves the development of mechanizations in the factories of your country. It concerns both machinery, tools and working procedures.;;;;;;;;;;;;x
 publishing_industry;Publishing Industry;;;;;;;;;;;;x
 publishing_industry_desc;Publishing Industry;;;;;;;;;;;;x
-mechanical_production;Mechanical Production;;;;;;;;;;;;x
-mechanical_production_desc;Mechanical Production;;;;;;;;;;;;x
+mechanical_production;機械化生産;;;;;;;;;;;;x
+mechanical_production_desc;機械化生産;;;;;;;;;;;;x
 sharp_n_roberts_power_loom;Sharp & Robert's Power Loom;;;;;;;;;;;;x
 sharp_n_roberts_power_loom_desc;This was one of the first mechanized power looms and it revolutionized production. From now on the textile industry was no longer considered a handicraft.;;;;;;;;;;;;x
-jacquard_power_loom;Jacquard Power Loom;;;;;;;;;;;;x
+jacquard_power_loom;ジャカード織機;;;;;;;;;;;;x
 jacquard_power_loom_desc;This was a mechanized power loom that produced fabric with a much higher quality than before.;;;;;;;;;;;;x
-northrop_power_loom;Northrop Power Loom;;;;;;;;;;;;x
+northrop_power_loom;ノースロップ織機;;;;;;;;;;;;x
 northrop_power_loom_desc;This was a mechanized power loom that produced fabric with a much higher quality than before. But also the one and the same machine could produce several different types of fabric which made it extremely flexible.;;;;;;;;;;;;x
 mechanical_saw;Mechanical Saw;;;;;;;;;;;;x
 mechanical_saw_desc;This was a power-driven saw that vastly increased the rate of cut down timber.;;;;;;;;;;;;x
@@ -14546,11 +14546,11 @@ pitts_threshing_machine;Pitts Threshing machine;;;;;;;;;;;;x
 pitts_threshing_machine_desc;This farming machine made agriculture less labour intensive and increased the output.;;;;;;;;;;;;x
 mechanized_slaughtering_block;Mechanized Slaughtering-block;;;;;;;;;;;;x
 mechanized_slaughtering_block_desc;By mechanizing the procedure inside the slaughterhouse the handling was sped up and output increased.;;;;;;;;;;;;x
-interchangeable_parts;Interchangeable Parts;;;;;;;;;;;;x
-interchangeable_parts_desc;Interchangeable Parts;;;;;;;;;;;;x
-precision_work;Precision Work;;;;;;;;;;;;x
+interchangeable_parts;互換性部品;;;;;;;;;;;;x
+interchangeable_parts_desc;互換性部品;;;;;;;;;;;;x
+precision_work;精密工業;;;;;;;;;;;;x
 precision_work_desc;Precision Work meant producing very small part by a new method. These parts could now be used in very fine mechanisms that increased the complexity in production.;;;;;;;;;;;;x
-machine_tools;Machine Tools;;;;;;;;;;;;x
+machine_tools;工作機械;;;;;;;;;;;;x
 machine_tools_desc;By constructing special machines that produced standardized machine tools the exchangeability in industry was vastly improved.;;;;;;;;;;;;x
 whitney_n_colts_standardized_small_arms;Whitney & Colt's Standardized Small Arms;;;;;;;;;;;;x
 whitney_n_colts_standardized_small_arms_desc;By constructing special machines that produced standardized parts Small Arms became cheaper and simpler to construct and repair.;;;;;;;;;;;;x
@@ -14560,17 +14560,17 @@ integral_distillery_process;Integral Distillery Process;;;;;;;;;;;;x
 integral_distillery_process_desc;Greater knowledge of the fermentation process, thermodynamical coherences during boiling and distilling  and the introduction of machinery into the traditional ways of producing fermented beverages allowed the wineries, breweries and distilleries to grow beyond family enterprises and thus established a new sector of industry.;;;;;;;;;;;;x
 jiggs;Jiggs;;;;;;;;;;;;x
 jiggs_desc;The introduction of jiggs vastly increased the efficiency of all machines, which in its turn helped increase most industrial production.;;;;;;;;;;;;x
-semi_automatization;Semi-Automatization;;;;;;;;;;;;x
-semi_automatization_desc;Semi-Automatization;;;;;;;;;;;;x
-electric_machinery;Electric Machinery;;;;;;;;;;;;x
+semi_automatization;半自動化;;;;;;;;;;;;x
+semi_automatization_desc;半自動化;;;;;;;;;;;;x
+electric_machinery;電気機械;;;;;;;;;;;;x
 electric_machinery_desc;By being able to electrify certain parts of the machinery at an industrial plant more complicated work could be done. This also meant that the production became less labour intensive.;;;;;;;;;;;;x
 oil_pumping_machinery;Oil Pumping Machinery;;;;;;;;;;;;x
 oil_pumping_machinery_desc;By using new discoveries in hydraulics and pumping techniques, new machinery was developed that could pump the black gold up to the surface.;;;;;;;;;;;;x
-drying_techniques;Drying Techniques;;;;;;;;;;;;x
+drying_techniques;乾燥技術;;;;;;;;;;;;x
 drying_techniques_desc;By drying food their durability increased tenfold and food as a commodity became easier to sell.;;;;;;;;;;;;x
-assembly_line;Assembly Line;;;;;;;;;;;;x
-assembly_line_desc;Assembly Line;;;;;;;;;;;;x
-fordism;Fordism;;;;;;;;;;;;x
+assembly_line;ライン生産;;;;;;;;;;;;x
+assembly_line_desc;ライン生産;;;;;;;;;;;;x
+fordism;フォーディズム;;;;;;;;;;;;x
 fordism_desc;Fordism was a technique of mass production. The product moved on a moving line and workers stood by it ready to attach the part they were specialized in attaching. The Industrial Mode of production was revolutionized.;;;;;;;;;;;;x
 massproduced_rail;Massproduced Rail;;;;;;;;;;;;x
 massproduced_rail_desc;As an applied combination of fordism and smelting technique rail could be mass-produced and thus the railroad net could be expanded at a much lower price.;;;;;;;;;;;;x
@@ -14638,33 +14638,33 @@ integral_rail_system;Integral Rail System;;;;;;;;;;;;x
 integral_rail_system_desc;Integral Rail System;;;;;;;;;;;;x
 limited_access_roads;Limited-Access Roads;;;;;;;;;;;;x
 limited_access_roads_desc;Limited-Access Roads;;;;;;;;;;;;x
-chemistry_and_electricity;Chemistry and Electricity;;;;;;;;;;;;x
+chemistry_and_electricity;化学と電気学;;;;;;;;;;;;x
 chemistry_and_electricity_desc;This area involves the development of chemistry and electricity and all its spinoffs.;;;;;;;;;;;;x
-basic_chemistry;Basic Chemistry;;;;;;;;;;;;x
-basic_chemistry_desc;Basic Chemistry;;;;;;;;;;;;x
-medicine;Medicine;;;;;;;;;;;;x
-medicine_desc;Medicine;;;;;;;;;;;;x
-combat_medicine;Combat Medicine;;;;;;;;;;;;x
+basic_chemistry;基礎化学;;;;;;;;;;;;x
+basic_chemistry_desc;基礎化学;;;;;;;;;;;;x
+medicine;医学;;;;;;;;;;;;x
+medicine_desc;医学;;;;;;;;;;;;x
+combat_medicine;戦傷医学;;;;;;;;;;;;x
 combat_medicine_desc;At this point the armies and navies of the world had acknowledged the need not only for a medical corps within their organizations, but also that the illness' and wounds delivered in combat and frontline duty needed specialization.;;;;;;;;;;;;x
 aerial_bacteria_and_antiseptic_principle;Aerial Bacteria and Antiseptic Principle;;;;;;;;;;;;x
 aerial_bacteria_and_antiseptic_principle_desc;The discovery of aerial bacteria and the development of antiseptics revolutionized life for humanity. No longer did open wounds mean amputation or death, now infections and even fevers could be cured with modern medicine.;;;;;;;;;;;;x
-vaccination;Vaccination;;;;;;;;;;;;x
+vaccination;予防接種;;;;;;;;;;;;x
 vaccination_desc;This method meant that one could immunize animals and humans from illnesses that flourished. This made life easier for man and cattle tending more profitable.;;;;;;;;;;;;x
-chemotherapy;Chemotherapy;;;;;;;;;;;;x
+chemotherapy;化学療法;;;;;;;;;;;;x
 chemotherapy_desc;Chemotherapy describes methods of using natural or artificial low molecular substances with selectively harming effects on disease-causing agents  by blocking metabolism.;;;;;;;;;;;;x
 genetics:_heredity;Genetics: Heredity;;;;;;;;;;;;x
 genetics:_heredity_desc;Heredity Genetics were a major step towards the understanding of life itself. Gregor Mendel (1822-84) assumed that every trait an organism contains is written down in some material factors and are transferred during the process of reproduction. In experiments with his pea plants he could prove his thesis.;;;;;;;;;;;;x
-clinical_thermometers_and_binaural_stethoscopes;Clinical Thermometers and Binaural Stethoscopes;;;;;;;;;;;;x
+clinical_thermometers_and_binaural_stethoscopes;体温計と両耳聴診器;;;;;;;;;;;;x
 clinical_thermometers_and_binaural_stethoscopes_desc;This new medical equipment simplified the work of doctors and improved the effect of their work considerably.;;;;;;;;;;;;x
-prophylaxis_against_malaria;Prophylaxis against Malaria;;;;;;;;;;;;x
+prophylaxis_against_malaria;マラリア予防;;;;;;;;;;;;x
 prophylaxis_against_malaria_desc;This medicament gave the patient a protection against the disease gotten from the Malaria mosquito which was very common in the tropics.;;;;;;;;;;;;x
 pressure_chambers_for_thorax_surgery;Pressure Chambers for Thorax Surgery;;;;;;;;;;;;x
 pressure_chambers_for_thorax_surgery_desc;When doing thorax surgery a big problem had been the oxygen in the blood stream, but doing them in a pressure chamber the risk of hazard diminished considerably.;;;;;;;;;;;;x
-inorganic_chemistry;Inorganic Chemistry;;;;;;;;;;;;x
-inorganic_chemistry_desc;Inorganic Chemistry;;;;;;;;;;;;x
-artificial_fertilizers;Artificial Fertilizers;;;;;;;;;;;;x
+inorganic_chemistry;無機化学;;;;;;;;;;;;x
+inorganic_chemistry_desc;無機化学;;;;;;;;;;;;x
+artificial_fertilizers;人造肥料;;;;;;;;;;;;x
 artificial_fertilizers_desc;This was the technique of making fertilizers in a laboratory instead on relying on byproducts from animals.;;;;;;;;;;;;x
-nitroglycerin;Nitroglycerin;;;;;;;;;;;;x
+nitroglycerin;ニトログリセリン;;;;;;;;;;;;x
 nitroglycerin_desc;This was the technique of producing reliable explosives out of nitrates. This often meant using fertilizers as base material.;;;;;;;;;;;;x
 chemical_wood_pulp_process;Chemical Wood Pulp Process;;;;;;;;;;;;x
 chemical_wood_pulp_process_desc;Wood is composed of cellulose fibres that are cemented together with a substance called lignin. To transform wood into pulp, the fibres must be separated, either by a mechanical or chemical process. This technology helped to saturate the ever growing hunger for paper of the 19th century printing industry.;;;;;;;;;;;;x
@@ -14672,19 +14672,19 @@ rubber_vulcanization;Rubber Vulcanization;;;;;;;;;;;;x
 rubber_vulcanization_desc;This was a process to make industrial rubber out of the rubber source material. This enabled mass production of this strategic material and thus gave an enormously increased output.;;;;;;;;;;;;x
 catalytic_fermentative_process;Catalytic Fermentative Process;;;;;;;;;;;;x
 catalytic_fermentative_process_desc;This marked the beginning of a new field of science and technology  - biotechnology. Connstein and Norman combined fermentative processes (enzymatic hydrolization) with a thermodynamic process (catalytic hydrogenation). One result of this combination was margarine, which greatly improved the supply of the population with essential unsaturated fatty acids.;;;;;;;;;;;;x
-organic_chemistry;Organic Chemistry;;;;;;;;;;;;x
-organic_chemistry_desc;Organic Chemistry;;;;;;;;;;;;x
-synthetic_dye;Synthetic Dye;;;;;;;;;;;;x
+organic_chemistry;有機化学;;;;;;;;;;;;x
+organic_chemistry_desc;有機化学;;;;;;;;;;;;x
+synthetic_dye;合成染料;;;;;;;;;;;;x
 synthetic_dye_desc;This incorporated a chemical process that created different types of dye in a synthetic way. It revolutionized the colouring of fabric and terminated the production of agricultural dye which became to expensive to produce.;;;;;;;;;;;;x
-gaslights;Gaslights;;;;;;;;;;;;x
+gaslights;ガス灯;;;;;;;;;;;;x
 gaslights_desc;The introduction of gaslights meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;x
 carbon_soil_enrichment;Carbon Soil Enrichment;;;;;;;;;;;;x
 carbon_soil_enrichment_desc;By enriching the soil with carbons it yielded more crops and need to lay for shorter times.;;;;;;;;;;;;x
 cracking;Cracking;;;;;;;;;;;;x
 cracking_desc;This chemical process involved separating oil into different layers of different energy levels. One of these layers held gasoline which proved a superb fuel for combustion engines.;;;;;;;;;;;;x
-electricity;Electricity;;;;;;;;;;;;x
-electricity_desc;Electricity;;;;;;;;;;;;x
-x_rays;X-Rays;;;;;;;;;;;;x
+electricity;電気学;;;;;;;;;;;;x
+electricity_desc;電気学;;;;;;;;;;;;x
+x_rays;X線;;;;;;;;;;;;x
 x_rays_desc;With X-rays it was now possible to perfectly view any shattered bones within a body without cutting it up. This of course made operations and rehabilitation much easier.;;;;;;;;;;;;x
 edison_light_bulb;Edison Light Bulb;;;;;;;;;;;;x
 edison_light_bulb_desc;The introduction of the light bulb meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;x
@@ -14692,44 +14692,44 @@ bell_n_greys_telephones;Bell & Grey's Telephones;;;;;;;;;;;;x
 bell_n_greys_telephones_desc;Through the invention of the telephone every household could afford communicating directly with relatives and other. It also revolutionized communication between firms and organizations.;;;;;;;;;;;;x
 electrical_lighting;Electrical Lighting;;;;;;;;;;;;x
 electrical_lighting_desc;The introduction of electric lighting meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;x
-tractors;Tractors;;;;;;;;;;;;x
+tractors;トラクター;;;;;;;;;;;;x
 tractors_desc;When automobiles had started to gain popularity on the roads, it did not take long for more innovative engineers to find a way to begin replacing horses in the fields. Early experiments with steam-powered farm machinery had failed, but lighter combustion engines revolutionised farm work. The first pioneers J.I.Case, H.Ford and J.Deere, would have been thrilled to see tractors with their names stamped on them a century after their first prototypes.;;;;;;;;;;;;x
 synthetic_polymers;Synthetic Polymers;;;;;;;;;;;;x
 synthetic_polymers_desc;Synthetic Polymers;;;;;;;;;;;;x
-rayon;Rayon;;;;;;;;;;;;x
+rayon;レーヨン;;;;;;;;;;;;x
 rayon_desc;The first of the artificial fibers to be developed in commercial qualities, its production is derived from the liquefaction of wood pulp, which cools to produce a fiber with the tactile feel of silk, and was known as “wood silk” until the name rayon was adopted for the fiber in the 1920s. With disruptions in international trade caused by war between industrial nations, materials such as rayon became important substituted to maintain production of textiles for military and consumer consumption;;;;;;;;;;;;x
-bakelite;Bakelite;;;;;;;;;;;;x
+bakelite;ベークライト;;;;;;;;;;;;x
 bakelite_desc;The first plastic, bakelite was the invention of Belgium chemist Leo Hendrick Baekeland and quickly became an important product in the production of industrial and consumer goods beginning in the 1920s as a result of its durability and its fire-resistant properties. Inexpensive to produce, it would be the dominant plastic in the marketplace well into the 1950s;;;;;;;;;;;;x
 employ_from_tech;From technology: ;;;;;;;;;;;;x
-steel_factory;Steel Factory;;;;;;;;;;;;x
-cement_factory;Cement Factory;;;;;;;;;;;;x
-glass_factory;Glass Factory;;;;;;;;;;;;x
-fuel_refinery;Fuel Refinery;;;;;;;;;;;;x
-ammunition_factory;Ammunition Factory;;;;;;;;;;;;x
-small_arms_factory;Small arms Factory;;;;;;;;;;;;x
+steel_factory;製鋼所;;;;;;;;;;;;x
+cement_factory;セメント工場;;;;;;;;;;;;x
+glass_factory;ガラス工場;;;;;;;;;;;;x
+fuel_refinery;製油所;;;;;;;;;;;;x
+ammunition_factory;弾薬工場;;;;;;;;;;;;x
+small_arms_factory;小火器工場;;;;;;;;;;;;x
 artillery_factory;Artillery Factory;;;;;;;;;;;;x
 barrel_factory;Barrel Factory;;;;;;;;;;;;x
-fertilizer_factory;Fertilizer Factory;;;;;;;;;;;;x
+fertilizer_factory;肥料工場;;;;;;;;;;;;x
 explosives_factory;Explosives Factory;;;;;;;;;;;;x
-dye_factory;Dye Factory;;;;;;;;;;;;x
+dye_factory;染料工場;;;;;;;;;;;;x
 clipper_shipyard;Clipper Shipyard;;;;;;;;;;;;x
-steamer_shipyard;Steamer Shipyard;;;;;;;;;;;;x
-machine_parts_factory;Machine Parts Factory;;;;;;;;;;;;x
-automobile_factory;Automobile Factory;;;;;;;;;;;;x
-aeroplane_factory;Aeroplane Factory;;;;;;;;;;;;x
+steamer_shipyard;蒸気船造船所;;;;;;;;;;;;x
+machine_parts_factory;機械部品工場;;;;;;;;;;;;x
+automobile_factory;自動車工場;;;;;;;;;;;;x
+aeroplane_factory;飛行機工場;;;;;;;;;;;;x
 electric_gear_factory;Electric Gear Factory;;;;;;;;;;;;x
-telephone_factory;Telephone Factory;;;;;;;;;;;;x
-radio_factory;Radio Factory;;;;;;;;;;;;x
-winery;Winery;;;;;;;;;;;;x
-liquor_distillery;Liquor Distillery;;;;;;;;;;;;x
-canned_food_factory;Canned Food Factory;;;;;;;;;;;;x
+telephone_factory;電話工場;;;;;;;;;;;;x
+radio_factory;ラジオ工場;;;;;;;;;;;;x
+winery;ワイン醸造所;;;;;;;;;;;;x
+liquor_distillery;蒸留酒製造所;;;;;;;;;;;;x
+canned_food_factory;缶詰工場;;;;;;;;;;;;x
 fabric_factory;Fabric Factory;;;;;;;;;;;;x
 regular_clothes_factory;Regular Clothes Factory;;;;;;;;;;;;x
-luxury_clothes_factory;Luxury Clothes Factory;;;;;;;;;;;;x
-lumber_mill;Lumber Mill;;;;;;;;;;;;x
-paper_mill;Paper Mill;;;;;;;;;;;;x
-furniture_factory;Furniture Factory;;;;;;;;;;;;x
-luxury_furniture_factory;Luxury Furniture Factory;;;;;;;;;;;;x
+luxury_clothes_factory;高級衣類工場;;;;;;;;;;;;x
+lumber_mill;製材所;;;;;;;;;;;;x
+paper_mill;製紙工場;;;;;;;;;;;;x
+furniture_factory;家具工場;;;;;;;;;;;;x
+luxury_furniture_factory;高級家具工場;;;;;;;;;;;;x
 synthetic_oil_factory;Synthetic Oil Factory;;;;;;;;;;;;x
 RGO_INPUT_TECH;RGO input efficiency tech;;;;;;;;;;;;x
 RGO_OUTPUT_TECH;RGO output efficiency tech;;;;;;;;;;;;x

@@ -296,18 +296,18 @@ some_fake_ANY_title_61;Hoarde uncovered;;;;;;;;;;;;x
 some_fake_ANY_61;The remnants of an old coin hoard were found in $ANYPROVINCE$ this week. Authorities mention many pieces of golden coinage discovered by a farmer plowing a field after heavy rain.;;;;;;;;;;;;x
 some_fake_ANY_title_62;Metric Nonsense;;;;;;;;;;;;x
 some_fake_ANY_62;According to a British statesman, the Imperial System is the way of the future: 'This French Metric nonsense is bound to never catch on' he claims.;;;;;;;;;;;;x
-GOODS_PRICE_UP_TITLE_LARGE;PRICES RISE!;;;;;;;;;;;;x
-GOODS_PRICE_UP_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;;;;;;;;;;;;x
-GOODS_PRICE_UP_TITLE_MEDIUM;PRICES RISE!;;;;;;;;;;;;x
-GOODS_PRICE_UP_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen. Capitalists and Artisans worldwide scramble to produce more $STRING_0_1$ to meet the ever-increasing demands of the market.;;;;;;;;;;;;x
-GOODS_PRICE_UP_TITLE_SMALL;PRICES RISE!;;;;;;;;;;;;x
-GOODS_PRICE_UP_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has steadily risen!;;;;;;;;;;;;x
+GOODS_PRICE_UP_TITLE_LARGE;価格の上昇！;;;;;;;;;;;;x
+GOODS_PRICE_UP_LARGE;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は順調に増加！世界中の資本家と職人が増え続ける市場の需要に応えるためにより多くの$STRING_0_1$を生産しようと躍起になっている。;;;;;;;;;;;;x
+GOODS_PRICE_UP_TITLE_MEDIUM;価格の上昇！;;;;;;;;;;;;x
+GOODS_PRICE_UP_MEDIUM;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は順調に増加！世界中の資本家と職人が増え続ける市場の需要に応えるためにより多くの$STRING_0_1$を生産しようと躍起になっている。;;;;;;;;;;;;x
+GOODS_PRICE_UP_TITLE_SMALL;価格の上昇！;;;;;;;;;;;;x
+GOODS_PRICE_UP_SMALL;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は順調に増加！;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_TITLE_LARGE;PRICES COLLAPSE!;;;;;;;;;;;;x
-GOODS_PRICE_DOWN_LARGE;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock! Worldwide, producers of $STRING_0_1$ are desperately trying to shift their production to other goods to make up for their losses.;;;;;;;;;;;;x
+GOODS_PRICE_DOWN_LARGE;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！世界の$STRING_0_1$生産者は損失を埋め合わせるために必死に他の製品に軸足を移そうとしている。;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_TITLE_MEDIUM;PRICES COLLAPSE!;;;;;;;;;;;;x
-GOODS_PRICE_DOWN_MEDIUM;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock! Worldwide, producers of $STRING_0_1$ are desperately trying to shift their production to other goods to make up for their losses;;;;;;;;;;;;x
+GOODS_PRICE_DOWN_MEDIUM;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！世界の$STRING_0_1$生産者は損失を埋め合わせるために必死に他の製品に軸足を移そうとしている。;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_TITLE_SMALL;PRICES COLLAPSE!;;;;;;;;;;;;x
-GOODS_PRICE_DOWN_SMALL;In the last $VALUE_INT_0_0$ months the price of $STRING_0_1$ has dropped like a rock!;;;;;;;;;;;;x
+GOODS_PRICE_DOWN_SMALL;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！;;;;;;;;;;;;x
 REVOLUTION_NEWS_TITLE_LARGE;REVOLUTION IN $TAG_0_0_UPPER$!;;;;;;;;;;;;x
 REVOLUTION_NEWS_LARGE;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country. $TAG_0_0$ is now under the control of the $STRING_0_4$. 'As we take over the government, citizens can expect immediate reforms reflecting our $STRING_0_3$ values', they announced. 'We are not a rogue state, we only plan to pursue more equal relations with our international partners', a government official commented, challenged about new ruling party's intentions to back down on the agreements and assurances issued by the previous administration.;;;;;;;;;;;;x
 REVOLUTION_NEWS_TITLE_MEDIUM;REVOLUTION IN $TAG_0_0_UPPER$!;;;;;;;;;;;;x
@@ -338,18 +338,18 @@ PARTY_NEWS_TITLE_MEDIUM;NEW POLITICAL PARTY IN $TAG_0_0_UPPER$;;;;;;;;;;;;x
 PARTY_NEWS_MEDIUM;A new $STRING_0_2$ political party, the $STRING_0_0$, has been formed in $TAG_0_0$. Uniting disgruntled activists and disillusioned members of other outfits, the new party announced to have scheduled a national convention.;;;;;;;;;;;;x
 PARTY_NEWS_TITLE_SMALL;New Party;;;;;;;;;;;;x
 PARTY_NEWS_SMALL;A new $STRING_0_2$ political party, the $STRING_0_0$, has been formed in $TAG_0_0$. They claim to remain optimistic about ever coming to power despite all odds.;;;;;;;;;;;;x
-PROVINCE_NEWS_TITLE_LARGE;$TAG_0_1_UPPER$ EXPANDS!;;;;;;;;;;;;x
-PROVINCE_NEWS_LARGE;The province of $STRING_0_0$ now belongs to $TAG_0_1$. The foreign minister of $TAG_0_1$ has stated that '$STRING_0_0$ is an integral part of $TAG_0_1$' and that '$TAG_0_0$ has no claim to it now it is back in our rightful hands'.;;;;;;;;;;;;x
-PROVINCE_NEWS_TITLE_MEDIUM;$TAG_0_1_UPPER$ EXPANDS!;;;;;;;;;;;;x
-PROVINCE_NEWS_MEDIUM;The province of $STRING_0_0$ now belongs to $TAG_0_1$. The foreign minister of $TAG_0_1$ has stated that '$STRING_0_0$ is an integral part of $TAG_0_1$'.;;;;;;;;;;;;x
-PROVINCE_NEWS_TITLE_SMALL;$TAG_0_1$ Expands!;;;;;;;;;;;;x
-PROVINCE_NEWS_SMALL;The province of $STRING_0_0$ now belongs to $TAG_0_1$. The foreign minister of $TAG_0_1$ looked rather pleased in a recent interview.;;;;;;;;;;;;x
+PROVINCE_NEWS_TITLE_LARGE;$TAG_0_1_UPPER$の拡大;;;;;;;;;;;;x
+PROVINCE_NEWS_LARGE;今や$STRING_0_0$州は$TAG_0_1$の一部である。$TAG_0_1$の外務大臣は「$STRING_0_0$は$TAG_0_1$の固有の領土 、$TAG_0_0$から今、正当なる我々の手元へと戻ってきたのだ」と述べた。;;;;;;;;;;;;x
+PROVINCE_NEWS_TITLE_MEDIUM;$TAG_0_1_UPPER$の拡大;;;;;;;;;;;;x
+PROVINCE_NEWS_MEDIUM;今や$STRING_0_0$州は$TAG_0_1$の一部である。$TAG_0_1$の外務大臣は「$STRING_0_0$は$TAG_0_1$の固有の領土 」と述べた。;;;;;;;;;;;;x
+PROVINCE_NEWS_TITLE_SMALL;$TAG_0_1$の拡大！;;;;;;;;;;;;x
+PROVINCE_NEWS_SMALL;今や$STRING_0_0$州は$TAG_0_1$の一部である。$TAG_0_1$の外務大臣は直近の取材で満足げな表情を見せた。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_LARGE;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
-RESEARCH_NEWS_LARGE;Scientists in $TAG_0_0$ have recently completed research into $STRING_0_1$. This breakthrough is sure to offer $TAG_0_0$ many advantages in the days to come as further inventions take place in this field.;;;;;;;;;;;;x
+RESEARCH_NEWS_LARGE;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおける画期的な研究を完了させた。この新発見はこの分野でさらなる発明が行われるにつれ、$TAG_0_0$に多くの利益をもたらすのは確実である。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_MEDIUM;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
-RESEARCH_NEWS_MEDIUM;Scientists in $TAG_0_0$ have recently completed research into $STRING_0_1$. This breakthrough is sure to offer $TAG_0_0$ many advantages in the days to come as further inventions take place in this field.;;;;;;;;;;;;x
+RESEARCH_NEWS_MEDIUM;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおける画期的な研究を完了させた。この新発見はこの分野でさらなる発明が行われるにつれ、$TAG_0_0$に多くの利益をもたらすのは確実である。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_SMALL;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
-RESEARCH_NEWS_SMALL;Scientists in $TAG_0_0$ have recently completed research into $STRING_0_1$.;;;;;;;;;;;;x
+RESEARCH_NEWS_SMALL;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおける画期的な研究を完了させた。;;;;;;;;;;;;x
 WAR_NEWS_TITLE_LARGE;WAR BETWEEN $TAG_0_0_UPPER$ AND $TAG_0_1_UPPER$!;;;;;;;;;;;;x
 WAR_NEWS_LARGE;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists between them and $TAG_0_1$. The foreign minister of $TAG_0_0$, when asked for the reasons war had been declared stated the need to '$STRING_0_1$'. 'We only intend to reclaim what was unjustly claimed before and restore peace and order to the region', he added. 'This unlawful aggression will not stand' his counterpart in $TAG_0_1$ responded, demanding international community to condemn the aggressor. May God have mercy on them all.;;;;;;;;;;;;x
 WAR_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$ GOES TO WAR!;;;;;;;;;;;;x

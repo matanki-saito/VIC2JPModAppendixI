@@ -33,7 +33,7 @@ BP_TOOL_ICON_TANK;Tank icon;;;;;;;;;;;;x
 BP_TOOL_ICON_BOMB_1;Small bomb icon;;;;;;;;;;;;x
 BP_TOOL_ICON_BOMB_2;Large bomb icon;;;;;;;;;;;;x
 BP_SAVE_PLAN_CONFIRM;Save Plan;;;;;;;;;;;;x
-BP_SAVE_PLAN_CANCEL;Cancel;;;;;;;;;;;;x
+BP_SAVE_PLAN_CANCEL;キャンセル;;;;;;;;;;;;x
 BP_SAVE_PLAN_PROMPT;Battle Plan already exists!\nDo you want to overwrite?;;;;;;;;;;;;x
 BP_DELETE_SAVED_PLAN_PROMPT;Are you sure that you want to delete the saved battle plan?;;;;;;;;;;;;x
 BP_DELETE_CURRENT_PLAN_PROMPT;Are you sure that you want to delete the current battle plan?;;;;;;;;;;;;x

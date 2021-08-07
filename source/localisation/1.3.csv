@@ -85,7 +85,7 @@ EVTNAME70002;$FROMCOUNTRY$ goes bankrupt!;;;;;;;;;;;;x
 EVTDESC70002;$FROMCOUNTRY$ has gone bankrupt and claims that they owe us nothing! We must use our military might to safeguard our investors.;;;;;;;;;;;;x
 EVTOPTA70002;OK;;;;;;;;;;;;x
 USE_LEADER;Use leader;;;;;;;;;;;;x
-SHORTCUT;§WShortcut: §Y;;;;;;;;;;;;x
+SHORTCUT;§Wショートカット：§Y;;;;;;;;;;;;x
 SM_SHORTCUT;Shortcut tooltip;;;;;;;;;;;;x
 TUR_proletarian_dictatorship_ADJ;トルコ;;;;;;;;;;;;x
 move_capital_to_moscow_title;第三のローマへの帰還;;;;;;;;;;;;x

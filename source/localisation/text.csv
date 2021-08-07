@@ -3,7 +3,7 @@
 LEDGER_COUNTRY_NAME;Country;;;;;;;;;;;;x
 LEDGER_COUNTRY_MILSCORE;Military Score;;;;;;;;;;;;x
 LEDGER_COUNTRY_INDSCORE;Industrial Score;;;;;;;;;;;;x
-LEDGER_COUNTRY_PRESTIGE;Prestige;;;;;;;;;;;;x
+LEDGER_COUNTRY_PRESTIGE;威信;;;;;;;;;;;;x
 LEDGER_COUNTRY_TOTALSCORE;Total Score;;;;;;;;;;;;x
 LEDGER_HEADER_PROVINCES;Provinces;;;;;;;;;;;;x
 LEDGER_PROVINCE_NAME;Province;;;;;;;;;;;;x
@@ -47,7 +47,7 @@ LEDGER_INCOME;Income;;;;;;;;;;;;x
 LEDGER_EMPLOYED;Employed;;;;;;;;;;;;x
 LEDGER_LEVEL;Level;;;;;;;;;;;;x
 LEDGER_HEADER_FACTORYPRODUCTION;Factory production;;;;;;;;;;;;x
-BUDGET;Budget;;;;;;;;;;;;x
+BUDGET;予算;;;;;;;;;;;;x
 BUDGET_TAX_POOR;Tax(Poor);;;;;;;;;;;;x
 BUDGET_TAX_POOR_DESC;;;;;;;;;;;;;x
 BUDGET_TAX_MIDDLE;Tax(Middle);;;;;;;;;;;;x
@@ -152,11 +152,11 @@ ADAPTING_HISTORY;Adapting History...;;;;;;;;;;;;x
 CALC_PATHS;Calculating paths...\nThis may take several minutes.;;;;;;;;;;;;x
 FE_TOGGLE;Quick Start;;;;;;;;;;;;x
 FE_TOGGLE_NORMAL;Custom Start;;;;;;;;;;;;x
-FE_SETTING_DIPLOMACY;Diplomacy;;;;;;;;;;;;x
-FE_SETTING_PRODUCTION;Production;;;;;;;;;;;;x
-FE_SETTING_POLITICS;Politics;;;;;;;;;;;;x
+FE_SETTING_DIPLOMACY;外交;;;;;;;;;;;;x
+FE_SETTING_PRODUCTION;生産;;;;;;;;;;;;x
+FE_SETTING_POLITICS;政治;;;;;;;;;;;;x
 FE_SETTING_INTEL;Intelligence;;;;;;;;;;;;x
-FE_SETTING_TECHNOLOGY;Technology;;;;;;;;;;;;x
+FE_SETTING_TECHNOLOGY;技術;;;;;;;;;;;;x
 FE_SETTING_UNITINTERFACE;Armies;;;;;;;;;;;;x
 DIFF_VERY_EASY;非常に簡単;;;;;;;;;;;;x
 DIFF_EASY;簡単;;;;;;;;;;;;x
@@ -164,7 +164,7 @@ DIFF_NORMAL;普通;;;;;;;;;;;;x
 DIFF_HARD;難しい;;;;;;;;;;;;x
 DIFF_VERY_HARD;非常に難しい;;;;;;;;;;;;x
 CORE_PAUSED;PAUSE;;;;;;;;;;;;x
-SM_SETTINGS;Settings;;;;;;;;;;;;x
+SM_SETTINGS;設定;;;;;;;;;;;;x
 SM_GAME;Game;;;;;;;;;;;;x
 SM_VIDEO;Video;;;;;;;;;;;;x
 SM_AUDIO;Audio;;;;;;;;;;;;x
@@ -228,7 +228,7 @@ REMOVE_SERVER_LOST_DESC;The server was lost. The game will end.;;;;;;;;;;;;x
 OK;Ok;;;;;;;;;;;;x
 CANCEL;Cancel;;;;;;;;;;;;x
 SAVE;Save;;;;;;;;;;;;x
-QUIT;Quit;;;;;;;;;;;;x
+QUIT;終了;;;;;;;;;;;;x
 START;Start;;;;;;;;;;;;x
 CONTINUE;Continue;;;;;;;;;;;;x
 CONNECTED;Connected.;;;;;;;;;;;;x
@@ -250,12 +250,12 @@ LOG_SETTING_LOG;Display in log.;;;;;;;;;;;;x
 LOG_SETTING_POPUP;Open popup window.;;;;;;;;;;;;x
 LOG_SETTING_MAP;Show on map.;;;;;;;;;;;;x
 LOG_SETTING_IDLE;Display as Idle message.;;;;;;;;;;;;x
-QUIT_TITLE;Quit Game;;;;;;;;;;;;x
-QUIT_DESC;Are you sure you want to quit and return to desktop?;;;;;;;;;;;;x
+QUIT_TITLE;ゲームを終了する;;;;;;;;;;;;x
+QUIT_DESC;本当にゲームを終了してデスクトップに戻りますか？;;;;;;;;;;;;x
 ZOOM_IN;Zoom in;;;;;;;;;;;;x
 ZOOM_OUT;Zoom out;;;;;;;;;;;;x
 RESIGN_TITLE;Resign Game;;;;;;;;;;;;x
-RESIGN_DESC;Are you sure you want to resign and return to the main menu?;;;;;;;;;;;;x
+RESIGN_DESC;本当にメインメニューに戻りますか？;;;;;;;;;;;;x
 SCAN;Scan;;;;;;;;;;;;x
 STOP_SCAN;Stop Scan;;;;;;;;;;;;x
 TIP_KICK;Kick player;;;;;;;;;;;;x
@@ -268,12 +268,12 @@ JOINED_CHANNEL;Joined channel $CHAN$.;;;;;;;;;;;;x
 USER_JOINED_CHANNEL;$NAME$ joined the channel.;;;;;;;;;;;;x
 USER_LEFT_CHANNEL;$NAME$ left the channel.;;;;;;;;;;;;x
 METASERVER_GAME_INFO;Creator: $CREATOR$ \n Date: $DATE$;;;;;;;;;;;;x
-MENU_BAR_SAVE_GAME;Save Game;;;;;;;;;;;;x
-MENU_BAR_GAME_OPTIONS;Game Options;;;;;;;;;;;;x
-MENU_BAR_GAME_RESIGN;Resign;;;;;;;;;;;;x
-MENU_BAR_MESSAGE_SETTINGS;Message Settings;;;;;;;;;;;;x
-MENU_BAR_QUIT;Quit;;;;;;;;;;;;x
-MENU_BAR_CLOSE;Close;;;;;;;;;;;;x
+MENU_BAR_SAVE_GAME;セーブ;;;;;;;;;;;;x
+MENU_BAR_GAME_OPTIONS;オプション;;;;;;;;;;;;x
+MENU_BAR_GAME_RESIGN;やり直す;;;;;;;;;;;;x
+MENU_BAR_MESSAGE_SETTINGS;メッセージの設定;;;;;;;;;;;;x
+MENU_BAR_QUIT;終了;;;;;;;;;;;;x
+MENU_BAR_CLOSE;閉じる;;;;;;;;;;;;x
 MENU_BAR_SAVE;Save;;;;;;;;;;;;x
 MENU_BAR_SAVE_GAME_FILENAME;Saved game filename:;;;;;;;;;;;;x
 CHAT_ALLIES;Allies;;;;;;;;;;;;x
@@ -334,7 +334,7 @@ MS_EMPTY_USERNAME;You must enter a username!;;;;;;;;;;;;x
 MS_LOGGED_AS;Logged in as:;;;;;;;;;;;;x
 MS_CREDITS;Available Credits:;;;;;;;;;;;;x
 MS_MY_ITEMS;My Items;;;;;;;;;;;;x
-MS_CLOSE;Close;;;;;;;;;;;;x
+MS_CLOSE;閉じる;;;;;;;;;;;;x
 MS_PURCHASE_BONUS_CONTENT;Purchase Bonus Content;;;;;;;;;;;;x
 MS_DOWNLOAD;Download;;;;;;;;;;;;x
 MS_INSTALL;Install;;;;;;;;;;;;x
@@ -412,15 +412,15 @@ OOS_TITLE;Error!;;;;;;;;;;;;x
 OOS_DESC;Game is no longer in synch!;;;;;;;;;;;;x
 army_base;Armies;;;;;;;;;;;;x
 navy_base;Navies;;;;;;;;;;;;x
-infantry;Infantry;;;;;;;;;;;;x
-cavalry;Cavalry;;;;;;;;;;;;x
-cuirassier;Cuirassier;;;;;;;;;;;;x
-dragoon;Dragoon;;;;;;;;;;;;x
-engineer;Engineer;;;;;;;;;;;;x
-guard;Guard;;;;;;;;;;;;x
-hussar;Hussar;;;;;;;;;;;;x
-irregular;Irregular;;;;;;;;;;;;x
-artillery;Artillery;;;;;;;;;;;;x
+infantry;歩兵;;;;;;;;;;;;x
+cavalry;騎兵;;;;;;;;;;;;x
+cuirassier;胸甲騎兵;;;;;;;;;;;;x
+dragoon;竜騎兵;;;;;;;;;;;;x
+engineer;工兵;;;;;;;;;;;;x
+guard;近衛兵;;;;;;;;;;;;x
+hussar;驃騎兵;;;;;;;;;;;;x
+irregular;非正規兵;;;;;;;;;;;;x
+artillery;砲兵;;;;;;;;;;;;x
 tank;Armor;;;;;;;;;;;;x
 plane;Airplane;;;;;;;;;;;;x
 commerce_raider;Commerce Raider;;;;;;;;;;;;x
@@ -817,7 +817,7 @@ SOCIAL_SPENDING;Social Spending;;;;;;;;;;;;x
 MILITARY_SPENDING;Military Spending;;;;;;;;;;;;x
 OK;OK;;;;;;;;;;;;x
 CANCEL;Cancel;;;;;;;;;;;;x
-CLOSE;Close;;;;;;;;;;;;x
+CLOSE;閉じる;;;;;;;;;;;;x
 CLOSE_WINDOW;Closes window;;;;;;;;;;;;x
 revanchism_desc;The people are unhappy about things, mainly the land they lost. They will turn to this Chaplinesque character to cheer them up;;;;;;;;;;;;x
 BASE_CHANCE;Base chance: $CHANCE$%;;;;;;;;;;;;x
@@ -3489,10 +3489,10 @@ EVTNAME100;禁酒運動;;;;;;;;;;;;x
 EVTDESC100;With the ravages of alcohol taking a daily toll on our people, tearing away, every day with newfound intensity, at the moral and spiritual fabric of our national character, it becomes imperative for us to bond together in defense of public virtue, and to educate and uplift the poor and the downtrodden to the virtues of temperance.'\n\nFor quite some time now, our country has been dealing with increases in the consumption of alcohol. Readily available, and cheap, distilled spirits, in combination with hard working conditions, make the poorer classes especially susceptible to this deadly poison. It comes as no surprise that a $COUNTRY_ADJ$ Temperance League has been formed;;;;;;;;;;;;x
 EVTOPTA100;What's wrong with a few drinks? *hiccup*;;;;;;;;;;;;x
 EVTOPTB100;An excellent initiative!;;;;;;;;;;;;x
-EVTNAME110;Beer Hall Opening;;;;;;;;;;;;x
-EVTDESC110;Another Beer Hall has opened in one of our provinces today, adding yet another notch to the province's reputation as a paradise for ramblers, gamblers and drunkards alike. For every hundred citizens in the province there is now a saloon, brothel, beer hall or other institution of vice and sin. While spirits may serve to raise even the bleakest of moods, the long term effects of overconsumption are not to be trifled with.;;;;;;;;;;;;x
-EVTOPTA110;Cheers!;;;;;;;;;;;;x
-EVTOPTB110;Pressure the local government to stop it;;;;;;;;;;;;x
+EVTNAME110;ビアホールが開店;;;;;;;;;;;;x
+EVTDESC110;今日、我が国の州のひとつでまた１軒のビアホールが開店し、遊び人、バクチ打ち、飲んだくれの楽園としてのこの州の評判をさらなるものにしました。この州では今や１００人に１人の割合で酒場、売春宿、ビアホール、その他もろもろの悪徳と罪にまみれた施設が存在することになります。スピリッツは気分が落ちこんだ際の気晴らしとして有用かもしれませんが、長い目でみたときの過剰摂取による影響を軽く見ることはできません。;;;;;;;;;;;;x
+EVTOPTA110;かんぱーい！;;;;;;;;;;;;x
+EVTOPTB110;地方政府に圧力をかけてこの流れを止めよう;;;;;;;;;;;;x
 EVTNAME120;Drunken Riots;;;;;;;;;;;;x
 EVTDESC120;A police raid against a $PROVINCENAME$ bar tonight has provoked a massive public backlash against police and other authorities. Locals, infuriated over the police's decision to close the bar, further aggravated by an already liberal intake of alcohol, have taken to the streets in what can best be described as a drunken rampage through the city.;;;;;;;;;;;;x
 EVTOPTA120;These saloons are becoming a problem;;;;;;;;;;;;x
@@ -5468,8 +5468,8 @@ EVTOPTA19200;This reeks of foul play...;;;;;;;;;;;;x
 EVTNAME19300;Liberty Enlightening The World;;;;;;;;;;;;x
 EVTDESC19300;Keep, ancient lands, your storied pomp!' cries she\n' With silent lips. 'Give me your tired, your poor,\nYour huddled masses yearning to breathe free.'\n\nThe people of France have presented to the American people a spectacular gift. An enormous copper statue, 151 ft. tall, depicting a woman carrying a torch, representing and named 'Liberty Enlightening The World'. The design has been carried out by one Frederic Auguste Bartholdi, and a place has been set aside for the statue on an island in the New York harbor. The statue will henceforth be known, simply, as 'The Statue of Liberty'.;;;;;;;;;;;;x
 EVTOPTA19300;I lift my lamp beside the golden door;;;;;;;;;;;;x
-EVTNAME19500;Laagers Attacked!;;;;;;;;;;;;x
-EVTDESC19500;The smouldering remains of a Voortrekker wagon train was discovered by our scouts near the Bushman river a few days ago. In the devastation left after what must obviously have been an attack, we have found the remains of several Afrikaaner men, women and children. Spearheads left at the site tell a clear tale. It appears as if the Impis of the Zulu, to our South-east, is behind the massacre.;;;;;;;;;;;;x
+EVTNAME19500;攻撃を受けた車陣！;;;;;;;;;;;;x
+EVTDESC19500;数日前、偵察隊がブッシュマンズ川近くでまだ煙がくすぶっている幌馬車列の残骸を発見した。残骸の様子は明らかに幌馬車列が攻撃を受けたことを示しており、我々は数名のアフリカーナの男女、子供の遺体が残されているのも確認した。現場に残されていた槍の穂先ははっきりとあることを語っていた。我々の南東のズールー族のインピがこの虐殺の犯人であるようだ。;;;;;;;;;;;;x
 EVTOPTA19500;They shall not have died in vain!;;;;;;;;;;;;x
 EVTNAME19501;ウィットウォーターズランド・ゴールドラッシュ;;;;;;;;;;;;x
 EVTDESC19501;Migrants have been moving in large numbers through our colony on the Cape, on their way to the newly incorporated town of 'Johannesburg', on the edge of the Witwatersrand mountains, where a major gold rush is taking place. The massive influx of foreign residents to the area is causing trouble along our borders, and this might be a valid excuse to end the independence of these pesky fringe states.;;;;;;;;;;;;x
@@ -6304,9 +6304,9 @@ EVTOPTA46300;Dangerous Ideas Afloat!;;;;;;;;;;;;x
 EVTNAME46301;O Jogo bonito, the beautiful game;;;;;;;;;;;;x
 EVTDESC46301;In 1894 the Paulista Charles Miller came back from England, where he had studied, with two footballs, a book of rules, a set of uniforms and the experience of having learned the sport invented by the English. Miller and other English resident in São Paulo played the first match in Brazil in 1895, with the employees of the Gas Company playing against employees of the São Paulo Railway. The match was played in the valley of Carmo, and the employees of the railroad company won 4-2. Since then, the interest of Brazilians for the sport has increased dramatically.;;;;;;;;;;;;x
 EVTOPTA46301;The power of sport;;;;;;;;;;;;x
-EVTNAME46302;The Sabinada;;;;;;;;;;;;x
-EVTDESC46302;Francisco Sabino, a military officer, launched a radical revolt in Bahia, calling for the end of slavery and the redistribution of land.;;;;;;;;;;;;x
-EVTOPTA46302;Target practice! ;;;;;;;;;;;;x
+EVTNAME46302;サビナーダの反乱;;;;;;;;;;;;x
+EVTDESC46302;将校のフランシスコ・サビーノが奴隷制の廃止と土地の再分配を求めてバイーア州で過激な反乱を開始しました。;;;;;;;;;;;;x
+EVTOPTA46302;良い的だ！;;;;;;;;;;;;x
 EVTNAME46600;Juan Bautista Alberdi;;;;;;;;;;;;x
 EVTDESC46600;Alberdi's book, Bases for the Political Organization of the Argentine Republic , first published in 1852, the year of Rosas' defeat, became the framework for the new Argentine constitution. The Argentine constitution that Alberdi crafted was modeled on that of the United States.;;;;;;;;;;;;x
 EVTOPTA46600;His Ideas Have Merit;;;;;;;;;;;;x
@@ -6388,56 +6388,56 @@ immigration_focus_desc;Migrants §Y$VAL$§W% more likely to choose region.;;;;;;
 colony_focus_desc;Increase colony level by about §Y$VAL$§W% each month.;;;;;;;;;;;;x
 REMOVE_FOCUS;Remove Focus;;;;;;;;;;;;x
 military_goods;Military Goods;;;;;;;;;;;;x
-ammunition;Ammunition;;;;;;;;;;;;x
-small_arms;Small Arms;;;;;;;;;;;;x
-canned_food;Canned Food;;;;;;;;;;;;x
+ammunition;弾薬;;;;;;;;;;;;x
+small_arms;小火器;;;;;;;;;;;;x
+canned_food;缶詰;;;;;;;;;;;;x
 barrels;Tanks;;;;;;;;;;;;x
 raw_material_goods;Raw Material Goods;;;;;;;;;;;;x
-cotton;Cotton;;;;;;;;;;;;x
-dye;Dye;;;;;;;;;;;;x
-wool;Wool;;;;;;;;;;;;x
-silk;Silk;;;;;;;;;;;;x
-coal;Coal;;;;;;;;;;;;x
-sulphur;Sulphur;;;;;;;;;;;;x
-iron;Iron;;;;;;;;;;;;x
+cotton;綿;;;;;;;;;;;;x
+dye;染料;;;;;;;;;;;;x
+wool;羊毛;;;;;;;;;;;;x
+silk;絹;;;;;;;;;;;;x
+coal;石炭;;;;;;;;;;;;x
+sulphur;硫黄;;;;;;;;;;;;x
+iron;鉄;;;;;;;;;;;;x
 timber;Timber;;;;;;;;;;;;x
-tropical_wood;Tropical Wood;;;;;;;;;;;;x
-rubber;Rubber;;;;;;;;;;;;x
+tropical_wood;熱帯木材;;;;;;;;;;;;x
+rubber;ゴム;;;;;;;;;;;;x
 oil;Oil;;;;;;;;;;;;x
-precious_metal;Precious Metal;;;;;;;;;;;;x
+precious_metal;貴金属;;;;;;;;;;;;x
 industrial_goods;Industrial Goods;;;;;;;;;;;;x
-steel;Steel;;;;;;;;;;;;x
-cement;Cement;;;;;;;;;;;;x
-machine_parts;Machine Parts;;;;;;;;;;;;x
-glass;Glass;;;;;;;;;;;;x
+steel;鋼鉄;;;;;;;;;;;;x
+cement;セメント;;;;;;;;;;;;x
+machine_parts;機械部品;;;;;;;;;;;;x
+glass;ガラス;;;;;;;;;;;;x
 fuel;Fuel;;;;;;;;;;;;x
-fertilizer;Fertilizer;;;;;;;;;;;;x
+fertilizer;肥料;;;;;;;;;;;;x
 explosives;Explosives;;;;;;;;;;;;x
 clipper_convoy;Clipper Convoys;;;;;;;;;;;;x
 steamer_convoy;Steamer Convoys;;;;;;;;;;;;x
 electric_gear;Electric Gear;;;;;;;;;;;;x
 fabric;Fabric;;;;;;;;;;;;x
 lumber;Lumber;;;;;;;;;;;;x
-consumer_goods;Consumer Goods;;;;;;;;;;;;x
-paper;Paper;;;;;;;;;;;;x
-cattle;Cattle;;;;;;;;;;;;x
-fish;Fish;;;;;;;;;;;;x
-fruit;Fruit;;;;;;;;;;;;x
-grain;Grain;;;;;;;;;;;;x
-tobacco;Tobacco;;;;;;;;;;;;x
-tea;Tea;;;;;;;;;;;;x
-coffee;Coffee;;;;;;;;;;;;x
-opium;Opium;;;;;;;;;;;;x
-automobiles;Automobiles;;;;;;;;;;;;x
-aeroplanes;Aeroplanes;;;;;;;;;;;;x
-telephones;Telephones;;;;;;;;;;;;x
-wine;Wine;;;;;;;;;;;;x
-liquor;Liquor;;;;;;;;;;;;x
+consumer_goods;消費財;;;;;;;;;;;;x
+paper;紙;;;;;;;;;;;;x
+cattle;牛;;;;;;;;;;;;x
+fish;魚;;;;;;;;;;;;x
+fruit;果物;;;;;;;;;;;;x
+grain;穀物;;;;;;;;;;;;x
+tobacco;タバコ;;;;;;;;;;;;x
+tea;茶;;;;;;;;;;;;x
+coffee;コーヒー;;;;;;;;;;;;x
+opium;アヘン;;;;;;;;;;;;x
+automobiles;自動車;;;;;;;;;;;;x
+aeroplanes;飛行機;;;;;;;;;;;;x
+telephones;電話;;;;;;;;;;;;x
+wine;ワイン;;;;;;;;;;;;x
+liquor;蒸留酒;;;;;;;;;;;;x
 regular_clothes;Regular Clothes;;;;;;;;;;;;x
-luxury_clothes;Luxury Clothes;;;;;;;;;;;;x
-furniture;Furniture;;;;;;;;;;;;x
-luxury_furniture;Luxury Furniture;;;;;;;;;;;;x
-radio;Radio;;;;;;;;;;;;x
+luxury_clothes;高級衣類;;;;;;;;;;;;x
+furniture;家具;;;;;;;;;;;;x
+luxury_furniture;高級家具;;;;;;;;;;;;x
+radio;ラジオ;;;;;;;;;;;;x
 fascist;Fascist;;;;;;;;;;;;x
 reactionary;Reactionary;;;;;;;;;;;;x
 conservative;Conservative;;;;;;;;;;;;x
@@ -6475,10 +6475,10 @@ IS_NEXT_STEP_ONLY;In this category of reforms, only gradual change can be done, 
 PERC_OF_PARLAMENT;$PERC$% of Parliament.;;;;;;;;;;;;x
 IDEOLOGY_LABEL;Ideology;;;;;;;;;;;;x
 VOTERS_LABEL;Voters;;;;;;;;;;;;x
-MAPMODE_1;Terrain Mapmode;;;;;;;;;;;;x
-MAPMODE_2;Political Mapmode;;;;;;;;;;;;x
+MAPMODE_1;地形マップモード;;;;;;;;;;;;x
+MAPMODE_2;国家マップモード;;;;;;;;;;;;x
 MAPMODE_3;Revoltrisk Mapmode;;;;;;;;;;;;x
-MAPMODE_4;Diplomatic Mapmode;;;;;;;;;;;;x
+MAPMODE_4;外交マップモード;;;;;;;;;;;;x
 MAPMODE_5;Region Mapmode;;;;;;;;;;;;x
 MAPMODE_6;Infrastructure Mapmode;;;;;;;;;;;;x
 MAPMODE_7;Colonial Mapmode;;;;;;;;;;;;x
@@ -7119,7 +7119,7 @@ COST_TIME;Cost: §Y$AMOUNT$§W Ducats \nTime: §Y$TIME$§W Days.;;;;;;;;;;;;x
 ADD_SUB_UNIT_EFFECT;Get $UNIT$ in §Y$WHERE$§W.;;;;;;;;;;;;x
 CHANGE_CONTROLLER_EFFECT;§Y$WHO$§W takes control over §Y$WHERE$§W.\n;;;;;;;;;;;;x
 WAR_EFFECT;Declare War on §Y$WHO$§W.\n;;;;;;;;;;;;x
-CONFIRMSAVETITLE;Save Game;;;;;;;;;;;;x
+CONFIRMSAVETITLE;セーブ;;;;;;;;;;;;x
 CONFIRMSAVETEXT;Are you sure you wish to overwrite the file $NAME$?;;;;;;;;;;;;x
 PW_TRADE_VALUE;Trade Value:;;;;;;;;;;;;x
 PROV_TRADE_VALUE;Value contributed to the centre of trade.;;;;;;;;;;;;x
@@ -7487,14 +7487,14 @@ ALD_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 ALD_socialist;The Socialist Faction;;;;;;;;;;;;x
 ALD_communist;The Communist Faction;;;;;;;;;;;;x
 ALD_fascist;The Fascist Faction;;;;;;;;;;;;x
-ANH_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+ANH_liberal;自由民主党;;;;;;;;;;;;x
 ANH_conservative;中央党;;;;;;;;;;;;x
 ANH_liberal_2;国民自由党;;;;;;;;;;;;x
 ANH_liberal_3;自由思想家党;;;;;;;;;;;;x
 ANH_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 ANH_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-ANH_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-ANH_reactionary;Nationale Partei;;;;;;;;;;;;x
+ANH_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+ANH_reactionary;国家党;;;;;;;;;;;;x
 ANH_conservative_2;保守党;;;;;;;;;;;;x
 ANH_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 ANH_anarcho_liberal;Radical Arbeiterpartie;;;;;;;;;;;;x
@@ -7511,20 +7511,20 @@ ANN_anarcho_liberal_2;The Radical Party;;;;;;;;;;;;x
 ANN_socialist;The Socialist Party;;;;;;;;;;;;x
 ANN_communist;The Communist Party;;;;;;;;;;;;x
 ANN_fascist;The Fascist Party;;;;;;;;;;;;x
-ARG_liberal;Partido Liberal;;;;;;;;;;;;x
+ARG_liberal;自由党;;;;;;;;;;;;x
 ARG_liberal_2;Partido Unitario;;;;;;;;;;;;x
 ARG_conservative;Partido Federal;;;;;;;;;;;;x
 ARG_conservative_2;Partido Nacional;;;;;;;;;;;;x
 ARG_conservative_3;Autonomista Nacional;;;;;;;;;;;;x
 ARG_conservative_4;Partido Autonomista;;;;;;;;;;;;x
 ARG_liberal_3;Unión Civica;;;;;;;;;;;;x
-ARG_socialist;Partido Socialista;;;;;;;;;;;;x
+ARG_socialist;社会党;;;;;;;;;;;;x
 ARG_conservative_5;Unión Civica Nacional;;;;;;;;;;;;x
 ARG_liberal_4;Unión Civica Radical;;;;;;;;;;;;x
 ARG_reactionary;Partido Reaccionario;;;;;;;;;;;;x
-ARG_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-ARG_communist;Partido Comunista;;;;;;;;;;;;x
-ARG_fascist;Partido Fascista;;;;;;;;;;;;x
+ARG_anarcho_liberal;急進党;;;;;;;;;;;;x
+ARG_communist;共産党;;;;;;;;;;;;x
+ARG_fascist;ファシスト党;;;;;;;;;;;;x
 ARM_conservative;Bey Faction;;;;;;;;;;;;x
 ARM_conservative_2;Armenakans;;;;;;;;;;;;x
 ARM_liberal;Toughte Sherepa;;;;;;;;;;;;x
@@ -7568,18 +7568,18 @@ AWA_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 AWA_socialist;The Socialist Faction;;;;;;;;;;;;x
 AWA_communist;The Communist Faction;;;;;;;;;;;;x
 AWA_fascist;The Fascist Faction;;;;;;;;;;;;x
-BAD_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+BAD_liberal;自由民主党;;;;;;;;;;;;x
 BAD_conservative;中央党;;;;;;;;;;;;x
 BAD_liberal_2;国民自由党;;;;;;;;;;;;x
 BAD_liberal_3;自由思想家党;;;;;;;;;;;;x
 BAD_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 BAD_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-BAD_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-BAD_reactionary;Nationale Partei;;;;;;;;;;;;x
+BAD_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+BAD_reactionary;国家党;;;;;;;;;;;;x
 BAD_conservative_2;保守党;;;;;;;;;;;;x
 BAD_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 BAD_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-BAD_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+BAD_communist;共産主義労働者党;;;;;;;;;;;;x
 BAL_conservative;Royal Faction;;;;;;;;;;;;x
 BAL_liberal;The Liberal Faction;;;;;;;;;;;;x
 BAL_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -7594,14 +7594,14 @@ BAS_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 BAS_socialist;The Socialist Faction;;;;;;;;;;;;x
 BAS_communist;The Communist Faction;;;;;;;;;;;;x
 BAS_fascist;The Fascist Faction;;;;;;;;;;;;x
-BAY_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+BAY_liberal;自由民主党;;;;;;;;;;;;x
 BAY_conservative;中央党;;;;;;;;;;;;x
 BAY_liberal_2;国民自由党;;;;;;;;;;;;x
 BAY_liberal_3;自由思想家党;;;;;;;;;;;;x
 BAY_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 BAY_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-BAY_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-BAY_reactionary;Nationale Partei;;;;;;;;;;;;x
+BAY_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+BAY_reactionary;国家党;;;;;;;;;;;;x
 BAY_conservative_2;保守党;;;;;;;;;;;;x
 BAY_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 BAY_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
@@ -7650,14 +7650,14 @@ BOH_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 BOH_socialist;The Socialist Faction;;;;;;;;;;;;x
 BOH_communist;The Communist Faction;;;;;;;;;;;;x
 BOH_fascist;The Fascist Faction;;;;;;;;;;;;x
-BOL_conservative;Partido Conservador;;;;;;;;;;;;x
-BOL_liberal;Partido Liberal;;;;;;;;;;;;x
+BOL_conservative;保守党;;;;;;;;;;;;x
+BOL_liberal;自由党;;;;;;;;;;;;x
 BOL_liberal_2;Partido Populista;;;;;;;;;;;;x
 BOL_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-BOL_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-BOL_socialist;Partido Socialista;;;;;;;;;;;;x
-BOL_communist;Partido Comunista;;;;;;;;;;;;x
-BOL_fascist;Partido Fascista;;;;;;;;;;;;x
+BOL_anarcho_liberal;急進党;;;;;;;;;;;;x
+BOL_socialist;社会党;;;;;;;;;;;;x
+BOL_communist;共産党;;;;;;;;;;;;x
+BOL_fascist;ファシスト党;;;;;;;;;;;;x
 BOS_conservative;Royal Faction;;;;;;;;;;;;x
 BOS_liberal;The Liberal Faction;;;;;;;;;;;;x
 BOS_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -7665,31 +7665,31 @@ BOS_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 BOS_socialist;The Socialist Faction;;;;;;;;;;;;x
 BOS_communist;The Communist Faction;;;;;;;;;;;;x
 BOS_fascist;The Fascist Faction;;;;;;;;;;;;x
-BRA_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+BRA_liberal;自由民主党;;;;;;;;;;;;x
 BRA_conservative;中央党;;;;;;;;;;;;x
 BRA_liberal_2;国民自由党;;;;;;;;;;;;x
 BRA_liberal_3;自由思想家党;;;;;;;;;;;;x
 BRA_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 BRA_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-BRA_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-BRA_reactionary;Nationale Partei;;;;;;;;;;;;x
+BRA_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+BRA_reactionary;国家党;;;;;;;;;;;;x
 BRA_conservative_2;保守党;;;;;;;;;;;;x
 BRA_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 BRA_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-BRA_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+BRA_communist;共産主義労働者党;;;;;;;;;;;;x
 BRA_fascist;NSDP;;;;;;;;;;;;x
-BRE_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+BRE_liberal;自由民主党;;;;;;;;;;;;x
 BRE_conservative;中央党;;;;;;;;;;;;x
 BRE_liberal_2;国民自由党;;;;;;;;;;;;x
 BRE_liberal_3;自由思想家党;;;;;;;;;;;;x
 BRE_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 BRE_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-BRE_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-BRE_reactionary;Nationale Partei;;;;;;;;;;;;x
+BRE_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+BRE_reactionary;国家党;;;;;;;;;;;;x
 BRE_conservative_2;保守党;;;;;;;;;;;;x
 BRE_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 BRE_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-BRE_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+BRE_communist;共産主義労働者党;;;;;;;;;;;;x
 BRE_fascist;NSDP;;;;;;;;;;;;x
 BRU_conservative;Royal Faction;;;;;;;;;;;;x
 BRU_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -7698,15 +7698,15 @@ BRU_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 BRU_socialist;The Socialist Faction;;;;;;;;;;;;x
 BRU_communist;The Communist Faction;;;;;;;;;;;;x
 BRU_fascist;The Fascist Faction;;;;;;;;;;;;x
-BRZ_liberal;Partido Liberal;;;;;;;;;;;;x
-BRZ_conservative;Partido Conservador;;;;;;;;;;;;x
+BRZ_liberal;自由党;;;;;;;;;;;;x
+BRZ_conservative;保守党;;;;;;;;;;;;x
 BRZ_reactionary;Partido Caramuru;;;;;;;;;;;;x
 BRZ_conservative_2;Partido Paulista;;;;;;;;;;;;x
 BRZ_liberal_2;Partido Carioca;;;;;;;;;;;;x
-BRZ_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-BRZ_socialist;Partido Socialista;;;;;;;;;;;;x
-BRZ_communist;Partido Comunista;;;;;;;;;;;;x
-BRZ_fascist;Partido Fascista;;;;;;;;;;;;x
+BRZ_anarcho_liberal;急進党;;;;;;;;;;;;x
+BRZ_socialist;社会党;;;;;;;;;;;;x
+BRZ_communist;共産党;;;;;;;;;;;;x
+BRZ_fascist;ファシスト党;;;;;;;;;;;;x
 BUK_conservative;Royal Faction;;;;;;;;;;;;x
 BUK_liberal;The Liberal Faction;;;;;;;;;;;;x
 BUK_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -7791,36 +7791,36 @@ CHI_conservative_4;Kuomintang Chiang;;;;;;;;;;;;x
 CHI_reactionary_2;Yuan Shi Kai;;;;;;;;;;;;x
 CHL_conservative;Conservadores;;;;;;;;;;;;x
 CHL_liberal;Liberales;;;;;;;;;;;;x
-CHL_conservative_2;Partido Conservador;;;;;;;;;;;;x
-CHL_liberal_2;Partido Liberal;;;;;;;;;;;;x
+CHL_conservative_2;保守党;;;;;;;;;;;;x
+CHL_liberal_2;自由党;;;;;;;;;;;;x
 CHL_conservative_3;Partido Nacional;;;;;;;;;;;;x
 CHL_liberal_3;Alianza Liberal;;;;;;;;;;;;x
 CHL_liberal_4;Liberal Democrático;;;;;;;;;;;;x
 CHL_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-CHL_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-CHL_socialist;Partido Socialista;;;;;;;;;;;;x
-CHL_communist;Partido Comunista;;;;;;;;;;;;x
-CHL_fascist;Partido Fascista;;;;;;;;;;;;x
+CHL_anarcho_liberal;急進党;;;;;;;;;;;;x
+CHL_socialist;社会党;;;;;;;;;;;;x
+CHL_communist;共産党;;;;;;;;;;;;x
+CHL_fascist;ファシスト党;;;;;;;;;;;;x
 CLM_anarcho_liberal;Federalistas;;;;;;;;;;;;x
-CLM_conservative;Partido Conservador;;;;;;;;;;;;x
-CLM_liberal;Partido Liberal;;;;;;;;;;;;x
+CLM_conservative;保守党;;;;;;;;;;;;x
+CLM_liberal;自由党;;;;;;;;;;;;x
 CLM_liberal_2;Partido Nacional;;;;;;;;;;;;x
 CLM_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-CLM_socialist;Partido Socialista;;;;;;;;;;;;x
-CLM_communist;Partido Comunista;;;;;;;;;;;;x
-CLM_fascist;Partido Fascista;;;;;;;;;;;;x
-COB_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+CLM_socialist;社会党;;;;;;;;;;;;x
+CLM_communist;共産党;;;;;;;;;;;;x
+CLM_fascist;ファシスト党;;;;;;;;;;;;x
+COB_liberal;自由民主党;;;;;;;;;;;;x
 COB_conservative;中央党;;;;;;;;;;;;x
 COB_liberal_2;国民自由党;;;;;;;;;;;;x
 COB_liberal_3;自由思想家党;;;;;;;;;;;;x
 COB_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 COB_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-COB_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-COB_reactionary;Nationale Partei;;;;;;;;;;;;x
+COB_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+COB_reactionary;国家党;;;;;;;;;;;;x
 COB_conservative_2;保守党;;;;;;;;;;;;x
 COB_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 COB_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-COB_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+COB_communist;共産主義労働者党;;;;;;;;;;;;x
 COB_fascist;NSDP;;;;;;;;;;;;x
 COL_liberal;自由党;;;;;;;;;;;;x
 COL_conservative;保守党;;;;;;;;;;;;x
@@ -7829,14 +7829,14 @@ COL_reactionary;Nationalist Party;;;;;;;;;;;;x
 COL_anarcho_liberal;Radical Party;;;;;;;;;;;;x
 COL_communist;共産党;;;;;;;;;;;;x
 COL_fascist;ファシスト党;;;;;;;;;;;;x
-COS_conservative;Partido Conservador;;;;;;;;;;;;x
-COS_liberal;Partido Liberal;;;;;;;;;;;;x
+COS_conservative;保守党;;;;;;;;;;;;x
+COS_liberal;自由党;;;;;;;;;;;;x
 COS_conservative_2;Partido de Unión Nacional;;;;;;;;;;;;x
 COS_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-COS_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-COS_socialist;Partido Socialista;;;;;;;;;;;;x
-COS_communist;Partido Comunista;;;;;;;;;;;;x
-COS_fascist;Partido Fascista;;;;;;;;;;;;x
+COS_anarcho_liberal;急進党;;;;;;;;;;;;x
+COS_socialist;社会党;;;;;;;;;;;;x
+COS_communist;共産党;;;;;;;;;;;;x
+COS_fascist;ファシスト党;;;;;;;;;;;;x
 CRE_conservative;Royal Faction;;;;;;;;;;;;x
 CRE_liberal;The Liberal Faction;;;;;;;;;;;;x
 CRE_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -7872,12 +7872,12 @@ CUB_liberal;Liberales;;;;;;;;;;;;x
 CUB_conservative;Conservadores;;;;;;;;;;;;x
 CUB_liberal_2;Revolucionario Cubano;;;;;;;;;;;;x
 CUB_conservative_2;Partido Moderado;;;;;;;;;;;;x
-CUB_conservative_3;Partido Conservador;;;;;;;;;;;;x
-CUB_liberal_3;Partido Liberal;;;;;;;;;;;;x
-CUB_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-CUB_socialist;Partido Socialista;;;;;;;;;;;;x
-CUB_communist;Partido Comunista;;;;;;;;;;;;x
-CUB_fascist;Partido Fascista;;;;;;;;;;;;x
+CUB_conservative_3;保守党;;;;;;;;;;;;x
+CUB_liberal_3;自由党;;;;;;;;;;;;x
+CUB_anarcho_liberal;急進党;;;;;;;;;;;;x
+CUB_socialist;社会党;;;;;;;;;;;;x
+CUB_communist;共産党;;;;;;;;;;;;x
+CUB_fascist;ファシスト党;;;;;;;;;;;;x
 CYP_conservative;Royal Faction;;;;;;;;;;;;x
 CYP_liberal;The Liberal Faction;;;;;;;;;;;;x
 CYP_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -7917,33 +7917,33 @@ DOM_liberal_4;Partido Verde;;;;;;;;;;;;x
 DOM_liberal_5;Jimenistas;;;;;;;;;;;;x
 DOM_conservative_4;Horacistas;;;;;;;;;;;;x
 DOM_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-DOM_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-DOM_socialist;Partido Socialista;;;;;;;;;;;;x
-DOM_communist;Partido Comunista;;;;;;;;;;;;x
-DOM_fascist;Partido Fascista;;;;;;;;;;;;x
-DZG_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+DOM_anarcho_liberal;急進党;;;;;;;;;;;;x
+DOM_socialist;社会党;;;;;;;;;;;;x
+DOM_communist;共産党;;;;;;;;;;;;x
+DOM_fascist;ファシスト党;;;;;;;;;;;;x
+DZG_liberal;自由民主党;;;;;;;;;;;;x
 DZG_conservative;中央党;;;;;;;;;;;;x
 DZG_liberal_2;国民自由党;;;;;;;;;;;;x
 DZG_liberal_3;自由思想家党;;;;;;;;;;;;x
 DZG_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 DZG_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-DZG_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-DZG_reactionary;Nationale Partei;;;;;;;;;;;;x
+DZG_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+DZG_reactionary;国家党;;;;;;;;;;;;x
 DZG_conservative_2;保守党;;;;;;;;;;;;x
 DZG_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 DZG_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
 DZG_communist;Communist Arbeiterparei;;;;;;;;;;;;x
 DZG_fascist;NSDP;;;;;;;;;;;;x
-ECU_conservative;Partido Conservador;;;;;;;;;;;;x
-ECU_liberal;Partido Liberal;;;;;;;;;;;;x
+ECU_conservative;保守党;;;;;;;;;;;;x
+ECU_liberal;自由党;;;;;;;;;;;;x
 ECU_liberal_2;Partido Liberal Radical;;;;;;;;;;;;x
-ECU_liberal_3;Partido Progresista;;;;;;;;;;;;x
+ECU_liberal_3;進歩党;;;;;;;;;;;;x
 ECU_liberal_4;Unión Republicana;;;;;;;;;;;;x
 ECU_reactionary;Partido Jesuítico;;;;;;;;;;;;x
-ECU_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-ECU_socialist;Partido Socialista;;;;;;;;;;;;x
-ECU_communist;Partido Comunista;;;;;;;;;;;;x
-ECU_fascist;Partido Fascista;;;;;;;;;;;;x
+ECU_anarcho_liberal;急進党;;;;;;;;;;;;x
+ECU_socialist;社会党;;;;;;;;;;;;x
+ECU_communist;共産党;;;;;;;;;;;;x
+ECU_fascist;ファシスト党;;;;;;;;;;;;x
 EGY_conservative;Majlis Al-Shura;;;;;;;;;;;;x
 EGY_liberal;Majlis Shurat Al-Nuwwab;;;;;;;;;;;;x
 EGY_reactionary;Urabist Faction;;;;;;;;;;;;x
@@ -7953,13 +7953,13 @@ EGY_anarcho_liberal;Radical Faction;;;;;;;;;;;;x
 EGY_socialist;Socialist Faction;;;;;;;;;;;;x
 EGY_communist;Communist Faction;;;;;;;;;;;;x
 EGY_fascist;Fascist Faction;;;;;;;;;;;;x
-ELS_conservative;Partido Conservador;;;;;;;;;;;;x
-ELS_liberal;Partido Liberal;;;;;;;;;;;;x
+ELS_conservative;保守党;;;;;;;;;;;;x
+ELS_liberal;自由党;;;;;;;;;;;;x
 ELS_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-ELS_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-ELS_socialist;Partido Socialista;;;;;;;;;;;;x
-ELS_communist;Partido Comunista;;;;;;;;;;;;x
-ELS_fascist;Partido Fascista;;;;;;;;;;;;x
+ELS_anarcho_liberal;急進党;;;;;;;;;;;;x
+ELS_socialist;社会党;;;;;;;;;;;;x
+ELS_communist;共産党;;;;;;;;;;;;x
+ELS_fascist;ファシスト党;;;;;;;;;;;;x
 ENG_liberal;ホイッグ党;;;;;;;;;;;;x
 ENG_conservative;保守党;;;;;;;;;;;;x
 ENG_liberal_2;自由党;;;;;;;;;;;;x
@@ -8019,18 +8019,18 @@ FRA_conservative_5;Royaliste;;;;;;;;;;;;x
 FRA_reactionary_2;Droite nationaliste;;;;;;;;;;;;x
 FRA_socialist_3;SFIO;;;;;;;;;;;;x
 FRA_fascist;Fascists;;;;;;;;;;;;x
-FRM_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+FRM_liberal;自由民主党;;;;;;;;;;;;x
 FRM_conservative;中央党;;;;;;;;;;;;x
 FRM_liberal_2;国民自由党;;;;;;;;;;;;x
 FRM_liberal_3;自由思想家党;;;;;;;;;;;;x
 FRM_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 FRM_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-FRM_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-FRM_reactionary;Nationale Partei;;;;;;;;;;;;x
+FRM_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+FRM_reactionary;国家党;;;;;;;;;;;;x
 FRM_conservative_2;保守党;;;;;;;;;;;;x
 FRM_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 FRM_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-FRM_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+FRM_communist;共産主義労働者党;;;;;;;;;;;;x
 FRM_fascist;NSDP;;;;;;;;;;;;x
 GEO_conservative;Royal Faction;;;;;;;;;;;;x
 GEO_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -8039,18 +8039,18 @@ GEO_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 GEO_socialist;The Socialist Faction;;;;;;;;;;;;x
 GEO_communist;The Communist Faction;;;;;;;;;;;;x
 GEO_fascist;The Fascist Faction;;;;;;;;;;;;x
-GER_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+GER_liberal;自由民主党;;;;;;;;;;;;x
 GER_conservative;中央党;;;;;;;;;;;;x
 GER_liberal_2;国民自由党;;;;;;;;;;;;x
 GER_liberal_3;自由思想家党;;;;;;;;;;;;x
 GER_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 GER_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-GER_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-GER_reactionary;Nationale Partei;;;;;;;;;;;;x
+GER_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+GER_reactionary;国家党;;;;;;;;;;;;x
 GER_conservative_2;保守党;;;;;;;;;;;;x
 GER_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 GER_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-GER_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+GER_communist;共産主義労働者党;;;;;;;;;;;;x
 GER_fascist;NSDP;;;;;;;;;;;;x
 GRE_conservative;French Faction;;;;;;;;;;;;x
 GRE_reactionary;Russian Faction;;;;;;;;;;;;x
@@ -8061,13 +8061,13 @@ GRE_anarcho_liberal;Radical Faction;;;;;;;;;;;;x
 GRE_socialist;Socialist Faction;;;;;;;;;;;;x
 GRE_communist;Communist Faction;;;;;;;;;;;;x
 GRE_fascist;Fascist Faction;;;;;;;;;;;;x
-GUA_conservative;Partido Conservador;;;;;;;;;;;;x
-GUA_liberal;Partido Liberal;;;;;;;;;;;;x
+GUA_conservative;保守党;;;;;;;;;;;;x
+GUA_liberal;自由党;;;;;;;;;;;;x
 GUA_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-GUA_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-GUA_socialist;Partido Socialista;;;;;;;;;;;;x
-GUA_communist;Partido Comunista;;;;;;;;;;;;x
-GUA_fascist;Partido Fascista;;;;;;;;;;;;x
+GUA_anarcho_liberal;急進党;;;;;;;;;;;;x
+GUA_socialist;社会党;;;;;;;;;;;;x
+GUA_communist;共産党;;;;;;;;;;;;x
+GUA_fascist;ファシスト党;;;;;;;;;;;;x
 GWA_conservative;Royal Faction;;;;;;;;;;;;x
 GWA_liberal;The Liberal Faction;;;;;;;;;;;;x
 GWA_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -8082,31 +8082,31 @@ HAI_anarcho_liberal;Parti Radical;;;;;;;;;;;;x
 HAI_socialist;Parti Socialist;;;;;;;;;;;;x
 HAI_communist;Parti Communist;;;;;;;;;;;;x
 HAI_fascist;Parti Fascist;;;;;;;;;;;;x
-HAM_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+HAM_liberal;自由民主党;;;;;;;;;;;;x
 HAM_conservative;中央党;;;;;;;;;;;;x
 HAM_liberal_2;国民自由党;;;;;;;;;;;;x
 HAM_liberal_3;自由思想家党;;;;;;;;;;;;x
 HAM_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 HAM_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-HAM_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-HAM_reactionary;Nationale Partei;;;;;;;;;;;;x
+HAM_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+HAM_reactionary;国家党;;;;;;;;;;;;x
 HAM_conservative_2;保守党;;;;;;;;;;;;x
 HAM_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 HAM_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-HAM_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+HAM_communist;共産主義労働者党;;;;;;;;;;;;x
 HAM_fascist;NSDP;;;;;;;;;;;;x
-HAN_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+HAN_liberal;自由民主党;;;;;;;;;;;;x
 HAN_conservative;中央党;;;;;;;;;;;;x
 HAN_liberal_2;国民自由党;;;;;;;;;;;;x
 HAN_liberal_3;自由思想家党;;;;;;;;;;;;x
 HAN_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 HAN_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-HAN_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-HAN_reactionary;Nationale Partei;;;;;;;;;;;;x
+HAN_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+HAN_reactionary;国家党;;;;;;;;;;;;x
 HAN_conservative_2;保守党;;;;;;;;;;;;x
 HAN_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 HAN_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-HAN_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+HAN_communist;共産主義労働者党;;;;;;;;;;;;x
 HAN_fascist;NSDP;;;;;;;;;;;;x
 HAW_conservative;Royalists;;;;;;;;;;;;x
 HAW_liberal;Monarchists;;;;;;;;;;;;x
@@ -8116,18 +8116,18 @@ HAW_anarcho_liberal;Radicals;;;;;;;;;;;;x
 HAW_socialist;Socialists;;;;;;;;;;;;x
 HAW_communist;Communists;;;;;;;;;;;;x
 HAW_fascist;Fascists;;;;;;;;;;;;x
-HED_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+HED_liberal;自由民主党;;;;;;;;;;;;x
 HED_conservative;中央党;;;;;;;;;;;;x
 HED_liberal_2;国民自由党;;;;;;;;;;;;x
 HED_liberal_3;自由思想家党;;;;;;;;;;;;x
 HED_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 HED_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-HED_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-HED_reactionary;Nationale Partei;;;;;;;;;;;;x
+HED_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+HED_reactionary;国家党;;;;;;;;;;;;x
 HED_conservative_2;保守党;;;;;;;;;;;;x
 HED_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 HED_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-HED_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+HED_communist;共産主義労働者党;;;;;;;;;;;;x
 HED_fascist;NSDP;;;;;;;;;;;;x
 HEJ_conservative;Royal Faction;;;;;;;;;;;;x
 HEJ_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -8136,27 +8136,27 @@ HEJ_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 HEJ_socialist;The Socialist Faction;;;;;;;;;;;;x
 HEJ_communist;The Communist Faction;;;;;;;;;;;;x
 HEJ_fascist;The Fascist Faction;;;;;;;;;;;;x
-HEK_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+HEK_liberal;自由民主党;;;;;;;;;;;;x
 HEK_conservative;中央党;;;;;;;;;;;;x
 HEK_liberal_2;国民自由党;;;;;;;;;;;;x
 HEK_liberal_3;自由思想家党;;;;;;;;;;;;x
 HEK_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 HEK_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-HEK_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-HEK_reactionary;Nationale Partei;;;;;;;;;;;;x
+HEK_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+HEK_reactionary;国家党;;;;;;;;;;;;x
 HEK_conservative_2;保守党;;;;;;;;;;;;x
 HEK_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 HEK_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-HEK_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+HEK_communist;共産主義労働者党;;;;;;;;;;;;x
 HEK_fascist;NSDP;;;;;;;;;;;;x
-HLS_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+HLS_liberal;自由民主党;;;;;;;;;;;;x
 HLS_conservative;中央党;;;;;;;;;;;;x
 HLS_liberal_2;国民自由党;;;;;;;;;;;;x
 HLS_liberal_3;自由思想家党;;;;;;;;;;;;x
 HLS_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 HLS_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-HLS_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-HLS_reactionary;Nationale Partei;;;;;;;;;;;;x
+HLS_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+HLS_reactionary;国家党;;;;;;;;;;;;x
 HLS_conservative_2;保守党;;;;;;;;;;;;x
 HLS_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 HLS_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
@@ -8174,15 +8174,15 @@ HOL_liberal_5;Vrije Liberalen;;;;;;;;;;;;x
 HOL_reactionary;Nationalist Partij;;;;;;;;;;;;x
 HOL_communist_2;Communist Partij;;;;;;;;;;;;x
 HOL_fascist;Fascist Partij;;;;;;;;;;;;x
-HON_conservative;Partido Conservador;;;;;;;;;;;;x
-HON_liberal;Partido Liberal;;;;;;;;;;;;x
+HON_conservative;保守党;;;;;;;;;;;;x
+HON_liberal;自由党;;;;;;;;;;;;x
 HON_conservative_2;Partido Nacional;;;;;;;;;;;;x
 HON_liberal_2;Liberal de Honduras;;;;;;;;;;;;x
 HON_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-HON_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-HON_socialist;Partido Socialista;;;;;;;;;;;;x
-HON_communist;Partido Comunista;;;;;;;;;;;;x
-HON_fascist;Partido Fascista;;;;;;;;;;;;x
+HON_anarcho_liberal;急進党;;;;;;;;;;;;x
+HON_socialist;社会党;;;;;;;;;;;;x
+HON_communist;共産党;;;;;;;;;;;;x
+HON_fascist;ファシスト党;;;;;;;;;;;;x
 MAD_liberal;The Liberal Faction;;;;;;;;;;;;x
 MAD_reactionary;The Nationalist Faction;;;;;;;;;;;;x
 MAD_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
@@ -8340,18 +8340,18 @@ LIB_reactionary;Nationalist Party;;;;;;;;;;;;x
 LIB_anarcho_liberal;Radical Party;;;;;;;;;;;;x
 LIB_communist;共産党;;;;;;;;;;;;x
 LIB_fascist;ファシスト党;;;;;;;;;;;;x
-LIP_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+LIP_liberal;自由民主党;;;;;;;;;;;;x
 LIP_conservative;中央党;;;;;;;;;;;;x
 LIP_liberal_2;国民自由党;;;;;;;;;;;;x
 LIP_liberal_3;自由思想家党;;;;;;;;;;;;x
 LIP_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 LIP_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-LIP_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-LIP_reactionary;Nationale Partei;;;;;;;;;;;;x
+LIP_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+LIP_reactionary;国家党;;;;;;;;;;;;x
 LIP_conservative_2;保守党;;;;;;;;;;;;x
 LIP_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 LIP_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-LIP_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+LIP_communist;共産主義労働者党;;;;;;;;;;;;x
 LIP_fascist;NSDP;;;;;;;;;;;;x
 LIT_conservative;Royal Faction;;;;;;;;;;;;x
 LIT_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -8382,14 +8382,14 @@ LUA_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 LUA_socialist;The Socialist Faction;;;;;;;;;;;;x
 LUA_communist;The Communist Faction;;;;;;;;;;;;x
 LUA_fascist;The Fascist Faction;;;;;;;;;;;;x
-LUB_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+LUB_liberal;自由民主党;;;;;;;;;;;;x
 LUB_conservative;中央党;;;;;;;;;;;;x
 LUB_liberal_2;国民自由党;;;;;;;;;;;;x
 LUB_liberal_3;自由思想家党;;;;;;;;;;;;x
 LUB_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 LUB_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-LUB_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-LUB_reactionary;Nationale Partei;;;;;;;;;;;;x
+LUB_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+LUB_reactionary;国家党;;;;;;;;;;;;x
 LUB_conservative_2;保守党;;;;;;;;;;;;x
 LUB_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 LUB_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
@@ -8432,31 +8432,31 @@ MAN_socialist;Independent Communist;;;;;;;;;;;;x
 MAN_reactionary;Nationalist;;;;;;;;;;;;x
 MAN_anarcho_liberal;Radical;;;;;;;;;;;;x
 MAN_fascist;Fascist;;;;;;;;;;;;x
-MEC_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+MEC_liberal;自由民主党;;;;;;;;;;;;x
 MEC_conservative;中央党;;;;;;;;;;;;x
 MEC_liberal_2;国民自由党;;;;;;;;;;;;x
 MEC_liberal_3;自由思想家党;;;;;;;;;;;;x
 MEC_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 MEC_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-MEC_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-MEC_reactionary;Nationale Partei;;;;;;;;;;;;x
+MEC_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+MEC_reactionary;国家党;;;;;;;;;;;;x
 MEC_conservative_2;保守党;;;;;;;;;;;;x
 MEC_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 MEC_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-MEC_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+MEC_communist;共産主義労働者党;;;;;;;;;;;;x
 MEC_fascist;NSDP;;;;;;;;;;;;x
-MEI_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+MEI_liberal;自由民主党;;;;;;;;;;;;x
 MEI_conservative;中央党;;;;;;;;;;;;x
 MEI_liberal_2;国民自由党;;;;;;;;;;;;x
 MEI_liberal_3;自由思想家党;;;;;;;;;;;;x
 MEI_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 MEI_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-MEI_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-MEI_reactionary;Nationale Partei;;;;;;;;;;;;x
+MEI_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+MEI_reactionary;国家党;;;;;;;;;;;;x
 MEI_conservative_2;保守党;;;;;;;;;;;;x
 MEI_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 MEI_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-MEI_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+MEI_communist;共産主義労働者党;;;;;;;;;;;;x
 MEI_fascist;NSDP;;;;;;;;;;;;x
 MEW_conservative;Royal Faction;;;;;;;;;;;;x
 MEW_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -8465,18 +8465,18 @@ MEW_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 MEW_socialist;The Socialist Faction;;;;;;;;;;;;x
 MEW_communist;The Communist Faction;;;;;;;;;;;;x
 MEW_fascist;The Fascist Faction;;;;;;;;;;;;x
-MEX_conservative;Partido Conservador;;;;;;;;;;;;x
-MEX_liberal;Partido Liberal;;;;;;;;;;;;x
-MEX_anarcho_liberal;Partido Federalista;;;;;;;;;;;;x
+MEX_conservative;保守党;;;;;;;;;;;;x
+MEX_liberal;自由党;;;;;;;;;;;;x
+MEX_anarcho_liberal;連邦党;;;;;;;;;;;;x
 MEX_conservative_2;Partido Moderado Liberal;;;;;;;;;;;;x
 MEX_liberal_2;Partido Radical Liberal;;;;;;;;;;;;x
-MEX_liberal_3;Partido Progresista;;;;;;;;;;;;x
+MEX_liberal_3;進歩党;;;;;;;;;;;;x
 MEX_conservative_3;Partido Constitucionalista;;;;;;;;;;;;x
 MEX_liberal_4;Partido Antireelecionista;;;;;;;;;;;;x
 MEX_reactionary;Partido Imperialista;;;;;;;;;;;;x
-MEX_socialist;Partido Socialista;;;;;;;;;;;;x
-MEX_communist;Partido Comunista;;;;;;;;;;;;x
-MEX_fascist;Partido Fascista;;;;;;;;;;;;x
+MEX_socialist;社会党;;;;;;;;;;;;x
+MEX_communist;共産党;;;;;;;;;;;;x
+MEX_fascist;ファシスト党;;;;;;;;;;;;x
 MOD_reactionary;Restaurazionisti;;;;;;;;;;;;x
 MOD_conservative;Moderati;;;;;;;;;;;;x
 MOD_liberal;Reformisti;;;;;;;;;;;;x
@@ -8547,18 +8547,18 @@ NAL_anarcho_liberal;The Radical Party;;;;;;;;;;;;x
 NAL_socialist;The Socialist Party;;;;;;;;;;;;x
 NAL_communist;The Communist Party;;;;;;;;;;;;x
 NAL_fascist;The Fascist Party;;;;;;;;;;;;x
-NAS_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+NAS_liberal;自由民主党;;;;;;;;;;;;x
 NAS_conservative;中央党;;;;;;;;;;;;x
 NAS_liberal_2;国民自由党;;;;;;;;;;;;x
 NAS_liberal_3;自由思想家党;;;;;;;;;;;;x
 NAS_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 NAS_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-NAS_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-NAS_reactionary;Nationale Partei;;;;;;;;;;;;x
+NAS_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+NAS_reactionary;国家党;;;;;;;;;;;;x
 NAS_conservative_2;保守党;;;;;;;;;;;;x
 NAS_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 NAS_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-NAS_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+NAS_communist;共産主義労働者党;;;;;;;;;;;;x
 NAS_fascist;NSDP;;;;;;;;;;;;x
 NEJ_conservative;Royal Faction;;;;;;;;;;;;x
 NEJ_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -8589,29 +8589,29 @@ NEW_reactionary;Nationalist Party;;;;;;;;;;;;x
 NEW_anarcho_liberal;Radical Party;;;;;;;;;;;;x
 NEW_communist;The Communist Faction;;;;;;;;;;;;x
 MEW_fascist;The Fascist Faction;;;;;;;;;;;;x
-NGF_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+NGF_liberal;自由民主党;;;;;;;;;;;;x
 NGF_conservative;中央党;;;;;;;;;;;;x
 NGF_liberal_2;国民自由党;;;;;;;;;;;;x
 NGF_liberal_3;自由思想家党;;;;;;;;;;;;x
 NGF_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 NGF_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-NGF_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-NGF_reactionary;Nationale Partei;;;;;;;;;;;;x
+NGF_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+NGF_reactionary;国家党;;;;;;;;;;;;x
 NGF_conservative_2;保守党;;;;;;;;;;;;x
 NGF_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 NGF_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-NGF_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+NGF_communist;共産主義労働者党;;;;;;;;;;;;x
 NGF_fascist;NSDP;;;;;;;;;;;;x
-NIC_conservative;Partido Conservador;;;;;;;;;;;;x
-NIC_liberal;Partido Liberal;;;;;;;;;;;;x
+NIC_conservative;保守党;;;;;;;;;;;;x
+NIC_liberal;自由党;;;;;;;;;;;;x
 NIC_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-NIC_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-NIC_socialist;Partido Socialista;;;;;;;;;;;;x
-NIC_communist;Partido Comunista;;;;;;;;;;;;x
-NIC_fascist;Partido Fascista;;;;;;;;;;;;x
-NIP_reactionary;Shogunate Faction;;;;;;;;;;;;x
+NIC_anarcho_liberal;急進党;;;;;;;;;;;;x
+NIC_socialist;社会党;;;;;;;;;;;;x
+NIC_communist;共産党;;;;;;;;;;;;x
+NIC_fascist;ファシスト党;;;;;;;;;;;;x
+NIP_reactionary;佐幕派;;;;;;;;;;;;x
 NIP_conservative;Court Faction;;;;;;;;;;;;x
-NIP_conservative_2;Imperialist Faction;;;;;;;;;;;;x
+NIP_conservative_2;尊皇派;;;;;;;;;;;;x
 NIP_reactionary_2;Nationalist Faction;;;;;;;;;;;;x
 NIP_conservative_3;Conservative Faction;;;;;;;;;;;;x
 NIP_liberal;Liberal Faction;;;;;;;;;;;;x
@@ -8638,18 +8638,18 @@ NWZ_communist;Social Democratic;;;;;;;;;;;;x
 NWZ_reactionary;Nationalist;;;;;;;;;;;;x
 NWZ_anarcho_liberal;Radical;;;;;;;;;;;;x
 NWZ_fascist;Fascist;;;;;;;;;;;;x
-OLD_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+OLD_liberal;自由民主党;;;;;;;;;;;;x
 OLD_conservative;中央党;;;;;;;;;;;;x
 OLD_liberal_2;国民自由党;;;;;;;;;;;;x
 OLD_liberal_3;自由思想家党;;;;;;;;;;;;x
 OLD_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 OLD_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-OLD_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-OLD_reactionary;Nationale Partei;;;;;;;;;;;;x
+OLD_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+OLD_reactionary;国家党;;;;;;;;;;;;x
 OLD_conservative_2;保守党;;;;;;;;;;;;x
 OLD_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 OLD_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-OLD_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+OLD_communist;共産主義労働者党;;;;;;;;;;;;x
 OLD_fascist;NSDP;;;;;;;;;;;;x
 OMA_conservative;Royal Faction;;;;;;;;;;;;x
 OMA_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -8704,19 +8704,19 @@ PER_socialist;The Socialist Faction;;;;;;;;;;;;x
 PER_communist;The Communist Faction;;;;;;;;;;;;x
 PER_fascist;The Fascist Faction;;;;;;;;;;;;x
 PEU_conservative;Partido Popular;;;;;;;;;;;;x
-PEU_liberal;Partido Liberal;;;;;;;;;;;;x
+PEU_liberal;自由党;;;;;;;;;;;;x
 PEU_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-PEU_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-PEU_socialist;Partido Socialista;;;;;;;;;;;;x
-PEU_communist;Partido Comunista;;;;;;;;;;;;x
-PEU_fascist;Partido Fascista;;;;;;;;;;;;x
-PNM_conservative;Partido Conservador;;;;;;;;;;;;x
-PNM_liberal;Partido Liberal;;;;;;;;;;;;x
+PEU_anarcho_liberal;急進党;;;;;;;;;;;;x
+PEU_socialist;社会党;;;;;;;;;;;;x
+PEU_communist;共産党;;;;;;;;;;;;x
+PEU_fascist;ファシスト党;;;;;;;;;;;;x
+PNM_conservative;保守党;;;;;;;;;;;;x
+PNM_liberal;自由党;;;;;;;;;;;;x
 PNM_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-PNM_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-PNM_socialist;Partido Socialista;;;;;;;;;;;;x
-PNM_communist;Partido Comunista;;;;;;;;;;;;x
-PNM_fascist;Partido Fascista;;;;;;;;;;;;x
+PNM_anarcho_liberal;急進党;;;;;;;;;;;;x
+PNM_socialist;社会党;;;;;;;;;;;;x
+PNM_communist;共産党;;;;;;;;;;;;x
+PNM_fascist;ファシスト党;;;;;;;;;;;;x
 POL_conservative;Royal Faction;;;;;;;;;;;;x
 POL_liberal;The Liberal Faction;;;;;;;;;;;;x
 POL_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -8730,35 +8730,35 @@ POR_liberal_2;Partido Histórico;;;;;;;;;;;;x
 POR_liberal_3;Partido Progressista;;;;;;;;;;;;x
 POR_liberal_4;Partido Reformista;;;;;;;;;;;;x
 POR_conservative_2;Partido Regenerador;;;;;;;;;;;;x
-POR_liberal_5;Partido Republicano;;;;;;;;;;;;x
-POR_socialist;Partido Socialista ;;;;;;;;;;;;x
+POR_liberal_5;共和党;;;;;;;;;;;;x
+POR_socialist;社会党;;;;;;;;;;;;x
 POR_liberal_6;Regenerador Liberal;;;;;;;;;;;;x
-POR_liberal_7;Partido Democrático;;;;;;;;;;;;x
+POR_liberal_7;民主党;;;;;;;;;;;;x
 POR_reactionary;Monárquicos;;;;;;;;;;;;x
-POR_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-POR_communist;Partido Comunista;;;;;;;;;;;;x
-POR_fascist;Estado Novo;;;;;;;;;;;;x
+POR_anarcho_liberal;急進党;;;;;;;;;;;;x
+POR_communist;共産党;;;;;;;;;;;;x
+POR_fascist;エスタド・ノヴォ;;;;;;;;;;;;x
 PRG_reactionary;Autoritaristas;;;;;;;;;;;;x
 PRG_conservative;Conservadores;;;;;;;;;;;;x
 PRG_liberal;Liberales;;;;;;;;;;;;x
 PRG_conservative_2;Partido Colorado;;;;;;;;;;;;x
-PRG_liberal_2;Partido Liberal;;;;;;;;;;;;x
-PRG_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-PRG_socialist;Partido Socialista;;;;;;;;;;;;x
-PRG_communist;Partido Comunista;;;;;;;;;;;;x
-PRG_fascist;Partido Fascista;;;;;;;;;;;;x
-PRU_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+PRG_liberal_2;自由党;;;;;;;;;;;;x
+PRG_anarcho_liberal;急進党;;;;;;;;;;;;x
+PRG_socialist;社会党;;;;;;;;;;;;x
+PRG_communist;共産党;;;;;;;;;;;;x
+PRG_fascist;ファシスト党;;;;;;;;;;;;x
+PRU_liberal;自由民主党;;;;;;;;;;;;x
 PRU_conservative;中央党;;;;;;;;;;;;x
 PRU_liberal_2;国民自由党;;;;;;;;;;;;x
 PRU_liberal_3;自由思想家党;;;;;;;;;;;;x
 PRU_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 PRU_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-PRU_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-PRU_reactionary;Nationale Partei;;;;;;;;;;;;x
+PRU_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+PRU_reactionary;国家党;;;;;;;;;;;;x
 PRU_conservative_2;保守党;;;;;;;;;;;;x
 PRU_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 PRU_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-PRU_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+PRU_communist;共産主義労働者党;;;;;;;;;;;;x
 PRU_fascist;NSDP;;;;;;;;;;;;x
 QUE_liberal;Parti Patriote;;;;;;;;;;;;x
 QUE_liberal_2;Parti Libéral;;;;;;;;;;;;x
@@ -8818,18 +8818,18 @@ SAR_conservative_2;Popolari;;;;;;;;;;;;x
 SAR_anarcho_liberal;Radicali;;;;;;;;;;;;x
 SAR_communist;Comunisti;;;;;;;;;;;;x
 SAR_fascist;Fascisti;;;;;;;;;;;;x
-SAX_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+SAX_liberal;自由民主党;;;;;;;;;;;;x
 SAX_conservative;中央党;;;;;;;;;;;;x
 SAX_liberal_2;国民自由党;;;;;;;;;;;;x
 SAX_liberal_3;自由思想家党;;;;;;;;;;;;x
 SAX_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 SAX_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-SAX_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-SAX_reactionary;Nationale Partei;;;;;;;;;;;;x
+SAX_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+SAX_reactionary;国家党;;;;;;;;;;;;x
 SAX_conservative_2;保守党;;;;;;;;;;;;x
 SAX_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 SAX_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-SAX_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+SAX_communist;共産主義労働者党;;;;;;;;;;;;x
 SAX_fascist;The Fascist Faction;;;;;;;;;;;;x
 SCA_liberal;Liberala Unionspartiet;;;;;;;;;;;;x
 SCA_anarcho_liberal;Anti-revoultionära partiet;;;;;;;;;;;;x
@@ -8842,18 +8842,18 @@ SCA_liberal_3;Bondeförbundet;;;;;;;;;;;;x
 SCA_conservative_2;Norske Intressepartit;;;;;;;;;;;;x
 SCA_liberal_4;Danske Unionspartit;;;;;;;;;;;;x
 SCA_fascist;Nationalsocialistiska Blocket;;;;;;;;;;;;x
-SCH_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+SCH_liberal;自由民主党;;;;;;;;;;;;x
 SCH_conservative;中央党;;;;;;;;;;;;x
 SCH_liberal_2;国民自由党;;;;;;;;;;;;x
 SCH_liberal_3;自由思想家党;;;;;;;;;;;;x
 SCH_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 SCH_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-SCH_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-SCH_reactionary;Nationale Partei;;;;;;;;;;;;x
+SCH_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+SCH_reactionary;国家党;;;;;;;;;;;;x
 SCH_conservative_2;保守党;;;;;;;;;;;;x
 SCH_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 SCH_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-SCH_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+SCH_communist;共産主義労働者党;;;;;;;;;;;;x
 SCH_fascist;NSDP;;;;;;;;;;;;x
 SCO_conservative;ホイッグ党;;;;;;;;;;;;x
 SCO_conservative_2;保守党;;;;;;;;;;;;x
@@ -8882,18 +8882,18 @@ SER_reactionary;Nationalist;;;;;;;;;;;;x
 SER_anarcho_liberal;Anarcho Liberal;;;;;;;;;;;;x
 SER_communist;Communist;;;;;;;;;;;;x
 SER_fascist;Fascist;;;;;;;;;;;;x
-SGF_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+SGF_liberal;自由民主党;;;;;;;;;;;;x
 SGF_conservative;中央党;;;;;;;;;;;;x
 SGF_liberal_2;国民自由党;;;;;;;;;;;;x
 SGF_liberal_3;自由思想家党;;;;;;;;;;;;x
 SGF_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 SGF_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-SGF_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-SGF_reactionary;Nationale Partei;;;;;;;;;;;;x
+SGF_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+SGF_reactionary;国家党;;;;;;;;;;;;x
 SGF_conservative_2;保守党;;;;;;;;;;;;x
 SGF_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 SGF_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-SGF_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+SGF_communist;共産主義労働者党;;;;;;;;;;;;x
 SGF_fascist;NSDP;;;;;;;;;;;;x
 SIA_conservative;Royal Faction;;;;;;;;;;;;x
 SIA_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -8954,12 +8954,12 @@ SOK_socialist;The Socialist Faction;;;;;;;;;;;;x
 SOK_communist;The Communist Faction;;;;;;;;;;;;x
 SOK_fascist;The Fascist Faction;;;;;;;;;;;;x
 SPA_conservative;Partido Moderado;;;;;;;;;;;;x
-SPA_liberal;Partido Progresista;;;;;;;;;;;;x
+SPA_liberal;進歩党;;;;;;;;;;;;x
 SPA_conservative_2;Unión Liberal;;;;;;;;;;;;x
 SPA_reactionary;Comunión Carlista;;;;;;;;;;;;x
 SPA_liberal_2;Republicano Federal;;;;;;;;;;;;x
 SPA_liberal_3;Republicano Unitario;;;;;;;;;;;;x
-SPA_socialist;Partido Socialista;;;;;;;;;;;;x
+SPA_socialist;社会党;;;;;;;;;;;;x
 SPA_liberal_4;Radical Republicano;;;;;;;;;;;;x
 SPA_liberal_5;Unión Republicana;;;;;;;;;;;;x
 SPA_communist;Federación Regional;;;;;;;;;;;;x
@@ -8968,7 +8968,7 @@ SPA_conservative_3;Lliga Regionalista Cat.;;;;;;;;;;;;x
 SPA_liberal_7;Solidaridad Catalana;;;;;;;;;;;;x
 SPA_conservative_4;Nacionalista Vasco;;;;;;;;;;;;x
 SPA_conservative_5;Unión Nacional;;;;;;;;;;;;x
-SPA_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
+SPA_anarcho_liberal;急進党;;;;;;;;;;;;x
 SPA_fascist;Falange;;;;;;;;;;;;x
 SWE_conservative;Konservativa Partiet;;;;;;;;;;;;x
 SWE_liberal;Liberala Partiet;;;;;;;;;;;;x
@@ -9065,13 +9065,13 @@ TUS_conservative_2;Popolari;;;;;;;;;;;;x
 TUS_anarcho_liberal;Radicali;;;;;;;;;;;;x
 TUS_communist;Comunisti;;;;;;;;;;;;x
 TUS_fascist;Fascisti;;;;;;;;;;;;x
-UCA_conservative;Partido Conservador;;;;;;;;;;;;x
-UCA_liberal;Partido Liberal;;;;;;;;;;;;x
+UCA_conservative;保守党;;;;;;;;;;;;x
+UCA_liberal;自由党;;;;;;;;;;;;x
 UCA_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-UCA_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-UCA_socialist;Partido Socialista;;;;;;;;;;;;x
-UCA_communist;Partido Comunista;;;;;;;;;;;;x
-UCA_fascist;Partido Fascista;;;;;;;;;;;;x
+UCA_anarcho_liberal;急進党;;;;;;;;;;;;x
+UCA_socialist;社会党;;;;;;;;;;;;x
+UCA_communist;共産党;;;;;;;;;;;;x
+UCA_fascist;ファシスト党;;;;;;;;;;;;x
 UKR_conservative;Royal Faction;;;;;;;;;;;;x
 UKR_liberal;The Liberal Faction;;;;;;;;;;;;x
 UKR_reactionary;The Nationalist Faction;;;;;;;;;;;;x
@@ -9085,12 +9085,12 @@ URU_liberal;Colorados;;;;;;;;;;;;x
 URU_liberal_2;Colorados;;;;;;;;;;;;x
 URU_socialist;Colorados;;;;;;;;;;;;x
 URU_conservative_3;Unión Cívica de Uruguay;;;;;;;;;;;;x
-URU_communist;Partido Socialista;;;;;;;;;;;;x
+URU_communist;社会党;;;;;;;;;;;;x
 URU_liberal_3;Liberales;;;;;;;;;;;;x
 URU_reactionary;Partido Nacionalista;;;;;;;;;;;;x
-URU_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-URU_socialist_2;Partido Socialista;;;;;;;;;;;;x
-URU_fascist;Partido Fascista;;;;;;;;;;;;x
+URU_anarcho_liberal;急進党;;;;;;;;;;;;x
+URU_socialist_2;社会党;;;;;;;;;;;;x
+URU_fascist;ファシスト党;;;;;;;;;;;;x
 USA_liberal;共和党;;;;;;;;;;;;x
 USA_conservative;民主党;;;;;;;;;;;;x
 USA_liberal_2;ホイッグ党;;;;;;;;;;;;x
@@ -9121,16 +9121,16 @@ WIA_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 WIA_socialist;The Socialist Faction;;;;;;;;;;;;x
 WIA_communist;The Communist Faction;;;;;;;;;;;;x
 WIA_fascist;The Fascist Faction;;;;;;;;;;;;x
-VNZ_conservative;Partido Conservador;;;;;;;;;;;;x
-VNZ_liberal;Partido Liberal;;;;;;;;;;;;x
+VNZ_conservative;保守党;;;;;;;;;;;;x
+VNZ_liberal;自由党;;;;;;;;;;;;x
 VNZ_conservative_2;Partido Centralista;;;;;;;;;;;;x
-VNZ_liberal_2;Partido Federalista;;;;;;;;;;;;x
+VNZ_liberal_2;連邦党;;;;;;;;;;;;x
 VNZ_reactionary;Partido Unitario;;;;;;;;;;;;x
 VNZ_liberal_3;Liberal Restaurador;;;;;;;;;;;;x
-VNZ_anarcho_liberal;Partido Radical;;;;;;;;;;;;x
-VNZ_socialist;Partido Socialista;;;;;;;;;;;;x
-VNZ_communist;Partido Comunista;;;;;;;;;;;;x
-VNZ_fascist;Partido Fascista;;;;;;;;;;;;x
+VNZ_anarcho_liberal;急進党;;;;;;;;;;;;x
+VNZ_socialist;社会党;;;;;;;;;;;;x
+VNZ_communist;共産党;;;;;;;;;;;;x
+VNZ_fascist;ファシスト党;;;;;;;;;;;;x
 WAL_reactionary;Partida Boiereasca;;;;;;;;;;;;x
 WAL_liberal;Partida Nationala;;;;;;;;;;;;x
 WAL_liberal_2;Partidul Liberal;;;;;;;;;;;;x
@@ -9142,36 +9142,36 @@ WAL_conservative_3;Partidul Conservator Democrat;;;;;;;;;;;;x
 WAL_reactionary_2;Partidul Nationalist Democrat;;;;;;;;;;;;x
 WAL_communist;Partidul Communist;;;;;;;;;;;;x
 WAL_fascist;Garda de Fier;;;;;;;;;;;;x
-WEI_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+WEI_liberal;自由民主党;;;;;;;;;;;;x
 WEI_conservative;中央党;;;;;;;;;;;;x
 WEI_liberal_2;国民自由党;;;;;;;;;;;;x
 WEI_liberal_3;自由思想家党;;;;;;;;;;;;x
 WEI_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 WEI_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-WEI_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-WEI_reactionary;Nationale Partei;;;;;;;;;;;;x
+WEI_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+WEI_reactionary;国家党;;;;;;;;;;;;x
 WEI_conservative_2;保守党;;;;;;;;;;;;x
 WEI_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 WEI_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-WEI_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+WEI_communist;共産主義労働者党;;;;;;;;;;;;x
 WLL_conservative;Royal Faction;;;;;;;;;;;;x
 WLL_liberal;The Liberal Faction;;;;;;;;;;;;x
 WLL_reactionary;The Nationalist Faction;;;;;;;;;;;;x
 WLL_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 WLL_socialist;The Socialist Faction;;;;;;;;;;;;x
 WLL_communist;The Communist Faction;;;;;;;;;;;;x
-WUR_liberal;Liberaldem. Partei;;;;;;;;;;;;x
+WUR_liberal;自由民主党;;;;;;;;;;;;x
 WUR_conservative;中央党;;;;;;;;;;;;x
 WUR_liberal_2;国民自由党;;;;;;;;;;;;x
 WUR_liberal_3;自由思想家党;;;;;;;;;;;;x
 WUR_socialist;ドイツ労働者協会;;;;;;;;;;;;x
 WUR_socialist_2;社会民主労働者党;;;;;;;;;;;;x
-WUR_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;x
-WUR_reactionary;Nationale Partei;;;;;;;;;;;;x
+WUR_socialist_3;社会主義労働者党;;;;;;;;;;;;x
+WUR_reactionary;国家党;;;;;;;;;;;;x
 WUR_conservative_2;保守党;;;;;;;;;;;;x
 WUR_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 WUR_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-WUR_communist;Kommunistische Arbeiterpartei;;;;;;;;;;;;x
+WUR_communist;共産主義労働者党;;;;;;;;;;;;x
 WUR_fascist;NSDP;;;;;;;;;;;;x
 ZAN_conservative;Royal Faction;;;;;;;;;;;;x
 ZAN_liberal;The Liberal Faction;;;;;;;;;;;;x
@@ -9794,7 +9794,7 @@ REMOVE_NO_PROMOTION;No Pops will be promoted today.;;;;;;;;;;;;x
 REMOVE_NO_DEMOTION;No Pops will be promoted today.;;;;;;;;;;;;x
 CONCIOUSNESS;Consciousness;;;;;;;;;;;;x
 UNEMPLOYMENT;Unemployment;;;;;;;;;;;;x
-LITERACY;Literacy;;;;;;;;;;;;x
+LITERACY;識字率;;;;;;;;;;;;x
 MILITANCY;Militancy;;;;;;;;;;;;x
 EMPLOYMENT;Employment;;;;;;;;;;;;x
 MILITARY_SPENDING;Military Spending;;;;;;;;;;;;x
@@ -9829,25 +9829,25 @@ POP_CONVERSION_FACTORS;Conversion factors:;;;;;;;;;;;;x
 POP_ASSM;§Y$NUM$§W people will assimilate to §Y$TYPE$§W each month;;;;;;;;;;;;x
 POP_ASSM_FACTORS;Assimilation Factors:;;;;;;;;;;;;x
 POP_NO_CONV_TARGET;No Valid Target.;;;;;;;;;;;;x
-aristocrats;Aristocrats;;;;;;;;;;;;x
+aristocrats;貴族;;;;;;;;;;;;x
 artisans;Artisans;;;;;;;;;;;;x
-bureaucrats;Bureaucrats;;;;;;;;;;;;x
-capitalists;Capitalists;;;;;;;;;;;;x
-clergymen;Clergymen;;;;;;;;;;;;x
+bureaucrats;官僚;;;;;;;;;;;;x
+capitalists;資本家;;;;;;;;;;;;x
+clergymen;聖職者;;;;;;;;;;;;x
 clerks;Clerks;;;;;;;;;;;;x
 craftsmen;Craftsmen;;;;;;;;;;;;x
-farmers;Farmers;;;;;;;;;;;;x
-labourers;Labourers;;;;;;;;;;;;x
-officers;Officers;;;;;;;;;;;;x
-slaves;Slaves;;;;;;;;;;;;x
-soldiers;Soldiers;;;;;;;;;;;;x
+farmers;農民;;;;;;;;;;;;x
+labourers;労働者;;;;;;;;;;;;x
+officers;将校;;;;;;;;;;;;x
+slaves;奴隷;;;;;;;;;;;;x
+soldiers;兵士;;;;;;;;;;;;x
 POP_INTERNAL_MIGRATION_FACTORS;Internal migration factors:;;;;;;;;;;;;x
 POP_INTERNAL_MIGRATION_NONE;No internal migration.;;;;;;;;;;;;x
 POP_COLONIAL_MIGRATION_FACTORS;Colonial migration factors:;;;;;;;;;;;;x
 POP_COLONIAL_MIGRATION_NONE;No colonial migration.;;;;;;;;;;;;x
 POP_EXTERNAL_MIGRATION_FACTORS;External migration factors:;;;;;;;;;;;;x
 POP_EXTERNAL_MIGRATION_NONE;No external migration.;;;;;;;;;;;;x
-soldiers;Soldiers;;;;;;;;;;;;x
+soldiers;兵士;;;;;;;;;;;;x
 RICH_STRATA;Rich Strata;;;;;;;;;;;;x
 MIDDLE_STRATA;Middle Strata;;;;;;;;;;;;x
 POOR_STRATA;Poor Strata;;;;;;;;;;;;x
@@ -12315,7 +12315,7 @@ PROV2432;Recife;;;;;;;;;;;;x
 PROV2433;Cabrobo;;;;;;;;;;;;x
 PROV2434;Maceió;;;;;;;;;;;;x
 PROV2435;Aracaju;;;;;;;;;;;;x
-PROV2436;Salvador de Bahia;;;;;;;;;;;;x
+PROV2436;バイーア州サルヴァドール;;;;;;;;;;;;x
 PROV2437;Juazeiro;;;;;;;;;;;;x
 PROV2438;Vila do Barra;;;;;;;;;;;;x
 PROV2439;Porto Seguro;;;;;;;;;;;;x

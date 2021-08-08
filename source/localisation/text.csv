@@ -112,7 +112,7 @@ BUDGET_LOANS_GIVEN;Loans Given;;;;;;;;;;;;x
 DIPLOMATIC_BALANCE_DESC;Diplomatic Balance;;;;;;;;;;;;x
 BUDGET_LOAN_CANT_REPAY;We have no money to pay back loans with;;;;;;;;;;;;x
 BUDGET_CANT_LOAN;No money available to you for loaning;;;;;;;;;;;;x
-WORLD_YEAR;The world $YEAR$ AD;;;;;;;;;;;;x
+WORLD_YEAR;西暦$YEAR$の世界;;;;;;;;;;;;x
 FE_PLAYABLE_COUNTRIES;Playable Countries;;;;;;;;;;;;x
 FE_COUNTRY;Country;;;;;;;;;;;;x
 FE_WARS;Wars:;;;;;;;;;;;;x
@@ -205,7 +205,7 @@ FE_NEW_GAME;New Game;;;;;;;;;;;;x
 FE_SAVE_GAME;Save Games;;;;;;;;;;;;x
 FE_HISTORICAL_START;史実スタート;;;;;;;;;;;;x
 FE_SAVED_GAMES;Saved Games;;;;;;;;;;;;x
-FE_SELECT_NATION;Click on the map to select a nation...;;;;;;;;;;;;x
+FE_SELECT_NATION;マップをクリックして国家を選択…;;;;;;;;;;;;x
 FE_NO_COUNTRY_SELECTED;No country selected;;;;;;;;;;;;x
 FE_MILITARY;Military;;;;;;;;;;;;x
 FE_ECONOMY;Economy;;;;;;;;;;;;x

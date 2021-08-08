@@ -1,12 +1,12 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-HAVE_MILITARY_SCORE_LESS_THAN;Have a lower Military Score than: ;;;;;;;;;;;;x
-STRATA_NEED_LESS_THAN;Needs fulfilled at less than;;;;;;;;;;;;x
-STRATA_NEED_MORE_THAN;Needs fulfilled at least;;;;;;;;;;;;x
-HAVE_LESS_POPS_WANTING_POLITICAL_REFORM_THAN;Less than $VAL$ want political reform.;;;;;;;;;;;;x
-HAVE_MORE_POPS_WANTING_POLITICAL_REFORM_THAN;At least $VAL$ want political reform.;;;;;;;;;;;;x
-HAVE_LESS_POPS_WANTING_SOCIAL_REFORM_THAN;Less than $VAL$ want social reform.;;;;;;;;;;;;x
-HAVE_MORE_POPS_WANTING_SOCIAL_REFORM_THAN;At least $VAL$ want social reform.;;;;;;;;;;;;x
+HAVE_MILITARY_SCORE_LESS_THAN;軍事点が次の値よりも低い：;;;;;;;;;;;;x
+STRATA_NEED_LESS_THAN;需要を満たせている者が次の割合より少ない：;;;;;;;;;;;;x
+STRATA_NEED_MORE_THAN;需要を満たせている者が次の割合より多い：;;;;;;;;;;;;x
+HAVE_LESS_POPS_WANTING_POLITICAL_REFORM_THAN;政治改革を望んでいる者が$VAL$未満です。;;;;;;;;;;;;x
+HAVE_MORE_POPS_WANTING_POLITICAL_REFORM_THAN;政治改革を望んでいるものが$VAL$以上です。;;;;;;;;;;;;x
+HAVE_LESS_POPS_WANTING_SOCIAL_REFORM_THAN;社会改革を望んでいる者が$VAL$未満です。;;;;;;;;;;;;x
+HAVE_MORE_POPS_WANTING_SOCIAL_REFORM_THAN;社会改革を望んでいる者が$VAL$以上です。;;;;;;;;;;;;x
 CSA_proletarian_dictatorship;CSA;;;;;;;;;;;;x
 USA_presidential_dictatorship;USA;;;;;;;;;;;;x
 CSA_presidential_dictatorship;CSA;;;;;;;;;;;;x
@@ -23,34 +23,34 @@ CAL_hms_government;カルフォルニア王国;;;;;;;;;;;;x
 DOM_absolute_monarchy;サント・ドミンゴ;;;;;;;;;;;;x
 DOM_hms_government;サント・ドミンゴ;;;;;;;;;;;;x
 ENG_democracy;グレートブリテン;;;;;;;;;;;;x
-TECH_DAILY_LEADERSHIP_BASE_TOOLTIP;Monthly base leadership: §Y$VALUE$§W;;;;;;;;;;;;x
-TECH_DAILY_LEADERSHIP_TOTAL_TOOLTIP;Monthly leadership: §G+$VALUE$§W;;;;;;;;;;;;x
-TECH_DAILY_LEADERSHIP_TOOLTIP;$POPTYPE$ provide §G$VALUE$§W leadership.\n (§Y$FRACTION$%§W of the population, $OPTIMAL$% is optimal.);;;;;;;;;;;;x
-MODIFIER_CORE_POP_MILITANCY_MODIFIER;Militancy in Non-Colonial;;;;;;;;;;;;x
-MODIFIER_CORE_POP_CONSCIOUSNESS_MODIFIER;Consciousness in Non-Colonial;;;;;;;;;;;;x
-MODIFIER_NON_ACCEPTED_POP_MILITANCY_MODIFIER;Militancy for Non-Accepted;;;;;;;;;;;;x
-MODIFIER_NON_ACCEPTED_POP_CONSCIOUSNESS_MODIFIER;Consciousness for Non-Accepted;;;;;;;;;;;;x
+TECH_DAILY_LEADERSHIP_BASE_TOOLTIP;月毎の基礎統率値：§Y$VALUE$§W;;;;;;;;;;;;x
+TECH_DAILY_LEADERSHIP_TOTAL_TOOLTIP;月毎の統率値：§G+$VALUE$§W;;;;;;;;;;;;x
+TECH_DAILY_LEADERSHIP_TOOLTIP;$POPTYPE$は§G$VALUE$§Wの統率値をもたらします。\n（人口の§Y$FRACTION$％§W、$OPTIMAL$％が最適です）;;;;;;;;;;;;x
+MODIFIER_CORE_POP_MILITANCY_MODIFIER;非植民地住民の好戦性;;;;;;;;;;;;x
+MODIFIER_CORE_POP_CONSCIOUSNESS_MODIFIER;非植民地住民の政治意識;;;;;;;;;;;;x
+MODIFIER_NON_ACCEPTED_POP_MILITANCY_MODIFIER;少数民族の好戦性;;;;;;;;;;;;x
+MODIFIER_NON_ACCEPTED_POP_CONSCIOUSNESS_MODIFIER;少数民族の政治意識;;;;;;;;;;;;x
 AUS_734;南チロル;;;;;;;;;;;;x
-EVTNAME23212;彗星の観測;;;;;;;;;;;;x
-EVTDESC23212;A Comet was sighted in the sky, some believe that this portends fell times ahead. Others believe that they are in fact pixie fairies floating in the sky. There are also those who believe that this comet is most probably a giant ball of ice floating through the sky and the long tail is created due to the energy of the sun. The arguments amongst the three equally viable theories is stimulating the pursuit of knowledge in our country.;;;;;;;;;;;;x
-EVTOPTA23212;Thank God we live in such enlightened times;;;;;;;;;;;;x
+EVTNAME23212;彗星現る;;;;;;;;;;;;x
+EVTDESC23212;彗星が空に現れました。ある者達は彗星を厄災の予兆だと信じています。またある者は彗星を空に浮かぶ妖精だと考えています。さらには彗星はおそらく空に浮かぶ巨大な氷の塊であって、長い尾は太陽のエネルギーによって生み出されると確信している者達もいます。同じように実行可能な3つの理論の議論が、我が国の知識の探求を刺激しています。;;;;;;;;;;;;x
+EVTOPTA23212;この啓蒙の时代に生きられたことを神に感谢しよう;;;;;;;;;;;;x
 EVTNAME60140;憲法制定会議;;;;;;;;;;;;x
-EVTDESC60140;With the liberals firmly in control of our country, they feel that now is the time for a constitutional convention. Everyone's views, well at least everyone who truly matters, will be represented in this new gathering to shape the path of our nation.;;;;;;;;;;;;x
-EVTOPTA60140;Otherwise people would exploit the situation;;;;;;;;;;;;x
-become_guatemala_title;Become Guatemala;;;;;;;;;;;;x
-BUDGET_STOCKPILE_YESTERDAYS;Yesterdays purchases for stockpile:;;;;;;;;;;;;x
-become_guatemala_desc;The dream of a united Central America has died. The other provinces were too concerned about being dominated by Guatemala to realise the sacrifices we had made to keep the union alive. Well no more. We are done with them. Guatemala will find its own destiny.;;;;;;;;;;;;x
-MOR_1683;Taza;;;;;;;;;;;;x
-LAG_PAUSE;$PLAYER$ is lagging behind, pausing game.;;;;;;;;;;;;x
-LAG_DECREASE_SPEED;$PLAYER$ is lagging behind, decreasing speed.;;;;;;;;;;;;x
-PAUSED_BY;§Y$PLAYER$§W paused the game.;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_SETUP;When a nation adds a wargoal in a war.;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_SETUP;When we add a wargoal against another nation.;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_SETUP;When a nation adds a wargoal against us..;;;;;;;;;;;;x
-status_quo_setup;All we ask is to be left alone;;;;;;;;;;;;x
-PROV3041;Argentine Rise;;;;;;;;;;;;x
+EVTDESC60140;我が国の実権を握った自由主義者たちは今こそ憲法を制定するときだと感じています。あらゆる意見、少なくとも真に重要な人々の意見は、我々国家の行末を決めるこの新しい会議の中で代表されることでしょう。;;;;;;;;;;;;x
+EVTOPTA60140;さもなければ人々はこの状况を利用するだろう。;;;;;;;;;;;;x
+become_guatemala_title;グアテマラに変体する;;;;;;;;;;;;x
+BUDGET_STOCKPILE_YESTERDAYS;昨日購入した備蓄：;;;;;;;;;;;;x
+become_guatemala_desc;中央アメリカ統一の夢は絶たれました。他州はグアテマラによる支配を恐れるだけで、我々が連合を存続させるために支払い続けた犠牲に目を向けようとはしませんでした。もはやこれまでです、我々は彼らと共に步むことはできません。グアテマラは自らの運命を見出します。;;;;;;;;;;;;x
+MOR_1683;タザ;;;;;;;;;;;;x
+LAG_PAUSE;$PLAYER$に遅れが発生しているため、ゲームを一時停止します。;;;;;;;;;;;;x
+LAG_DECREASE_SPEED;$PLAYER$に遅れが発生しているため、ゲーム速度を落とします。;;;;;;;;;;;;x
+PAUSED_BY;§Y$PLAYER$§Wはゲームを一時停止させました。;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_SETUP;ある国が他国に戦争目的を追加したとき;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_SETUP;我が国が他国に戦争目的を追加したとき;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_SETUP;他国が我が国に戦争目的を追加したとき;;;;;;;;;;;;x
+status_quo_setup;我々の望みは言うまでもなく;;;;;;;;;;;;x
+PROV3041;アルゼンチン海膨;;;;;;;;;;;;x
 TUR_819;西マケドニア;;;;;;;;;;;;x
 TUR_806;北マケドニア;;;;;;;;;;;;x
-GUNBOAT_OTHER_ACCEPT_LOG;$ACTOR$ is using gunboats to force $RECIPIENT$ to pay their debt!;;;;;;;;;;;;x
-GUNBOAT_THEY_ACCEPT_LOG;We are using gunboats to force $RECIPIENT$ to pay their debt!;;;;;;;;;;;;x
-GUNBOAT_WE_ACCEPT_LOG;$ACTOR$ is using gunboats to force us to pay back our debt!;;;;;;;;;;;;x
+GUNBOAT_OTHER_ACCEPT_LOG;$ACTOR$は$RECIPIENT$に借款の返済を強制させるため砲艦を派遣しました！;;;;;;;;;;;;x
+GUNBOAT_THEY_ACCEPT_LOG;我が国は$RECIPIENT$に借款の返済を強制させるため砲艦を派遣しました！;;;;;;;;;;;;x
+GUNBOAT_WE_ACCEPT_LOG;$ACTOR$は我が国に借款の返済を強制させるため砲艦を派遣しました！;;;;;;;;;;;;x

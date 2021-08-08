@@ -2,14 +2,14 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 badboy;汚名;;;;;;;;;;;;x
 EVTNAME60150;女性参政権の終焉;;;;;;;;;;;;x
-EVTDESC60150;With the recent rollback of voting reforms, the fairer sex is once again denied the vote.;;;;;;;;;;;;x
-EVTOPTA60150;Get back in the kitchen!;;;;;;;;;;;;x
-EVTNAME31102;Flight from Istanbul;;;;;;;;;;;;x
-EVTDESC31102;Our position in Istanbul is no longer secure. We should move our government to a safer place.;;;;;;;;;;;;x
-EVTOPTA31102;We have been ultimately driven from Europe...;;;;;;;;;;;;x
-OL_REBEL_OCCUPATIONS;Rebel occupations;;;;;;;;;;;;x
-OL_REBEL_OCCUPATIONS_TOOLTIP;Our province of §Y$PROVINCE$§W is being occupied by the rebels!;;;;;;;;;;;;x
-OL_VIEW_REBEL_OCCUPATIONS;Toggles §YRebel Occupations§W view;;;;;;;;;;;;x
-POP_MIL_CHANGE_REBEL;This pop is living in §Y$PROV$§W that is under §RRebels§W control.\nIt's militancy change cannot be estimated.;;;;;;;;;;;;x
-POP_CON_CHANGE_REBEL;This pop is living in §Y$PROV$§W that is under §RRebels§W control.\nIt's consciousness change cannot be estimated.;;;;;;;;;;;;x
-PROJECT_STATE_NAME_DESC;Planning to build in §Y$PROV$§W.;;;;;;;;;;;;x
+EVTDESC60150;この度の投票制度改革の後退によって、女性たちは再び投票を拒否されました。;;;;;;;;;;;;x
+EVTOPTA60150;台所に引っ込んでろ！;;;;;;;;;;;;x
+EVTNAME31102;イスタンブールからの逃亡;;;;;;;;;;;;x
+EVTDESC31102;イスタンブールにおける我々の立場はもはや安泰とは言えません。もっと安全な場所に政府を移すべきです。;;;;;;;;;;;;x
+EVTOPTA31102;ついにヨーロッパから追い出されてしまった…;;;;;;;;;;;;x
+OL_REBEL_OCCUPATIONS;反乱軍による占領;;;;;;;;;;;;x
+OL_REBEL_OCCUPATIONS_TOOLTIP;我が国の§Y$PROVINCE$§W州が反乱軍に占領されました！;;;;;;;;;;;;x
+OL_VIEW_REBEL_OCCUPATIONS;§Y反乱軍による占領§Wの表示と非表示を切り换え;;;;;;;;;;;;x
+POP_MIL_CHANGE_REBEL;このPOPは§Y$PROV$§Wに住んでいて、一帯は§R反乱軍§Wに支配されています。\n急進性の変化を予測できません。;;;;;;;;;;;;x
+POP_CON_CHANGE_REBEL;このPOPは§Y$PROV$§Wに住んでいて、一帯は§R反乱軍§Wに支配されています。\n政治意識の変化を予測できません。;;;;;;;;;;;;x
+PROJECT_STATE_NAME_DESC;§Y$PROV$§Wに建築を計画中。;;;;;;;;;;;;x

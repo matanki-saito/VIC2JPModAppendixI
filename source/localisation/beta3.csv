@@ -1,26 +1,26 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 COLONIAL_RANGE;植民範囲：§G+$VAL$§W;;;;;;;;;;;;x
-MODIFIER_LOCAL_SHIP_BUILD;Local Ship Build Time;;;;;;;;;;;;x
-CB_ALLOWED_ANNEX;Allow Annexation;;;;;;;;;;;;x
-CB_ALLOWED_ADD_TO_SPHERE;Add to Sphere;;;;;;;;;;;;x
-CB_ALLOWED_RELEASE_PUPPET;Release of Puppet;;;;;;;;;;;;x
-CB_ALLOWED_STATUS_QUO;Return to Status Quo;;;;;;;;;;;;x
-CB_ALLOWED_TRANSFER_PROVINCES;Transfer of provinces;;;;;;;;;;;;x
-CB_ALLOWED_PRESTIGE;Reduction of Prestige;;;;;;;;;;;;x
-CB_ALLOWED_CONCESSION;Concede Defeat;;;;;;;;;;;;x
-MAINTENANCE_DESC;Maintenance goods need:;;;;;;;;;;;;x
-MISSING_MAINTENANCE;Output is reduced to §R$PERC$§W since factory is missing maintenance goods;;;;;;;;;;;;x
-PROCEED;Proceed;;;;;;;;;;;;x
-ENDGAME_HEADLINE;Game Over;;;;;;;;;;;;x
-ENDGAME_DESC;One hundred Momentous years have passed and we have entered the modern age. The world is a radically different place, how did your country do?;;;;;;;;;;;;x
-NEEDS_BOUGHT;Estimated needs for today:;;;;;;;;;;;;x
-TOTAL_NEEDS_BOUGHT;Estimated needs cost:;;;;;;;;;;;;x
-TOTAL_SOLD_FOR;Yesterday we produced $NUM$ §Y$GOOD$§W which sold for $CASH$¤;;;;;;;;;;;;x
-COULDNT_AFFORD;Factory couldn't afford to buy all its inputs yesterday;;;;;;;;;;;;x
-INPUT_LACKING;There's not enough §Y$GOOD$§W on the market to satisfy factory input needs;;;;;;;;;;;;x
-OUTPUT_WASTED;$NUM$ of $PRODUCED$ §Y$GOOD$§W didn't get sold yesterday;;;;;;;;;;;;x
-TRADE_CONFIRM_DESC;Setting a manual trade means we might end up taking loans to afford purchases.;;;;;;;;;;;;x
-BUDGET_TAX_EFFICIENCY;Tax Efficiency: §Y$VALUE$%§W;;;;;;;;;;;;x
-BUDGET_TAX_EFFECT;Effective tax: §Y$VALUE$%§W;;;;;;;;;;;;x
-LEADERSHIP_EFFECT;Leadership: §G$VALUE$§W.\n;;;;;;;;;;;;x
+MODIFIER_LOCAL_SHIP_BUILD;地方船舶の建造時間;;;;;;;;;;;;x
+CB_ALLOWED_ANNEX;併合の受け入れ;;;;;;;;;;;;x
+CB_ALLOWED_ADD_TO_SPHERE;勢力圏へ編入;;;;;;;;;;;;x
+CB_ALLOWED_RELEASE_PUPPET;傀儡国家の開放;;;;;;;;;;;;x
+CB_ALLOWED_STATUS_QUO;原状回復;;;;;;;;;;;;x
+CB_ALLOWED_TRANSFER_PROVINCES;州の割譲;;;;;;;;;;;;x
+CB_ALLOWED_PRESTIGE;威信の低減;;;;;;;;;;;;x
+CB_ALLOWED_CONCESSION;敗北の受け入れ;;;;;;;;;;;;x
+MAINTENANCE_DESC;保全に必要な物資は次の通り：;;;;;;;;;;;;x
+MISSING_MAINTENANCE;保全に必要な物資が不足しているため工場の生産力が§R$PERC$§Wにまで低下しています;;;;;;;;;;;;x
+PROCEED;続行;;;;;;;;;;;;x
+ENDGAME_HEADLINE;ゲームオーバー;;;;;;;;;;;;x
+ENDGAME_DESC;百年の節目を経て、私達は近代に入りました。世界は大きくその姿を变えましたがあなたの国はどうでしたか？;;;;;;;;;;;;x
+NEEDS_BOUGHT;推定される今日の需要は次の通り：;;;;;;;;;;;;x
+TOTAL_NEEDS_BOUGHT;推定される需要コストは次の通り：;;;;;;;;;;;;x
+TOTAL_SOLD_FOR;昨日、我々は$NUM$の§Y$GOOD$§Wを$CASH$¤で売却しました。;;;;;;;;;;;;x
+COULDNT_AFFORD;昨日、工場は十分な原材料を購入できませんでした。;;;;;;;;;;;;x
+INPUT_LACKING;工場の需要を满たすのに必要な量の§Y$GOOD$§Wが市場にありません;;;;;;;;;;;;x
+OUTPUT_WASTED;昨日、$PRODUCED$の内$NUM$の§Y$GOOD$§W$が売れ残りました;;;;;;;;;;;;x
+TRADE_CONFIRM_DESC;手動で貿易をした場合は購入資金を用意するために借款を行う事があります。;;;;;;;;;;;;x
+BUDGET_TAX_EFFICIENCY;徴税効率：§Y$VALUE$％§W;;;;;;;;;;;;x
+BUDGET_TAX_EFFECT;実行税率：§Y$VALUE$％§W;;;;;;;;;;;;x
+LEADERSHIP_EFFECT;統率値：§G$VALUE$§W\n;;;;;;;;;;;;x

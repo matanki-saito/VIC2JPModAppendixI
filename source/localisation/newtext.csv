@@ -1287,8 +1287,8 @@ CALLALLY_THEY_ACCEPT_3;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_4;has honored our Military Alliance and joined our invincible armies in the;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_5;$VERSUS$;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_6;*;;;;;;;;;;;;x
-CALLALLY_THEY_ACCEPT_BTN1;Great!;;;;;;;;;;;;x
-CALLALLY_THEY_ACCEPT_BTN2;Great!;;;;;;;;;;;;x
+CALLALLY_THEY_ACCEPT_BTN1;素晴らしい！;;;;;;;;;;;;x
+CALLALLY_THEY_ACCEPT_BTN2;素晴らしい！;;;;;;;;;;;;x
 CALLALLY_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 CALLALLY_WE_ACCEPT_1;Military Alliance Honored;;;;;;;;;;;;x
@@ -1904,7 +1904,7 @@ tut_5c_1;Politics;;;;;;;;;;;;x
 tut_5c_2;In this section we will describe a few key concepts in the Victoria 2 politics system. Let's open the Politics Screen.;;;;;;;;;;;;x
 tut_5c_3;Plurality;;;;;;;;;;;;x
 tut_5c_4;First up is Plurality. This is a value reflecting a sort of collective want for reform in your country and the higher it gets the higher the demand for reform. There are also positive effects of having a more progressive population, such as increased research points. The plurality value will increase over time, and the rate will also increase with certain technological advances and inventions. If you hover your mouse over the plurality value you can see Belgium's current rate.\nClick next to continue.;;;;;;;;;;;;x
-tut_5c_5;Revanchism;;;;;;;;;;;;x
+tut_5c_5;報復主義;;;;;;;;;;;;x
 tut_5c_6;Revanchism is a value that represents anger in your population over perceived injustices at the hands of foreign nations. If you loose core territory, Revanchism will increase for example, and do so till you reconquer the land or enough time pass for your people to forget. If revanchism gets high enough this will drive your people towards Jingoism and Fascism.;;;;;;;;;;;;x
 tut_5c_7;The Upper House;;;;;;;;;;;;x
 tut_5c_8;The limiting factor in making new reforms in Victoria 2 is the Upper House. Depending on which parties sit in the upper house you may or may not do social and/or political reforms. Different parties have different attitudes to reforms, fascist for example will not support any reforms if the ruling party is not fascist while the conservatives would only consider reform if the militancy in the country was extremely high.;;;;;;;;;;;;x
@@ -1944,15 +1944,15 @@ tut_7c_9;Let's move on, click next.;;;;;;;;;;;;x
 tut_7c_10;Government Needs and Managing Trades;;;;;;;;;;;;x
 tut_7c_11;As long as your trades are automated, your government orders match your government needs exactly. When you build a new army, the trade orders will be set to cover the increased need for example. Sometimes however we might need save money, in these cases you can click any goods in the government needs column and then uncheck the automation for that goods. After doing so you are free to set whichever trade you like.;;;;;;;;;;;;x
 tut_7c_12;Click next to move on.;;;;;;;;;;;;x
-tut_7c_13;Markets;;;;;;;;;;;;x
+tut_7c_13;市場;;;;;;;;;;;;x
 tut_7c_14;Finally we sum up how trading and markets work. All goods that are produced in Victoria 2 are put up for sale on the market.;;;;;;;;;;;;x
 tut_7c_15;Common Market - The first round of trading that takes place does so on the common market, the market of a country and the members of the same sphere of influence. All buyers in the market first attempts to buy from here.;;;;;;;;;;;;x
 tut_7c_16;Export to the World Market - Anything that is not sold on the common market is exported to the world market. On this market countries and their citizens buy in the order of prestige, thus if a good is rare prestige is very important. What is not sold on the world market is then lost and producers only get paid for what they sold.;;;;;;;;;;;;x
 tut_7c_17;In conclusion, two things are very important when trying to ensure a steady supply of goods to your nation and ensuring your people get paid. Have high prestige to get your people ahead of the queue and make sure your common market is well stocked with the things needed to run your economy.;;;;;;;;;;;;x
 tut_7c_18;Click next to continue;;;;;;;;;;;;x
-tut_8c_1;Diplomacy;;;;;;;;;;;;x
+tut_8c_1;外交;;;;;;;;;;;;x
 tut_8c_2;In this section we will say a few things about the specifics of War and Peace and what it means to be a Great Power, for this purpose we have switched over to playing a more powerful country: Prussia. Let's move into the Diplomatic Interface.;;;;;;;;;;;;x
-tut_8c_3;Great Powers;;;;;;;;;;;;x
+tut_8c_3;列強;;;;;;;;;;;;x
 tut_8c_4;Notice the eight countries in the upper left corner, these are the Great Powers. You can see that we are one of them.;;;;;;;;;;;;x
 tut_8c_5;Being a great power carries several advantages, you can make countries part of your sphere of influence, your minorities are happier and you can build colonies. Losing your status will also greatly upset your people.;;;;;;;;;;;;x
 tut_8c_6;Besides Great Powers there are also other distinctions. The Second Rank Powers are able to build colonies. The uncivilized nations are not able to industrialize without first taking the decision to Westernize.;;;;;;;;;;;;x

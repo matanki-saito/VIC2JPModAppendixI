@@ -112,7 +112,7 @@ BUDGET_LOANS_GIVEN;Loans Given;;;;;;;;;;;;x
 DIPLOMATIC_BALANCE_DESC;Diplomatic Balance;;;;;;;;;;;;x
 BUDGET_LOAN_CANT_REPAY;We have no money to pay back loans with;;;;;;;;;;;;x
 BUDGET_CANT_LOAN;No money available to you for loaning;;;;;;;;;;;;x
-WORLD_YEAR;西暦$YEAR$の世界;;;;;;;;;;;;x
+WORLD_YEAR;西暦$YEAR$年の世界;;;;;;;;;;;;x
 FE_PLAYABLE_COUNTRIES;Playable Countries;;;;;;;;;;;;x
 FE_COUNTRY;Country;;;;;;;;;;;;x
 FE_WARS;Wars:;;;;;;;;;;;;x
@@ -165,34 +165,34 @@ DIFF_HARD;難しい;;;;;;;;;;;;x
 DIFF_VERY_HARD;非常に難しい;;;;;;;;;;;;x
 CORE_PAUSED;PAUSE;;;;;;;;;;;;x
 SM_SETTINGS;設定;;;;;;;;;;;;x
-SM_GAME;Game;;;;;;;;;;;;x
-SM_VIDEO;Video;;;;;;;;;;;;x
-SM_AUDIO;Audio;;;;;;;;;;;;x
-SM_CONTROLS;Controls;;;;;;;;;;;;x
-SM_MASTER_VOLUME;Master Volume;;;;;;;;;;;;x
-SM_EFFECT_VOLUME;Effect Volume;;;;;;;;;;;;x
-SM_MUSIC_VOLUME;Music Volume;;;;;;;;;;;;x
-SM_SCROLL_SPEED;Scroll Speed;;;;;;;;;;;;x
-SM_ZOOM_SPEED;Zoom Speed;;;;;;;;;;;;x
-SM_MOUSE_SPEED;Mouse Speed;;;;;;;;;;;;x
-SM_RESOLUTION;Resolution;;;;;;;;;;;;x
-SM_REFRESH_RATE;Refresh Rate;;;;;;;;;;;;x
-SM_GAMMA;Gamma;;;;;;;;;;;;x
-SM_SHADOWS;Shadows;;;;;;;;;;;;x
-SM_TREES;Trees;;;;;;;;;;;;x
-SM_DIFFICULTY;Difficulty;;;;;;;;;;;;x
-SM_AUTOSAVE_INTERVAL;Autosave Interval;;;;;;;;;;;;x
-SM_APPLY;Apply;;;;;;;;;;;;x
-SM_BACK;Back;;;;;;;;;;;;x
+SM_GAME;ゲーム;;;;;;;;;;;;x
+SM_VIDEO;ビデオ;;;;;;;;;;;;x
+SM_AUDIO;オーディオ;;;;;;;;;;;;x
+SM_CONTROLS;操作;;;;;;;;;;;;x
+SM_MASTER_VOLUME;マスター音量;;;;;;;;;;;;x
+SM_EFFECT_VOLUME;効果音の音量;;;;;;;;;;;;x
+SM_MUSIC_VOLUME;音楽の音量;;;;;;;;;;;;x
+SM_SCROLL_SPEED;スクロール速度;;;;;;;;;;;;x
+SM_ZOOM_SPEED;ズーム速度;;;;;;;;;;;;x
+SM_MOUSE_SPEED;マウス速度;;;;;;;;;;;;x
+SM_RESOLUTION;解像度;;;;;;;;;;;;x
+SM_REFRESH_RATE;リフレッシュレート;;;;;;;;;;;;x
+SM_GAMMA;ガンマ;;;;;;;;;;;;x
+SM_SHADOWS;影;;;;;;;;;;;;x
+SM_TREES;木;;;;;;;;;;;;x
+SM_DIFFICULTY;難易度;;;;;;;;;;;;x
+SM_AUTOSAVE_INTERVAL;オートセーブの間隔;;;;;;;;;;;;x
+SM_APPLY;適用;;;;;;;;;;;;x
+SM_BACK;戻る;;;;;;;;;;;;x
 SM_ALERT;Alert;;;;;;;;;;;;x
 SM_RESTART;You need to restart for the change to take effect.;;;;;;;;;;;;x
 SM_WP;Error writing to the settings-file. Check that the file is not write protected and try again;;;;;;;;;;;;x
 FE_HOST;Host;;;;;;;;;;;;x
-FE_JOIN_LAN_GAME;Join Lan Game;;;;;;;;;;;;x
-FE_JOIN_INTERNET_GAME;Join Internet Game;;;;;;;;;;;;x
+FE_JOIN_LAN_GAME;LANゲームに参加;;;;;;;;;;;;x
+FE_JOIN_INTERNET_GAME;インターネットゲームに参加;;;;;;;;;;;;x
 FE_SCAN;scan;;;;;;;;;;;;x
 FE_METASERVER;Metaserver;;;;;;;;;;;;x
-FE_BACK;Back;;;;;;;;;;;;x
+FE_BACK;戻る;;;;;;;;;;;;x
 FE_PLAYER;Player;;;;;;;;;;;;x
 FE_PLAYER_NAME;Player name:;;;;;;;;;;;;x
 FE_SINGLE_PLAYER;シングルプレイヤー;;;;;;;;;;;;x
@@ -207,10 +207,10 @@ FE_HISTORICAL_START;史実スタート;;;;;;;;;;;;x
 FE_SAVED_GAMES;Saved Games;;;;;;;;;;;;x
 FE_SELECT_NATION;マップをクリックして国家を選択…;;;;;;;;;;;;x
 FE_NO_COUNTRY_SELECTED;No country selected;;;;;;;;;;;;x
-FE_MILITARY;Military;;;;;;;;;;;;x
+FE_MILITARY;軍事;;;;;;;;;;;;x
 FE_ECONOMY;Economy;;;;;;;;;;;;x
-FE_DIPLOMACY;Diplomacy;;;;;;;;;;;;x
-FE_DIFFICULTY;Difficulty:;;;;;;;;;;;;x
+FE_DIPLOMACY;外交;;;;;;;;;;;;x
+FE_DIFFICULTY;難易度：;;;;;;;;;;;;x
 FE_AT_WAR;At war:;;;;;;;;;;;;x
 FE_ALLIES;Allies:;;;;;;;;;;;;x
 FE_LOAD;LOAD;;;;;;;;;;;;x
@@ -306,7 +306,7 @@ MS_METASERVER_LOGIN;Metaserver Login;;;;;;;;;;;;x
 MS_JOINGAME;Join Game;;;;;;;;;;;;x
 MS_REFRESH;Refresh;;;;;;;;;;;;x
 MS_START;Start;;;;;;;;;;;;x
-MS_BACK;Back;;;;;;;;;;;;x
+MS_BACK;戻る;;;;;;;;;;;;x
 MS_JOIN;Join;;;;;;;;;;;;x
 MS_JOIN_CHANNEL;Join Channel;;;;;;;;;;;;x
 MS_LOGIN;Login;;;;;;;;;;;;x
@@ -356,7 +356,7 @@ ME_BUY_ITEM_DESC;Are you sure you wish to buy §Y$NAME$§W for §Y$CREDITS$§W C
 MS_AVAILABLE_ITEMS;Available Items;;;;;;;;;;;;x
 MESSAGESETTINGS_ALL;All;;;;;;;;;;;;x
 MESSAGESETTINGS_COMBAT;Combat;;;;;;;;;;;;x
-MESSAGESETTINGS_DIPLOMACY;Diplomacy;;;;;;;;;;;;x
+MESSAGESETTINGS_DIPLOMACY;外交;;;;;;;;;;;;x
 MESSAGESETTINGS_UNITS;Units;;;;;;;;;;;;x
 MESSAGESETTINGS_PROVINCES;Provinces;;;;;;;;;;;;x
 MESSAGESETTINGS_EVENTS;Events;;;;;;;;;;;;x
@@ -380,7 +380,7 @@ VERY_HARD;非常に難しい;;;;;;;;;;;;x
 NEVER;Never;;;;;;;;;;;;x
 MONTHLY;Monthly;;;;;;;;;;;;x
 HALFYEAR;Half Year;;;;;;;;;;;;x
-YEARLY;Yearly;;;;;;;;;;;;x
+YEARLY;毎年;;;;;;;;;;;;x
 FIVE_YEAR;Five Years;;;;;;;;;;;;x
 YEARS;Years;;;;;;;;;;;;x
 MONTHS;Months;;;;;;;;;;;;x
@@ -395,7 +395,7 @@ easy;簡単;;;;;;;;;;;;x
 normal;普通;;;;;;;;;;;;x
 hard;難しい;;;;;;;;;;;;x
 very hard;非常に難しい;;;;;;;;;;;;x
-SM_MULTISAMPLE;Multisample Level;;;;;;;;;;;;x
+SM_MULTISAMPLE;マルチサンプルレベル;;;;;;;;;;;;x
 RESTART_REQ;Restart Required;;;;;;;;;;;;x
 RESTART_REQ_DESC;You must restart the game for these changes to take effect.;;;;;;;;;;;;x
 very_easy_player;非常に簡単な難易度;;;;;;;;;;;;x
@@ -1522,7 +1522,7 @@ PARTISANS_BTN1;OK;;;;;;;;;;;;x
 PARTISANS_BTN2;OK;;;;;;;;;;;;x
 PARTISANS_BTN3;移動;;;;;;;;;;;;x
 PARTISANS_MAP;Rebellion!;;;;;;;;;;;;x
-DIPLOMACY;Diplomacy;;;;;;;;;;;;x
+DIPLOMACY;外交;;;;;;;;;;;;x
 DIPLOMACY_CLOSE_WINDOW;Closes diplomacy window;;;;;;;;;;;;x
 DIPLOMACY_COUNTRY;Country;;;;;;;;;;;;x
 DIPLOMACY_PRIO;Prio;;;;;;;;;;;;x
@@ -1587,7 +1587,7 @@ DIPLOMACY_ADD_WARGOAL;Add Wargoal;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_JOIN_WAR_INVALID_WARGOAL;We cannot join a side that has added any wargoals(except §YStatus Quo§W).;;;;;;;;;;;;x
 DIPLOMACY_WARSCORE_LABEL;Warscore:;;;;;;;;;;;;x
 DIPLOMACY_TOTAL_LABEL;Total:;;;;;;;;;;;;x
-DIPLOMACY_POPULATION_LABEL;Population;;;;;;;;;;;;x
+DIPLOMACY_POPULATION_LABEL;人口;;;;;;;;;;;;x
 DIPLOMACY_FRIENDLY_LABEL;Friendly:;;;;;;;;;;;;x
 DIPLOMACY_CORDIAL_LABEL;Cordial:;;;;;;;;;;;;x
 DIPLOMACY_SPHERE_LABEL;Sphere:;;;;;;;;;;;;x
@@ -1608,7 +1608,7 @@ DIPLOMACY_PRIO_NONE;None;;;;;;;;;;;;x
 DIPLOMACY_PRIO_LOW;Low;;;;;;;;;;;;x
 DIPLOMACY_PRIO_MIDDLE;Middle;;;;;;;;;;;;x
 DIPLOMACY_PRIO_HIGH;High;;;;;;;;;;;;x
-MILITARY;Military;;;;;;;;;;;;x
+MILITARY;軍事;;;;;;;;;;;;x
 MILITARY_BUILD_ARMY;Build Army;;;;;;;;;;;;x
 MILITARY_BUILD_NAVY;Build Navy;;;;;;;;;;;;x
 MILITARY_SORT_STRENGTH;Strength;;;;;;;;;;;;x
@@ -1640,7 +1640,7 @@ MILITARY_UNITS_BEING_BUILT_LABEL;Units Being Built;;;;;;;;;;;;x
 MILITARY_ADMIRALS_LABEL;Admirals:;;;;;;;;;;;;x
 MILITARY_GENERALS_LABEL;Generals:;;;;;;;;;;;;x
 MILITARY_LACK_OF_LEADER;We need at least §Y$VALUE$§W leadership to recruit a leader.;;;;;;;;;;;;x
-POLITICS;Politics;;;;;;;;;;;;x
+POLITICS;政治;;;;;;;;;;;;x
 POLITICS_CAN_DO_SOCIAL_REFROMS;Can enact social reforms;;;;;;;;;;;;x
 POLITICS_CAN_REVOKE_SOCIAL_REFROMS;Can revoke social reforms;;;;;;;;;;;;x
 POLITICS_CAN_NOT_DO_SOCIAL_REFROMS;Can't enact social reforms;;;;;;;;;;;;x
@@ -1682,7 +1682,7 @@ SLAVE_STATE;Slave State;;;;;;;;;;;;x
 POLITICS_COUNTRY_MODIFIERS;Country Modifiers;;;;;;;;;;;;x
 POLITICS_REBELS;Rebels;;;;;;;;;;;;x
 POLITICS_DECISIONS;Decisions;;;;;;;;;;;;x
-PRODUCTION;Production;;;;;;;;;;;;x
+PRODUCTION;生産;;;;;;;;;;;;x
 PRODUCTION_CLOSE_WINDOW;Closes production window;;;;;;;;;;;;x
 PRODUCTION_CLOSED;CLOSED;;;;;;;;;;;;x
 PRODUCTION_FACTORY_INCOME;Income;;;;;;;;;;;;x
@@ -1757,7 +1757,7 @@ PRODUCTION_TOTAL;Total:;;;;;;;;;;;;x
 PRODUCTION_CURRENT_FUNDS;Current Funds:;;;;;;;;;;;;x
 PRODUCTION_BASE_OUTPUT;Base :;;;;;;;;;;;;x
 PRODUCTION_FACTORIES;Factories;;;;;;;;;;;;x
-PRODUCTION_GOODS_TAB;Production;;;;;;;;;;;;x
+PRODUCTION_GOODS_TAB;生産;;;;;;;;;;;;x
 PRODUCTION_PROJECTS_TAB;Projects;;;;;;;;;;;;x
 PRODUCTION_SORT_BY_PROJECTS;Projects;;;;;;;;;;;;x
 PRODUCTION_SORT_BY_COMPLETION;Completion;;;;;;;;;;;;x
@@ -1768,7 +1768,7 @@ PRODUCTION_SORT_BY_PROJECTS_TOOLTIP;Sort by projects;;;;;;;;;;;;x
 PRODUCTION_GOODS_COMPLETION;$NUM$ of §Y$GOOD$§W acquired;;;;;;;;;;;;x
 PRODUCTION_PROJECT_NAME;Project Name;;;;;;;;;;;;x
 PRODUCTION_NUM_INVESTORS;Number of investors;;;;;;;;;;;;x
-TECHNOLOGYVIEW;Technology;;;;;;;;;;;;x
+TECHNOLOGYVIEW;技術;;;;;;;;;;;;x
 TECHNOLOGYVIEW_ADMINISTRATION;Administration:;;;;;;;;;;;;x
 TECHNOLOGYVIEW_CURRENT_RESEARCH;Current research:;;;;;;;;;;;;x
 TECHNOLOGYVIEW_POSSIBLE_INVERTIONS;Possible Inventions;;;;;;;;;;;;x
@@ -1825,7 +1825,7 @@ TRADE_NEEDS;Needs;;;;;;;;;;;;x
 TRADE_MARKET_ACTIVITY;Market Activity;;;;;;;;;;;;x
 TRADE_STOCKPILE;Stockpile;;;;;;;;;;;;x
 TRADE_COMMON_MARKET;Common Market;;;;;;;;;;;;x
-TRADE_POPULATION;Population;;;;;;;;;;;;x
+TRADE_POPULATION;人口;;;;;;;;;;;;x
 TRADE_FACTORIES;Factories;;;;;;;;;;;;x
 TRADE_GOVERNMENT;Government;;;;;;;;;;;;x
 TRADE_NEED;Need;;;;;;;;;;;;x
@@ -2349,8 +2349,8 @@ REMOVE_CALLALLY_THEY_ACCEPT_3;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 REMOVE_CALLALLY_THEY_ACCEPT_4;has honoured our Military Alliance and joined our invincible armies in declaring war on;;;;;;;;;;;;x
 REMOVE_CALLALLY_THEY_ACCEPT_5;$VERSUS$;;;;;;;;;;;;x
 REMOVE_CALLALLY_THEY_ACCEPT_6;They are now at war with $TARGETLIST$.;;;;;;;;;;;;x
-REMOVE_CALLALLY_THEY_ACCEPT_BTN1;Great!;;;;;;;;;;;;x
-REMOVE_CALLALLY_THEY_ACCEPT_BTN2;Great!;;;;;;;;;;;;x
+REMOVE_CALLALLY_THEY_ACCEPT_BTN1;素晴らしい！;;;;;;;;;;;;x
+REMOVE_CALLALLY_THEY_ACCEPT_BTN2;素晴らしい！;;;;;;;;;;;;x
 REMOVE_CALLALLY_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 REMOVE_CALLALLY_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 REMOVE_CALLALLY_WE_ACCEPT_1;Military Alliance Honoured.;;;;;;;;;;;;x
@@ -3489,7 +3489,7 @@ EVTNAME100;禁酒運動;;;;;;;;;;;;x
 EVTDESC100;With the ravages of alcohol taking a daily toll on our people, tearing away, every day with newfound intensity, at the moral and spiritual fabric of our national character, it becomes imperative for us to bond together in defense of public virtue, and to educate and uplift the poor and the downtrodden to the virtues of temperance.'\n\nFor quite some time now, our country has been dealing with increases in the consumption of alcohol. Readily available, and cheap, distilled spirits, in combination with hard working conditions, make the poorer classes especially susceptible to this deadly poison. It comes as no surprise that a $COUNTRY_ADJ$ Temperance League has been formed;;;;;;;;;;;;x
 EVTOPTA100;What's wrong with a few drinks? *hiccup*;;;;;;;;;;;;x
 EVTOPTB100;An excellent initiative!;;;;;;;;;;;;x
-EVTNAME110;ビアホールが開店;;;;;;;;;;;;x
+EVTNAME110;\nビアホールが開店;;;;;;;;;;;;x
 EVTDESC110;今日、我が国の州のひとつでまた１軒のビアホールが開店し、遊び人、バクチ打ち、飲んだくれの楽園としてのこの州の評判をさらなるものにしました。この州では今や１００人に１人の割合で酒場、売春宿、ビアホール、その他もろもろの悪徳と罪にまみれた施設が存在することになります。スピリッツは気分が落ちこんだ際の気晴らしとして有用かもしれませんが、長い目でみたときの過剰摂取による影響を軽く見ることはできません。;;;;;;;;;;;;x
 EVTOPTA110;かんぱーい！;;;;;;;;;;;;x
 EVTOPTB110;地方政府に圧力をかけてこの流れを止めよう;;;;;;;;;;;;x
@@ -5236,7 +5236,7 @@ REMOVE_EVTOPTB17650;Awful!;;;;;;;;;;;;x
 REMOVE_EVTNAME17660;The Blackshirts Massacre;;;;;;;;;;;;x
 REMOVE_EVTDESC17660;After causing much uproar and wreaking havoc in the province, the Blackshirts attacked a peaceful group of socialists and liberals. The Blackshirts took them hostage and dragged them to a secluded area in the central park and executed them.;;;;;;;;;;;;x
 REMOVE_EVTOPTA17660;Poor socialists.;;;;;;;;;;;;x
-REMOVE_EVTOPTB17660;Great!;;;;;;;;;;;;x
+REMOVE_EVTOPTB17660;素晴らしい！;;;;;;;;;;;;x
 REMOVE_EVTOPTC17660;Poor liberals.;;;;;;;;;;;;x
 REMOVE_EVTNAME17670;The Free Corps Massacre;;;;;;;;;;;;x
 REMOVE_EVTDESC17670;The nuisance that calls themselves the Free Corps decided to show the world their seriousness and attacked a peaceful group of socialists and liberals. The Free Corps took them hostage and dragged them to a secluded area in the central park and executed them. They are more than a nuisance now.;;;;;;;;;;;;x
@@ -5249,7 +5249,7 @@ REMOVE_EVTOPTA17680;Good.;;;;;;;;;;;;x
 REMOVE_EVTOPTB17680;Stop them!;;;;;;;;;;;;x
 REMOVE_EVTNAME17690;Beer Hall Putsch;;;;;;;;;;;;x
 REMOVE_EVTDESC17690;Murmur, the sound of glass against glass and sometimes drunk singing filled the great beer hall when the door opened abruptly and a group of Blackshirts stormed in.\n\n'The hall is filled with six hundred men. Nobody is allowed to leave!'\n\nOne of the intruders jumped onto one of the tables and started shouting about revolution, national unification and the forming of a new government. He and his men got some of the beer hall guests excited and eager to join the new revolution.;;;;;;;;;;;;x
-REMOVE_EVTOPTA17690;Great!;;;;;;;;;;;;x
+REMOVE_EVTOPTA17690;素晴らしい！;;;;;;;;;;;;x
 REMOVE_EVTOPTB17690;Wait... what?;;;;;;;;;;;;x
 EVTNAME18000;Parliamentary Realignment;;;;;;;;;;;;x
 EVTDESC18000;... and what, with the people desperately clamoring for reform and social justice, hunger riots and class struggle, has our party done to aid the cause of $COUNTRY_ADJ$ workers? Nothing, save the continual reassurance of the eventual fulfillment of vague promises! Colleagues, for these reasons, and many more, I, for one, can no longer consider myself a liberal, except in the true sense of the word: a socialist.'\n\nA block of radical members of the Upper House have defected to form a socialist block, agitating for social reform, equality and worker's solidarity. We could put pressure on the party group to maintain cohesion within its ranks.;;;;;;;;;;;;x
@@ -6622,7 +6622,7 @@ WE_BECAME_GREAT_POWER_4;*;;;;;;;;;;;;x
 WE_BECAME_GREAT_POWER_5;*;;;;;;;;;;;;x
 WE_BECAME_GREAT_POWER_6;*;;;;;;;;;;;;x
 WE_BECAME_GREAT_POWER_LOG;We are now a great power!;;;;;;;;;;;;x
-WE_BECAME_GREAT_POWER_BTN1;Great!;;;;;;;;;;;;x
+WE_BECAME_GREAT_POWER_BTN1;素晴らしい！;;;;;;;;;;;;x
 WE_BECAME_GREAT_POWER_MAP;We are now a great power!;;;;;;;;;;;;x
 MODIFIER_NONE;None;;;;;;;;;;;;x
 MINIMUM_REVOLT_RISK;Minimum Revolt Risk;;;;;;;;;;;;x
@@ -7093,7 +7093,7 @@ LOCAL_TRADE_INCOME_MODIFIER;Local Trade Income Modifier;;;;;;;;;;;;x
 GLOBAL_TRADE_INCOME_MODIFIER;National Trade Income Modifier;;;;;;;;;;;;x
 UV_MANPOWER;Men:;;;;;;;;;;;;x
 UV_REGIMENTS;Brigades:;;;;;;;;;;;;x
-SM_WATER;Advanced Water;;;;;;;;;;;;x
+SM_WATER;高度な水面;;;;;;;;;;;;x
 ARMY;Army;;;;;;;;;;;;x
 NAVY;Navy;;;;;;;;;;;;x
 CORE_IS_REVOLTER;This country may be created from this province, or appear as a new country if a revolt grows strong enough.;;;;;;;;;;;;x
@@ -7204,7 +7204,7 @@ HAVE_NO_OWNED_NEIGHBORING_PROVINCE;Have no owned neighboring province such that:
 DO_NOT_OWN;Does NOT own ;;;;;;;;;;;;x
 OWNS;Owns ;;;;;;;;;;;;x
 DO_NOT_CONTROL;Does NOT control ;;;;;;;;;;;;x
-CONTROLS;Controls ;;;;;;;;;;;;x
+CONTROLS;操作;;;;;;;;;;;;x
 IS_NOT;Is NOT ;;;;;;;;;;;;x
 IS;Is ;;;;;;;;;;;;x
 HAVE_THE_MODIFIER;Have the modifier ;;;;;;;;;;;;x
@@ -7896,7 +7896,7 @@ DAN_liberal;Venstre;;;;;;;;;;;;x
 DAN_conservative;Højre;;;;;;;;;;;;x
 DAN_liberal_2;National-liberale;;;;;;;;;;;;x
 DAN_socialist;Socialdemokratiet;;;;;;;;;;;;x
-DAN_reactionary;Konge Partiet;;;;;;;;;;;;x
+DAN_reactionary;王政党;;;;;;;;;;;;x
 DAN_anarcho_liberal;Radikale-Venstre;;;;;;;;;;;;x
 DAN_communist;Communists;;;;;;;;;;;;x
 DAN_fascist;Fascists;;;;;;;;;;;;x
@@ -9738,7 +9738,7 @@ TRIGMOD_6;$EFFECT$;;;;;;;;;;;;x
 TRIGMOD_LOG;We had $NAME$ happen to us.;;;;;;;;;;;;x
 TRIGMOD_BTN1;OK;;;;;;;;;;;;x
 TRIGMOD_BTN2;OK;;;;;;;;;;;;x
-TRIGMOD_BTN3;Details;;;;;;;;;;;;x
+TRIGMOD_BTN3;詳細;;;;;;;;;;;;x
 TRIGMOD_MAP;*;;;;;;;;;;;;x
 TRIGMODLOST_SETUP;When the effect of a triggered modifier ceases.;;;;;;;;;;;;x
 TRIGMODLOST_HEADER;$head_of_government$ reports that;;;;;;;;;;;;x
@@ -9751,7 +9751,7 @@ TRIGMODLOST_6;$EFFECT$;;;;;;;;;;;;x
 TRIGMODLOST_LOG;$NAME$ is no longer affecting us.;;;;;;;;;;;;x
 TRIGMODLOST_BTN1;OK;;;;;;;;;;;;x
 TRIGMODLOST_BTN2;OK;;;;;;;;;;;;x
-TRIGMODLOST_BTN3;Details;;;;;;;;;;;;x
+TRIGMODLOST_BTN3;詳細;;;;;;;;;;;;x
 TRIGMODLOST_MAP;*;;;;;;;;;;;;x
 clerk;Clerk;;;;;;;;;;;;x
 WORKFORCE_DISTTITLE;Workforce;;;;;;;;;;;;x
@@ -10126,206 +10126,206 @@ PROV243;ボストン;;;;;;;;;;;;x
 PROV244;ニューベッドフォード;;;;;;;;;;;;x
 PROV245;ピッツフィールド;;;;;;;;;;;;x
 PROV246;バーリントン;;;;;;;;;;;;x
-PROV247;Concord;;;;;;;;;;;;x
-PROV248;Lewiston;;;;;;;;;;;;x
-PROV249;Bangor;;;;;;;;;;;;x
-PROV250;Caribou;;;;;;;;;;;;x
-PROV251;Godthab;;;;;;;;;;;;x
-PROV252;Iceland;;;;;;;;;;;;x
-PROV253;Faroe Islands;;;;;;;;;;;;x
-PROV254;Belfast;;;;;;;;;;;;x
-PROV255;Londonderry;;;;;;;;;;;;x
-PROV256;Armagh;;;;;;;;;;;;x
-PROV257;Donegal;;;;;;;;;;;;x
-PROV258;Galway;;;;;;;;;;;;x
-PROV259;Sligo;;;;;;;;;;;;x
-PROV260;Cork;;;;;;;;;;;;x
-PROV261;Limerick;;;;;;;;;;;;x
-PROV262;Waterford;;;;;;;;;;;;x
-PROV263;Dublin;;;;;;;;;;;;x
-PROV264;Kildare;;;;;;;;;;;;x
-PROV265;Wexford;;;;;;;;;;;;x
-PROV266;Aberdeen;;;;;;;;;;;;x
-PROV267;Inverness;;;;;;;;;;;;x
-PROV268;Dundee;;;;;;;;;;;;x
-PROV269;Edinburgh;;;;;;;;;;;;x
-PROV270;Stirling;;;;;;;;;;;;x
-PROV271;Glasgow;;;;;;;;;;;;x
-PROV272;Dumfries;;;;;;;;;;;;x
-PROV273;Cardiff;;;;;;;;;;;;x
-PROV274;Cardigan;;;;;;;;;;;;x
+PROV247;コンコード;;;;;;;;;;;;x
+PROV248;ルイストン;;;;;;;;;;;;x
+PROV249;バンゴー;;;;;;;;;;;;x
+PROV250;カリブー;;;;;;;;;;;;x
+PROV251;ゴットホープ;;;;;;;;;;;;x
+PROV252;アイスランド;;;;;;;;;;;;x
+PROV253;フェロー諸島;;;;;;;;;;;;x
+PROV254;ベルファスト;;;;;;;;;;;;x
+PROV255;ロンドンデリー;;;;;;;;;;;;x
+PROV256;アーマー;;;;;;;;;;;;x
+PROV257;ドニゴール;;;;;;;;;;;;x
+PROV258;ゴールウェイ;;;;;;;;;;;;x
+PROV259;スライゴ;;;;;;;;;;;;x
+PROV260;コーク;;;;;;;;;;;;x
+PROV261;リムリック;;;;;;;;;;;;x
+PROV262;ウォーターフォード;;;;;;;;;;;;x
+PROV263;ダブリン;;;;;;;;;;;;x
+PROV264;キルデア;;;;;;;;;;;;x
+PROV265;ウェックスフォード;;;;;;;;;;;;x
+PROV266;アバディーン;;;;;;;;;;;;x
+PROV267;インヴァネス;;;;;;;;;;;;x
+PROV268;ダンディー;;;;;;;;;;;;x
+PROV269;エディンバラ;;;;;;;;;;;;x
+PROV270;スターリング;;;;;;;;;;;;x
+PROV271;グラスゴー;;;;;;;;;;;;x
+PROV272;ダンフリーズ;;;;;;;;;;;;x
+PROV273;カーディフ;;;;;;;;;;;;x
+PROV274;カーディガン;;;;;;;;;;;;x
 PROV275;Llandrindod;;;;;;;;;;;;x
-PROV276;Holyhead;;;;;;;;;;;;x
-PROV277;Liverpool;;;;;;;;;;;;x
-PROV278;Manchester;;;;;;;;;;;;x
-PROV279;Carlisle;;;;;;;;;;;;x
-PROV280;Newcastle-upon-Tyne;;;;;;;;;;;;x
-PROV281;Hull;;;;;;;;;;;;x
-PROV282;Leeds;;;;;;;;;;;;x
-PROV283;Sheffield;;;;;;;;;;;;x
-PROV284;Birmingham;;;;;;;;;;;;x
-PROV285;Chester;;;;;;;;;;;;x
-PROV286;Shrewsbury;;;;;;;;;;;;x
-PROV287;Coventry;;;;;;;;;;;;x
-PROV288;Nottingham;;;;;;;;;;;;x
-PROV289;Leicester;;;;;;;;;;;;x
-PROV290;Lincoln;;;;;;;;;;;;x
-PROV291;Cambridge;;;;;;;;;;;;x
-PROV292;Ipswich;;;;;;;;;;;;x
-PROV293;Chelmsford;;;;;;;;;;;;x
-PROV294;Oxford;;;;;;;;;;;;x
-PROV295;St Albans;;;;;;;;;;;;x
-PROV296;Bristol;;;;;;;;;;;;x
-PROV297;Salisbury;;;;;;;;;;;;x
-PROV298;Bath;;;;;;;;;;;;x
-PROV299;Plymouth;;;;;;;;;;;;x
-PROV300;London;;;;;;;;;;;;x
-PROV301;Canterbury;;;;;;;;;;;;x
-PROV302;Brighton;;;;;;;;;;;;x
-PROV303;Southampton;;;;;;;;;;;;x
-PROV304;Isle of Man;;;;;;;;;;;;x
-PROV305;Trondheim;;;;;;;;;;;;x
-PROV306;Bodo;;;;;;;;;;;;x
-PROV307;Hammerfest;;;;;;;;;;;;x
-PROV308;Alesund;;;;;;;;;;;;x
-PROV309;Bergen;;;;;;;;;;;;x
-PROV310;Christianssand;;;;;;;;;;;;x
-PROV311;Skien;;;;;;;;;;;;x
-PROV312;Drammen;;;;;;;;;;;;x
-PROV313;Christiania;;;;;;;;;;;;x
-PROV314;Hamar;;;;;;;;;;;;x
-PROV315;Lillehammer;;;;;;;;;;;;x
+PROV276;ホーリーヘッド;;;;;;;;;;;;x
+PROV277;リヴァプール;;;;;;;;;;;;x
+PROV278;マンチェスター;;;;;;;;;;;;x
+PROV279;カーライル;;;;;;;;;;;;x
+PROV280;ニューカッスル・アポン・タイン;;;;;;;;;;;;x
+PROV281;ハル;;;;;;;;;;;;x
+PROV282;リーズ;;;;;;;;;;;;x
+PROV283;シェフィールド;;;;;;;;;;;;x
+PROV284;バーミンガム;;;;;;;;;;;;x
+PROV285;チェスター;;;;;;;;;;;;x
+PROV286;シュルーズベリー;;;;;;;;;;;;x
+PROV287;コヴェントリー;;;;;;;;;;;;x
+PROV288;ノッティンガム;;;;;;;;;;;;x
+PROV289;レスター;;;;;;;;;;;;x
+PROV290;リンカン;;;;;;;;;;;;x
+PROV291;ケンブリッジ;;;;;;;;;;;;x
+PROV292;イプスウィッチ;;;;;;;;;;;;x
+PROV293;チェルムスフォード;;;;;;;;;;;;x
+PROV294;オックスフォード;;;;;;;;;;;;x
+PROV295;セント・オールバンズ;;;;;;;;;;;;x
+PROV296;ブリストル;;;;;;;;;;;;x
+PROV297;ソールズベリー;;;;;;;;;;;;x
+PROV298;バース;;;;;;;;;;;;x
+PROV299;プリマス;;;;;;;;;;;;x
+PROV300;ロンドン;;;;;;;;;;;;x
+PROV301;カンタベリー;;;;;;;;;;;;x
+PROV302;ブライトン;;;;;;;;;;;;x
+PROV303;サウサンプトン;;;;;;;;;;;;x
+PROV304;マン島;;;;;;;;;;;;x
+PROV305;トロンハイム;;;;;;;;;;;;x
+PROV306;ボードー;;;;;;;;;;;;x
+PROV307;ハンメルフェスト;;;;;;;;;;;;x
+PROV308;オーレスン;;;;;;;;;;;;x
+PROV309;ベルゲン;;;;;;;;;;;;x
+PROV310;クリスチャンサン;;;;;;;;;;;;x
+PROV311;シェーエン;;;;;;;;;;;;x
+PROV312;ドランメン;;;;;;;;;;;;x
+PROV313;クリスチャニア;;;;;;;;;;;;x
+PROV314;ハーマル;;;;;;;;;;;;x
+PROV315;リレハンメル;;;;;;;;;;;;x
 PROV316;Frederiksstad;;;;;;;;;;;;x
-PROV317;Gävle;;;;;;;;;;;;x
-PROV318;Sundsvall;;;;;;;;;;;;x
-PROV319;Östersund;;;;;;;;;;;;x
-PROV320;Umeå;;;;;;;;;;;;x
-PROV321;Luleå;;;;;;;;;;;;x
-PROV322;Stockholm;;;;;;;;;;;;x
-PROV323;Falun;;;;;;;;;;;;x
-PROV324;Uppsala;;;;;;;;;;;;x
-PROV325;Norrköping;;;;;;;;;;;;x
-PROV326;Västerås;;;;;;;;;;;;x
-PROV327;Örebro;;;;;;;;;;;;x
-PROV328;Karlstad;;;;;;;;;;;;x
-PROV329;Göteborg;;;;;;;;;;;;x
-PROV330;Borås;;;;;;;;;;;;x
-PROV331;Gotland;;;;;;;;;;;;x
-PROV332;Kalmar;;;;;;;;;;;;x
-PROV333;Växjö;;;;;;;;;;;;x
-PROV334;Malmö;;;;;;;;;;;;x
-PROV335;Karlskrona;;;;;;;;;;;;x
-PROV336;Oulu;;;;;;;;;;;;x
-PROV337;Kajaani;;;;;;;;;;;;x
-PROV338;Tornio;;;;;;;;;;;;x
-PROV339;Viipuri;;;;;;;;;;;;x
-PROV340;Kotka;;;;;;;;;;;;x
-PROV341;Mikkeli;;;;;;;;;;;;x
-PROV342;Kuopio;;;;;;;;;;;;x
-PROV343;Helsinki;;;;;;;;;;;;x
-PROV344;Hämeenlinna;;;;;;;;;;;;x
-PROV345;Turku;;;;;;;;;;;;x
-PROV346;Vaasa;;;;;;;;;;;;x
-PROV347;Tampere;;;;;;;;;;;;x
-PROV348;Åland Islands;;;;;;;;;;;;x
-PROV349;Reval;;;;;;;;;;;;x
-PROV350;Narva;;;;;;;;;;;;x
-PROV351;Pärnu;;;;;;;;;;;;x
-PROV352;Dorpat;;;;;;;;;;;;x
-REMOVE_PROV353;Kuressaare;;;;;;;;;;;;x
-PROV354;Riga;;;;;;;;;;;;x
-PROV355;Valmiera;;;;;;;;;;;;x
-PROV356;Daugavpils;;;;;;;;;;;;x
-PROV357;Jelgava;;;;;;;;;;;;x
-PROV358;Ventspils;;;;;;;;;;;;x
-PROV359;Liepaja;;;;;;;;;;;;x
-PROV360;Vilnius;;;;;;;;;;;;x
-PROV361;Kaunas;;;;;;;;;;;;x
-PROV362;Marijampole;;;;;;;;;;;;x
-PROV363;Panevezys;;;;;;;;;;;;x
-PROV364;Siauliai;;;;;;;;;;;;x
-PROV365;Palanga;;;;;;;;;;;;x
-PROV366;Aarhus;;;;;;;;;;;;x
-PROV367;Aalborg;;;;;;;;;;;;x
-PROV368;Ribe;;;;;;;;;;;;x
-PROV369;Kiel;;;;;;;;;;;;x
-PROV370;Flensburg;;;;;;;;;;;;x
-PROV371;Aabenraa;;;;;;;;;;;;x
-PROV372;Copenhagen;;;;;;;;;;;;x
-PROV373;Odense;;;;;;;;;;;;x
-PROV374;Bornholm;;;;;;;;;;;;x
-PROV375;Amsterdam;;;;;;;;;;;;x
-PROV376;Rotterdam;;;;;;;;;;;;x
-PROV377;Utrecht;;;;;;;;;;;;x
-PROV378;Middelburg;;;;;;;;;;;;x
-PROV379;Eindhoven;;;;;;;;;;;;x
-PROV380;Breda;;;;;;;;;;;;x
-PROV381;Maastricht;;;;;;;;;;;;x
-PROV382;Arnhem;;;;;;;;;;;;x
-PROV383;Groningen;;;;;;;;;;;;x
-PROV384;Zwolle;;;;;;;;;;;;x
-PROV385;Leeuwarden;;;;;;;;;;;;x
-PROV386;Assen;;;;;;;;;;;;x
-PROV387;Brussels;;;;;;;;;;;;x
-PROV388;Bruges;;;;;;;;;;;;x
-PROV389;Ghent;;;;;;;;;;;;x
-PROV390;Antwerp;;;;;;;;;;;;x
-PROV391;Hasselt;;;;;;;;;;;;x
-PROV392;Namur;;;;;;;;;;;;x
-PROV393;Tournai;;;;;;;;;;;;x
-PROV394;Charleroi;;;;;;;;;;;;x
-PROV395;Liège;;;;;;;;;;;;x
-PROV396;Spa;;;;;;;;;;;;x
-PROV397;Luxembourg;;;;;;;;;;;;x
-PROV398;Arlon;;;;;;;;;;;;x
-PROV399;Lille;;;;;;;;;;;;x
-PROV400;Dunkirk;;;;;;;;;;;;x
-PROV401;Arras;;;;;;;;;;;;x
-PROV402;Amiens;;;;;;;;;;;;x
-PROV403;Laon;;;;;;;;;;;;x
-PROV404;Cambrai;;;;;;;;;;;;x
-PROV405;Charleville;;;;;;;;;;;;x
-PROV406;Troyes;;;;;;;;;;;;x
-PROV407;Chaumont;;;;;;;;;;;;x
-PROV408;Chalons;;;;;;;;;;;;x
-PROV409;Strasbourg;;;;;;;;;;;;x
-PROV410;Colmar;;;;;;;;;;;;x
-PROV411;Nancy;;;;;;;;;;;;x
-PROV412;Metz;;;;;;;;;;;;x
-PROV413;Verdun;;;;;;;;;;;;x
-PROV414;Épinal;;;;;;;;;;;;x
-PROV415;Rouen;;;;;;;;;;;;x
-PROV416;Évreux;;;;;;;;;;;;x
-PROV417;Alençon;;;;;;;;;;;;x
-PROV418;Caen;;;;;;;;;;;;x
-PROV419;Channel Islands;;;;;;;;;;;;x
-PROV420;Brest;;;;;;;;;;;;x
-PROV421;St Brieuc;;;;;;;;;;;;x
-PROV422;Vannes;;;;;;;;;;;;x
-PROV423;Nantes;;;;;;;;;;;;x
-PROV424;Rennes;;;;;;;;;;;;x
-PROV425;Paris;;;;;;;;;;;;x
-PROV426;Chartres;;;;;;;;;;;;x
-PROV427;Melun;;;;;;;;;;;;x
-PROV428;Dijon;;;;;;;;;;;;x
-PROV429;Auxerre;;;;;;;;;;;;x
-PROV430;Moulins;;;;;;;;;;;;x
-PROV431;Macon;;;;;;;;;;;;x
-PROV432;Besançon;;;;;;;;;;;;x
-PROV433;Lons;;;;;;;;;;;;x
-PROV434;Angers;;;;;;;;;;;;x
-PROV435;Laval;;;;;;;;;;;;x
-PROV436;Le Mans;;;;;;;;;;;;x
-PROV437;La Roche;;;;;;;;;;;;x
-PROV438;Orléans;;;;;;;;;;;;x
-PROV439;Bourges;;;;;;;;;;;;x
-PROV440;Blois;;;;;;;;;;;;x
-PROV441;Tours;;;;;;;;;;;;x
-PROV442;La Rochelle;;;;;;;;;;;;x
-PROV443;Poitiers;;;;;;;;;;;;x
-PROV444;Angoulême;;;;;;;;;;;;x
-PROV445;Limoges;;;;;;;;;;;;x
-PROV446;Châteauroux;;;;;;;;;;;;x
+PROV317;イェヴレ;;;;;;;;;;;;x
+PROV318;スンツヴァル;;;;;;;;;;;;x
+PROV319;エステルスンド;;;;;;;;;;;;x
+PROV320;ウメオ;;;;;;;;;;;;x
+PROV321;ルレオ;;;;;;;;;;;;x
+PROV322;ストックホルム;;;;;;;;;;;;x
+PROV323;ファールン;;;;;;;;;;;;x
+PROV324;ウプサラ;;;;;;;;;;;;x
+PROV325;ノルショーピング;;;;;;;;;;;;x
+PROV326;ヴェステロース;;;;;;;;;;;;x
+PROV327;エレブルー;;;;;;;;;;;;x
+PROV328;カールスタード;;;;;;;;;;;;x
+PROV329;ヨーテボリ;;;;;;;;;;;;x
+PROV330;ボロース;;;;;;;;;;;;x
+PROV331;ゴットランド;;;;;;;;;;;;x
+PROV332;カルマル;;;;;;;;;;;;x
+PROV333;ベクショー;;;;;;;;;;;;x
+PROV334;マルメ;;;;;;;;;;;;x
+PROV335;カールスクルーナ;;;;;;;;;;;;x
+PROV336;オウル;;;;;;;;;;;;x
+PROV337;カヤーニ;;;;;;;;;;;;x
+PROV338;トルニオ;;;;;;;;;;;;x
+PROV339;ヴィープリ;;;;;;;;;;;;x
+PROV340;コトカ;;;;;;;;;;;;x
+PROV341;ミッケリ;;;;;;;;;;;;x
+PROV342;クオピオ;;;;;;;;;;;;x
+PROV343;ヘルシンキ;;;;;;;;;;;;x
+PROV344;ハメーンリンナ;;;;;;;;;;;;x
+PROV345;トゥルク;;;;;;;;;;;;x
+PROV346;ヴァーサ;;;;;;;;;;;;x
+PROV347;タンペレ;;;;;;;;;;;;x
+PROV348;オーランド諸島;;;;;;;;;;;;x
+PROV349;レヴァル;;;;;;;;;;;;x
+PROV350;ナルヴァ;;;;;;;;;;;;x
+PROV351;パルヌ;;;;;;;;;;;;x
+PROV352;ドルパット;;;;;;;;;;;;x
+REMOVE_PROV353;クレサーレ;;;;;;;;;;;;x
+PROV354;リガ;;;;;;;;;;;;x
+PROV355;ヴァルミエラ;;;;;;;;;;;;x
+PROV356;ダウガフピルス;;;;;;;;;;;;x
+PROV357;イェルガヴァ;;;;;;;;;;;;x
+PROV358;ヴェンツピルス;;;;;;;;;;;;x
+PROV359;リエパーヤ;;;;;;;;;;;;x
+PROV360;ヴィリニュス;;;;;;;;;;;;x
+PROV361;カウナス;;;;;;;;;;;;x
+PROV362;マリヤンポレ;;;;;;;;;;;;x
+PROV363;パネヴェジース;;;;;;;;;;;;x
+PROV364;シャウレイ;;;;;;;;;;;;x
+PROV365;パランガ;;;;;;;;;;;;x
+PROV366;オーフス;;;;;;;;;;;;x
+PROV367;オールボー;;;;;;;;;;;;x
+PROV368;リーベ;;;;;;;;;;;;x
+PROV369;キール;;;;;;;;;;;;x
+PROV370;フレンスブルク;;;;;;;;;;;;x
+PROV371;オーベンロー;;;;;;;;;;;;x
+PROV372;コペンハーゲン;;;;;;;;;;;;x
+PROV373;オーデンセ;;;;;;;;;;;;x
+PROV374;ボーンホルム;;;;;;;;;;;;x
+PROV375;アムステルダム;;;;;;;;;;;;x
+PROV376;ロッテルダム;;;;;;;;;;;;x
+PROV377;ユトレヒト;;;;;;;;;;;;x
+PROV378;ミデルブルフ;;;;;;;;;;;;x
+PROV379;アイントホーフェン;;;;;;;;;;;;x
+PROV380;ブレダ;;;;;;;;;;;;x
+PROV381;マーストリヒト;;;;;;;;;;;;x
+PROV382;アーネム;;;;;;;;;;;;x
+PROV383;フローニンゲン;;;;;;;;;;;;x
+PROV384;ズヴォレ;;;;;;;;;;;;x
+PROV385;レーワルデン;;;;;;;;;;;;x
+PROV386;アッセン;;;;;;;;;;;;x
+PROV387;ブリュッセル;;;;;;;;;;;;x
+PROV388;ブリュージュ;;;;;;;;;;;;x
+PROV389;ヘント;;;;;;;;;;;;x
+PROV390;アントウェルペン;;;;;;;;;;;;x
+PROV391;ハッセルト;;;;;;;;;;;;x
+PROV392;ナミュール;;;;;;;;;;;;x
+PROV393;トゥルネー;;;;;;;;;;;;x
+PROV394;シャルルロワ;;;;;;;;;;;;x
+PROV395;リエージュ;;;;;;;;;;;;x
+PROV396;スパ;;;;;;;;;;;;x
+PROV397;ルクセンブルク;;;;;;;;;;;;x
+PROV398;アルロン;;;;;;;;;;;;x
+PROV399;リール;;;;;;;;;;;;x
+PROV400;ダンケルク;;;;;;;;;;;;x
+PROV401;アラス;;;;;;;;;;;;x
+PROV402;アミアン;;;;;;;;;;;;x
+PROV403;ラン;;;;;;;;;;;;x
+PROV404;カンブレー;;;;;;;;;;;;x
+PROV405;シャルルヴィル;;;;;;;;;;;;x
+PROV406;トロワ;;;;;;;;;;;;x
+PROV407;ショーモン;;;;;;;;;;;;x
+PROV408;シャロン;;;;;;;;;;;;x
+PROV409;ストラスブール;;;;;;;;;;;;x
+PROV410;コルマール;;;;;;;;;;;;x
+PROV411;ナンシー;;;;;;;;;;;;x
+PROV412;メス;;;;;;;;;;;;x
+PROV413;ヴェルダン;;;;;;;;;;;;x
+PROV414;エピナル;;;;;;;;;;;;x
+PROV415;ルーアン;;;;;;;;;;;;x
+PROV416;エヴルー;;;;;;;;;;;;x
+PROV417;アランソン;;;;;;;;;;;;x
+PROV418;カーン;;;;;;;;;;;;x
+PROV419;チャンネル諸島;;;;;;;;;;;;x
+PROV420;ブレスト;;;;;;;;;;;;x
+PROV421;サン＝ブリュー;;;;;;;;;;;;x
+PROV422;ヴァンヌ;;;;;;;;;;;;x
+PROV423;ナント;;;;;;;;;;;;x
+PROV424;レンヌ;;;;;;;;;;;;x
+PROV425;パリ;;;;;;;;;;;;x
+PROV426;シャルトル;;;;;;;;;;;;x
+PROV427;ムラン;;;;;;;;;;;;x
+PROV428;ディジョン;;;;;;;;;;;;x
+PROV429;オセール;;;;;;;;;;;;x
+PROV430;ムーラン;;;;;;;;;;;;x
+PROV431;マコン;;;;;;;;;;;;x
+PROV432;ブザンソン;;;;;;;;;;;;x
+PROV433;ロン;;;;;;;;;;;;x
+PROV434;アンジェ;;;;;;;;;;;;x
+PROV435;ラヴァル;;;;;;;;;;;;x
+PROV436;ル・マン;;;;;;;;;;;;x
+PROV437;ラ・ロッシュ;;;;;;;;;;;;x
+PROV438;オルレアン;;;;;;;;;;;;x
+PROV439;ブールジュ;;;;;;;;;;;;x
+PROV440;ブロワ;;;;;;;;;;;;x
+PROV441;トゥール;;;;;;;;;;;;x
+PROV442;ラ・ロシェル;;;;;;;;;;;;x
+PROV443;ポワティエ;;;;;;;;;;;;x
+PROV444;アングレーム;;;;;;;;;;;;x
+PROV445;リモージュ;;;;;;;;;;;;x
+PROV446;シャトールー;;;;;;;;;;;;x
 PROV447;Tulle;;;;;;;;;;;;x
 PROV448;Clermont-Ferrand;;;;;;;;;;;;x
 PROV449;Aurillac;;;;;;;;;;;;x
@@ -14777,7 +14777,7 @@ TECH_ONCE_6;*;;;;;;;;;;;;x
 TECH_ONCE_LOG;Research of $TYPE$ finished.;;;;;;;;;;;;x
 TECH_ONCE_BTN1;OK;;;;;;;;;;;;x
 TECH_ONCE_BTN2;OK;;;;;;;;;;;;x
-TECH_ONCE_BTN3;Details;;;;;;;;;;;;x
+TECH_ONCE_BTN3;詳細;;;;;;;;;;;;x
 TECH_ONCE_MAP;*;;;;;;;;;;;;x
 TECH_REPEAT_SETUP;When you have increased your technological ability.;;;;;;;;;;;;x
 TECH_REPEAT_HEADER;Technology Improvement;;;;;;;;;;;;x
@@ -14790,16 +14790,16 @@ TECH_REPEAT_6;*;;;;;;;;;;;;x
 TECH_REPEAT_LOG;$TYPE$ increased to $LEVEL$;;;;;;;;;;;;x
 TECH_REPEAT_BTN1;OK;;;;;;;;;;;;x
 TECH_REPEAT_BTN2;OK;;;;;;;;;;;;x
-TECH_REPEAT_BTN3;Details;;;;;;;;;;;;x
+TECH_REPEAT_BTN3;詳細;;;;;;;;;;;;x
 TECH_REPEAT_MAP;*;;;;;;;;;;;;x
-PRODUCTION;Production;;;;;;;;;;;;x
+PRODUCTION;生産;;;;;;;;;;;;x
 BUDGET;Budget;;;;;;;;;;;;x
-TECHNOLOGY;Technology;;;;;;;;;;;;x
-POLITICS;Politics;;;;;;;;;;;;x
-POPULATION;Population;;;;;;;;;;;;x
-TRADE;Trade;;;;;;;;;;;;x
-DIPLOMACY;Diplomacy;;;;;;;;;;;;x
-MILITARY;Military;;;;;;;;;;;;x
+TECHNOLOGY;技術;;;;;;;;;;;;x
+POLITICS;政治;;;;;;;;;;;;x
+POPULATION;人口;;;;;;;;;;;;x
+TRADE;貿易;;;;;;;;;;;;x
+DIPLOMACY;外交;;;;;;;;;;;;x
+MILITARY;軍事;;;;;;;;;;;;x
 TB_PRODUCTION_PRODUCED;Top produced:;;;;;;;;;;;;x
 TB_PRODUCTION_LOSING_MONEY;Losing money;;;;;;;;;;;;x
 TB_PRODUCTION_SHOULD_EXPAND;Factory at full capacity;;;;;;;;;;;;x
@@ -15141,7 +15141,7 @@ WE_MOBILIZE_6;*;;;;;;;;;;;;x
 WE_MOBILIZE_LOG;We have started to mobilize our reserves.;;;;;;;;;;;;x
 WE_MOBILIZE_BTN1;OK;;;;;;;;;;;;x
 WE_MOBILIZE_BTN2;OK;;;;;;;;;;;;x
-WE_MOBILIZE_BTN3;Details;;;;;;;;;;;;x
+WE_MOBILIZE_BTN3;詳細;;;;;;;;;;;;x
 WE_MOBILIZE_MAP;*;;;;;;;;;;;;x
 WE_DEMOBILIZE_SETUP;When we decide to demobilize.;;;;;;;;;;;;x
 WE_DEMOBILIZE_HEADER;We have decided to;;;;;;;;;;;;x
@@ -15154,7 +15154,7 @@ WE_DEMOBILIZE_6;*;;;;;;;;;;;;x
 WE_DEMOBILIZE_LOG;We have given the orders to demobilize our reserves.;;;;;;;;;;;;x
 WE_DEMOBILIZE_BTN1;OK;;;;;;;;;;;;x
 WE_DEMOBILIZE_BTN2;OK;;;;;;;;;;;;x
-WE_DEMOBILIZE_BTN3;Details;;;;;;;;;;;;x
+WE_DEMOBILIZE_BTN3;詳細;;;;;;;;;;;;x
 WE_DEMOBILIZE_MAP;*;;;;;;;;;;;;x
 OTHER_MOBILIZE_SETUP;When another mobilize in preparation of war.;;;;;;;;;;;;x
 OTHER_MOBILIZE_HEADER;The Secret Police report that;;;;;;;;;;;;x
@@ -15167,7 +15167,7 @@ OTHER_MOBILIZE_6;*;;;;;;;;;;;;x
 OTHER_MOBILIZE_LOG;$COUNTRY$ has started to mobilize their reserves.;;;;;;;;;;;;x
 OTHER_MOBILIZE_BTN1;OK;;;;;;;;;;;;x
 OTHER_MOBILIZE_BTN2;OK;;;;;;;;;;;;x
-OTHER_MOBILIZE_BTN3;Details;;;;;;;;;;;;x
+OTHER_MOBILIZE_BTN3;詳細;;;;;;;;;;;;x
 OTHER_MOBILIZE_MAP;*;;;;;;;;;;;;x
 OTHER_DEMOBILIZE_SETUP;When another country decides to demobilize.;;;;;;;;;;;;x
 OTHER_DEMOBILIZE_HEADER;There are reports that;;;;;;;;;;;;x
@@ -15180,7 +15180,7 @@ OTHER_DEMOBILIZE_6;*;;;;;;;;;;;;x
 OTHER_DEMOBILIZE_LOG;$COUNTRY$ has given the orders to demobilize their reserves.;;;;;;;;;;;;x
 OTHER_DEMOBILIZE_BTN1;OK;;;;;;;;;;;;x
 OTHER_DEMOBILIZE_BTN2;OK;;;;;;;;;;;;x
-OTHER_DEMOBILIZE_BTN3;Details;;;;;;;;;;;;x
+OTHER_DEMOBILIZE_BTN3;詳細;;;;;;;;;;;;x
 OTHER_DEMOBILIZE_MAP;*;;;;;;;;;;;;x
 DISBAND_SETUP;When a unit is disbanded;;;;;;;;;;;;x
 DISBAND_HEADER;$chief_of_staff$ reports;;;;;;;;;;;;x

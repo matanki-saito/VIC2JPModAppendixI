@@ -17,7 +17,7 @@ AI_FEARS_OTHER_DESC1_LONG;A recent article in a $TAG_0_0_ADJ$ newspaper startled
 AI_FEARS_OTHER_DESC1_MEDIUM;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! A detailed analysis of their chilly relations with $TAG_0_1$ led the editor to the conclusion that absent new guarantees, both countries might soon find themselves in the state of war.;;;;;;;;;;;;x
 AI_FEARS_OTHER_DESC1_SHORT;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! Analysis of their chilly relations with $TAG_0_1$ led to the conclusion that war might be unavoidable.;;;;;;;;;;;;x
 AI_FEARS_OTHER_TITLE2;$TAG_0_0$の恐怖;;;;;;;;;;;;x
-AI_FEARS_OTHER_DESC2_LONG;$TAG_0_0$政界内部からの报告によると全ての高官に深刻な不安と恐怖が広がっているようだ。$TAG_0_1$との对立が国際紛争を引き起こし、$TAG_0_0$は力を失うかもしれないと多くが予測している。それ故に彼らは戦争が起きる可能性を考慮して具体的な準備をしていると噂されている。恐怖は民衆にも広がっているらしく悲惨な敗北という最悪の結果も予想されている。;;;;;;;;;;;;x
+AI_FEARS_OTHER_DESC2_LONG;$TAG_0_0_ADJ$政界内部からの報告によると全ての高官に深刻な不安と恐怖が広がっているようだ。$TAG_0_1$との对立が国際紛争を引き起こし、$TAG_0_0$は力を失うかもしれないと多くが予測している。それ故に彼らは戦争が起きる可能性を考慮して具体的な準備をしていると噂されている。恐怖は民衆にも広がっているらしく悲惨な敗北という最悪の結果も予想されている。;;;;;;;;;;;;x
 AI_FEARS_OTHER_DESC2_MEDIUM;The mood of $TAG_0_0_ADJ$ officials is one of frightful apprehension when it comes to the actions of $TAG_0_1$. Being ever watchful of their actions, many fear that an eventual war between both countries will result in a cruel defeat to $TAG_0_0$.;;;;;;;;;;;;x
 AI_FEARS_OTHER_DESC2_SHORT;Through local press reports, it seems the $TAG_0_0_ADJ$ population and government are suffering from a widespread fear of $TAG_0_1$'s military power. More on page 4.;;;;;;;;;;;;x
 AI_LOVES_US_TITLE1;$TAG_0_0$: Our best friend;;;;;;;;;;;;x
@@ -70,7 +70,7 @@ COMMUNIST_REVOLUTION_NEWS_TITLE_LARGE_COMMUNIST;COMMUNISM TRIUMPHS IN $TAG_0_0_U
 COMMUNIST_REVOLUTION_NEWS_LARGE_COMMUNIST;Workers of the world, unite!' Once more our rallying cry has proven fitting for such a victorious revolution. The corrupt powers of capitalism cannot stop the desire of the proletariat for a better future. We have received joyous news from our comrades in $TAG_0_0$, who managed to rise in rebellion against the crooks and thieves that mistreated and exploited the common folk. They seized the governmental powers, taking it back where it belongs: the hands of the people, represented by the people's committee: $STRING_0_0$!;;;;;;;;;;;;x
 COMMUNIST_REVOLUTION_NEWS_TITLE_MEDIUM_COMMUNIST;COMMUNISM IN $TAG_0_0_UPPER$!;;;;;;;;;;;;x
 COMMUNIST_REVOLUTION_NEWS_MEDIUM_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our communist comrades have been victorious in overthrowing the government and establishing the one and true people's party: $STRING_0_0$!;;;;;;;;;;;;x
-COMMUNIST_REVOLUTION_NEWS_TITLE_SMALL_COMMUNIST;REVOLUTION!;;;;;;;;;;;;x
+COMMUNIST_REVOLUTION_NEWS_TITLE_SMALL_COMMUNIST;革命！;;;;;;;;;;;;x
 COMMUNIST_REVOLUTION_NEWS_SMALL_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our comrades have been victorious in overthrowing the corrupt capitalist crooks!;;;;;;;;;;;;x
 battle_we_lose_large_censored_press;Reports from the field tell us that on $DATE_LONG_0$, our courageous troops have made a tactical retreat from the battle against $TAG_0_3$ in $STRING_0_3$. This has been proven necessary to maximise our element of unpredictability and surprise. $VALUE_INT_0_4$ enemy soldiers have been killed by our valiant boys. Although $VALUE_INT_0_2$ of our soldiers are yet to report back for duty, it's worth noting that many of our troops remain hidden to surprise the enemy in an ambush, showing true courage and resilience!;;;;;;;;;;;;x
 battle_we_lose_medium_censored_press;On $DATE_LONG_0$, a tactical retreat from the battle against $TAG_0_3$ has been proven necessary, in order to maximise our element of surprise! $VALUE_INT_0_2$ of our soldiers are said to be hiding for an ambush, while $VALUE_INT_0_4$ enemy troops have been killed!;;;;;;;;;;;;x
@@ -134,9 +134,9 @@ some_fake_1836_title_12;Cherry Blossoms;;;;;;;;;;;;x
 some_fake_1836_12;Japanese government decides the new national colour will be that of a cherry blossom, for it best represents this marvellous country's national character. Calling it 'pink' is outlawed.;;;;;;;;;;;;x
 some_fake_1836_title_13;The Good River;;;;;;;;;;;;x
 some_fake_1836_13;A team of expert American cartographers deliver the most accurate drawings of the 'good' Ohio River to date, to be included in future local and international maps. More rivers to follow.;;;;;;;;;;;;x
-some_fake_1836_title_14;Jan Mayen;;;;;;;;;;;;x
+some_fake_1836_title_14;ヤン・マイエン;;;;;;;;;;;;x
 some_fake_1836_14;Inexplicably high numbers of migrants are reported to have moved recently to the barren island of Jan Mayen in the Arctic Ocean. 'We were tired of all that noise' revealed one of the pioneers.;;;;;;;;;;;;x
-some_fake_1880_title_8;Lunatics Act;;;;;;;;;;;;x
+some_fake_1880_title_8;月狂条例;;;;;;;;;;;;x
 some_fake_1880_8;Recent legislation requires ship owners to pay a fine should their arriving vessel discharge into the ports of this country a person or persons assessed as lunatics, idiots or convicts.;;;;;;;;;;;;x
 some_fake_1890_title_8;Lucky 55;;;;;;;;;;;;x
 some_fake_1890_8;Fifty four confirmed winners of the state lottery to split between themselves a record amount of prize money. 'I can't find my ticket!', complains the hapless fifty fifth.;;;;;;;;;;;;x
@@ -156,7 +156,7 @@ dino_fake_1830_title_3;テコドントサウルス;;;;;;;;;;;;x
 dino_fake_1830_3;This unusual saurian has teeth in its sockets instead of having them fused to the jaw like modern reptiles, say Dr. Riley and Dr. Stutchbury, the describers of this lizard.;;;;;;;;;;;;x
 dino_fake_1830_title_4;ポエキロプレウロン;;;;;;;;;;;;x
 dino_fake_1830_4;Dr. Eudes-Deslongchamps resports on a new saurian known from vertebrae, ribs and limbs. He thinks this animal is related to the Megalosaurus.;;;;;;;;;;;;x
-dino_fake_1840_title_1;Dinosauria;;;;;;;;;;;;x
+dino_fake_1840_title_1;恐竜;;;;;;;;;;;;x
 dino_fake_1840_1; Dinosauria is the name Prof. Owen proposed for the tribe of Saurians that include Megalosaurus, Hylaeosaurus and Iguanodon. These dinosaurians are remarkable for their large size.;;;;;;;;;;;;x
 dino_fake_1840_title_2;ケティオサウルス;;;;;;;;;;;;x
 dino_fake_1840_2; A new giant fossil sea-dwelling reptilian was discovered. Prof. Owen named it Cetiosaurus, which means “whale lizard”.;;;;;;;;;;;;x
@@ -176,7 +176,7 @@ dino_fake_1860_title_2;アーケオプテリクス;;;;;;;;;;;;x
 dino_fake_1860_2;A finely fossilized feather was discovered and Dr. von Meyer named it Archaeopteryx which means ancient feather or wing.;;;;;;;;;;;;x
 dino_fake_1860_title_3;johnstoni, Astrodon johnstoni!;;;;;;;;;;;;x
 dino_fake_1860_3;After Dr. Johnston named some saurian teeth as Astrodon, Dr. Leidy now completes the name and gives it a specific epithet in his honour.;;;;;;;;;;;;x
-dino_fake_1860_title_4;Laelaps;;;;;;;;;;;;x
+dino_fake_1860_title_4;ラエラプス;;;;;;;;;;;;x
 dino_fake_1860_4;Professor Cope announces the discovery of a terrifying rapacious gigantic dinosaur related to Megalosaurus and Dinodon.;;;;;;;;;;;;x
 dino_fake_1860_title_5;エラスモサウルス;;;;;;;;;;;;x
 dino_fake_1860_5;E.D. Cope reports on a new enaliosaur related to the Plesiosaurus, but with a much longer tail.;;;;;;;;;;;;x
@@ -184,7 +184,7 @@ dino_fake_1860_title_6;アーケオプテリクス;;;;;;;;;;;;x
 dino_fake_1860_6;Archaeopteryx fossils discovered in Bavaria. Described as 'the first bird' and 'the missing link between dinosaurs and birds', it constitutes the proof Darwin needed to validate his theory.;;;;;;;;;;;;x
 dino_fake_1860_title_7;ヒプセロサウルス;;;;;;;;;;;;x
 dino_fake_1860_7;Mr. Matheron reports on vertebrae and giant egg fragments from a likely aquatic saurian he names Hypselosaurus from the Fuveau basin.;;;;;;;;;;;;x
-dino_fake_1870_title_1;WAR!;;;;;;;;;;;;x
+dino_fake_1870_title_1;戦争だ！;;;;;;;;;;;;x
 dino_fake_1870_1;After Dr. Marsh reported openly to the public Dr. Cope’s error in placing Elasmosaurus’ head in its tail they have become sworn enemies and a ferocious scientific competition has now started.;;;;;;;;;;;;x
 dino_fake_1870_title_2;More on Archaeopteryx;;;;;;;;;;;;x
 dino_fake_1870_2;New fossils of the primitive bird Archaeopteryx show shocking reptilian features as claws and teeth. Evolutionists are making a big deal of these findings and call it a missing link.;;;;;;;;;;;;x
@@ -208,7 +208,7 @@ dino_fake_1870_title_11;Marsh's camp raided!;;;;;;;;;;;;x
 dino_fake_1870_11;O.C. Marsh and his group are reported to have barely escaped an Indian war party raid against their camp. Their hasty retreat didn't hinder securing of nearly two tonnes of excavated bones.;;;;;;;;;;;;x
 dino_fake_1870_title_12;Vertebrate galore;;;;;;;;;;;;x
 dino_fake_1870_12;Professor Cope reports from the San Juan River area, where he discovered dozens of new vertebrate species after departing from the geological survey expedition he had been attached to.;;;;;;;;;;;;x
-dino_fake_1870_title_13;Como Bluff;;;;;;;;;;;;x
+dino_fake_1870_title_13;コモ・ブラフ;;;;;;;;;;;;x
 dino_fake_1870_13;O.C. Marsh discloses two of his agents uncovered bones as thick and as long as logs at the excavation in Como Bluff, Wyoming. Diplodocus and Allosaurus among many newly discovered species.;;;;;;;;;;;;x
 dino_fake_1880_title_1;Brontosaurus?;;;;;;;;;;;;x
 dino_fake_1880_1;Dug up and assembled by palaeontologist O.C. Marsh, to the untrained eye, Brontosaurus looks suspiciously similar to the already known Apatosaurus. His skull is completely different, though.;;;;;;;;;;;;x
@@ -248,9 +248,9 @@ dino_fake_1890_title_3;USGS funding cut;;;;;;;;;;;;x
 dino_fake_1890_3;In the light of recent reports of fund mishandling and favoritism within the United States Geological Survey, Congress cuts agency's funding, disbanding the Chief Paleontologist's office.;;;;;;;;;;;;x
 dino_fake_1890_title_4;トロサウルス;;;;;;;;;;;;x
 dino_fake_1890_4;This horned dinosaur possessed one the biggest heads of any animal known. The frill of this species is incredibly elongated, much more than in Triceratops.;;;;;;;;;;;;x
-dino_fake_1900_title_1;Cope's Skull;;;;;;;;;;;;x
+dino_fake_1900_title_1;コープの頭蓋骨;;;;;;;;;;;;x
 dino_fake_1900_1;Cope is reported to have donated his skull to science following his death, to be compared with Marsh's skull and resolve the conflict by measuring the intellectual prowess of both rivals.;;;;;;;;;;;;x
-dino_fake_1900_title_2;Marsh's skull;;;;;;;;;;;;x
+dino_fake_1900_title_2;マーシュの頭蓋骨;;;;;;;;;;;;x
 dino_fake_1900_2;Marsh rejects Cope's final challenge, refusing to donate his skull and exacting vengeance by condemning his rival's skull to be forever stored in a crate at the University of Pennsylvania.;;;;;;;;;;;;x
 dino_fake_1920_title_1;ヴェロキラプトル;;;;;;;;;;;;x
 dino_fake_1920_1;The new species discovered in Mongolia by Peter Kaisen is believed to have been an intelligent pack hunter. Mr. Kaisen could be heard referring to the recovered specimen as a 'clever girl'.;;;;;;;;;;;;x

@@ -1,51 +1,51 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-disarming;Forced to Disarm;;;;;;;;;;;;x
-HAS_NOT_RECENTLY_LOST_WAR;Have NOT lost a war in the last five years.;;;;;;;;;;;;x
-HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years..;;;;;;;;;;;;x
-IN_SAME_SPHERE;This country is in the same sphere of influence as us.;;;;;;;;;;;;x
-NOR_reactionary;Konge Partiet;;;;;;;;;;;;x
-ATJ_reactionary;The Nationalist Faction;;;;;;;;;;;;x
-ATJ_liberal;The Liberal Faction;;;;;;;;;;;;x
-ATJ_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
-ATJ_socialist;The Socialist Faction;;;;;;;;;;;;x
-ATJ_communist;The Communist Faction;;;;;;;;;;;;x
-ATJ_fascist;The Fascist Faction;;;;;;;;;;;;x
-CAL_conservative;Democratic Party;;;;;;;;;;;;x
-KHI_conservative;Royal Faction;;;;;;;;;;;;x
-KHI_liberal;The Liberal Faction;;;;;;;;;;;;x
-KHI_reactionary;The Nationalist Faction;;;;;;;;;;;;x
-KHI_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
-KHI_socialist;The Socialist Faction;;;;;;;;;;;;x
-KHI_communist;The Communist Faction;;;;;;;;;;;;x
-KHI_fascist;The Fascist Faction;;;;;;;;;;;;x
-MAD_conservative;Royal Faction;;;;;;;;;;;;x
-MAD_liberal;The Liberal Faction;;;;;;;;;;;;x
-MAD_reactionary;The Nationalist Faction;;;;;;;;;;;;x
-MAD_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
-MAD_socialist;The Socialist Faction;;;;;;;;;;;;x
-MAD_communist;The Communist Faction;;;;;;;;;;;;x
-MAD_fascist;The Fascist Faction;;;;;;;;;;;;x
-TRI_conservative;Royal Faction;;;;;;;;;;;;x
-TRI_liberal;The Liberal Faction;;;;;;;;;;;;x
-TRI_reactionary;The Nationalist Faction;;;;;;;;;;;;x
-TRI_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
-TRI_socialist;The Socialist Faction;;;;;;;;;;;;x
-TRI_communist;The Communist Faction;;;;;;;;;;;;x
-TRI_fascist;The Fascist Faction;;;;;;;;;;;;x
+disarming;武装解除されました;;;;;;;;;;;;x
+HAS_NOT_RECENTLY_LOST_WAR;過去5年間で敗北無し。;;;;;;;;;;;;x
+HAS_RECENTLY_LOST_WAR;過去5年間で敗北有り。;;;;;;;;;;;;x
+IN_SAME_SPHERE;この国は我々と同じ影響圏下にあります。;;;;;;;;;;;;x
+NOR_reactionary;ノルウェー王党;;;;;;;;;;;;x
+ATJ_reactionary;民族主義派;;;;;;;;;;;;x
+ATJ_liberal;自由主義派;;;;;;;;;;;;x
+ATJ_anarcho_liberal;急進派;;;;;;;;;;;;x
+ATJ_socialist;社会主義派;;;;;;;;;;;;x
+ATJ_communist;共産主義派;;;;;;;;;;;;x
+ATJ_fascist;ファッショ派;;;;;;;;;;;;x
+CAL_conservative;民主党;;;;;;;;;;;;x
+KHI_conservative;王党派;;;;;;;;;;;;x
+KHI_liberal;自由主義派;;;;;;;;;;;;x
+KHI_reactionary;民族主義派;;;;;;;;;;;;x
+KHI_anarcho_liberal;急進派;;;;;;;;;;;;x
+KHI_socialist;社会主義派;;;;;;;;;;;;x
+KHI_communist;共産主義派;;;;;;;;;;;;x
+KHI_fascist;ファッショ派;;;;;;;;;;;;x
+MAD_conservative;王党派;;;;;;;;;;;;x
+MAD_liberal;自由主義派;;;;;;;;;;;;x
+MAD_reactionary;民族主義派;;;;;;;;;;;;x
+MAD_anarcho_liberal;急進派;;;;;;;;;;;;x
+MAD_socialist;社会主義派;;;;;;;;;;;;x
+MAD_communist;共産主義派;;;;;;;;;;;;x
+MAD_fascist;ファッショ派;;;;;;;;;;;;x
+TRI_conservative;王党派;;;;;;;;;;;;x
+TRI_liberal;自由主義派;;;;;;;;;;;;x
+TRI_reactionary;民族主義派;;;;;;;;;;;;x
+TRI_anarcho_liberal;急進派;;;;;;;;;;;;x
+TRI_socialist;社会主義派;;;;;;;;;;;;x
+TRI_communist;共産主義派;;;;;;;;;;;;x
+TRI_fascist;ファッショ派;;;;;;;;;;;;x
 TEX_communist;共産党;;;;;;;;;;;;x
 BAD_fascist;NSDP;;;;;;;;;;;;x
 BAV_fascist;NSDP;;;;;;;;;;;;x
 WEI_fascist;NSDP;;;;;;;;;;;;x
-WLL_fascist;Rexist Party;;;;;;;;;;;;x
-NEW_fascist;Fascist Party;;;;;;;;;;;;x
-DIPLOMACY_CHANCE_JOIN_WAR;Likelyhood of joining the war: §Y$VAL$§W;;;;;;;;;;;;x
-PO_ISBETTER;If we refuse this offer we will suffer the following:\n §R+$MIL$§W Militancy, §R+$WE$§W War exhaustion;;;;;;;;;;;;x
-leave_soi_title;Leave Sphere of Influence;;;;;;;;;;;;x
-leave_soi_desc;We can leave this Sphere of Influence, however our former master may well declare war to stop us.;;;;;;;;;;;;x
-NEW_PARTY_AVAIL_SETUP;New political party;;;;;;;;;;;;x
-NEW_PARTY_AVAIL_HEADER;New political party formed;;;;;;;;;;;;x
-NEW_PARTY_AVAIL_1;$PARTY$ has been formed;;;;;;;;;;;;x
+WLL_fascist;レクシスト党;;;;;;;;;;;;x
+NEW_fascist;ファシスト党;;;;;;;;;;;;x
+DIPLOMACY_CHANCE_JOIN_WAR;戦争に参加する可能性：§Y$VAL$§W;;;;;;;;;;;;x
+PO_ISBETTER;この提案を拒否した場合は次の效果が発生します\n好戦性が§R+$MIL$§W、厭戦感情が§R+$WE$§W;;;;;;;;;;;;x
+leave_soi_title;影響圏離脱;;;;;;;;;;;;x
+leave_soi_desc;我が国はこの影響圏から離脱できますが、かつての盟主が我々を止めるために宣戦布告してくるかもしれません。;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_SETUP;新政党;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_HEADER;新政党結成;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_1;$PARTY$が結成されました;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_2;*;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_3;*;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_4;*;;;;;;;;;;;;x
@@ -53,11 +53,11 @@ NEW_PARTY_AVAIL_5;*;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_6;*;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_BTN1;OK;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_BTN2;OK;;;;;;;;;;;;x
-NEW_PARTY_AVAIL_BTN3;Go to;;;;;;;;;;;;x
-NEW_PARTY_AVAIL_LOG;New political party;;;;;;;;;;;;x
-PARTY_UNAVAIL_SETUP;Political party defunct;;;;;;;;;;;;x
-PARTY_UNAVAIL_HEADER;Political party defunct;;;;;;;;;;;;x
-PARTY_UNAVAIL_1;$PARTY$ is now defunct;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_BTN3;移動;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_LOG;新政党;;;;;;;;;;;;x
+PARTY_UNAVAIL_SETUP;政党解散;;;;;;;;;;;;x
+PARTY_UNAVAIL_HEADER;政党解散;;;;;;;;;;;;x
+PARTY_UNAVAIL_1;$PARTY$は解散しました;;;;;;;;;;;;x
 PARTY_UNAVAIL_2;*;;;;;;;;;;;;x
 PARTY_UNAVAIL_3;*;;;;;;;;;;;;x
 PARTY_UNAVAIL_4;*;;;;;;;;;;;;x
@@ -65,28 +65,28 @@ PARTY_UNAVAIL_5;*;;;;;;;;;;;;x
 PARTY_UNAVAIL_6;*;;;;;;;;;;;;x
 PARTY_UNAVAIL_BTN1;OK;;;;;;;;;;;;x
 PARTY_UNAVAIL_BTN2;OK;;;;;;;;;;;;x
-PARTY_UNAVAIL_BTN3;Go to;;;;;;;;;;;;x
-PARTY_UNAVAIL_LOG;Political party now unavailable;;;;;;;;;;;;x
-PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Days of insolvency: §R$DAYS$§W;;;;;;;;;;;;x
-EXPENSE_NO_AFFORD;We can only afford to pay §R$VAL$§W¤ of our expenses!;;;;;;;;;;;;x
-PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Days of insolvency: §R$DAYS$§W;;;;;;;;;;;;x
-ENG_presidential_dictatorship;Great Britain;;;;;;;;;;;;x
-EVTNAME16451;Raiding the garrisons;;;;;;;;;;;;x
-EVTDESC16451;During the early days of the Texan Revolution, Texan troops were able to overrun several Mexican garrisons. This provided the Texan army with much needed money and supplies.;;;;;;;;;;;;x
-CB_ALLOWED_GUNBOAT;Force Debt Repayment;;;;;;;;;;;;x
-po_gunboat;Repay Debts.;;;;;;;;;;;;x
-IS_IN_DEFAULT_TO;Is in Default to;;;;;;;;;;;;x
-IS_NOT_IN_DEFAULT_TO;Is not in Default to;;;;;;;;;;;;x
-gunboat;Repay Debts;;;;;;;;;;;;x
-gunboat_desc;Force them to resume repayment of their debts to us.;;;;;;;;;;;;x
-gunboat_setup;Will force them to honor their debts to us.;;;;;;;;;;;;x
-gunboat_short;Repay Debts;;;;;;;;;;;;x
-EVTNAME70002;$FROMCOUNTRY$ goes bankrupt!;;;;;;;;;;;;x
-EVTDESC70002;$FROMCOUNTRY$ has gone bankrupt and claims that they owe us nothing! We must use our military might to safeguard our investors.;;;;;;;;;;;;x
+PARTY_UNAVAIL_BTN3;移動;;;;;;;;;;;;x
+PARTY_UNAVAIL_LOG;利用できない政党;;;;;;;;;;;;x
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;債務超過日：§R$DAYS$§W;;;;;;;;;;;;x
+EXPENSE_NO_AFFORD;我が国が支出可能なのは§R$VAL$§W¤までです！;;;;;;;;;;;;x
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;債務超過日：§R$DAYS$§W;;;;;;;;;;;;x
+ENG_presidential_dictatorship;グレートブリテン;;;;;;;;;;;;x
+EVTNAME16451;守備隊の襲撃;;;;;;;;;;;;x
+EVTDESC16451;テキサス革命の初期にテキサス人達はいくつかのメキシコ軍駐屯地の襲撃に成功した。これらの駐屯地はテキサス軍が切実に必要としていた資金や物資をもたらした。;;;;;;;;;;;;x
+CB_ALLOWED_GUNBOAT;借款の返済を強要する;;;;;;;;;;;;x
+po_gunboat;借款の返済。;;;;;;;;;;;;x
+IS_IN_DEFAULT_TO;次に対して債務不履行である：;;;;;;;;;;;;x
+IS_NOT_IN_DEFAULT_TO;次に対して債務不履行ではない：;;;;;;;;;;;;x
+gunboat;借款の返済;;;;;;;;;;;;x
+gunboat_desc;彼らに再度借款の返済を強要します。;;;;;;;;;;;;x
+gunboat_setup;彼らに我が国からの借款の返済を強要します。;;;;;;;;;;;;x
+gunboat_short;借款の返済;;;;;;;;;;;;x
+EVTNAME70002;$FROMCOUNTRY$が破産しました！;;;;;;;;;;;;x
+EVTDESC70002;$FROMCOUNTRY$は破産し、返済の無効を宣言しています！我々は投資家を保護するために軍事力を行使しなくてはなりません。;;;;;;;;;;;;x
 EVTOPTA70002;OK;;;;;;;;;;;;x
-USE_LEADER;Use leader;;;;;;;;;;;;x
-SHORTCUT;§WShortcut: §Y;;;;;;;;;;;;x
-SM_SHORTCUT;Shortcut tooltip;;;;;;;;;;;;x
+USE_LEADER;指揮官登用;;;;;;;;;;;;x
+SHORTCUT;§Wショートカット：§Y;;;;;;;;;;;;x
+SM_SHORTCUT;ショートカットツールチップ;;;;;;;;;;;;x
 TUR_proletarian_dictatorship_ADJ;トルコ;;;;;;;;;;;;x
-move_capital_to_moscow_title;Return to the Third Rome;;;;;;;;;;;;x
-move_capital_to_moscow_desc;Glorious St Petersburg, the city of Peter the Great, is uncomfortably close to the border. Perhaps it would be prudent to move our capital back to Moscow, the Pervoprestolnaya", which invading armies might find harder to reach...";;;;;;;;;;;;x
+move_capital_to_moscow_title;第三のローマへの帰還;;;;;;;;;;;;x
+move_capital_to_moscow_desc;ピョートル大帝の築いた都市、栄光のサンクトペテルブルクは残念ながら国境に近すぎる。おそらく侵略者が到達するのがより困難である、Pervoprestolnayaたるモスクワに首都を戻すのが懸命だろう…;;;;;;;;;;;;x

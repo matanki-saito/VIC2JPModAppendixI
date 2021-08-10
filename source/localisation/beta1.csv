@@ -27,7 +27,7 @@ WEGAINCB_6;$DESC$;;;;;;;;;;;;x
 WEGAINCB_LOG;We gained the '$CASUS$' Casus Belli against $ENEMY$.;;;;;;;;;;;;x
 WEGAINCB_BTN1;OK;;;;;;;;;;;;x
 WEGAINCB_BTN2;OK;;;;;;;;;;;;x
-WEGAINCB_BTN3;Goto;;;;;;;;;;;;x
+WEGAINCB_BTN3;移動;;;;;;;;;;;;x
 WEGAINCB_MAP;*;;;;;;;;;;;;x
 NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;;;;;;;;;;;;x
 AGRESSION_WAR_FREE_NAME;$ORDER$$FIRST$ War of Propping up $COUNTRY$;;;;;;;;;;;;x
@@ -58,10 +58,10 @@ total_occupation;Occupied Home Provinces;;;;;;;;;;;;x
 total_blockaded;Blockaded Home Ports;;;;;;;;;;;;x
 PW_SLAVE_STATE;Slave State;;;;;;;;;;;;x
 CURR_REL_TT;Our current relations.;;;;;;;;;;;;x
-great_power;Great Power;;;;;;;;;;;;x
+great_power;列強;;;;;;;;;;;;x
 second_power;Secondary Power;;;;;;;;;;;;x
-civ_nation;Civilized Nation;;;;;;;;;;;;x
-unciv_nation;Uncivilized Nation;;;;;;;;;;;;x
+civ_nation;文明国;;;;;;;;;;;;x
+unciv_nation;非文明国;;;;;;;;;;;;x
 REB_TYPE_SIZE;§YRebel Support§W;;;;;;;;;;;;x
 REB_TYPE_POWER;§YRebel Power§W;;;;;;;;;;;;x
 PRODUCTION_MUST_PORT_ONLY;Only produced in ports.\n;;;;;;;;;;;;x
@@ -92,7 +92,7 @@ BREAKCOUNTRY_6;*;;;;;;;;;;;;x
 BREAKCOUNTRY_LOG;$FACTION$ enforce their demands!;;;;;;;;;;;;x
 BREAKCOUNTRY_BTN1;Horror!;;;;;;;;;;;;x
 BREAKCOUNTRY_BTN2;Horror!;;;;;;;;;;;;x
-BREAKCOUNTRY_BTN3;Goto;;;;;;;;;;;;x
+BREAKCOUNTRY_BTN3;移動;;;;;;;;;;;;x
 BREAKCOUNTRY_MAP;*;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_SETUP;When a rebel faction enforces its demands in another nation;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_HEADER;Ambassador from;;;;;;;;;;;;x
@@ -105,7 +105,7 @@ BREAKCOUNTRYOTHER_6;*;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_LOG;$FACTION$ enforce their demands in $OTHER$!;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_BTN1;OK;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_BTN2;OK;;;;;;;;;;;;x
-BREAKCOUNTRYOTHER_BTN3;Goto;;;;;;;;;;;;x
+BREAKCOUNTRYOTHER_BTN3;移動;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_MAP;*;;;;;;;;;;;;x
 INVENTION_SETUP;When you have gained an invention.;;;;;;;;;;;;x
 INVENTION_HEADER;Reports on;;;;;;;;;;;;x
@@ -164,7 +164,7 @@ CANT_USE_LAST_WAR_GOALS;Selecting this war goal would end the war and can only b
 tut_6a_13;To improve Belgium's industrial production we need more industrial workers, click the craftsmen icon to set this focus.;;;;;;;;;;;;x
 DEN_251;Iceland & Greenland;;;;;;;;;;;;x
 CANCELALLIANCE_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-CANCELALLIANCE_THEY_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+CANCELALLIANCE_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 tut_1b_19;For now we are manually going to assign our General, go ahead and select your division in Spa.;;;;;;;;;;;;x
 TOPBAR_DEC_SPEED;Decrease Speed;;;;;;;;;;;;x
 fort;Fort;;;;;;;;;;;;x
@@ -249,7 +249,7 @@ BUDGET_IMPORTS;National Stockpile Purchases: §Y$VAL$§W;;;;;;;;;;;;x
 bad_debter;Bad debter;;;;;;;;;;;;x
 bad_debter_desc;Due to your countrys history of flaky economy banks will demand a higher interest on your loans;;;;;;;;;;;;x
 MUST_NEGOTIATE_WITH_WAR_LEADER;We must negotiate with the enemy §YWar leader§W if we are not leading our war;;;;;;;;;;;;x
-BAD_ADJ;Baden;;;;;;;;;;;;x
+BAD_ADJ;バーデン;;;;;;;;;;;;x
 WAR_LEADER;§YWar leader§W;;;;;;;;;;;;x
 MUST_NEGOTIATE_WITH_WAR_LEADER_NO_LEFTOVER_WARGOALS;We must negotiate with the enemy §YWar leader§W since making peace with §Y$COUNTRY$§W would end the war;;;;;;;;;;;;x
 WARGOAL_DEMAND;§Y$COUNTRY$§W demands this from §Y$ENEMY$§W;;;;;;;;;;;;x
@@ -267,7 +267,7 @@ POLITICS_REFORMS;Reforms;;;;;;;;;;;;x
 POLITICS_RELEASE_NATIONS;Release Nations;;;;;;;;;;;;x
 MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W is in command of §Y$ARMY$§W in §Y$LOCATION$§W;;;;;;;;;;;;x
 hms_government;HM's Government;;;;;;;;;;;;x
-EVTNAME19310;The Mandate of Heaven;;;;;;;;;;;;x
+EVTNAME19310;天命;;;;;;;;;;;;x
 EVTDESC19310;The 'Mandate of Heaven' is a concept in Chinese philosophy, similar to the western concept of the divine right of Kings, which has historically been used to both justify and motivate monarchical power. With our recent ascension to Great Power status our subjects have again become convinced that our government enjoys the The Mandate of Heaven.;;;;;;;;;;;;x
 EVTOPTA19310;Excellent!;;;;;;;;;;;;x
 EVTNAME19320;The Empire of the Sun;;;;;;;;;;;;x
@@ -280,7 +280,7 @@ COUNTRYALERT_HasUnemployedWorkers;The following states have unemployed factory w
 REMOVE_TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by approx. $CHANGE$ each month.;;;;;;;;;;;;x
 TOPBAR_POPULATION_VISUAL;Our total population is $CURR$.;;;;;;;;;;;;x
 BUILD_COLONIAL;Non-colonial state;;;;;;;;;;;;x
-EVTNAME60080;The Road to Serfdom;;;;;;;;;;;;x
+EVTNAME60080;隷属への道;;;;;;;;;;;;x
 EVTDESC60080;Lately an eerie feeling has crept over you that $COUNTRY$ is growing silent. Where before the free exchange of opinion and ideas could be heard, from street corners and bus stops to bars and universities, now only the sounds of silence gives echo. The conclusion that is becoming ever more evident, is that the tradition of $COUNTRY_ADJ$ democracy has been subverted. In $COUNTRY$, at least, the government for, of and by the people, has perished from the earth.;;;;;;;;;;;;x
 EVTOPTA60080;Muahahaha!;;;;;;;;;;;;x
 EVTNAME14210_sub;All They're Saying is 'Give Peace a Chance!';;;;;;;;;;;;x
@@ -293,8 +293,8 @@ tut_3a_21b;Try to take a loan by pressing the take loan button, pulling the slid
 REVANCHISM_EXPLANATION;Revanchism, from the French word for 'revenge', is the yearning for the return of land lost to the nation. In love, war, and peace alike, our people will be willing to make greater sacrifices for the return of our sacred soil.;;;;;;;;;;;;x
 EVTNAME14120_sub;Religious policy debated in local election;;;;;;;;;;;;x
 tut_8c_10;However, should you drop down in position it's not too late, as you will get a warning in time and can then try to fix the problem. One way to avert this disaster is, of course, war. Either a war to increase your own prestige, or to lower someone else's. Let's talk a bit about wars. Find France and declare war. Do this by clicking declare war, selecting a war goal and clicking 'Ok'.;;;;;;;;;;;;x
-BE_GREAT_POWER;Great Power;;;;;;;;;;;;x
-DIPLOMACY_GREATNATION_STATUS;Great Power;;;;;;;;;;;;x
+BE_GREAT_POWER;列強;;;;;;;;;;;;x
+DIPLOMACY_GREATNATION_STATUS;列強;;;;;;;;;;;;x
 WE_NO_LONGER_GREAT_POWER_2;and lost its position as a Great Power to;;;;;;;;;;;;x
 THEY_NO_LONGER_GREAT_POWER_3;and lost its position as a Great Power to;;;;;;;;;;;;x
 WE_BECAME_GREAT_POWER_2;and are now considered a Great Power!;;;;;;;;;;;;x
@@ -308,7 +308,7 @@ ADM_DESC;Spending on administration allows your bureaucrats to run and maintain 
 COMBATEND_INITIAL;Initial;;;;;;;;;;;;x
 COMBATEND_CASUALTIES;Casualties;;;;;;;;;;;;x
 COMBATEND_SURVIVORS;Survivors;;;;;;;;;;;;x
-cavours_diplomacy_title;Cavour's Diplomacy;;;;;;;;;;;;x
+cavours_diplomacy_title;カヴール外交;;;;;;;;;;;;x
 cavours_diplomacy_desc;Camillo Paolo Filippo Giulio Benso, Count of Cavour, Prime Minister of The Kingdom of Sardinia, was a leading figure in the movement for Italian Unification, and his personal efforts at diplomacy are often credited with securing the support of Napoleon III's France against Austria in the Second Italian War of Independence.;;;;;;;;;;;;x
 EVTNAME36898;ヴィクトリア女王の戴冠式;;;;;;;;;;;;x
 EVTDESC36898;On the 28th of June, 1838, princess Alexandrina Victoria of House Hanover ascended to the throne of The United Kingdom of Great Britain and Ireland as 'Queen Victoria'. Her reign, which would last even a few years into the 20th century, would later be remembered as the absolute zenith of the British Empire, upon which the sun never set. The last British Monarch of the House of Hanover, her ascension also marked the end of the personal union between Britain and Hanover. Today a jubilant crowd in London has escorted the young Queen Victoria to her residence in the newly built Buckingham Palace.;;;;;;;;;;;;x
@@ -342,7 +342,7 @@ SIEGEUS_6;will soon be driven off by the might of our armies.;;;;;;;;;;;;x
 SIEGEUS_LOG;$PROV$ is beginning to be occupied.;;;;;;;;;;;;x
 SIEGEUS_BTN1;OK;;;;;;;;;;;;x
 SIEGEUS_BTN2;OK;;;;;;;;;;;;x
-SIEGEUS_BTN3;Goto;;;;;;;;;;;;x
+SIEGEUS_BTN3;移動;;;;;;;;;;;;x
 SIEGEUS_MAP;*;;;;;;;;;;;;x
 SIEGETHEM_SETUP;When we begin to occupy one of our enemy's provinces;;;;;;;;;;;;x
 SIEGETHEM_HEADER;$MESSENGER$;;;;;;;;;;;;x
@@ -355,7 +355,7 @@ SIEGETHEM_6;They will look forward to our enlightened government.;;;;;;;;;;;;x
 SIEGETHEM_LOG;We have begun to occupy $PROV$.;;;;;;;;;;;;x
 SIEGETHEM_BTN1;OK;;;;;;;;;;;;x
 SIEGETHEM_BTN2;OK;;;;;;;;;;;;x
-SIEGETHEM_BTN3;Goto;;;;;;;;;;;;x
+SIEGETHEM_BTN3;移動;;;;;;;;;;;;x
 SIEGETHEM_MAP;*;;;;;;;;;;;;x
 chief_of_army;Chief of Army;;;;;;;;;;;;x
 chief_of_navy;Chief of Navy;;;;;;;;;;;;x

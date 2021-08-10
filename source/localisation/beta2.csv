@@ -18,7 +18,7 @@ ADDTOSPHERE_DI;Add to Sphere;;;;;;;;;;;;x
 REMOVEFROMSPHERE_DI;Remove From Sphere;;;;;;;;;;;;x
 INCREASERELATION_DI;Increase Relation;;;;;;;;;;;;x
 DECREASERELATION_DI;Decrease Relation;;;;;;;;;;;;x
-GUNBOAT_DI;Gunboat Diplomacy;;;;;;;;;;;;x
+GUNBOAT_DI;砲艦外交;;;;;;;;;;;;x
 WAR_DI;War;;;;;;;;;;;;x
 WARGOAL_DI;Adding of Wargoal;;;;;;;;;;;;x
 PEACE_DI;Peace Offer;;;;;;;;;;;;x
@@ -110,7 +110,7 @@ establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a pro
 establish_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;;;;;;;;;x
 NORMAL_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$ Liberation of $STATE$;;;;;;;;;;;;x
 AGRESSION_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$ Liberation of $STATE$;;;;;;;;;;;;x
-unification_casus_belli;War of Unification;;;;;;;;;;;;x
+unification_casus_belli;統一戦争;;;;;;;;;;;;x
 unification_casus_belli_desc;Liberate core territory of our §YCultural Union§W;;;;;;;;;;;;x
 unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;;;;;;;;;x
 unification_casus_belli_short;Liberate $STATE$ ;;;;;;;;;;;;x
@@ -184,7 +184,7 @@ NO_UNIT_PORTS;We cannot build §Y$UNIT$§W anywhere. Get a §YCoastal§W provinc
 DIPLOMACY_WARDIALOG_ALLIES;§Y$COUNTRY$§W is protected by the following nation(s):;;;;;;;;;;;;x
 DIPLOMACY_WARDIALOG_NUM_ALLIES;§Y$COUNTRY$§W is protected by §Y$NUM$§W nation(s);;;;;;;;;;;;x
 DIPLOMACY_WARDIALOG_ALLY;Ally;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_2;$ACTOR$ has decided to expand our current war by demanding;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_3;$WARGOAL$;;;;;;;;;;;;x
@@ -193,9 +193,9 @@ WARGOAL_WE_ACCEPT_5;*;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_6;We will punish them for their insolence.;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_LOG;$ACTOR$ expanded their war with us to include $WARGOAL$.;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_2;We have decided to expand our war by demanding;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_3;$WARGOAL$;;;;;;;;;;;;x
@@ -204,9 +204,9 @@ WARGOAL_THEY_ACCEPT_5;*;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_6;Now they will pay the price for their lack of vision.;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_LOG;We expanded our war with $RECIPIENT$ to include $WARGOAL$.;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_HEADER;The Foreign Minister reports;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_2;We have heard rumours from distant lands;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_3;It seems that $ACTOR$;;;;;;;;;;;;x
@@ -215,17 +215,17 @@ WARGOAL_OTHER_ACCEPT_5;by adding $WARGOAL$;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_6;Like we care.;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_BTN3;Go to;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_LOG;$ACTOR$ expanded their war with $RECIPIENT$ to include $WARGOAL$.;;;;;;;;;;;;x
 NO_GP_ACTION_ON_SELF;It would be foolish to target ourselves;;;;;;;;;;;;x
 OL_VIEW_SIEGES;Toggles §YOccupation§W view;;;;;;;;;;;;x
 BADBOY_EFFECT;$DIRECTION$ $VALUE$ infamy.\n;;;;;;;;;;;;x
-unification_annex_casus_belli;War of Unification;;;;;;;;;;;;x
+unification_annex_casus_belli;統一戦争;;;;;;;;;;;;x
 unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;;;;;;;;;;;;x
 unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;;;;;;;;;x
 unification_annex_casus_belli_short;Annexation;;;;;;;;;;;;x
-enlightenment_thought;The Rights of Man;;;;;;;;;;;;x
-enlightenment_thought_desc;The Rights of Man;;;;;;;;;;;;x
+enlightenment_thought;人間の権利;;;;;;;;;;;;x
+enlightenment_thought_desc;人間の権利;;;;;;;;;;;;x
 NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Liberation of $SECOND_COUNTRY$;;;;;;;;;;;;x
 AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Liberation of $SECOND_COUNTRY$;;;;;;;;;;;;x
 springtime_of_nations;諸国民の春！;;;;;;;;;;;;x
@@ -237,7 +237,7 @@ HND_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 HND_socialist;インド国民会議;;;;;;;;;;;;x
 HND_communist;共産党;;;;;;;;;;;;x
 HND_fascist;Unity Party;;;;;;;;;;;;x
-HND;India;;;;;;;;;;;;x
+HND;インド;;;;;;;;;;;;x
 WEDID_ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We are behind this.;;;;;;;;;;;;x
 WEDID_ISBANNEDEMBASSY_DESC;Banned embassy until §Y$UNTIL$§W. We are behind this.;;;;;;;;;;;;x
 OTHER_MUST_NEGOTIATE_WITH_WAR_LEADER;We are not allowed to negotiate with the enemy §YWar leader§W since that would end the war. A peace treaty can only be signed between §Y$ENEMY$§W and §Y$COUNTRY$§W.;;;;;;;;;;;;x

@@ -17,8 +17,8 @@ from pydrive.drive import GoogleDrive
 
 from special_escape import generate_printer, generate_encoder
 
-encoder = generate_encoder("eu4", "txt")
-printer = generate_printer("eu4", "txt")
+encoder = generate_encoder("ck2", "csv")
+printer = generate_printer("ck2", "csv")
 
 _ = join
 

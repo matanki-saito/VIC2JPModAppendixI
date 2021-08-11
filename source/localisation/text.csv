@@ -124,22 +124,22 @@ FE_RANK;Rank;;;;;;;;;;;;x
 FE_SCORE;Score;;;;;;;;;;;;x
 SAVE_PROG;Save progress: $VALUE$ %;;;;;;;;;;;;x
 TRANSERING_SAVE;Savegame transfer started...;;;;;;;;;;;;x
-LOADING_LOCAL_SAVE;ローカルのセーブデータのコピーを読み込み中…;;;;;;;;;;;;x
+LOADING_LOCAL_SAVE;ローカルのセーブデータのコピーを読み込み中;;;;;;;;;;;;x
 PLR_DISC;Player §Y$NAME$§W left the game.;;;;;;;;;;;;x
 PLR_CONNECT;Player §Y$NAME$§W joined the game.;;;;;;;;;;;;x
 REVERT_SAVE_CAL;Reverting to default database.;;;;;;;;;;;;x
 SAVE_TRANSFER_DONE;Savegame transfer done.;;;;;;;;;;;;x
-LOADING_MAP_SPRITES;マップのスプライトを読み込み中…;;;;;;;;;;;;x
-LOADING_GUI_DEF;GUI定義を読み込み中…;;;;;;;;;;;;x
-LOADING_DATABASES;データベース１を読み込み中…;;;;;;;;;;;;x
-LOADING_DATABASES2;データベース２を読み込み中…;;;;;;;;;;;;x
-INIT_MAP_LOGIC;Initialising Maplogic...;;;;;;;;;;;;x
+LOADING_MAP_SPRITES;マップのスプライトを読み込み中;;;;;;;;;;;;x
+LOADING_GUI_DEF;GUI定義を読み込み中;;;;;;;;;;;;x
+LOADING_DATABASES;データベース１を読み込み中;;;;;;;;;;;;x
+LOADING_DATABASES2;データベース２を読み込み中;;;;;;;;;;;;x
+INIT_MAP_LOGIC;マップロジックを初期化中…;;;;;;;;;;;;x
 CREATING_CHKSUM;Creating Checksum...;;;;;;;;;;;;x
-LOADING_HISTORY;ヒストリーファイルを読み込み中…;;;;;;;;;;;;x
-LOADING_SOUNDS;サウンドファイルを読み込み中…;;;;;;;;;;;;x
+LOADING_HISTORY;ヒストリーファイルを読み込み中;;;;;;;;;;;;x
+LOADING_SOUNDS;サウンドファイルを読み込み中;;;;;;;;;;;;x
 PROC_FLAGS;Processing Flags...;;;;;;;;;;;;x
-LOAD_FLAGS;フラッグファイルを読み込み中…;;;;;;;;;;;;x
-LOAD_GFX;グラフィックファイルを読み込み中…;;;;;;;;;;;;x
+LOAD_FLAGS;フラッグファイルを読み込み中;;;;;;;;;;;;x
+LOAD_GFX;グラフィックファイルを読み込み中;;;;;;;;;;;;x
 CREATING_THE_WORLD;Creating the World...;;;;;;;;;;;;x
 CREATING_TREES;Creating Trees...;;;;;;;;;;;;x
 CREATING_BORDERS;Creating Borders...;;;;;;;;;;;;x
@@ -147,7 +147,7 @@ CREATING_RIVERS;Creating Rivers...;;;;;;;;;;;;x
 MAP_PROPERLY_INIT;Map Properly Initialised...;;;;;;;;;;;;x
 CREATING_PROVINCE;Creating Province #;;;;;;;;;;;;x
 CREATING_TEXTS;Creating Texts....;;;;;;;;;;;;x
-LOAD_EVENTS;イベントファイルを読み込み中…;;;;;;;;;;;;x
+LOAD_EVENTS;イベントファイルを読み込み中;;;;;;;;;;;;x
 ADAPTING_HISTORY;Adapting History...;;;;;;;;;;;;x
 CALC_PATHS;Calculating paths...\nThis may take several minutes.;;;;;;;;;;;;x
 FE_TOGGLE;Quick Start;;;;;;;;;;;;x

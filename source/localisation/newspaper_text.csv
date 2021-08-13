@@ -308,18 +308,18 @@ GOODS_PRICE_DOWN_TITLE_MEDIUM;PRICES COLLAPSE!;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_MEDIUM;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！世界の$STRING_0_1$生産者は損失を埋め合わせるために必死に他の製品に軸足を移そうとしている。;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_TITLE_SMALL;PRICES COLLAPSE!;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_SMALL;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！;;;;;;;;;;;;x
-REVOLUTION_NEWS_TITLE_LARGE;REVOLUTION IN $TAG_0_0_UPPER$!;;;;;;;;;;;;x
+REVOLUTION_NEWS_TITLE_LARGE;$TAG_0_0_UPPER$で革命！;;;;;;;;;;;;x
 REVOLUTION_NEWS_LARGE;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country. $TAG_0_0$ is now under the control of the $STRING_0_4$. 'As we take over the government, citizens can expect immediate reforms reflecting our $STRING_0_3$ values', they announced. 'We are not a rogue state, we only plan to pursue more equal relations with our international partners', a government official commented, challenged about new ruling party's intentions to back down on the agreements and assurances issued by the previous administration.;;;;;;;;;;;;x
-REVOLUTION_NEWS_TITLE_MEDIUM;REVOLUTION IN $TAG_0_0_UPPER$!;;;;;;;;;;;;x
+REVOLUTION_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$で革命！;;;;;;;;;;;;x
 REVOLUTION_NEWS_MEDIUM;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country. $TAG_0_0$ is now under the control of the $STRING_0_4$. 'Citizens can expect immediate reforms reflecting our $STRING_0_3$ values', they announced.;;;;;;;;;;;;x
-REVOLUTION_NEWS_TITLE_SMALL;REVOLUTION!;;;;;;;;;;;;x
+REVOLUTION_NEWS_TITLE_SMALL;革命！;;;;;;;;;;;;x
 REVOLUTION_NEWS_SMALL;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country.;;;;;;;;;;;;x
-INVENTION_NEWS_TITLE_LARGE;INVENTION!;;;;;;;;;;;;x
-INVENTION_NEWS_LARGE;Scientists and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$. ;;;;;;;;;;;;x
-INVENTION_NEWS_TITLE_MEDIUM;INVENTION!;;;;;;;;;;;;x
-INVENTION_NEWS_MEDIUM;Scientists and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$. ;;;;;;;;;;;;x
-INVENTION_NEWS_TITLE_SMALL;Invention!;;;;;;;;;;;;x
-INVENTION_NEWS_SMALL;Scientists and engineers in $TAG_0_0$ are reported to have invented $STRING_0_1$. ;;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_LARGE;発明！;;;;;;;;;;;;x
+INVENTION_NEWS_LARGE;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明したとの報告があった。;;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_MEDIUM;発明！;;;;;;;;;;;;x
+INVENTION_NEWS_MEDIUM;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明したとの報告があった。;;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_SMALL;発明！;;;;;;;;;;;;x
+INVENTION_NEWS_SMALL;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明したとの報告があった。;;;;;;;;;;;;x
 INVENTION_SUFFIX1;Progress marches ever onwards!;;;;;;;;;;;;x
 INVENTION_SUFFIX2;Truely the light of the future!;;;;;;;;;;;;x
 INVENTION_SUFFIX3;This may doom us all!;;;;;;;;;;;;x
@@ -349,7 +349,7 @@ RESEARCH_NEWS_LARGE;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおけ
 RESEARCH_NEWS_TITLE_MEDIUM;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
 RESEARCH_NEWS_MEDIUM;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおける画期的な研究を完了させた。この新発見はこの分野でさらなる発明が行われるにつれ、$TAG_0_0$に多くの利益をもたらすのは確実である。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_SMALL;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
-RESEARCH_NEWS_SMALL;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおける画期的な研究を完了させた。;;;;;;;;;;;;x
+RESEARCH_NEWS_SMALL;このほど$TAG_0_0$の科学者達が$STRING_0_1$における画期的な研究を完了させた。;;;;;;;;;;;;x
 WAR_NEWS_TITLE_LARGE;WAR BETWEEN $TAG_0_0_UPPER$ AND $TAG_0_1_UPPER$!;;;;;;;;;;;;x
 WAR_NEWS_LARGE;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists between them and $TAG_0_1$. The foreign minister of $TAG_0_0$, when asked for the reasons war had been declared stated the need to '$STRING_0_1$'. 'We only intend to reclaim what was unjustly claimed before and restore peace and order to the region', he added. 'This unlawful aggression will not stand' his counterpart in $TAG_0_1$ responded, demanding international community to condemn the aggressor. May God have mercy on them all.;;;;;;;;;;;;x
 WAR_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$ GOES TO WAR!;;;;;;;;;;;;x

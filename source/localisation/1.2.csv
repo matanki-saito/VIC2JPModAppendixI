@@ -1,51 +1,51 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-RECRUITED_PERCENTAGE_LESS_THAN;Less than §Y$VAL$§W% of possible soldiers recruited.\n;;;;;;;;;;;;x
-RECRUITED_PERCENTAGE_MORE_THAN;At least §Y$VAL$§W% of possible soldiers recruited.\n;;;;;;;;;;;;x
+RECRUITED_PERCENTAGE_LESS_THAN;右記未満 §Y$VAL$§W% 採用された可能性のある兵士の数。\n;;;;;;;;;;;;x
+RECRUITED_PERCENTAGE_MORE_THAN;右記以上 §Y$VAL$§W% 採用された可能性のある兵士の数。\n;;;;;;;;;;;;x
 SEPARATISM_TECH;分離主義;;;;;;;;;;;;x
 INC_RES_TECH;研究点;;;;;;;;;;;;x
-TOTAL_POPS_NOT_TR;Less than §Y$VAL$§W pops in $WHERE$.\n;;;;;;;;;;;;x
-TOTAL_POPS_TR;At least §Y$VAL$§W pops in $WHERE$.\n;;;;;;;;;;;;x
-IS_CRIME_NOT_HIGHER_THAN_EDU_TR;More is spent on §Yeducation§W than on administration.\n;;;;;;;;;;;;x
-IS_CRIME_HIGHER_THAN_EDU_TR;More is spent on §Yadministration§W than on education.\n;;;;;;;;;;;;x
-ANY_AT_WAR_STARTS;Any country at war with.;;;;;;;;;;;;x
-REBEL_POWER_LESS_THAN;Rebel threat is less than §Y$VAL$§W percent.;;;;;;;;;;;;x
-REBEL_POWER_MORE_THAN;Rebel threat is at least §Y$VAL$§W percent.;;;;;;;;;;;;x
-POP_TYPE_PERC_NOT;$NAME$ is less than §Y$VAL$%§W.\n;;;;;;;;;;;;x
-POP_TYPE_PERC;$NAME$ is at least §Y$VAL$%§W.\n;;;;;;;;;;;;x
-MAJORITY_IS;Majority of population is ;;;;;;;;;;;;x
-MAJORITY_IS_NOT;Majority of population is NOT ;;;;;;;;;;;;x
+TOTAL_POPS_NOT_TR;$WHERE$のPOPが§Y$VAL$§W未満\n;;;;;;;;;;;;x
+TOTAL_POPS_TR;$WHERE$のPOPが§Y$VAL$§W以上\n;;;;;;;;;;;;x
+IS_CRIME_NOT_HIGHER_THAN_EDU_TR;行政費よりも§Y教育費§Wに支出が割かれています。\n;;;;;;;;;;;;x
+IS_CRIME_HIGHER_THAN_EDU_TR;教育費よりも§Y行政費§Wに支出が割かれています。\n;;;;;;;;;;;;x
+ANY_AT_WAR_STARTS;交戦国;;;;;;;;;;;;x
+REBEL_POWER_LESS_THAN;反乱の驚異は§Y$VAL$§W％未満です。;;;;;;;;;;;;x
+REBEL_POWER_MORE_THAN;反乱の驚異は§Y$VAL$§W％以上です。;;;;;;;;;;;;x
+POP_TYPE_PERC_NOT;$NAME$は§Y$VAL$§W未満です。\n;;;;;;;;;;;;x
+POP_TYPE_PERC;$NAME$は§Y$VAL$§W以上です。\n;;;;;;;;;;;;x
+MAJORITY_IS;国民の大多数は;;;;;;;;;;;;x
+MAJORITY_IS_NOT;国民の大多数は非;;;;;;;;;;;;x
 ICL;アイスランド;;;;;;;;;;;;x
 ICL_ADJ;アイスランド;;;;;;;;;;;;x
 ISR;イスラエル;;;;;;;;;;;;x
 ISR_ADJ;イスラエル;;;;;;;;;;;;x
 BYZ;ビザンツ帝国;;;;;;;;;;;;x
 BYZ_ADJ;ビザンツ;;;;;;;;;;;;x
-BYZ_conservative;Komma Ethnikofronon;;;;;;;;;;;;x
-BYZ_reactionary;Kómma Paleologós;;;;;;;;;;;;x
-BYZ_liberal;Kómma Fileleftheron;;;;;;;;;;;;x
-BYZ_anarcho_liberal;Neoteristikon Kómma;;;;;;;;;;;;x
-BYZ_socialist;Sosialistikó Kómma Byzantós;;;;;;;;;;;;x
-BYZ_communist;Kommounistikó Kómma Byzantós;;;;;;;;;;;;x
+BYZ_conservative;国民党;;;;;;;;;;;;x
+BYZ_reactionary;パレオゴロス党;;;;;;;;;;;;x
+BYZ_liberal;自由党;;;;;;;;;;;;x
+BYZ_anarcho_liberal;新党;;;;;;;;;;;;x
+BYZ_socialist;ビザンツ社会党;;;;;;;;;;;;x
+BYZ_communist;ビザンツ共産党;;;;;;;;;;;;x
 BYZ_fascist;Kómma ton Eleutherofróvon;;;;;;;;;;;;x
-ISR_conservative;Herut;;;;;;;;;;;;x
-ISR_reactionary;Hazit Datit Meuhedet;;;;;;;;;;;;x
-ISR_liberal;Miflaga Progresivit;;;;;;;;;;;;x
-ISR_anarcho_liberal;Tzionim Klaliym;;;;;;;;;;;;x
-ISR_socialist;Mifleget Poalei Eretz Yisrael;;;;;;;;;;;;x
-ISR_communist;HaMiflega HaKomunistit HaYisraelit;;;;;;;;;;;;x
-ISR_fascist;Brit HaBirionim;;;;;;;;;;;;x
-ICL_conservative;Sjálfstaeddisflokkurinn;;;;;;;;;;;;x
-ICL_reactionary;Borgaraflokkurinn;;;;;;;;;;;;x
-ICL_liberal;Framsóknarflokkurinn;;;;;;;;;;;;x
-ICL_anarcho_liberal;Besti flokkurinn;;;;;;;;;;;;x
-ICL_socialist;Althýedduflokkurinn;;;;;;;;;;;;x
-ICL_communist;Kommúnistaflokkur Íslands;;;;;;;;;;;;x
+ISR_conservative;へルート;;;;;;;;;;;;x
+ISR_reactionary;統一宗教戦線;;;;;;;;;;;;x
+ISR_liberal;進歩党;;;;;;;;;;;;x
+ISR_anarcho_liberal;汎ユダヤ主義;;;;;;;;;;;;x
+ISR_socialist;エレツ・イスラエル労働者党;;;;;;;;;;;;x
+ISR_communist;イスラエル共産党;;;;;;;;;;;;x
+ISR_fascist;ブリット・ハ＝ビリニウム;;;;;;;;;;;;x
+ICL_conservative;独立党;;;;;;;;;;;;x
+ICL_reactionary;市民党;;;;;;;;;;;;x
+ICL_liberal;進歩党;;;;;;;;;;;;x
+ICL_anarcho_liberal;ベスト党;;;;;;;;;;;;x
+ICL_socialist;人民党;;;;;;;;;;;;x
+ICL_communist;アイスランド共産党;;;;;;;;;;;;x
 ICL_fascist;Flokkur Thjóeddernissinna;;;;;;;;;;;;x
 ANY_CORE_LIMITED;For any core that is\n;;;;;;;;;;;;x
-ANY_CORE_NORMAL;All core provinces will get\n;;;;;;;;;;;;x
-POLITICS_NOT_BEFORE;We can not change ruling party again before §Y$DATE$§W.;;;;;;;;;;;;x
-POLITICS_NOT_ACCEPTED;Our form of government does not allow §Y$WHICH$§W parties.;;;;;;;;;;;;x
+ANY_CORE_NORMAL;全ての中核州が次を手にします\n;;;;;;;;;;;;x
+POLITICS_NOT_BEFORE;§Y$DATE$§Wより前に与党を変更することはできません。;;;;;;;;;;;;x
+POLITICS_NOT_ACCEPTED;現在の政体は§Y$WHICH$§W党を許可していません。;;;;;;;;;;;;x
 RELEASE_PRESTIGE;威信：;;;;;;;;;;;;x
 RELEASE_INFAMY;汚名：;;;;;;;;;;;;x
 PROV3247;西ハワイ;;;;;;;;;;;;x
@@ -302,24 +302,24 @@ support_ruhr_industrialism_title;Support The Krupp Family;;;;;;;;;;;;x
 DIPLOMACY_NO_ALLIES_CIVIL_WAR;Allies cannot be called into a civil war.;;;;;;;;;;;;x
 the_rhine_crisis_title;The Left Bank;;;;;;;;;;;;x
 the_rhine_crisis_desc;During Napoleon's redrawings of the European map, the left bank of the river Rhine had been annexed to France proper. In 1840 France's Prime Minister Adolphe Thiers publicly stated that, in his opinion, the Rhine still remained France's natural eastern border. With the hardships of the Napoleonic wars still in living memory the statement caused uproar in Germany, sparking what would become known as 'The Rhine Crisis';;;;;;;;;;;;x
-build_the_eiffel_tower_title;Build The Eiffel Tower;;;;;;;;;;;;x
-build_the_eiffel_tower_desc;Built as the entrance arch to the 1889 world's fair, the Eiffel tower is one of the most enduring and iconic symbols of Paris and of French architecture. Named for its designer Gustave Eiffel, the Eiffel tower was the tallest man made structure in the world until the 1930 completion of New York City's Chrysler Building.;;;;;;;;;;;;x
+build_the_eiffel_tower_title;エッフェル塔の建設;;;;;;;;;;;;x
+build_the_eiffel_tower_desc;1889年の万国博覧会のエントランスアーチとして建設されたエッフェル塔は不朽の存在の１つであり、またパリとフランス建築史の顔です。エッフェル塔は設計者のギュスターヴ・エッフェルにちなんで名付けられました。1930年にニューヨーク市のクライスラービルが完成するまで世界で最も高い人工建造物でした。;;;;;;;;;;;;x
 the_eiffel_tower;エッフェル塔;;;;;;;;;;;;x
-desc_eiffel_tower;The world awes at the sight of Monsieur Eiffel's marvellous iron lattice tower!;;;;;;;;;;;;x
-confiscations_of_mendizabal_title;Confiscations of Mendizabal;;;;;;;;;;;;x
-confiscations_of_mendizabal_desc;The Ecclesiastical Confiscations of Mendizábal were a series of decrees issued between 1835 and -37 aimed at the privatization and expropriation of monastic land and property in Spain. Inspired by anticlerical liberalism, and the polarization of Spanish society during the events of The Carlist wars, the decrees led to the abandonment of many ancient Spanish monasteries.;;;;;;;;;;;;x
+desc_eiffel_tower;世界はムッシュエッフェルの素晴らしい鉄塔を見て感嘆しています！;;;;;;;;;;;;x
+confiscations_of_mendizabal_title;メンディサバル法;;;;;;;;;;;;x
+confiscations_of_mendizabal_desc;メンディサバルの教会資産没収令とは修道院の土地と財産の民営化と収用を目的として、1835年から37年にかけてスペインで発令された一連の法令のことです。反教権的な自由主義やカルリスタ戦争での出来事によるスペイン社会の二極化に触発されて、この法令は多くの古代スペイン修道院を廃止に追い込みました。;;;;;;;;;;;;x
 haussmanns_renovations_title;オスマンのパリ改造;;;;;;;;;;;;x
-haussmanns_renovations_desc;The Haussmann Plan was a project for the modernization and urban renewal of Paris, carried out between 1852 and 1870. The project was initiated after a period of rapid urban growth and development, as the old city center of Paris had proven itself incapable of meeting the infrastructure demands of a growing city. The long, open boulevards championed by Hausmann have remained defining characteristics of Paris' street layout ever since.;;;;;;;;;;;;x
-SM_COUNTERDISTANCE;Counter Distance;;;;;;;;;;;;x
-OL_GP_INFLUENCE;Influence;;;;;;;;;;;;x
-OL_VIEW_GP_INFLUENCE;Toggles §YInfluence§W view;;;;;;;;;;;;x
-CB_EXPIRE_DATE;Expires §Y$DATE$§W;;;;;;;;;;;;x
+haussmanns_renovations_desc;オスマン計画は1852年から1870年にかけてパリで実施された近代化と都市再生のためのプロジェクトです。急激な都市の成長と発展からしばらくして、旧市街中心部では成長する都市のインフラ需要を満たせないことが明らかになったため計画は開始されました。それ以来、オスマンが提唱した長い開放的な大通りの配置がパリの街並みを特徴付けています。;;;;;;;;;;;;x
+SM_COUNTERDISTANCE;敵までの距離;;;;;;;;;;;;x
+OL_GP_INFLUENCE;影響;;;;;;;;;;;;x
+OL_VIEW_GP_INFLUENCE;§Y影響力§W表示を切り替え;;;;;;;;;;;;x
+CB_EXPIRE_DATE;§Y$DATE$§Wで期限切れ;;;;;;;;;;;;x
 BUDGET_CANT_LOAN_DESC;Banks will only loan you money if you have been meeting your interest payments and are not hostile. Foreign banks will currently never loan you more than $MAXLOAN$¤ of their total available funds for security reasons.;;;;;;;;;;;;x
 MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO_OUR_SIDE;We cannot negotiate with the enemy §YWar leader§W since we are target of a wargoal and our leader has added a §YStatus Quo§W wargoal;;;;;;;;;;;;x
 witwatersrand_gold_rush;ウィットウォーターズランド・ゴールドラッシュ;;;;;;;;;;;;x
-desc_witwatersrand_gold_rush;A Gold Rush in the Witwatersrand is making us known internationally.;;;;;;;;;;;;x
-ENG_bourgeois_dictatorship;Republic of Britannia;;;;;;;;;;;;x
-DIPLOMACY_CANNOT_SET_PRIO_TRUCE;We cannot influence this nation while we have a truce with them;;;;;;;;;;;;x
+desc_witwatersrand_gold_rush;ウィットウォーターズランドでのゴールドラッシュにより我々は国際的に知られる様になりました。;;;;;;;;;;;;x
+ENG_bourgeois_dictatorship;ブリタニア共和国;;;;;;;;;;;;x
+DIPLOMACY_CANNOT_SET_PRIO_TRUCE;彼らと休戦している間はこの国に影響を及ぼすことはできません;;;;;;;;;;;;x
 MEX_absolute_monarchy;メキシコ帝国;;;;;;;;;;;;x
 MEX_prussian_constitutionalism;メキシコ帝国;;;;;;;;;;;;x
 MEX_hms_government;メキシコ帝国;;;;;;;;;;;;x

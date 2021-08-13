@@ -17,7 +17,7 @@ AI_FEARS_OTHER_DESC1_LONG;A recent article in a $TAG_0_0_ADJ$ newspaper startled
 AI_FEARS_OTHER_DESC1_MEDIUM;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! A detailed analysis of their chilly relations with $TAG_0_1$ led the editor to the conclusion that absent new guarantees, both countries might soon find themselves in the state of war.;;;;;;;;;;;;x
 AI_FEARS_OTHER_DESC1_SHORT;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! Analysis of their chilly relations with $TAG_0_1$ led to the conclusion that war might be unavoidable.;;;;;;;;;;;;x
 AI_FEARS_OTHER_TITLE2;$TAG_0_0$の恐怖;;;;;;;;;;;;x
-AI_FEARS_OTHER_DESC2_LONG;$TAG_0_0_ADJ$政界内部からの報告によると全ての高官に深刻な不安と恐怖が広がっているようだ。$TAG_0_1$との对立が国際紛争を引き起こし、$TAG_0_0$は力を失うかもしれないと多くが予測している。それ故に彼らは戦争が起きる可能性を考慮して具体的な準備をしていると噂されている。恐怖は民衆にも広がっているらしく悲惨な敗北という最悪の結果も予想されている。;;;;;;;;;;;;x
+AI_FEARS_OTHER_DESC2_LONG;$TAG_0_0_ADJ$政界内部からの報告によると全ての高官に深刻な不安と恐怖が広がっているようだ。$TAG_0_1$との対立が国際紛争を引き起こし、$TAG_0_0$は力を失うかもしれないと多くが予測している。それ故に彼らは戦争が起きる可能性を考慮して具体的な準備をしていると噂されている。恐怖は民衆にも広がっているらしく悲惨な敗北という最悪の結果も予想されている。;;;;;;;;;;;;x
 AI_FEARS_OTHER_DESC2_MEDIUM;The mood of $TAG_0_0_ADJ$ officials is one of frightful apprehension when it comes to the actions of $TAG_0_1$. Being ever watchful of their actions, many fear that an eventual war between both countries will result in a cruel defeat to $TAG_0_0$.;;;;;;;;;;;;x
 AI_FEARS_OTHER_DESC2_SHORT;Through local press reports, it seems the $TAG_0_0_ADJ$ population and government are suffering from a widespread fear of $TAG_0_1$'s military power. More on page 4.;;;;;;;;;;;;x
 AI_LOVES_US_TITLE1;$TAG_0_0$: Our best friend;;;;;;;;;;;;x
@@ -108,11 +108,11 @@ RESEARCH_NEWS_TITLE_MEDIUM2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
 RESEARCH_NEWS_MEDIUM2;$TAG_0_0_ADJ$ scientists have announced a breakthrough in the field of $STRING_0_1$. This new knowledge will soon be applied in practical ways, said one of the researchers.;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_SMALL2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
 RESEARCH_NEWS_SMALL2;$TAG_0_0_ADJ$ scientists have recently announced a breakthrough in the field of $STRING_0_1$.;;;;;;;;;;;;x
-INVENTION_NEWS_TITLE_LARGE2;New patent!;;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_LARGE2;新たな特許！;;;;;;;;;;;;x
 INVENTION_NEWS_LARGE2;Science Report: Improvements and innovations in the field of $STRING_0_1$ have been patented and registered by researchers in $TAG_0_0$. The documentation of these advancements, although currently a secret kept behind closed doors, is expected to progressively spread to other lands and in time contribute to the progress of science in the world. ;;;;;;;;;;;;x
-INVENTION_NEWS_TITLE_MEDIUM2;New patent!;;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_MEDIUM2;新たな特許！;;;;;;;;;;;;x
 INVENTION_NEWS_MEDIUM2;Improvements and innovations in the field of $STRING_0_1$ have been registered in the National Patent Office of $TAG_0_0$. ;;;;;;;;;;;;x
-INVENTION_NEWS_TITLE_SMALL2;New patent!;;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_SMALL2;新たな特許！;;;;;;;;;;;;x
 INVENTION_NEWS_SMALL2;New improvements and innovations in the field of $STRING_0_1$ have been patented in $TAG_0_0$. ;;;;;;;;;;;;x
 EDITORIAL_ABSMON;Editorial: why it is right and proper to hate anti-legitimists - providence itself demands it! Why, these ne’er-do-wells would have the peasant rabble govern themselves (see page 10) ;;;;;;;;;;;;x
 EDITORIAL_PRUCON;Editorial: why it is right to hate reformists of every stripe - the natural order demands it! Why, these liberal speculators and cosmopolitans would run our nation as a whorehouse (see page 10);;;;;;;;;;;;x
@@ -130,7 +130,7 @@ FAKE_UNKNOWN;George Gershwin's new composition Rhapsody in Blue mixes classical 
 FAKE_UNKNOWN;F. Scott and Zelda Fitzgerald depart New York to seek a brighter future in the American expatriate community in Paris. It seems all the most talented Americans end up in Paris eventually.;;;;;;;;;;;;x
 FAKE_UNKNOWN;In yet another unintended side effect of the Volstead Act's prohibition of alcohol, Americans are pioneering a variety of new cocktails in an attempt to make bootleg alcohol palatable.;;;;;;;;;;;;x
 FAKE_Cthulhu;Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn;;;;;;;;;;;;x
-some_fake_1836_title_12;Cherry Blossoms;;;;;;;;;;;;x
+some_fake_1836_title_12;桜;;;;;;;;;;;;x
 some_fake_1836_12;Japanese government decides the new national colour will be that of a cherry blossom, for it best represents this marvellous country's national character. Calling it 'pink' is outlawed.;;;;;;;;;;;;x
 some_fake_1836_title_13;The Good River;;;;;;;;;;;;x
 some_fake_1836_13;A team of expert American cartographers deliver the most accurate drawings of the 'good' Ohio River to date, to be included in future local and international maps. More rivers to follow.;;;;;;;;;;;;x
@@ -146,7 +146,7 @@ some_fake_1910_title_12;Radios Killing Culture?;;;;;;;;;;;;x
 some_fake_1910_12;The radio has recently come about, causing concerns that it will kill society and socialization. Proponents say only thought-provoking and intelligent broadcasts will be considered.;;;;;;;;;;;;x
 some_fake_1910_title_13;Revolt of the Lash;;;;;;;;;;;;x
 some_fake_1910_13;Black crewmen of the Brazilian Navy mutiny against their white officers. They threaten to fire upon Rio de Janeiro if racial abuse and physical violence against lower ranks are not abolished.;;;;;;;;;;;;x
-some_fake_1920_title_13;Men's Dress Reform Party;;;;;;;;;;;;x
+some_fake_1920_title_13;男性服改革党;;;;;;;;;;;;x
 some_fake_1920_13;New movement urges men to dress more beautifully and hygienically. 'Most members wish for shorts, a few for the kilt, nearly all hate trousers.' The MDRP also opposes the wearing of hats.;;;;;;;;;;;;x
 dino_fake_1830_title_1;Ornithichnology;;;;;;;;;;;;x
 dino_fake_1830_1;Prof. Hitchcock reports fossil tracks of birds discovered near the Connecticut river in Massachusetts. Some of the foot marks indicate that they were made by some enormous species of bird...;;;;;;;;;;;;x

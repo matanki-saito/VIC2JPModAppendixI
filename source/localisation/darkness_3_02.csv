@@ -1,33 +1,33 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-JAN_reactionary;Strid Partiet;;;;;;;;;;;;x
-EXILED_DESC;This unit is §Rexiled§!, as it's in foreign territory during peacetime without military access. Exiled units cannot engage in combat, and their scouting abilities are reduced, but they are able to march home through foreign territory. Return your unit to the nearest owned province!;;;;;;;;;;;;x
-TWS_FULFILLED;Fulfilled in $PERC$;;;;;;;;;;;;x
-TWS_NOT_FULFILLED;§RNot Fulfilled§!;;;;;;;;;;;;x
-TICKING_WARSCORE_DESC_CURR;Currently $VAL$.;;;;;;;;;;;;x
-UNIT_BORROWED;This unit is temporarly under our command.;;;;;;;;;;;;x
-DISBAND_TOO_SMALL_UNIT;Disband Undermanned Brigades;;;;;;;;;;;;x
-DISBAND_TOO_SMALL_UNIT_DRO;This option will disband all brigades that are not currently supported by a full-strength soldier POP.;;;;;;;;;;;;x
-CONFIRM_DISBAND_TOO_SMALL_TITLE;Do you wish to disband all undermanned brigades?;;;;;;;;;;;;x
-CONFIRM_DISBAND_TOO_SMALL_DESC;This will remove all brigades that are not currently supported by a full-strength soldier POP, and you will no longer have to pay any maintenance costs for them. Any manpower remaining in those brigades will be returned to the pool.;;;;;;;;;;;;x
-MODIFIER_RESEARCH_POINTS_ON_CONQUER;Research points bonus when conquering;;;;;;;;;;;;x
-colonial_negotiations;Colonial Negotiations;;;;;;;;;;;;x
-colonial_negotiations_desc;Whatever happens, we have got \nThe Maxim gun, and they have not'\n\n Machine Guns allowed armies to devastate forces using massed charge tactics, an ability that was especially useful when it came to defeating 'uncivilised' nations who objected to being colonised.;;;;;;;;;;;;x
-PRODUCTION_BONUS_POSSIBLE;Possible bonus from:;;;;;;;;;;;;x
-COLONIZE_PHASE_INITIAL_INTEREST;Send expedition;;;;;;;;;;;;x
-COLONIZE_PHASE_INITIAL_INTEREST_DESC;The first step of influencing an area is to send an expedition. If it is not challenged in §Y$DAYS$§! days it will allow you to create a protectorate;;;;;;;;;;;;x
-INITIAL_COLONIZE_DEFAULT_TIME;If nobody competes with your expedition by §Y$DATE$§! you can skip directly to creating a protectorate;;;;;;;;;;;;x
-COUNTRYALERT_ColonialGood_protectorate;§GWe can create a protectorate in §!§Y$REGION$§!;;;;;;;;;;;;x
-COUNTRYALERT_ColonialGood_colony;§GWe can create a colony in §!§Y$REGION$§!;;;;;;;;;;;;x
-COUNTRYALERT_ColonialGood_state;§GWe can create a state in §!§Y$REGION$§!;;;;;;;;;;;;x
-COUNTRYALERT_ColonialBad_colonizationtimer;§RWe need to create a protectorate in §!§Y$REGION$§!§R before §Y$DATE$§!§R or lose it.§!;;;;;;;;;;;;x
-COUNTRYALERT_ColonialBad_influence;§RWe are losing the race in §!§Y$REGION$§!;;;;;;;;;;;;x
-NON_COLONIAL_POWER;We are not a second rank nation or great power yet so we have no colonial power.;;;;;;;;;;;;x
-CRISIS_DESCRIPTION_COLONIZE;Crisis over the rights to colonize.;;;;;;;;;;;;x
-colonial_competition;Enforce colonial claim;;;;;;;;;;;;x
-colonial_competition_desc;Acquire a §Ycolonial region§!;;;;;;;;;;;;x
-colonial_competition_short;Acquire colony $REGION$;;;;;;;;;;;;x
-colonial_competition_setup;Acquire colony $REGION$;;;;;;;;;;;;x
-CB_COLONY_CLAIMS;Enforce colonial claim;;;;;;;;;;;;x
-COLONY_TENSION_DRIFT;Drift: §Y$VAL$§!;;;;;;;;;;;;x
-COLONY_IN_CRISIS;Currently involved in colonial crisis;;;;;;;;;;;;x
+JAN_reactionary;ストリッド党;;;;;;;;;;;;x
+EXILED_DESC;このユニットは§R放浪状態§!（平時に軍事通行券がない外国領土にいる）にあります。 放浪している部隊は戦闘に参加できず偵察能力は低下しますが外国領土を通って帰国はできます。この部隊を最寄りの自州に移動させましょう！;;;;;;;;;;;;x
+TWS_FULFILLED;$PERC$を達成;;;;;;;;;;;;x
+TWS_NOT_FULFILLED;§R不達成§!;;;;;;;;;;;;x
+TICKING_WARSCORE_DESC_CURR;現在$VAL$。;;;;;;;;;;;;x
+UNIT_BORROWED;このユニットは一時的に我々の指揮下にあります。;;;;;;;;;;;;x
+DISBAND_TOO_SMALL_UNIT;人員が足りていない旅団を解散;;;;;;;;;;;;x
+DISBAND_TOO_SMALL_UNIT_DRO;このオプションは現在、兵士POPによって完全に充足されていない全ての旅団を解散させます;;;;;;;;;;;;x
+CONFIRM_DISBAND_TOO_SMALL_TITLE;充足していない全ての旅団を解散しますか？;;;;;;;;;;;;x
+CONFIRM_DISBAND_TOO_SMALL_DESC;これにより現状兵士POPによって完全に充足していない全ての旅団が消失し、補充費を支払う必要がなくなります。 解散した旅団の兵員は人的資源プールに還元されます。;;;;;;;;;;;;x
+MODIFIER_RESEARCH_POINTS_ON_CONQUER;征服したときの研究点ボーナス;;;;;;;;;;;;x
+colonial_negotiations;植民地の交渉;;;;;;;;;;;;x
+colonial_negotiations_desc;何が起ころうと我々には\n「マキシム銃」があります。そして奴らはそれを持っていません。\n\n 機関銃は密集突撃戦術を使用した軍隊を壊滅させることを可能にし、植民地化に反抗する「未開」の国を打ち倒すには特に有用です。;;;;;;;;;;;;x
+PRODUCTION_BONUS_POSSIBLE;可能なボーナス：;;;;;;;;;;;;x
+COLONIZE_PHASE_INITIAL_INTEREST;探検隊を送る;;;;;;;;;;;;x
+COLONIZE_PHASE_INITIAL_INTEREST_DESC;地域に影響を与える最初の段階は探検隊を送ることです。§Y$DAYS$§!以内に意義が唱えられなければ保護国を作成できます;;;;;;;;;;;;x
+INITIAL_COLONIZE_DEFAULT_TIME;§Y$DATE$§!までにあなたの探検隊に競合相手が現れない場合は保護国の作成ステップに直接飛ぶことができます。;;;;;;;;;;;;x
+COUNTRYALERT_ColonialGood_protectorate;§G我が国は§!§Y$REGION$§!§Gに保護国を作成できます§!;;;;;;;;;;;;x
+COUNTRYALERT_ColonialGood_colony;§G我が国は§!§Y$REGION$§!§Gに植民地を作成できます§!;;;;;;;;;;;;x
+COUNTRYALERT_ColonialGood_state;§G我が国は§!§Y$REGION$§!§Gにステートを作成できます§!;;;;;;;;;;;;x
+COUNTRYALERT_ColonialBad_colonizationtimer;§R我が国は§!§Y$DATE$日§!§Rまでに§!§Y$REGION$§!§Rに保護国を作成する必要があります。そうしないとこの地を失います。§!;;;;;;;;;;;;x
+COUNTRYALERT_ColonialBad_influence;§R我が国は§!§Y$REGION$§!§Rでの競争に負けています§!;;;;;;;;;;;;x
+NON_COLONIAL_POWER;我が国は列強でも準列強でもないので植民能力がありません;;;;;;;;;;;;x
+CRISIS_DESCRIPTION_COLONIZE;植民地化の権利をめぐる危機;;;;;;;;;;;;x
+colonial_competition;植民の請求を行使する;;;;;;;;;;;;x
+colonial_competition_desc;§Y植民地域§!を獲得します;;;;;;;;;;;;x
+colonial_competition_short;$REGION$植民地の獲得;;;;;;;;;;;;x
+colonial_competition_setup;$REGION$植民地の獲得;;;;;;;;;;;;x
+CB_COLONY_CLAIMS;植民の請求を行使する;;;;;;;;;;;;x
+COLONY_TENSION_DRIFT;推移：§Y$VAL$§!;;;;;;;;;;;;x
+COLONY_IN_CRISIS;現在、植民地危機に巻き込まれている;;;;;;;;;;;;x

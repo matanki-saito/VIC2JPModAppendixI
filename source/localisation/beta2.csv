@@ -14,9 +14,9 @@ EXPELADVISORS_DI;Expulsion of Advisors;;;;;;;;;;;;x
 BANEMBASSY_DI;Banning of Embassy;;;;;;;;;;;;x
 INCREASEOPINION_DI;Opinion Increase;;;;;;;;;;;;x
 DECREASEOPINION_DI;Opinion Decrease;;;;;;;;;;;;x
-ADDTOSPHERE_DI;Add to Sphere;;;;;;;;;;;;x
+ADDTOSPHERE_DI;勢力圏へ編入;;;;;;;;;;;;x
 REMOVEFROMSPHERE_DI;Remove From Sphere;;;;;;;;;;;;x
-INCREASERELATION_DI;Increase Relation;;;;;;;;;;;;x
+INCREASERELATION_DI;関係改善;;;;;;;;;;;;x
 DECREASERELATION_DI;Decrease Relation;;;;;;;;;;;;x
 GUNBOAT_DI;砲艦外交;;;;;;;;;;;;x
 WAR_DI;War;;;;;;;;;;;;x

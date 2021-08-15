@@ -27,7 +27,7 @@ BYZ_liberal;自由党;;;;;;;;;;;;x
 BYZ_anarcho_liberal;新党;;;;;;;;;;;;x
 BYZ_socialist;ビザンツ社会党;;;;;;;;;;;;x
 BYZ_communist;ビザンツ共産党;;;;;;;;;;;;x
-BYZ_fascist;Kómma ton Eleutherofróvon;;;;;;;;;;;;x
+BYZ_fascist;自由思想者党;;;;;;;;;;;;x
 ISR_conservative;へルート;;;;;;;;;;;;x
 ISR_reactionary;統一宗教戦線;;;;;;;;;;;;x
 ISR_liberal;進歩党;;;;;;;;;;;;x
@@ -41,8 +41,8 @@ ICL_liberal;進歩党;;;;;;;;;;;;x
 ICL_anarcho_liberal;ベスト党;;;;;;;;;;;;x
 ICL_socialist;人民党;;;;;;;;;;;;x
 ICL_communist;アイスランド共産党;;;;;;;;;;;;x
-ICL_fascist;Flokkur Thjóeddernissinna;;;;;;;;;;;;x
-ANY_CORE_LIMITED;For any core that is\n;;;;;;;;;;;;x
+ICL_fascist;国民党;;;;;;;;;;;;x
+ANY_CORE_LIMITED;次のいずれかの中核州において\n;;;;;;;;;;;;x
 ANY_CORE_NORMAL;全ての中核州が次を手にします\n;;;;;;;;;;;;x
 POLITICS_NOT_BEFORE;§Y$DATE$§Wより前に与党を変更することはできません。;;;;;;;;;;;;x
 POLITICS_NOT_ACCEPTED;現在の政体は§Y$WHICH$§W党を許可していません。;;;;;;;;;;;;x
@@ -50,56 +50,56 @@ RELEASE_PRESTIGE;威信：;;;;;;;;;;;;x
 RELEASE_INFAMY;汚名：;;;;;;;;;;;;x
 PROV3247;西ハワイ;;;;;;;;;;;;x
 PROV3248;西マゼラン海峡;;;;;;;;;;;;x
-EVTDESC1002;A group of liberals disgruntled with their lack of economic freedom, and the pace of parliamentary reform, have formed a new faction in $COUNTRY_ADJ$ politics. The Anarcho-Liberals are the revolutionary avantgarde of the liberal ideology, and they will not hesitate to use whatever means necessary to see their ideas of freedom and free trade instituted both in $COUNTRY$ and abroad.;;;;;;;;;;;;x
-SOMEONE_HAS_ADDED_STATUS_QUO;We cannot add a wargoal if someone has added a §YStatus Quo§W wargoal;;;;;;;;;;;;x
-NO_INTERVENTION_NOT_ENOUGH_OPINION;In order to intervene, a nation targeted by a wargoal need to have at least §Y$REQLEVEL$§W opinion of us;;;;;;;;;;;;x
+EVTDESC1002;経済的な自由の不足と議会改革のペースに不満を持つ自由主義グループが、$COUNTRY_ADJ$politicsで新しい派閥を結成しました。無政府資本主義は自由主義イデオロギーの改革の最前線であり、彼らはその思想や$COUNTRY$と海外の自由貿易を推し進めるために必要とあればどんな手段でも取ります。;;;;;;;;;;;;x
+SOMEONE_HAS_ADDED_STATUS_QUO;他国が戦争目的に§Y現状回復§Wを追加した場合、我々は戦争目的を追加することができません。;;;;;;;;;;;;x
+NO_INTERVENTION_NOT_ENOUGH_OPINION;介入するためには、戦争目的の対象国が我が国に対して§Y$REQLEVEL$§W以上の評価を持っている必要があります;;;;;;;;;;;;x
 peking_convention_title;北京条約;;;;;;;;;;;;x
-peking_convention_desc;Since the Treaty of Nerchinsk (1689), the Russian Empire has recognized the Argun river and the Stanovoy mountains as the natural frontiers between Russia and China.  In the mid 19th century the Russians would expand beyond this border to seize the vast lands between the Stanovoy Mountains and the Amur River. The Western Allies would later bring the Second Opium War to a conclusion by burning the Chinese Emperor's summer palaces, and entering Beijing. A cunning major general named Nikolay Ignatiev was able to convinced the Chinese that only Russian support would cause the allies to evacuate Peking. The price for this support was the Convention of Peking, which confirmed Muravyov's gains and, additionally, ceded territory between the Ussuri River and the Pacific to Russia. Thus, Russia had gained some 350,000 square miles of territory without firing a single shot.;;;;;;;;;;;;x
+peking_convention_desc;1689年のネルチンスク条約以来、ロシア帝国はアルグン川とスタノヴォイ山脈をロシアと中国の間の自然な国境としてきました。19世紀半ばに入るとロシア人達はスタノヴォイ山脈とアムール川間の広大な土地を奪うために、この国境を越えて拡大をしようとしていました。時を同じくして西欧同盟が中華皇帝の夏の宮殿を焼き払い、北京に入城して第二次アヘン戦争を終結させました。この時ニコライ・イグナチェフという狡猾な少将がロシアの支援がなければ西欧同盟は北京から撤退できないと中国を説得することに成功しました。そしてその代償として北京条約にムラヴィヨフの利権（アイグン条約）が確認されるとともに、ウスリー川と太平洋側に跨る領土がロシアに割譲されました。こうしてロシアは一発も発射せずに約35万平方マイルの領土を獲得したのです。;;;;;;;;;;;;x
 russian_vladivostok_title;東方の支配者;;;;;;;;;;;;x
-russian_vladivostok_desc;In July of 1860 the port of Vladivostok, or “Ruler of the East,” was founded near the Korean frontier.  It would become a major Russian trade port and shipbuilding yard. Eventually, it would become the focal point of an intercontinental railroad as well as a major scientific, cultural, and industrial center in its own right. The Czar dreamed that the city would become a hub connecting the west with the east. Perhaps the railroad to Vladivostok will eventually replace the Suez Canal as the bearer of goods and raw materials between the East and the West?;;;;;;;;;;;;x
+russian_vladivostok_desc;1860年7月、韓国との国境近くにウラジオストク（東方の支配者の意）港が開港しました。港はロシアの主要な貿易港と造船所になるでしょう。最終的には大陸間鉄道の中心地となり、街自体が科学、文化、産業の中心地となることでしょう。ツァーリはこの都市が西と東を結ぶハブになることを夢見ています。ゆくゆくは東西間の物資と原材料の運び手として、ウラジオストクまでの鉄道がスエズ運河に取って代わる日が来るかもしれませんよ？;;;;;;;;;;;;x
 EVTNAME80000;北京条約;;;;;;;;;;;;x
-EVTDESC80000;The Russians have demanded that we acquiesce to their theft of our rightful territory. This is outrageous, but we may have no recourse but to accept their demands. If we do, they shall help ensure our sovereignty vis-à-vis the other Europeans. Also, we may be incapable of defeating them if the Russians decide to resolve this issue by force.;;;;;;;;;;;;x
-EVTOPTA80000;We have no choice, sign their treaty.;;;;;;;;;;;;x
-EVTOPTB80000;The Czar can go to hell!;;;;;;;;;;;;x
-EVTNAME80001;China rejects the Convention;;;;;;;;;;;;x
-EVTDESC80001;The ungrateful Chinese would rather watch their cities burn than agree to our rightful demands. We may just have to accommodate the desires of our wayward Asiatic neighbors.;;;;;;;;;;;;x
-EVTOPTA80001;Where once the Russian flag is raised, it must not be lowered!;;;;;;;;;;;;x
-OL_SIEGES;Occupations;;;;;;;;;;;;x
-IS_NOT_BIG_PROD_TRIG;Is NOT a big producer of §Y$VAL$§W.\n;;;;;;;;;;;;x
-IS_BIG_PROD_TRIG;Is a big producer of §Y$VAL$§W.\n;;;;;;;;;;;;x
-HAVE_LOWER_RANK_THAN;Lower rank than ;;;;;;;;;;;;x
-HAVE_HIGHER_RANK_THAN;Higher rank than ;;;;;;;;;;;;x
-MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO;We must negotiate with the enemy §YWar leader§W since we have added wargoals and they have added a §YStatus Quo§W wargoal;;;;;;;;;;;;x
+EVTDESC80000;ロシアが我々の正当な領土を窃盗したことを黙認するように要求してきました。これは言語道断ですが、彼らの要求を受け入れるしかないかもしれません。もし受け入れれば、彼らは他のヨーロッパ人に対して我々が主権を確保するのを手伝ってくれるでしょう。またもしロシアがこの問題を武力で解決すると決めた場合、我々は彼らを倒すことができないかもしれません。;;;;;;;;;;;;x
+EVTOPTA80000;選択肢はない、条約に調印しよう。;;;;;;;;;;;;x
+EVTOPTB80000;ツァーリめ、地獄に堕ちろ！;;;;;;;;;;;;x
+EVTNAME80001;中国が条約を拒否;;;;;;;;;;;;x
+EVTDESC80001;恩知らずな中国人は我々の正当な要求に同意するよりも自分たちの都市が炎上する光景を見てみたいようです。我々は強情なアジアの隣人の希望をかなえてやるべきかもしれません。;;;;;;;;;;;;x
+EVTOPTA80001;一度ロシアの旗が掲げられた土地からは、それが降ろされてはならない！;;;;;;;;;;;;x
+OL_SIEGES;占領;;;;;;;;;;;;x
+IS_NOT_BIG_PROD_TRIG;§Y$VAL$§Wの大生産国ではありません。\n;;;;;;;;;;;;x
+IS_BIG_PROD_TRIG;§Y$VAL$§Wの大生産国です。\n;;;;;;;;;;;;x
+HAVE_LOWER_RANK_THAN;順位が右記未満：;;;;;;;;;;;;x
+HAVE_HIGHER_RANK_THAN;順位が右記以上：;;;;;;;;;;;;x
+MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO;敵側が§Y原状回復§Wの戦争目的を追加し、我々が戦争目的を追加している場合は、敵側の§Y戦争指導国§Wと交渉しなければなりません;;;;;;;;;;;;x
 law_of_guarantees_title;教皇保障法;;;;;;;;;;;;x
-law_of_guarantees_desc;In 1870 'The Law of Guarantees' was a law passed by the newly formed Kingdom of Italy -- aimed at solving the 'Roman Question' -- that accorded the pope privileges similar to that of the King himself, including the right to send and receive ambassadors. Pope Pius IX refused to accept the laws, which were seen by both him and his successors as an infringement of the independence of the Holy See. While the issue was not conclusively solved until the Lateran Treaty of 1929, the Law of Guarantees nevertheless meant that the young Kingdom's capital would from then on be Rome.;;;;;;;;;;;;x
-form_byzantine_empire_title;King of Kings, Ruler of Rulers;;;;;;;;;;;;x
-form_byzantine_empire_desc;With the collapse of the Ottoman Empire, the Ottoman claims to Imperial Roman titles, so viciously and deceitfully wrought from Greek hands in the dark year of 1453, are all fast becoming fading memories. Constantinople, the City of Man's Desire, is again, after centuries of Turkish occupation, in Greek hands. As years and time passed again, again ours they were. Basileos, proclaim our Empire restored!;;;;;;;;;;;;x
+law_of_guarantees_desc;「保証法 」は1870年に新たに形成されたイタリア王国によって可決された法律で、「ローマ問題 」の解決を目指していました。この法律は大使を派遣したり受け入れたりするなど、イタリア国王と同様の特権をローマ法王に与えるものでした。しかし教皇ピウス9世とその後継者の両方が教皇庁の独立性を侵害していると見なし、この法律を受け入れることを拒否しました。この問題は1929年のラテラノ条約まで最終的に解決されませんでしたが、それでも「保証法」はその時からローマが若い王国の首都になることを示しました。;;;;;;;;;;;;x
+form_byzantine_empire_title;王の中の王、支配者の中の支配者;;;;;;;;;;;;x
+form_byzantine_empire_desc;オスマン帝国の崩壊により、オスマンからローマ帝国への要求、1453年の暗黒の年にギリシア人の手から無理やり奪われたそれを、急速に記憶の彼方にしつつあります。羨望の都市コンスタンティノープルは数世紀にも及ぶトルコの支配の後、再びギリシャ人の手に取り戻されました。時間はかかりましたが今我らの手元にあります。バシレイオスよ、我々の帝国の復活を宣言しましょう！;;;;;;;;;;;;x
 form_israel_title;バルフォア宣言;;;;;;;;;;;;x
-form_israel_desc;His Majesty's government view with favour the establishment in Palestine of a national home for the Jewish people, and will use their best endeavours to facilitate the achievement of this object...'\n\nSince we exert a significant influence in Judea and the Levant, the ancient birthplaces of the Jewish Nation, we can issue a declaration expressing our favorable attitude toward the establishment of a national home for the Jewish people there.;;;;;;;;;;;;x
+form_israel_desc;「国王陛下の政府は、パレスチナにユダヤ人のためのナショナル・ホームを樹立することにつき好意をもって見ることとし、その目的の達成のために最大限の努力を払うものとする...」\n\n我が国はユダヤ民族の古代の出生地であるユダヤ及びレバント地方に大きな影響力を有していることから、これらの地域にユダヤ民族のための「ナショナル・ホーム」を建設することに前向きな姿勢を表明する宣言を発布することができます。;;;;;;;;;;;;x
 BYZ_absolute_monarchy;ビザンツ帝国;;;;;;;;;;;;x
-BYZ_proletarian_dictatorship;Union of Red Themes;;;;;;;;;;;;x
-BAB;Babylon;;;;;;;;;;;;x
-BAB_ADJ;Babylonian;;;;;;;;;;;;x
-BAB_conservative;The Code of Laws Party;;;;;;;;;;;;x
-BAB_liberal;The (Hanging) Garden Party;;;;;;;;;;;;x
-BAB_reactionary;Hammurabi's Helpful;;;;;;;;;;;;x
-BAB_communist;The Ziggurat Faction (Marxist-Leninist);;;;;;;;;;;;x
-BAB_anarcho_liberal;Ama-gi Popular Front;;;;;;;;;;;;x
-BAB_socialist;The Tower Builders;;;;;;;;;;;;x
-BAB_fascist;Babylon Zoo;;;;;;;;;;;;x
+BYZ_proletarian_dictatorship;赤化連合;;;;;;;;;;;;x
+BAB;バビロン;;;;;;;;;;;;x
+BAB_ADJ;バビロン;;;;;;;;;;;;x
+BAB_conservative;法典党;;;;;;;;;;;;x
+BAB_liberal;（空中）庭園党;;;;;;;;;;;;x
+BAB_reactionary;ハンムラビの知恵;;;;;;;;;;;;x
+BAB_communist;ジッグラト派（マルクス・レーニン主義）;;;;;;;;;;;;x
+BAB_anarcho_liberal;自由人民戦線;;;;;;;;;;;;x
+BAB_socialist;塔の建設者;;;;;;;;;;;;x
+BAB_fascist;バビロン・ズー;;;;;;;;;;;;x
 build_the_tower_of_babylon_title;バベルの塔;;;;;;;;;;;;x
-build_the_tower_of_babylon_desc;Very little progress has been made in the past few thousand years on that greatest of all building projects initiated by our proud ancestors. With Iraq's recent ascent to power and standing in the world, there is some talk... though all talk has been strangely hard to understand lately... of starting the project back up again! With modern technology, who knows what wonders could be accomplished?;;;;;;;;;;;;x
-EVTNAME4430;Pressure for Reform;;;;;;;;;;;;x
-EVTDESC4430;And love dares you to change our way of caring, about ourselves.'\n-- Queen\n\nThe political climate in $COUNTRY$ has taken a turn for the worse lately, as more and more of our loyal subjects are beginning to question the wisdom of our less than representational Upper House. The Upper House is increasingly being seen as the one institution primarily responsible for the constant smothering of all attempts and initiatives aiming at political reform, and people are demanding that the institution's founding charters be redrawn to allow for a broader representation.;;;;;;;;;;;;x
-EVTOPTA4430;Insanity laughs under pressure we're cracking.;;;;;;;;;;;;x
-EVTOPTB4430;Can't we give ourselves one more chance?;;;;;;;;;;;;x
-RELEASE_PLAY_AS;Play As;;;;;;;;;;;;x
+build_the_tower_of_babylon_desc;我々の偉大な先祖によって始められた、全ての中で最も素晴らしい建築計画に関しは、過去数千年の間にごくわずかな進展しかありませんでした。近年のイラクの国力と世界における地位の向上により、再び計画を再開しようという話があります！もっとも、最近、全ての会話は理解することが妙に困難ですが…最新の技術を活用すれば、人はあらゆる驚異を達成できることをご存知ですか？;;;;;;;;;;;;x
+EVTNAME4430;改革の圧力;;;;;;;;;;;;x
+EVTDESC4430;愛さえあれば自分たちの未来をも変えてしまえるのさ　\n――クイーン\n\n$COUNTRY$の政治情勢は、ますます多くの忠実な臣民が、我が国のほとんどの国民を代表していない上院の出す方針に疑問を持ち始めるなど、最近より悪い方向へ変わっているように思われます。上院は政治改革を目指す全ての試みやイニシアティブに対する継続的な妨害に関して、主に責任がある組織のひとつであると、ますますみなされるようになっています。そして人々は上院の設立顕彰を、より幅広い国民を代表するように置き換えるように要求しています。;;;;;;;;;;;;x
+EVTOPTA4430;苦難のなかでぼくたちが壊れてゆく　それを狂気が笑ってみている;;;;;;;;;;;;x
+EVTOPTB4430;どうしてぼくたちは自分たちに望みをもてないのだろう？;;;;;;;;;;;;x
+RELEASE_PLAY_AS;右記でプレイ：;;;;;;;;;;;;x
 EGY_921;パレスチナ;;;;;;;;;;;;x
 raise_the_bonnie_blue_flag_title;ボニー・ブルー・フラッグ！;;;;;;;;;;;;x
-raise_the_bonnie_blue_flag_desc;Hurrah! Hurrah!\nFor Southern rights, hurrah!\nHurrah for the Bonnie Blue Flag that bears a single star!'\n\nThe 'Bonnie Blue Flag' was the first, unofficial flag of the Confederacy, and also the title of a popular 1861 Confederate marching song by Harry McCarthy praising that same flag. Hoist the Bonnie Blue, and watch the recruits flock to our banners.;;;;;;;;;;;;x
+raise_the_bonnie_blue_flag_desc;万歳！万歳！\n南部の州権、万歳！\n一つ星の麗しき青旗に万歳！\n\n「ボニー・ブルー・フラッグ 」は南部連合の最初の非公式旗であり、また同じ旗をたたえるハリー・マッカーシーの1861年の有名な南部連合の行進曲の主題でもあります。ボニー・ブルーを掲げて、我々の旗に集まってくる新兵に注目しましょう。;;;;;;;;;;;;x
 the_bonnie_blue_flag;ボニー・ブルー・フラッグ;;;;;;;;;;;;x
-the_bonnie_blue_flag_desc;A single white star on a blue field leads our troops to battle.;;;;;;;;;;;;x
-trinket_wage;Trinket Minimum Wage;;;;;;;;;;;;x
+the_bonnie_blue_flag_desc;青地に１つの白星が我らの軍を戦場へ駆り立てます。;;;;;;;;;;;;x
+trinket_wage;ごく僅かな最低賃金;;;;;;;;;;;;x
 tut_2b_15;How factories are built depends on your country's present economic policy. Under a 'Laissez Faire' economy, for example, all your factories are built by your capitalists. In the current Belgian system, however, both the government and the capitalists can build factories. Building more factories is a good way to boost the country's economy. Go ahead and click the 'Build Factory' button for Belgian Wallonie.;;;;;;;;;;;;x
 webster_ashburton_treaty_title;ウェブスター＝アッシュバートン条約;;;;;;;;;;;;x
 webster_ashburton_treaty_desc;Following the events of the (undeclared) Aroostook War, The Webster-Ashburton Treaty of 1842, between the United Kingdom and The United States of America, delimited with finality the borders between Maine and New Brunswick, regulated the shared use of the Great Lakes, reaffirmed the 49th parallel border and called for a mutual commitment toward ending the Atlantic slave trade.;;;;;;;;;;;;x
@@ -108,13 +108,13 @@ ENG_203;カリブ諸島;;;;;;;;;;;;x
 PV_CLERGY_LIT_PROVIDES;Clergy provinces: $VAL$;;;;;;;;;;;;x
 PV_CLERGY_LIT_NUM;$NUM$ of your population are Clergy (Optimal $OPT$): $VAL$;;;;;;;;;;;;x
 PV_CLERGY_SETTING;Educational spending at $SETTING$: $VAL$;;;;;;;;;;;;x
-PV_CLERGY_TECH;From technology: $VAL$;;;;;;;;;;;;x
+PV_CLERGY_TECH;技術から：$VAL$;;;;;;;;;;;;x
 EVTNAME13357;失権の原理;;;;;;;;;;;;x
 EVTDESC13357;The Doctrine of Lapse' was a British policy regarding Britain's Indian subject nations, the Princely States, that stated that any such nation could be immediately annexed by the British East India company if the ruler died without a direct heir, or if the ruler was found 'manifestly incompetent'. The doctrine was used historically to annex the states of Satara, Sambalpur, Nagpur, Jhansi and Awadh. Due to our country's present state, officials from the East India Company today declared our princely rights null and void.;;;;;;;;;;;;x
-EVTOPTA13357;Noooo!;;;;;;;;;;;;x
+EVTOPTA13357;ちがーーう！;;;;;;;;;;;;x
 EVTNAME13358;失権の原理;;;;;;;;;;;;x
 EVTDESC13358;失権の原理とはイギリスのインド藩王国に関する政策の名です。これは後継者がいないまま統治者が死亡したり、統治者が「明らかに無能」であると判断された場合にすぐさまその藩王国をイギリス東インド会社は併合できるというものでした。この政策は1857年のセポイの乱の火種の一つとなった、サタラ、サンバルプル、ナーグプル、ジャーンシー、アワドの各州を併合するための口実として史実で使用されました。方針は1858年のイギリス政府によるインド直接统治の開始とともに撤回されました。本日、$FROMCOUNTRY$政府の悲惨な状况を見た東インド会社はその独立を無効であると宣言しました。;;;;;;;;;;;;x
-EVTOPTA13358;Excellent!;;;;;;;;;;;;x
+EVTOPTA13358;素晴らしい！;;;;;;;;;;;;x
 EVTOPTB13358;Bah, more useless territory.;;;;;;;;;;;;x
 RUS_absolute_monarchy;ロシア帝国;;;;;;;;;;;;x
 RUS_prussian_constitutionalism;ロシア帝国;;;;;;;;;;;;x
@@ -134,7 +134,7 @@ kaiser_wilhelms_land_title;カイザー・ヴィルヘルムス・ラント;;;;;
 kaiser_wilhelms_land_desc;Named after the German Emperor, 'Kaiser-Wilhelms-Land' was the German name for the North Eastern Part of the island of New Guinea, which, together with the Bismarck Archipelago and other pacific holdings constituted the German colony of Neuguinea. The territory was occupied by Australian troops during World War One, and held as a League of Nations mandate until 1975.;;;;;;;;;;;;x
 megali_idea_title;メガリ・イデア;;;;;;;;;;;;x
 megali_idea_desc;The 'Megali Idea', the Great Idea, was an irredentist conception of a Greater Greek state encompassing all ethnic Greeks, including in particular the substantial Greek minorities living on the Western Coast of Asia Minor. The concept was a driving force between much of Greece's interactions with the fading Ottoman state during the 19th century, and the goals of the Great Idea came very close to a realization in the Treaty of Sèvres, signed at the end of World War One. The vast land gains that the Treaty of Sèvres accorded to Greece were however largely undone by the following Greco-Turkish war of 1919-21. Big is beautiful!;;;;;;;;;;;;x
-DIFFICULTY_LABEL;Difficulty;;;;;;;;;;;;x
+DIFFICULTY_LABEL;難易度;;;;;;;;;;;;x
 expand_motala_verkstad_title;モータラ工場;;;;;;;;;;;;x
 expand_motala_verkstad_desc;Motala Verkstad' (Motala work- or machineshop) was founded in 1822 by Baltazar von Platen during the building of the Göta Canal. During the foremanship of Otto Edvard Carlsund, from 1843 to 1870, Motala Verkstad became one of Sweden's most internationally renowned manufacturies. The Workshop is mentioned in Jules Verne's novel '20.000 Leagues under the Sea' as having produced parts for the novel's fictional 'Nautilus' submarine.;;;;;;;;;;;;x
 motala_verkstad;モータラ工場;;;;;;;;;;;;x
@@ -281,7 +281,7 @@ annex_the_congo_title;Annex The Congo;;;;;;;;;;;;x
 annex_the_congo_desc;International pressure has been mounting over the issue of The Congo Free State. The Free State, which is governed as the personal property of our Monarch, is receiving a barrage of international criticism on account of the brutal colonial policies enforced there. Our best option at this stage is probably to annex the Free State and reform its administration.;;;;;;;;;;;;x
 the_congo_reform_association;コンゴ改革協会;;;;;;;;;;;;x
 the_congo_refrom_association_desc;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;;;;;;;;;;;;x
-MODIFIER_BADBOY;Infamy;;;;;;;;;;;;x
+MODIFIER_BADBOY;汚名;;;;;;;;;;;;x
 rename_the_congo_title;Explore The Congo!;;;;;;;;;;;;x
 rename_the_congo_desc;With The Congo Free State having been confirmed as The Personal Property of King Leopold II, it is only fair and reasonable that we now explore the region, and perhaps leave a bit of a personal mark on it?;;;;;;;;;;;;x
 PROV2049;Lourenzo Marques;;;;;;;;;;;;x

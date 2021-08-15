@@ -5,9 +5,9 @@ news1;The government of $TAG_2_0$ offered the peace with the following terms: $S
 battle_we_win_title_large;GLORIOUS VICTORY IN $STRING_0_3$!;;;;;;;;;;;;x
 battle_we_win_large;On $DATE_LONG_0$ our unrivalled army was, once again, victorious in the battle of $STRING_0_3$! $VALUE_INT_0_1$ of our men bravely gave $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops a sound seeing to, and while $VALUE_INT_0_2$ of our fearless troops lost their lives, over $VALUE_INT_0_4$ $TAG_0_3_ADJ$ scoundrels were killed and the field was left in our hands. After a defeat like this, $TAG_0_3$ surely must soon seek peace terms!;;;;;;;;;;;;x
 battle_we_win_title_medium;Victory in $STRING_0_3$!;;;;;;;;;;;;x
-battle_we_win_medium;On $DATE_LONG_0$ we defeated $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops in $STRING_0_3$, at the cost of $VALUE_INT_0_2$ lives lost.;;;;;;;;;;;;x
+battle_we_win_medium;$DATE_LONG_0$年、我々は$STRING_0_3$で$VALUE_INT_0_3$$TAG_0_3_ADJ$軍を撃破した。代償として$VALUE_INT_0_2$人の人命が失われた。;;;;;;;;;;;;x
 battle_we_win_title_small;勝利！;;;;;;;;;;;;x
-battle_we_win_small;On $DATE_LONG_0$ we defeated $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops in $STRING_0_3$.;;;;;;;;;;;;x
+battle_we_win_small;$DATE_LONG_0$年、我々は$STRING_0_3$で$VALUE_INT_0_3$$TAG_0_3_ADJ$軍を撃破した。;;;;;;;;;;;;x
 battle_we_lose_title_large;MILITARY BLUNDER LEADS TO DISASTER IN $STRING_0_3$!;;;;;;;;;;;;x
 battle_we_lose_large;On $DATE_LONG_0$ our incompetent high command shockingly sent $VALUE_INT_0_4$ of our brave soldiers to their deaths in $STRING_0_3$ against the forces of  $TAG_0_2$. Our $VALUE_INT_0_3$ fine troops faced $VALUE_INT1$ $TAG_0_2_ADJ$ soldiers, and despite poor leadership and the enemy's underhanded tactics managed to inflict $VALUE_INT_0_2$ casualties upon them. This paper expresses grave concerns over the direction the high command is taking this war, and strongly urges the Government to take steps to correct it before it is too late!;;;;;;;;;;;;x
 battle_we_lose_title_medium;Defeat in $STRING_0_3$;;;;;;;;;;;;x
@@ -320,24 +320,24 @@ INVENTION_NEWS_TITLE_MEDIUM;発明！;;;;;;;;;;;;x
 INVENTION_NEWS_MEDIUM;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明したとの報告があった。;;;;;;;;;;;;x
 INVENTION_NEWS_TITLE_SMALL;発明！;;;;;;;;;;;;x
 INVENTION_NEWS_SMALL;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明したとの報告があった。;;;;;;;;;;;;x
-INVENTION_SUFFIX1;Progress marches ever onwards!;;;;;;;;;;;;x
+INVENTION_SUFFIX1;進歩はこれからも続く！;;;;;;;;;;;;x
 INVENTION_SUFFIX2;Truely the light of the future!;;;;;;;;;;;;x
 INVENTION_SUFFIX3;This may doom us all!;;;;;;;;;;;;x
 INVENTION_SUFFIX4;Good news, everyone!;;;;;;;;;;;;x
 INVENTION_SUFFIX5;This is the dawn of a new age!;;;;;;;;;;;;x
-INVENTION_SUFFIX6;Today's progress was yerterday's plan.;;;;;;;;;;;;x
+INVENTION_SUFFIX6;今日の進歩は昨日の計画。;;;;;;;;;;;;x
 INVENTION_SUFFIX7;Let us hope they use it for good.;;;;;;;;;;;;x
 INVENTION_SUFFIX8;Science never sleeps!;;;;;;;;;;;;x
 INVENTION_SUFFIX_LONG1; But at what cost?;;;;;;;;;;;;x
 INVENTION_SUFFIX_LONG2; Whatever will they think of next?;;;;;;;;;;;;x
 INVENTION_SUFFIX_LONG3; It will never catch on.;;;;;;;;;;;;x
 INVENTION_SUFFIX_LONG4; They clearly stole the idea from us.;;;;;;;;;;;;x
-PARTY_NEWS_TITLE_LARGE;NEW POLITICAL PARTY IN $TAG_0_0_UPPER$;;;;;;;;;;;;x
+PARTY_NEWS_TITLE_LARGE;$TAG_0_0_UPPER$で新政党;;;;;;;;;;;;x
 PARTY_NEWS_LARGE;A new $STRING_0_2$ political party, the $STRING_0_0$, has been formed in $TAG_0_0$. 'We're currently in the process of recruiting new members and organizing the support structure every modern political unit requires', a party official commented. Uniting disgruntled activists and disillusioned members of other outfits, the new party announced to have scheduled a national convention, where they plan to elect their representatives and agree on the platform. They claim to remain optimistic about ever coming to power despite all odds.;;;;;;;;;;;;x
-PARTY_NEWS_TITLE_MEDIUM;NEW POLITICAL PARTY IN $TAG_0_0_UPPER$;;;;;;;;;;;;x
+PARTY_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$で新政党;;;;;;;;;;;;x
 PARTY_NEWS_MEDIUM;A new $STRING_0_2$ political party, the $STRING_0_0$, has been formed in $TAG_0_0$. Uniting disgruntled activists and disillusioned members of other outfits, the new party announced to have scheduled a national convention.;;;;;;;;;;;;x
-PARTY_NEWS_TITLE_SMALL;New Party;;;;;;;;;;;;x
-PARTY_NEWS_SMALL;A new $STRING_0_2$ political party, the $STRING_0_0$, has been formed in $TAG_0_0$. They claim to remain optimistic about ever coming to power despite all odds.;;;;;;;;;;;;x
+PARTY_NEWS_TITLE_SMALL;新党;;;;;;;;;;;;x
+PARTY_NEWS_SMALL;新しい$STRING_0_2$政党$STRING_0_0$が$TAG_0_0$に結成された。彼らはあらゆる困難にもかかわらず、政権を握ることについて依然として楽観的な主張をしている。;;;;;;;;;;;;x
 PROVINCE_NEWS_TITLE_LARGE;$TAG_0_1_UPPER$の拡大;;;;;;;;;;;;x
 PROVINCE_NEWS_LARGE;今や$STRING_0_0$州は$TAG_0_1$の一部である。$TAG_0_1$の外務大臣は「$STRING_0_0$は$TAG_0_1$の固有の領土 、$TAG_0_0$から今、正当なる我々の手元へと戻ってきたのだ」と述べた。;;;;;;;;;;;;x
 PROVINCE_NEWS_TITLE_MEDIUM;$TAG_0_1_UPPER$の拡大;;;;;;;;;;;;x

@@ -7498,7 +7498,7 @@ ANH_reactionary;国家党;;;;;;;;;;;;x
 ANH_conservative_2;保守党;;;;;;;;;;;;x
 ANH_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 ANH_anarcho_liberal;Radical Arbeiterpartie;;;;;;;;;;;;x
-ANH_communist;Communist Arbeiterpartie;;;;;;;;;;;;x
+ANH_communist;共産主義労働者党;;;;;;;;;;;;x
 ANH_fascist;NSDP;;;;;;;;;;;;x
 ANN_conservative;Nguyên danh tù´;;;;;;;;;;;;x
 ANN_liberal;Cân Vuong;;;;;;;;;;;;x
@@ -7508,7 +7508,7 @@ ANN_liberal_3;The Liberal Party;;;;;;;;;;;;x
 ANN_liberal_4;The Liberal Party;;;;;;;;;;;;x
 ANN_reactionary;The Nationalist Party;;;;;;;;;;;;x
 ANN_anarcho_liberal_2;The Radical Party;;;;;;;;;;;;x
-ANN_socialist;The Socialist Party;;;;;;;;;;;;x
+ANN_socialist;社会党;;;;;;;;;;;;x
 ANN_communist;The Communist Party;;;;;;;;;;;;x
 ANN_fascist;The Fascist Party;;;;;;;;;;;;x
 ARG_liberal;自由党;;;;;;;;;;;;x
@@ -7755,7 +7755,7 @@ CAN_liberal;自由党;;;;;;;;;;;;x
 CAN_conservative;保守党;;;;;;;;;;;;x
 CAN_reactionary;Nationalist Party;;;;;;;;;;;;x
 CAN_anarcho_liberal;Radical Party;;;;;;;;;;;;x
-CAN_socialist;Socialist Party;;;;;;;;;;;;x
+CAN_socialist;社会党;;;;;;;;;;;;x
 CAN_communist;共産党;;;;;;;;;;;;x
 CAN_fascist;ファシスト党;;;;;;;;;;;;x
 CAT_conservative;Renaixença Català;;;;;;;;;;;;x
@@ -7824,7 +7824,7 @@ COB_communist;共産主義労働者党;;;;;;;;;;;;x
 COB_fascist;NSDP;;;;;;;;;;;;x
 COL_liberal;自由党;;;;;;;;;;;;x
 COL_conservative;保守党;;;;;;;;;;;;x
-COL_socialist;Socialist Party;;;;;;;;;;;;x
+COL_socialist;社会党;;;;;;;;;;;;x
 COL_reactionary;Nationalist Party;;;;;;;;;;;;x
 COL_anarcho_liberal;Radical Party;;;;;;;;;;;;x
 COL_communist;共産党;;;;;;;;;;;;x
@@ -7892,8 +7892,8 @@ DAI_anarcho_liberal;急進派;;;;;;;;;;;;x
 DAI_socialist;社会主義派;;;;;;;;;;;;x
 DAI_communist;共産主義派;;;;;;;;;;;;x
 DAI_fascist;ファッショ派;;;;;;;;;;;;x
-DAN_liberal;Venstre;;;;;;;;;;;;x
-DAN_conservative;Højre;;;;;;;;;;;;x
+DAN_liberal;ヴェンスタ;;;;;;;;;;;;x
+DAN_conservative;右翼党;;;;;;;;;;;;x
 DAN_liberal_2;National-liberale;;;;;;;;;;;;x
 DAN_socialist;Socialdemokratiet;;;;;;;;;;;;x
 DAN_reactionary;デンマーク王党;;;;;;;;;;;;x
@@ -7904,7 +7904,7 @@ DES_reactionary;Mormon People's Party;;;;;;;;;;;;x
 DES_liberal;自由党;;;;;;;;;;;;x
 DES_conservative;Union Party;;;;;;;;;;;;x
 DES_anarcho_liberal;Radical Party;;;;;;;;;;;;x
-DES_socialist;Socialist Party;;;;;;;;;;;;x
+DES_socialist;社会党;;;;;;;;;;;;x
 DES_communist;共産党;;;;;;;;;;;;x
 DES_fascist;ファシスト党;;;;;;;;;;;;x
 DOM_liberal;Liberales;;;;;;;;;;;;x
@@ -7932,7 +7932,7 @@ DZG_reactionary;国家党;;;;;;;;;;;;x
 DZG_conservative_2;保守党;;;;;;;;;;;;x
 DZG_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 DZG_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-DZG_communist;Communist Arbeiterparei;;;;;;;;;;;;x
+DZG_communist;共産主義労働者党;;;;;;;;;;;;x
 DZG_fascist;NSDP;;;;;;;;;;;;x
 ECU_conservative;保守党;;;;;;;;;;;;x
 ECU_liberal;自由党;;;;;;;;;;;;x
@@ -7949,10 +7949,10 @@ EGY_liberal;Majlis Shurat Al-Nuwwab;;;;;;;;;;;;x
 EGY_reactionary;Urabist Faction;;;;;;;;;;;;x
 EGY_conservative_2;al-Hizb al-Watani;;;;;;;;;;;;x
 EGY_liberal_2;al-Hizb al-Umma;;;;;;;;;;;;x
-EGY_anarcho_liberal;Radical Faction;;;;;;;;;;;;x
-EGY_socialist;Socialist Faction;;;;;;;;;;;;x
-EGY_communist;Communist Faction;;;;;;;;;;;;x
-EGY_fascist;Fascist Faction;;;;;;;;;;;;x
+EGY_anarcho_liberal;急進派;;;;;;;;;;;;x
+EGY_socialist;社会主義派;;;;;;;;;;;;x
+EGY_communist;共産主義派;;;;;;;;;;;;x
+EGY_fascist;ファッショ派;;;;;;;;;;;;x
 ELS_conservative;保守党;;;;;;;;;;;;x
 ELS_liberal;自由党;;;;;;;;;;;;x
 ELS_reactionary;Partido Nacionalista;;;;;;;;;;;;x
@@ -7982,18 +7982,18 @@ ETH_anarcho_liberal;急進派;;;;;;;;;;;;x
 ETH_socialist;社会主義派;;;;;;;;;;;;x
 ETH_communist;共産主義派;;;;;;;;;;;;x
 ETH_fascist;ファッショ派;;;;;;;;;;;;x
-FIN_conservative;Suomalainen puolue;;;;;;;;;;;;x
+FIN_conservative;フィン人党;;;;;;;;;;;;x
 FIN_conservative_2;Svenska partiet;;;;;;;;;;;;x
-FIN_liberal;Nuorsuomalaiset;;;;;;;;;;;;x
+FIN_liberal;青年フィンランド党;;;;;;;;;;;;x
 FIN_liberal_2;Edistyspuolue;;;;;;;;;;;;x
 FIN_reactionary;Kokoomus;;;;;;;;;;;;x
-FIN_socialist;Sosiaalidemokraatit;;;;;;;;;;;;x
-FIN_conservative_3;Maalaisliitto;;;;;;;;;;;;x
-FIN_conservative_4;Svenska folkpartiet;;;;;;;;;;;;x
+FIN_socialist;社会民主党;;;;;;;;;;;;x
+FIN_conservative_3;農民党;;;;;;;;;;;;x
+FIN_conservative_4;スウェーデン人民党;;;;;;;;;;;;x
 FIN_anarcho_liberal;Aktivistinen vastustuspuolue;;;;;;;;;;;;x
 FIN_liberal_3;Liberaler;;;;;;;;;;;;x
 FIN_reactionary_2;Vikingar;;;;;;;;;;;;x
-FIN_communist;Punakaarti;;;;;;;;;;;;x
+FIN_communist;赤衛軍;;;;;;;;;;;;x
 FIN_fascist;Fascists;;;;;;;;;;;;x
 FLA_liberal;Liberale Partij;;;;;;;;;;;;x
 FLA_conservative;Katholieke Partij;;;;;;;;;;;;x
@@ -8003,18 +8003,18 @@ FLA_reactionary;Nationalist Partij;;;;;;;;;;;;x
 FLA_anarcho_liberal;Radical Partij;;;;;;;;;;;;x
 FLA_communist;Communist Partij;;;;;;;;;;;;x
 FLA_fascist;Fascist Partij;;;;;;;;;;;;x
-FRA_reactionary;Légitimiste;;;;;;;;;;;;x
-FRA_liberal;Orléaniste;;;;;;;;;;;;x
+FRA_reactionary;レジティミスト;;;;;;;;;;;;x
+FRA_liberal;オルレアニスト;;;;;;;;;;;;x
 FRA_conservative;Républicain modéré;;;;;;;;;;;;x
 FRA_socialist;Républicain démocratique;;;;;;;;;;;;x
 FRA_liberal_2;Libéral;;;;;;;;;;;;x
 FRA_conservative_2;Républicain;;;;;;;;;;;;x
-FRA_conservative_3;Bonapartiste;;;;;;;;;;;;x
-FRA_conservative_4;Orléaniste;;;;;;;;;;;;x
+FRA_conservative_3;ボナパルティスト;;;;;;;;;;;;x
+FRA_conservative_4;オルレアニスト;;;;;;;;;;;;x
 FRA_liberal_3;Opportunistes;;;;;;;;;;;;x
 FRA_anarcho_liberal;Républicain radical;;;;;;;;;;;;x
 FRA_socialist_2;Possibilistes;;;;;;;;;;;;x
-FRA_communist;Parti Ouvrier Français;;;;;;;;;;;;x
+FRA_communist;フランス労働党;;;;;;;;;;;;x
 FRA_conservative_5;Royaliste;;;;;;;;;;;;x
 FRA_reactionary_2;Droite nationaliste;;;;;;;;;;;;x
 FRA_socialist_3;SFIO;;;;;;;;;;;;x
@@ -8055,12 +8055,12 @@ GER_fascist;NSDP;;;;;;;;;;;;x
 GRE_conservative;French Faction;;;;;;;;;;;;x
 GRE_reactionary;Russian Faction;;;;;;;;;;;;x
 GRE_liberal;British Faction;;;;;;;;;;;;x
-GRE_liberal_2;Neoteristikon Komma;;;;;;;;;;;;x
-GRE_conservative_2;Komma Ethnikofronon;;;;;;;;;;;;x
-GRE_anarcho_liberal;Radical Faction;;;;;;;;;;;;x
-GRE_socialist;Socialist Faction;;;;;;;;;;;;x
-GRE_communist;Communist Faction;;;;;;;;;;;;x
-GRE_fascist;Fascist Faction;;;;;;;;;;;;x
+GRE_liberal_2;新党;;;;;;;;;;;;x
+GRE_conservative_2;国民党;;;;;;;;;;;;x
+GRE_anarcho_liberal;急進派;;;;;;;;;;;;x
+GRE_socialist;社会主義派;;;;;;;;;;;;x
+GRE_communist;共産主義派;;;;;;;;;;;;x
+GRE_fascist;ファッショ派;;;;;;;;;;;;x
 GUA_conservative;保守党;;;;;;;;;;;;x
 GUA_liberal;自由党;;;;;;;;;;;;x
 GUA_reactionary;Partido Nacionalista;;;;;;;;;;;;x
@@ -8192,11 +8192,11 @@ HUN_liberal_2;Szabadelvû Párt;;;;;;;;;;;;x
 HUN_conservative;Függetlenségi Párt;;;;;;;;;;;;x
 HUN_reactionary;Egyesült Ellenzéki ;;;;;;;;;;;;x
 HUN_socialist;Általános Munkáspárt ;;;;;;;;;;;;x
-HUN_socialist_2;Magyarországi Szociáldem.;;;;;;;;;;;;x
+HUN_socialist_2;ハンガリー社会民主党;;;;;;;;;;;;x
 HUN_socialist_3;Újjászervezett Szociáldem.;;;;;;;;;;;;x
-HUN_socialist_4;Kisgazda Párt;;;;;;;;;;;;x
+HUN_socialist_4;小農業者党;;;;;;;;;;;;x
 HUN_liberal_3;Országos Polgári Radikáli;;;;;;;;;;;;x
-HUN_communist;Kommunisták Magyarországi;;;;;;;;;;;;x
+HUN_communist;ハンガリー共産党;;;;;;;;;;;;x
 HUN_conservative_2;Catholic People's Party;;;;;;;;;;;;x
 HUN_conservative_3;Rumanian National Party;;;;;;;;;;;;x
 HUN_conservative_4;Croat State Party ;;;;;;;;;;;;x
@@ -8220,10 +8220,10 @@ ION_conservative;British Faction;;;;;;;;;;;;x
 ION_liberal;Italian Faction;;;;;;;;;;;;x
 ION_conservative_2;Greek Faction;;;;;;;;;;;;x
 ION_reactionary;Nationalist Faction;;;;;;;;;;;;x
-ION_anarcho_liberal;Radical Faction;;;;;;;;;;;;x
-ION_socialist;Socialist Faction;;;;;;;;;;;;x
-ION_communist;Communist Faction;;;;;;;;;;;;x
-ION_fascist;Fascist Faction;;;;;;;;;;;;x
+ION_anarcho_liberal;急進派;;;;;;;;;;;;x
+ION_socialist;社会主義派;;;;;;;;;;;;x
+ION_communist;共産主義派;;;;;;;;;;;;x
+ION_fascist;ファッショ派;;;;;;;;;;;;x
 IRE_liberal;ホイッグ党;;;;;;;;;;;;x
 IRE_conservative;保守党;;;;;;;;;;;;x
 IRE_liberal_2;Repealers;;;;;;;;;;;;x
@@ -8393,7 +8393,7 @@ LUB_reactionary;国家党;;;;;;;;;;;;x
 LUB_conservative_2;保守党;;;;;;;;;;;;x
 LUB_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;x
 LUB_anarcho_liberal;Radikale Arbeiterpartei;;;;;;;;;;;;x
-LUB_communist;Communist Arbeiterpartie;;;;;;;;;;;;x
+LUB_communist;共産主義労働者党;;;;;;;;;;;;x
 LUB_fascist;NSDP;;;;;;;;;;;;x
 LUC_reactionary;Restaurazionisti;;;;;;;;;;;;x
 LUC_conservative;Moderati ;;;;;;;;;;;;x
@@ -8544,7 +8544,7 @@ NAL_conservative_2;Boeren Partei;;;;;;;;;;;;x
 NAL_liberal;The Liberal Party;;;;;;;;;;;;x
 NAL_reactionary;The Nationalist Party;;;;;;;;;;;;x
 NAL_anarcho_liberal;The Radical Party;;;;;;;;;;;;x
-NAL_socialist;The Socialist Party;;;;;;;;;;;;x
+NAL_socialist;社会党;;;;;;;;;;;;x
 NAL_communist;The Communist Party;;;;;;;;;;;;x
 NAL_fascist;The Fascist Party;;;;;;;;;;;;x
 NAS_liberal;自由民主党;;;;;;;;;;;;x
@@ -8616,12 +8616,12 @@ NIP_reactionary_2;Nationalist Faction;;;;;;;;;;;;x
 NIP_conservative_3;Conservative Faction;;;;;;;;;;;;x
 NIP_liberal;Liberal Faction;;;;;;;;;;;;x
 NIP_socialist;Marxist Faction;;;;;;;;;;;;x
-NIP_anarcho_liberal;Radical Faction;;;;;;;;;;;;x
+NIP_anarcho_liberal;急進派;;;;;;;;;;;;x
 NIP_communist;Communist Faction;;;;;;;;;;;;x
-NIP_fascist;Fascist Faction;;;;;;;;;;;;x
-NOR_liberal;Venstre;;;;;;;;;;;;x
-NOR_conservative;Høyre;;;;;;;;;;;;x
-NOR_socialist;Norske Arbeiderparti;;;;;;;;;;;;x
+NIP_fascist;ファッショ派;;;;;;;;;;;;x
+NOR_liberal;ヴェンスタ;;;;;;;;;;;;x
+NOR_conservative;保守党;;;;;;;;;;;;x
+NOR_socialist;ノルウェー労働党;;;;;;;;;;;;x
 NOR_liberal_2;Arbeiderdemokratene ;;;;;;;;;;;;x
 NOR_liberal_3;Frisinnede Venstre ;;;;;;;;;;;;x
 NOR_liberal_4;Samlingspartiet ;;;;;;;;;;;;x
@@ -8663,7 +8663,7 @@ ORA_conservative_2;Boeren Partei;;;;;;;;;;;;x
 ORA_liberal;The Liberal Party;;;;;;;;;;;;x
 ORA_reactionary;The Nationalist Partei;;;;;;;;;;;;x
 ORA_anarcho_liberal;The Radical Party;;;;;;;;;;;;x
-ORA_socialist;The Socialist Party;;;;;;;;;;;;x
+ORA_socialist;社会党;;;;;;;;;;;;x
 ORA_communist;The Communist Party;;;;;;;;;;;;x
 ORA_fascist;The Fascist Party;;;;;;;;;;;;x
 ORI_conservative;Royal Faction;;;;;;;;;;;;x
@@ -8969,14 +8969,14 @@ SPA_liberal_7;Solidaridad Catalana;;;;;;;;;;;;x
 SPA_conservative_4;Nacionalista Vasco;;;;;;;;;;;;x
 SPA_conservative_5;Unión Nacional;;;;;;;;;;;;x
 SPA_anarcho_liberal;急進党;;;;;;;;;;;;x
-SPA_fascist;Falange;;;;;;;;;;;;x
-SWE_conservative;Konservativa Partiet;;;;;;;;;;;;x
+SPA_fascist;ファランヘ党;;;;;;;;;;;;x
+SWE_conservative;保守党;;;;;;;;;;;;x
 SWE_liberal;Liberala Partiet;;;;;;;;;;;;x
-SWE_socialist;Socialdemokraterna;;;;;;;;;;;;x
+SWE_socialist;社会民主党;;;;;;;;;;;;x
 SWE_conservative_2;Sveriges Agrarförbund ;;;;;;;;;;;;x
-SWE_conservative_3;Bondeförbundet ;;;;;;;;;;;;x
+SWE_conservative_3;農民同盟;;;;;;;;;;;;x
 SWE_liberal_2;Nya Landtmannapartiet;;;;;;;;;;;;x
-SWE_communist;Socialdem. Vänsterpartiet;;;;;;;;;;;;x
+SWE_communist;社会民主左派党;;;;;;;;;;;;x
 SWE_liberal_3;Landtmannapartiet ;;;;;;;;;;;;x
 SWE_liberal_4;Gamla Landtmannapartiet;;;;;;;;;;;;x
 SWE_conservative_4;Almänna Valmansförbundet;;;;;;;;;;;;x
@@ -8996,12 +8996,12 @@ SWI_conservative_3;Protestantisch-konservativ;;;;;;;;;;;;x
 SWI_anarcho_liberal;Radikale Fraktion;;;;;;;;;;;;x
 SWI_communist;Kommunistische Fraktion;;;;;;;;;;;;x
 SWI_fascist;Faschistische Fraktion;;;;;;;;;;;;x
-TEX_liberal;Democratic Party;;;;;;;;;;;;x
+TEX_liberal;民主党;;;;;;;;;;;;x
 TEX_conservative;ホイッグ党;;;;;;;;;;;;x
 TEX_conservative_2;Populist Party;;;;;;;;;;;;x
 TEX_anarcho_liberal;Radical Party;;;;;;;;;;;;x
 TEX_reactionary;Nationalist Party;;;;;;;;;;;;x
-TEX_socialist;Socialist Party;;;;;;;;;;;;x
+TEX_socialist;社会党;;;;;;;;;;;;x
 TEX_fascist;ファシスト党;;;;;;;;;;;;x
 TIB_conservative;Lamaite Faction;;;;;;;;;;;;x
 TIB_liberal;自由主義派;;;;;;;;;;;;x
@@ -9037,7 +9037,7 @@ TRN_conservative_2;Boeren Partei;;;;;;;;;;;;x
 TRN_liberal;自由党;;;;;;;;;;;;x
 TRN_reactionary;Nationalist Partei;;;;;;;;;;;;x
 TRN_anarcho_liberal;Radical Party;;;;;;;;;;;;x
-TRN_socialist;Socialist Party;;;;;;;;;;;;x
+TRN_socialist;社会党;;;;;;;;;;;;x
 TRN_communist;共産党;;;;;;;;;;;;x
 TRN_fascist;ファシスト党;;;;;;;;;;;;x
 TUN_conservative;Royal Faction;;;;;;;;;;;;x
@@ -9133,15 +9133,15 @@ VNZ_communist;共産党;;;;;;;;;;;;x
 VNZ_fascist;ファシスト党;;;;;;;;;;;;x
 WAL_reactionary;Partida Boiereasca;;;;;;;;;;;;x
 WAL_liberal;Partida Nationala;;;;;;;;;;;;x
-WAL_liberal_2;Partidul Liberal;;;;;;;;;;;;x
-WAL_conservative;Partidul Conservator;;;;;;;;;;;;x
-WAL_conservative_2;Partidul Taranesc;;;;;;;;;;;;x
+WAL_liberal_2;自由党;;;;;;;;;;;;x
+WAL_conservative;保守党;;;;;;;;;;;;x
+WAL_conservative_2;農民党;;;;;;;;;;;;x
 WAL_anarcho_liberal;Partidul Radical;;;;;;;;;;;;x
-WAL_socialist;Partidul Social Democrat;;;;;;;;;;;;x
+WAL_socialist;社会民主党;;;;;;;;;;;;x
 WAL_conservative_3;Partidul Conservator Democrat;;;;;;;;;;;;x
 WAL_reactionary_2;Partidul Nationalist Democrat;;;;;;;;;;;;x
-WAL_communist;Partidul Communist;;;;;;;;;;;;x
-WAL_fascist;Garda de Fier;;;;;;;;;;;;x
+WAL_communist;共産党;;;;;;;;;;;;x
+WAL_fascist;鉄衛団;;;;;;;;;;;;x
 WEI_liberal;自由民主党;;;;;;;;;;;;x
 WEI_conservative;中央党;;;;;;;;;;;;x
 WEI_liberal_2;国民自由党;;;;;;;;;;;;x
@@ -9333,7 +9333,7 @@ POP_WAR_EXHAUST;War Exhaustion;;;;;;;;;;;;x
 POP_NON_CULTURE;Minority Culture;;;;;;;;;;;;x
 POP_CON_LITERACY;Literacy;;;;;;;;;;;;x
 POP_CON_LUXURY_GOODS;Luxury Goods Bought;;;;;;;;;;;;x
-POP_CON_CLERGY;Clergy;;;;;;;;;;;;x
+POP_CON_CLERGY;聖職者;;;;;;;;;;;;x
 party_issues;Party Issues;;;;;;;;;;;;x
 trade_policy;Trade Policy;;;;;;;;;;;;x
 protectionism;Protectionism;;;;;;;;;;;;x
@@ -10784,248 +10784,248 @@ PROV901;Dayr al-Zour;;;;;;;;;;;;x
 PROV902;ダマスカス;;;;;;;;;;;;x
 PROV903;ホムス;;;;;;;;;;;;x
 PROV904;ハマー;;;;;;;;;;;;x
-PROV905;Latakia;;;;;;;;;;;;x
-PROV906;Suwayda;;;;;;;;;;;;x
-PROV907;Palmyra;;;;;;;;;;;;x
-PROV908;Amman;;;;;;;;;;;;x
-PROV909;Jerash;;;;;;;;;;;;x
+PROV905;ラタキア;;;;;;;;;;;;x
+PROV906;スワイダー;;;;;;;;;;;;x
+PROV907;パルミラ;;;;;;;;;;;;x
+PROV908;アンマン;;;;;;;;;;;;x
+PROV909;ジャラシュ;;;;;;;;;;;;x
 PROV910;Ruwayshid;;;;;;;;;;;;x
-PROV911;Maan;;;;;;;;;;;;x
-PROV912;Baalbeck;;;;;;;;;;;;x
-PROV913;Beirut;;;;;;;;;;;;x
+PROV911;マアーン;;;;;;;;;;;;x
+PROV912;バールベック;;;;;;;;;;;;x
+PROV913;ベイルート;;;;;;;;;;;;x
 PROV914;Askaleh;;;;;;;;;;;;x
-PROV915;Sidon;;;;;;;;;;;;x
-PROV916;Acre;;;;;;;;;;;;x
-PROV917;Jerusalem;;;;;;;;;;;;x
-PROV918;Nablus;;;;;;;;;;;;x
-PROV919;Jaffa;;;;;;;;;;;;x
-PROV920;Gaza;;;;;;;;;;;;x
-PROV921;Beersheba;;;;;;;;;;;;x
-PROV922;Aqaba;;;;;;;;;;;;x
-PROV923;Mosul;;;;;;;;;;;;x
-PROV924;Arbil;;;;;;;;;;;;x
-PROV925;Kirkuk;;;;;;;;;;;;x
-PROV926;Baghdad;;;;;;;;;;;;x
-PROV927;Samarra;;;;;;;;;;;;x
+PROV915;シドン;;;;;;;;;;;;x
+PROV916;アッコ;;;;;;;;;;;;x
+PROV917;エルサレム;;;;;;;;;;;;x
+PROV918;ナーブルス;;;;;;;;;;;;x
+PROV919;ヤッファ;;;;;;;;;;;;x
+PROV920;ガザ;;;;;;;;;;;;x
+PROV921;ベエルシェバ;;;;;;;;;;;;x
+PROV922;アカバ;;;;;;;;;;;;x
+PROV923;モースル;;;;;;;;;;;;x
+PROV924;アルビール;;;;;;;;;;;;x
+PROV925;キルクーク;;;;;;;;;;;;x
+PROV926;バグダード;;;;;;;;;;;;x
+PROV927;サーマッラー;;;;;;;;;;;;x
 PROV928;Mendeli;;;;;;;;;;;;x
-PROV929;Karbala;;;;;;;;;;;;x
-PROV930;Kut;;;;;;;;;;;;x
+PROV929;カルバラー;;;;;;;;;;;;x
+PROV930;クート;;;;;;;;;;;;x
 PROV931;Rutbah;;;;;;;;;;;;x
-PROV932;Basra;;;;;;;;;;;;x
-PROV933;Nasiriyya;;;;;;;;;;;;x
-PROV934;Najaf;;;;;;;;;;;;x
-PROV935;Kuwait;;;;;;;;;;;;x
-PROV936;Grodno;;;;;;;;;;;;x
-PROV937;Brest-Litovsk;;;;;;;;;;;;x
-PROV938;Lida;;;;;;;;;;;;x
-PROV939;Baranovichi;;;;;;;;;;;;x
-PROV940;Pinsk;;;;;;;;;;;;x
-PROV941;Slutsk;;;;;;;;;;;;x
-PROV942;Mozyr;;;;;;;;;;;;x
-PROV943;Smolensk;;;;;;;;;;;;x
-PROV944;Orsha;;;;;;;;;;;;x
-PROV945;Vitebsk;;;;;;;;;;;;x
-PROV946;Polotsk;;;;;;;;;;;;x
-PROV947;Pastavy;;;;;;;;;;;;x
-PROV948;Mogilev;;;;;;;;;;;;x
-PROV949;Gomel;;;;;;;;;;;;x
-PROV950;Uzgorord;;;;;;;;;;;;x
-PROV951;Stryi;;;;;;;;;;;;x
-PROV952;Ternopil;;;;;;;;;;;;x
+PROV932;バスラ;;;;;;;;;;;;x
+PROV933;ナーシリーヤ;;;;;;;;;;;;x
+PROV934;ナジャフ;;;;;;;;;;;;x
+PROV935;クウェート;;;;;;;;;;;;x
+PROV936;グロドノ;;;;;;;;;;;;x
+PROV937;ブレスト＝リトフスク;;;;;;;;;;;;x
+PROV938;リダ;;;;;;;;;;;;x
+PROV939;バラーノヴィチ;;;;;;;;;;;;x
+PROV940;ピンスク;;;;;;;;;;;;x
+PROV941;スウツク;;;;;;;;;;;;x
+PROV942;マズィル;;;;;;;;;;;;x
+PROV943;スモレンスク;;;;;;;;;;;;x
+PROV944;オルシャ;;;;;;;;;;;;x
+PROV945;ヴィテプスク;;;;;;;;;;;;x
+PROV946;ポロツク;;;;;;;;;;;;x
+PROV947;パスターヴィ;;;;;;;;;;;;x
+PROV948;モギリョフ;;;;;;;;;;;;x
+PROV949;ゴメリ;;;;;;;;;;;;x
+PROV950;ウージュホロド;;;;;;;;;;;;x
+PROV951;ストルイ;;;;;;;;;;;;x
+PROV952;テルノーピリ;;;;;;;;;;;;x
 PROV953;Stanislavov;;;;;;;;;;;;x
-PROV954;Vinnitsa;;;;;;;;;;;;x
-PROV955;Proskorov;;;;;;;;;;;;x
+PROV954;ヴィーンヌィツャ;;;;;;;;;;;;x
+PROV955;プロスクーロフ;;;;;;;;;;;;x
 PROV956;Rovne;;;;;;;;;;;;x
-PROV957;Kovel;;;;;;;;;;;;x
-PROV958;Kiev;;;;;;;;;;;;x
-PROV959;Korosten;;;;;;;;;;;;x
-PROV960;Zhitomir;;;;;;;;;;;;x
-PROV961;Cherkassy;;;;;;;;;;;;x
-PROV962;Chernigov;;;;;;;;;;;;x
-PROV963;Poltava;;;;;;;;;;;;x
-PROV964;Simferopol;;;;;;;;;;;;x
-PROV965;Cherson;;;;;;;;;;;;x
-PROV966;Kerch;;;;;;;;;;;;x
-PROV967;Sevastopol;;;;;;;;;;;;x
-PROV968;Odessa;;;;;;;;;;;;x
-PROV969;Pervomaisk;;;;;;;;;;;;x
-PROV970;Nikolaev;;;;;;;;;;;;x
-PROV971;Krivoy Rog;;;;;;;;;;;;x
-PROV972;Ekaterinoslav;;;;;;;;;;;;x
-PROV973;Melitopol;;;;;;;;;;;;x
-PROV974;Kramatorsk;;;;;;;;;;;;x
-PROV975;Yuzovka;;;;;;;;;;;;x
-PROV976;Mariupol;;;;;;;;;;;;x
-PROV977;Kursk;;;;;;;;;;;;x
-PROV978;Kharkov;;;;;;;;;;;;x
-PROV979;Rostov;;;;;;;;;;;;x
-PROV980;Luhansk;;;;;;;;;;;;x
-PROV981;Archangel;;;;;;;;;;;;x
-PROV982;Petsamo;;;;;;;;;;;;x
-PROV983;Kandalaksha;;;;;;;;;;;;x
+PROV957;コーヴェリ;;;;;;;;;;;;x
+PROV958;キエフ;;;;;;;;;;;;x
+PROV959;コロステン;;;;;;;;;;;;x
+PROV960;ジトーミル;;;;;;;;;;;;x
+PROV961;チェルカースィ;;;;;;;;;;;;x
+PROV962;チェルニゴフ;;;;;;;;;;;;x
+PROV963;ポルタヴァ;;;;;;;;;;;;x
+PROV964;シンフェロポリ;;;;;;;;;;;;x
+PROV965;ヘルソン;;;;;;;;;;;;x
+PROV966;ケルチ;;;;;;;;;;;;x
+PROV967;セヴァストポリ;;;;;;;;;;;;x
+PROV968;オデッサ;;;;;;;;;;;;x
+PROV969;ペルボマイスク;;;;;;;;;;;;x
+PROV970;ニコラーエフ;;;;;;;;;;;;x
+PROV971;クリヴォーイ・ローク;;;;;;;;;;;;x
+PROV972;エカテリノスラーフ;;;;;;;;;;;;x
+PROV973;メリトポル;;;;;;;;;;;;x
+PROV974;クラマトルスク;;;;;;;;;;;;x
+PROV975;ユゾフカ;;;;;;;;;;;;x
+PROV976;マリウポリ;;;;;;;;;;;;x
+PROV977;クルスク;;;;;;;;;;;;x
+PROV978;ハリコフ;;;;;;;;;;;;x
+PROV979;ロストフ;;;;;;;;;;;;x
+PROV980;ルハーンスク;;;;;;;;;;;;x
+PROV981;アルハンゲリスク;;;;;;;;;;;;x
+PROV982;ペツァモ;;;;;;;;;;;;x
+PROV983;カンダラクシャ;;;;;;;;;;;;x
 PROV984;Kostomushka;;;;;;;;;;;;x
-PROV985;Mezen;;;;;;;;;;;;x
-PROV986;Naryn Mar;;;;;;;;;;;;x
-PROV987;Ust Sysolsk;;;;;;;;;;;;x
-PROV988;Povyents;;;;;;;;;;;;x
-PROV989;Vologda;;;;;;;;;;;;x
-PROV990;Kotlas;;;;;;;;;;;;x
-PROV991;Uglich;;;;;;;;;;;;x
-PROV992;Belozersk;;;;;;;;;;;;x
+PROV985;メゼニ;;;;;;;;;;;;x
+PROV986;ナリヤン・マル;;;;;;;;;;;;x
+PROV987;ウスチ・スィソリスク;;;;;;;;;;;;x
+PROV988;ポヴェネツ;;;;;;;;;;;;x
+PROV989;ヴォログダ;;;;;;;;;;;;x
+PROV990;コトラス;;;;;;;;;;;;x
+PROV991;ウグリチ;;;;;;;;;;;;x
+PROV992;ベロゼルスク;;;;;;;;;;;;x
 PROV993;Vyterga;;;;;;;;;;;;x
-PROV994;St Petersburg;;;;;;;;;;;;x
+PROV994;サンクトペテルブルク;;;;;;;;;;;;x
 PROV995;Petrozavorsk;;;;;;;;;;;;x
-PROV996;Luga;;;;;;;;;;;;x
-PROV997;Gdov;;;;;;;;;;;;x
-PROV998;Tver;;;;;;;;;;;;x
-PROV999;Rzhev;;;;;;;;;;;;x
-PROV1000;Staritsa;;;;;;;;;;;;x
-PROV1001;Yaroslavl;;;;;;;;;;;;x
-PROV1002;Manzhouli;;;;;;;;;;;;x
-PROV1003;Novgorod;;;;;;;;;;;;x
-PROV1004;Tikhvin;;;;;;;;;;;;x
-PROV1005;Borovichi;;;;;;;;;;;;x
-PROV1006;Pskov;;;;;;;;;;;;x
-PROV1007;Velikiye Luki;;;;;;;;;;;;x
-PROV1008;Moscow;;;;;;;;;;;;x
-PROV1009;Borodino;;;;;;;;;;;;x
-PROV1010;Kaluga;;;;;;;;;;;;x
-PROV1011;Tula;;;;;;;;;;;;x
-PROV1012;Ryazan;;;;;;;;;;;;x
-PROV1013;Vladimir;;;;;;;;;;;;x
-PROV1014;Vyazma;;;;;;;;;;;;x
-PROV1015;Peremyshl;;;;;;;;;;;;x
-PROV1016;Bryansk;;;;;;;;;;;;x
-PROV1017;Orel;;;;;;;;;;;;x
-PROV1018;Belgorod;;;;;;;;;;;;x
+PROV996;ルーガ;;;;;;;;;;;;x
+PROV997;グドフ;;;;;;;;;;;;x
+PROV998;トヴェリ;;;;;;;;;;;;x
+PROV999;ルジェフ;;;;;;;;;;;;x
+PROV1000;スターリツァ;;;;;;;;;;;;x
+PROV1001;ヤロスラヴリ;;;;;;;;;;;;x
+PROV1002;満州里;;;;;;;;;;;;x
+PROV1003;ノヴゴロド;;;;;;;;;;;;x
+PROV1004;チフヴィン;;;;;;;;;;;;x
+PROV1005;ボロヴィチ;;;;;;;;;;;;x
+PROV1006;プスコフ;;;;;;;;;;;;x
+PROV1007;ヴェリーキエ・ルーキ;;;;;;;;;;;;x
+PROV1008;モスクワ;;;;;;;;;;;;x
+PROV1009;ボロジノ;;;;;;;;;;;;x
+PROV1010;カルーガ;;;;;;;;;;;;x
+PROV1011;トゥーラ;;;;;;;;;;;;x
+PROV1012;リャザン;;;;;;;;;;;;x
+PROV1013;ウラジーミル;;;;;;;;;;;;x
+PROV1014;ヴャジマ;;;;;;;;;;;;x
+PROV1015;ペレムィシュリ;;;;;;;;;;;;x
+PROV1016;ブリャンスク;;;;;;;;;;;;x
+PROV1017;オリョール;;;;;;;;;;;;x
+PROV1018;ベルゴロド;;;;;;;;;;;;x
 PROV1019;Voronets;;;;;;;;;;;;x
-PROV1020;Nizhni Novgorod;;;;;;;;;;;;x
-PROV1021;Penza;;;;;;;;;;;;x
-PROV1022;Ivanovo;;;;;;;;;;;;x
-PROV1023;Kostorma;;;;;;;;;;;;x
-PROV1024;Galich;;;;;;;;;;;;x
-PROV1025;Tambov;;;;;;;;;;;;x
-PROV1026;Perm;;;;;;;;;;;;x
-PROV1027;Vetluga;;;;;;;;;;;;x
+PROV1020;ニジニ・ノヴゴロド;;;;;;;;;;;;x
+PROV1021;ペンザ;;;;;;;;;;;;x
+PROV1022;イヴァノヴォ;;;;;;;;;;;;x
+PROV1023;コストロマ;;;;;;;;;;;;x
+PROV1024;ガーリチ;;;;;;;;;;;;x
+PROV1025;タンボフ;;;;;;;;;;;;x
+PROV1026;ペルミ;;;;;;;;;;;;x
+PROV1027;ヴェトルガ;;;;;;;;;;;;x
 PROV1028;Vyatkha;;;;;;;;;;;;x
-PROV1029;Glasov;;;;;;;;;;;;x
-PROV1030;Kazan;;;;;;;;;;;;x
-PROV1031;Sarapul;;;;;;;;;;;;x
-PROV1032;Chistopol;;;;;;;;;;;;x
-PROV1033;Simbirsk;;;;;;;;;;;;x
-PROV1034;Samara;;;;;;;;;;;;x
-PROV1035;Syzran;;;;;;;;;;;;x
-PROV1036;Astrakhan;;;;;;;;;;;;x
-PROV1037;Saratov;;;;;;;;;;;;x
-PROV1038;Novo Uzensk;;;;;;;;;;;;x
-PROV1039;Tsaritsyn;;;;;;;;;;;;x
+PROV1029;グラゾフ;;;;;;;;;;;;x
+PROV1030;カザン;;;;;;;;;;;;x
+PROV1031;サラプル;;;;;;;;;;;;x
+PROV1032;チストポリ;;;;;;;;;;;;x
+PROV1033;シンビルスク;;;;;;;;;;;;x
+PROV1034;サマーラ;;;;;;;;;;;;x
+PROV1035;シズラニ;;;;;;;;;;;;x
+PROV1036;アストラハン;;;;;;;;;;;;x
+PROV1037;サラトフ;;;;;;;;;;;;x
+PROV1038;ノヴォウゼンスク;;;;;;;;;;;;x
+PROV1039;ツァリーツィン;;;;;;;;;;;;x
 PROV1040;Zarevka;;;;;;;;;;;;x
 PROV1041;Elitsa;;;;;;;;;;;;x
-PROV1042;Ufa;;;;;;;;;;;;x
+PROV1042;ウファ;;;;;;;;;;;;x
 PROV1043;Busuluk;;;;;;;;;;;;x
-PROV1044;Orenburg;;;;;;;;;;;;x
+PROV1044;オレンブルク;;;;;;;;;;;;x
 PROV1045;Migolinskaya;;;;;;;;;;;;x
-PROV1046;Chirskaya;;;;;;;;;;;;x
-PROV1047;Azov;;;;;;;;;;;;x
-PROV1048;Ekaterinodar;;;;;;;;;;;;x
-PROV1049;Novorossiysk;;;;;;;;;;;;x
-PROV1050;Stavropol;;;;;;;;;;;;x
-PROV1051;Adygei;;;;;;;;;;;;x
-PROV1052;Derbent;;;;;;;;;;;;x
-PROV1053;Gunib;;;;;;;;;;;;x
-PROV1054;Vladikavkaz;;;;;;;;;;;;x
-PROV1055;Grozny;;;;;;;;;;;;x
-PROV1056;Pyatigorsk;;;;;;;;;;;;x
-PROV1057;Kizylyar;;;;;;;;;;;;x
-PROV1058;Ekaterinburg;;;;;;;;;;;;x
-PROV1059;Chelyabinsk;;;;;;;;;;;;x
-PROV1060;Orsk;;;;;;;;;;;;x
-PROV1061;Tyumen;;;;;;;;;;;;x
-PROV1062;Berezov;;;;;;;;;;;;x
-PROV1063;Tomsk;;;;;;;;;;;;x
-PROV1064;Omsk;;;;;;;;;;;;x
-PROV1065;Nizhnevartovsk;;;;;;;;;;;;x
-PROV1066;Tobolsk;;;;;;;;;;;;x
-PROV1067;Barnaul;;;;;;;;;;;;x
-PROV1068;Ulala;;;;;;;;;;;;x
-PROV1069;Vilyuysk;;;;;;;;;;;;x
+PROV1046;チルスカヤ;;;;;;;;;;;;x
+PROV1047;アゾフ;;;;;;;;;;;;x
+PROV1048;エカテリノダール;;;;;;;;;;;;x
+PROV1049;ノヴォロシースク;;;;;;;;;;;;x
+PROV1050;スタヴロポリ;;;;;;;;;;;;x
+PROV1051;アディゲ;;;;;;;;;;;;x
+PROV1052;デルベント;;;;;;;;;;;;x
+PROV1053;グニブ;;;;;;;;;;;;x
+PROV1054;ウラジカフカス;;;;;;;;;;;;x
+PROV1055;グロズヌイ;;;;;;;;;;;;x
+PROV1056;ピャチゴルスク;;;;;;;;;;;;x
+PROV1057;キズリャル;;;;;;;;;;;;x
+PROV1058;エカテリンブルク;;;;;;;;;;;;x
+PROV1059;チェリャビンスク;;;;;;;;;;;;x
+PROV1060;オルスク;;;;;;;;;;;;x
+PROV1061;チュメニ;;;;;;;;;;;;x
+PROV1062;ベレゾフ;;;;;;;;;;;;x
+PROV1063;トムスク;;;;;;;;;;;;x
+PROV1064;オムスク;;;;;;;;;;;;x
+PROV1065;ニジネヴァルトフスク;;;;;;;;;;;;x
+PROV1066;トボリスク;;;;;;;;;;;;x
+PROV1067;バルナウル;;;;;;;;;;;;x
+PROV1068;ウララ;;;;;;;;;;;;x
+PROV1069;ヴィリュイスク;;;;;;;;;;;;x
 PROV1070;Bryanka;;;;;;;;;;;;x
 PROV1071;Bytantaysk;;;;;;;;;;;;x
-PROV1072;Okhotsk;;;;;;;;;;;;x
+PROV1072;オホーツク;;;;;;;;;;;;x
 PROV1073;Yevensk;;;;;;;;;;;;x
-PROV1074;Petropavlovsk;;;;;;;;;;;;x
-PROV1075;Irkutsk;;;;;;;;;;;;x
-PROV1076;Bratsk;;;;;;;;;;;;x
-PROV1077;Krasnoyarsk;;;;;;;;;;;;x
-PROV1078;Chita;;;;;;;;;;;;x
-PROV1079;Nerchinsk;;;;;;;;;;;;x
+PROV1074;ペトロパヴロフスク;;;;;;;;;;;;x
+PROV1075;イルクーツク;;;;;;;;;;;;x
+PROV1076;ブラーツク;;;;;;;;;;;;x
+PROV1077;クラスノヤルスク;;;;;;;;;;;;x
+PROV1078;チタ;;;;;;;;;;;;x
+PROV1079;ネルチンスク;;;;;;;;;;;;x
 PROV1080;Chernomin;;;;;;;;;;;;x
 PROV1081;Yaksa;;;;;;;;;;;;x
-PROV1082;Haishenwai;;;;;;;;;;;;x
-PROV1083;Boli;;;;;;;;;;;;x
+PROV1082;海参崴;;;;;;;;;;;;x
+PROV1083;伯力;;;;;;;;;;;;x
 PROV1084;Utchan;;;;;;;;;;;;x
 PROV1085;Ulusamudan;;;;;;;;;;;;x
 PROV1086;Pogobi;;;;;;;;;;;;x
-PROV1087;Ootomari;;;;;;;;;;;;x
-PROV1088;Shumshu;;;;;;;;;;;;x
-PROV1089;Etorofu;;;;;;;;;;;;x
-PROV1090;Tblisi;;;;;;;;;;;;x
-PROV1091;Pasanauri;;;;;;;;;;;;x
-PROV1092;Kutaisi;;;;;;;;;;;;x
-PROV1093;Akhaltsikhe;;;;;;;;;;;;x
-PROV1094;Poti;;;;;;;;;;;;x
-PROV1095;Sukhumi;;;;;;;;;;;;x
-PROV1096;Batum;;;;;;;;;;;;x
-PROV1097;New Caledonia;;;;;;;;;;;;x
-PROV1098;Erivan;;;;;;;;;;;;x
-PROV1099;Gyumri;;;;;;;;;;;;x
-PROV1100;Kapan;;;;;;;;;;;;x
-PROV1101;Nakhichevan;;;;;;;;;;;;x
-PROV1102;Baku;;;;;;;;;;;;x
+PROV1087;大泊;;;;;;;;;;;;x
+PROV1088;占守;;;;;;;;;;;;x
+PROV1089;択捉;;;;;;;;;;;;x
+PROV1090;トビリシ;;;;;;;;;;;;x
+PROV1091;パサナウリ;;;;;;;;;;;;x
+PROV1092;クタイシ;;;;;;;;;;;;x
+PROV1093;アハルツィヘ;;;;;;;;;;;;x
+PROV1094;ポティ;;;;;;;;;;;;x
+PROV1095;スフミ;;;;;;;;;;;;x
+PROV1096;バトゥム;;;;;;;;;;;;x
+PROV1097;ニューカレドニア;;;;;;;;;;;;x
+PROV1098;エリヴァニ;;;;;;;;;;;;x
+PROV1099;ギュムリ;;;;;;;;;;;;x
+PROV1100;カパン;;;;;;;;;;;;x
+PROV1101;ナヒチェヴァン;;;;;;;;;;;;x
+PROV1102;バクー;;;;;;;;;;;;x
 PROV1103;Siyazen;;;;;;;;;;;;x
 PROV1104;Sheki;;;;;;;;;;;;x
-PROV1105;Ganja;;;;;;;;;;;;x
-PROV1106;Agdam;;;;;;;;;;;;x
-PROV1107;Lankaran;;;;;;;;;;;;x
-PROV1108;Tabriz;;;;;;;;;;;;x
+PROV1105;ギャンジャ;;;;;;;;;;;;x
+PROV1106;アグダム;;;;;;;;;;;;x
+PROV1107;ランカラン;;;;;;;;;;;;x
+PROV1108;タブリーズ;;;;;;;;;;;;x
 PROV1109;Khvoy;;;;;;;;;;;;x
-PROV1110;Urumia;;;;;;;;;;;;x
-PROV1111;Mahabad;;;;;;;;;;;;x
-PROV1112;Ardabil;;;;;;;;;;;;x
-PROV1113;Rasht;;;;;;;;;;;;x
+PROV1110;ウルミア;;;;;;;;;;;;x
+PROV1111;マハバード;;;;;;;;;;;;x
+PROV1112;アルダビール;;;;;;;;;;;;x
+PROV1113;ラシュト;;;;;;;;;;;;x
 PROV1114;Noshehr;;;;;;;;;;;;x
-PROV1115;Sari;;;;;;;;;;;;x
-PROV1116;Gorgan;;;;;;;;;;;;x
-PROV1117;Kermanshah;;;;;;;;;;;;x
-PROV1118;Sanandaj;;;;;;;;;;;;x
-PROV1119;Ilam;;;;;;;;;;;;x
-PROV1120;Khoramabad;;;;;;;;;;;;x
-PROV1121;Tehran;;;;;;;;;;;;x
-PROV1122;Hamadan;;;;;;;;;;;;x
-PROV1123;Zanjan;;;;;;;;;;;;x
-PROV1124;Qazvin;;;;;;;;;;;;x
-PROV1125;Qom;;;;;;;;;;;;x
-PROV1126;Semnan;;;;;;;;;;;;x
-PROV1127;Isfahan;;;;;;;;;;;;x
-PROV1128;Arak;;;;;;;;;;;;x
-PROV1129;Kashan;;;;;;;;;;;;x
-PROV1130;Yazd;;;;;;;;;;;;x
-PROV1131;Ahvaz;;;;;;;;;;;;x
-PROV1132;Abadan;;;;;;;;;;;;x
-PROV1133;Dezful;;;;;;;;;;;;x
+PROV1115;サーリー;;;;;;;;;;;;x
+PROV1116;ゴルガーン;;;;;;;;;;;;x
+PROV1117;ケルマーンシャー;;;;;;;;;;;;x
+PROV1118;サナンダジュ;;;;;;;;;;;;x
+PROV1119;イーラーム;;;;;;;;;;;;x
+PROV1120;ホッラマーバード;;;;;;;;;;;;x
+PROV1121;テヘラン;;;;;;;;;;;;x
+PROV1122;ハマダーン;;;;;;;;;;;;x
+PROV1123;ザンジャーン;;;;;;;;;;;;x
+PROV1124;ガズヴィーン;;;;;;;;;;;;x
+PROV1125;コム;;;;;;;;;;;;x
+PROV1126;セムナーン;;;;;;;;;;;;x
+PROV1127;エスファハーン;;;;;;;;;;;;x
+PROV1128;アラーク;;;;;;;;;;;;x
+PROV1129;カーシャーン;;;;;;;;;;;;x
+PROV1130;ヤズド;;;;;;;;;;;;x
+PROV1131;アフヴァーズ;;;;;;;;;;;;x
+PROV1132;アーバーダーン;;;;;;;;;;;;x
+PROV1133;デズフール;;;;;;;;;;;;x
 PROV1134;Dehkord;;;;;;;;;;;;x
-PROV1135;Shiraz;;;;;;;;;;;;x
-PROV1136;Bushire;;;;;;;;;;;;x
-PROV1137;Yasuj;;;;;;;;;;;;x
+PROV1135;シーラーズ;;;;;;;;;;;;x
+PROV1136;ブーシェフル;;;;;;;;;;;;x
+PROV1137;ヤースージュ;;;;;;;;;;;;x
 PROV1138;Kangan;;;;;;;;;;;;x
-PROV1139;Sirjan;;;;;;;;;;;;x
-PROV1140;Kerman;;;;;;;;;;;;x
-PROV1141;Lengeh;;;;;;;;;;;;x
-PROV1142;Bandar Abbas;;;;;;;;;;;;x
-PROV1143;Bam;;;;;;;;;;;;x
-PROV1144;Zahedan;;;;;;;;;;;;x
-PROV1145;Jask;;;;;;;;;;;;x
-PROV1146;Chabahar;;;;;;;;;;;;x
+PROV1139;シールジャーン;;;;;;;;;;;;x
+PROV1140;ケルマーン;;;;;;;;;;;;x
+PROV1141;レンゲ;;;;;;;;;;;;x
+PROV1142;バンダレ・アッバース;;;;;;;;;;;;x
+PROV1143;バム;;;;;;;;;;;;x
+PROV1144;ザーヘダーン;;;;;;;;;;;;x
+PROV1145;ジャースク;;;;;;;;;;;;x
+PROV1146;チャーバハール;;;;;;;;;;;;x
 PROV1147;Mashhad;;;;;;;;;;;;x
 PROV1148;Birjand;;;;;;;;;;;;x
 PROV1149;Sabzevar;;;;;;;;;;;;x

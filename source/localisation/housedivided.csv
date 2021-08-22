@@ -234,7 +234,7 @@ MAKE_CBTITLE;Justify War;;;;;;;;;;;;x
 MAPMODE_11;RGO output;;;;;;;;;;;;x
 MAPMODE_12;Population density;;;;;;;;;;;;x
 MAPMODE_13;Nationality;;;;;;;;;;;;x
-MAPMODE_14;Sphere of influence;;;;;;;;;;;;x
+MAPMODE_14;影響圏;;;;;;;;;;;;x
 MAPMODE_15;Supply limit;;;;;;;;;;;;x
 MAPMODE_16;Party loyalty;;;;;;;;;;;;x
 MAPMODE_17;Ranking;;;;;;;;;;;;x
@@ -245,7 +245,7 @@ WORLD_RANKING_SECONDARY_POWER;§Y$COUNTRY$§W is a Secondary Power.;;;;;;;;;;;;x
 POPULATION_DENSITY_AT_PROVINCE;Total population in §Y$PROV$§W:;;;;;;;;;;;;x
 NATIONALITY_MAJORITY_AT_PROVINCE;The national majority in §Y$PROV$§W are:;;;;;;;;;;;;x
 SPHERE_OF_INFL_GREAT_POWER;§Y$COUNTRY$§W is a Great Power.;;;;;;;;;;;;x
-SPHERE_OF_INFL_IS_IN_SPHERE;§Y$COUNTRY1$§W is in the sphere of §Y$COUNTRY2$§W.;;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_IN_SPHERE;§Y$COUNTRY1$§Wは§Y$COUNTRY2$§Wの影響圏化にあります。;;;;;;;;;;;;x
 SPHERE_OF_INFL_IS_INFL_BY;§Y$COUNTRY$§W is influenced by:;;;;;;;;;;;;x
 PARTY_LOYALTY_EFFECT_DESC;Loyalty towards §Y$PARTY$§W in §Y$PROV$§W will be $OPERATOR$ §Y$VALUE$§W.;;;;;;;;;;;;x
 PARTY_LOYALTY_EFFECT_OPERATOR_ADD;increased by;;;;;;;;;;;;x
@@ -304,7 +304,7 @@ CB_CREATE_TECH;War justification efficiency: $VAL$;;;;;;;;;;;;x
 SUPPRESSION_TECH_DESC;Suppression efficiency: $VAL$;;;;;;;;;;;;x
 CB_CREATION_TIME_DAYS;It will take roughly §Y$DAYS$§! days to justify this war;;;;;;;;;;;;x
 CB_NOT_ON_PUPPETS;We can't justify war against §Ypuppets§W and §Ysubstates§W.;;;;;;;;;;;;x
-CB_NOT_ON_SPHERES;We can't justify war against a country that is in our sphere.;;;;;;;;;;;;x
+CB_NOT_ON_SPHERES;影響圏化にある国家に対する戦争を正当化することはできません。;;;;;;;;;;;;x
 NO_WAR_JUSTIFICATION;We are missing a valid justification for declaring war on them.;;;;;;;;;;;;x
 NOT_HOSTILE_BUILD;Not Hostile;;;;;;;;;;;;x
 ACW_NAME;分かれたる家;;;;;;;;;;;;x
@@ -420,7 +420,7 @@ MSG_FILTER_BEST_GUESS;Best Guess;;;;;;;;;;;;x
 MSG_FILTER_ENEMIES;Enemies;;;;;;;;;;;;x
 MSG_FILTER_ALLIES;Allies;;;;;;;;;;;;x
 MSG_FILTER_NEIGHBOURS;Neighbors;;;;;;;;;;;;x
-MSG_FILTER_SPHERE;Sphere;;;;;;;;;;;;x
+MSG_FILTER_SPHERE;影響圏;;;;;;;;;;;;x
 PRODUCTION_BROWSE_INVEST;Other;;;;;;;;;;;;x
 DIPLOMACY_OPINION_INVESTMENT;§Y$GP_ADJ$§W investment: §Y$VALUE$§!¤;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_HEADER;In message filter settings window, you can select countries that you are interested in. All the messages and alerts will be shown only for those important countries.;;;;;;;;;;;;x
@@ -430,11 +430,11 @@ MSG_FILTER_TOOLTIP_BESTGUESS;Select countries by using best guess method.;;;;;;;
 MSG_FILTER_TOOLTIP_ENEMIES;Select countries that are your enemies.;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_ALLIES;Select countries that are your allies.;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_NEIGHBOURS;Select countries that are your neighbors.;;;;;;;;;;;;x
-MSG_FILTER_TOOLTIP_SPHERE;Select countries that are in your sphere. (if you are a great power);;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_SPHERE;あなたの影響圏化の国家を選択してください。（列強である場合）;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_CONTINENT;Select countries that owns any province on the continent.;;;;;;;;;;;;x
 PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;We don't have the right to do that in a foreign country;;;;;;;;;;;;x
 INVESTMENT_PENALTY_FACTOR;Other national investors;;;;;;;;;;;;x
-SPHERE_SHARE_NOT_IN_SPHERE;Not in a sphere so free to sell on the world market;;;;;;;;;;;;x
+SPHERE_SHARE_NOT_IN_SPHERE;影響圏化になければ世界市場で自由に取引できます;;;;;;;;;;;;x
 SPHERE_SHARE_UNCIV;Uncivilized nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market;;;;;;;;;;;;x
 SPHERE_SHARE_2NDRANK;Second rank nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market (Base: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;;x
 SPHERE_SHARE_CIV;Civilized nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market (Base: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;;x
@@ -740,7 +740,7 @@ MODIFIER_CIVILIZATION_PROGRESS;Civilization Progress;;;;;;;;;;;;x
 SUPPRESSION_TECH;Suppression efficiency;;;;;;;;;;;;x
 REFORM_RESEARCH_COST;Research Cost: §Y$COST$§!;;;;;;;;;;;;x
 POLITICS_CIVILIZE;Westernize;;;;;;;;;;;;x
-CIVILIZE_DESC;Fully embrace western ideas. This will give us access to the technological advances of our sphere leader;;;;;;;;;;;;x
+CIVILIZE_DESC;西洋の考え方を全面的に受け入れます。このことは我々に影響圏の指導国の技術進歩を利用する機会を与えてくれるでしょう。;;;;;;;;;;;;x
 CIVILIZE_NO_MASTER_DESC;Fully embrace western ideas. This will gives us access to the technological advances from around the world;;;;;;;;;;;;x
 INFLUENCE_RELATION;Relations;;;;;;;;;;;;x
 NO_CIV_PROGRESS;We have made no progress towards westernization. We need to enact military or economic reforms;;;;;;;;;;;;x
@@ -812,7 +812,7 @@ NUMBER_MOVEMENT_SUPPORTERS;Number of supporters;;;;;;;;;;;;x
 NUMBER_MOVEMENT_SUPPORTERS_DESC;The larger the movement the harder it is to suppress. If you enact a reform with less support all movements with more support will become more radical;;;;;;;;;;;;x
 PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;Can not close foreign factory\n;;;;;;;;;;;;x
 CAN_NATIONALIZE;Have foreign investors;;;;;;;;;;;;x
-IS_NOT_IN_A_SPHERE;Not in a sphere of influence;;;;;;;;;;;;x
+IS_NOT_IN_A_SPHERE;影響圏化にない;;;;;;;;;;;;x
 ACTIVATE_TECH_EFFECT;Activate technology: §Y$NAME$§!;;;;;;;;;;;;x
 TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;High level technology is only available to civilized nations. By westernizing in the §Ypolitics tab§! you can aquire base technology and start researching on your own instead.;;;;;;;;;;;;x
 RELATION_BETWEEN;Current relation between $COUNTRY1$ and $COUNTRY2$: $RELATION$;;;;;;;;;;;;x
@@ -822,8 +822,8 @@ CORRUPTION_MORE_THAN;Corruption more than ;;;;;;;;;;;;x
 MOVEMENT_RADICALISM_FROM_SIZE;Population support: $VAL$ ;;;;;;;;;;;;x
 dar_al_funun;The Dar al funun.;;;;;;;;;;;;x
 dar_al_funun_desc;The first modern university in Persia.;;;;;;;;;;;;x
-BOL_2305;Atacama;;;;;;;;;;;;x
-BOL_2314;Potosi;;;;;;;;;;;;x
+BOL_2305;アタカマ;;;;;;;;;;;;x
+BOL_2314;ポトシ;;;;;;;;;;;;x
 serfdom_not_abolished;Serfdom not abolished:;;;;;;;;;;;;x
 XIN;新疆;;;;;;;;;;;;x
 YNN;雲南;;;;;;;;;;;;x

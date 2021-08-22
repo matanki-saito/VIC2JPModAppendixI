@@ -710,7 +710,7 @@ BA_WORK_FORCE;Work Force;;;;;;;;;;;;x
 BA_IDEOLOGY;Ideology;;;;;;;;;;;;x
 REMOVE_BE_GREAT_POWER;Great Nation;;;;;;;;;;;;x
 REMOVE_BE_SECOND_RANK;Colonial Nation;;;;;;;;;;;;x
-BE_IN_SPHERE_OF;In sphere of $COUNTRY$;;;;;;;;;;;;x
+BE_IN_SPHERE_OF;$COUNTRY$の影響圏化;;;;;;;;;;;;x
 BE_INDEPENDENT_NATION;Independent Nation;;;;;;;;;;;;x
 BE_PRESTIGE;Prestige;;;;;;;;;;;;x
 BE_INDUSTRY;Industry Score;;;;;;;;;;;;x
@@ -1537,7 +1537,7 @@ REL_OPPOSED;Opposed;;;;;;;;;;;;x
 REL_NEUTRAL;Neutral;;;;;;;;;;;;x
 REL_CORDIAL;Cordial;;;;;;;;;;;;x
 REL_FRIENDLY;Friendly;;;;;;;;;;;;x
-REMOVE_REL_SPHERE_OF_INFLUENCE;Sphere of Influence;;;;;;;;;;;;x
+REMOVE_REL_SPHERE_OF_INFLUENCE;影響圏;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ALL;All;;;;;;;;;;;;x
 DIPLOMACY_FILTER_EUROPE;Europe;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ASIA;Asia;;;;;;;;;;;;x
@@ -1548,7 +1548,7 @@ DIPLOMACY_FILTER_OCEANIA;Oceania;;;;;;;;;;;;x
 DIPLOMACY_FILTER_NEIGHBOURS;Neighbours;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ENEMIES;Enemies;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ALLIES;Allies;;;;;;;;;;;;x
-DIPLOMACY_FILTER_SPHERE;Sphere;;;;;;;;;;;;x
+DIPLOMACY_FILTER_SPHERE;影響圏;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ALL_TOOLTIP;List all countries;;;;;;;;;;;;x
 DIPLOMACY_FILTER_EUROPE_TOOLTIP;List §YEuropean§W countries;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ASIA_TOOLTIP;List §YAsian§W countries;;;;;;;;;;;;x
@@ -1559,10 +1559,10 @@ DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List countries in §YOceania§W;;;;;;;;;;;;x
 DIPLOMACY_FILTER_NEIGHBOURS_TOOLTIP;List your neighbouring countries;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ENEMIES_TOOLTIP;List our current enemies;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ALLIES_TOOLTIP;List our current allies;;;;;;;;;;;;x
-DIPLOMACY_FILTER_SPHERE_TOOLTIP;List countries in our §YSphere of Influence§W;;;;;;;;;;;;x
+DIPLOMACY_FILTER_SPHERE_TOOLTIP;我々の§Y影響圏§W化にある国家一覧;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_COUNTRY_NAME_TOOLTIP;Sort by country name;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_PRIORITY_TOOLTIP;Sort by influence priority;;;;;;;;;;;;x
-DIPLOMACY_SORT_BY_BOSS_TOOLTIP;Sort by §YSphere of Influence§W;;;;;;;;;;;;x
+DIPLOMACY_SORT_BY_BOSS_TOOLTIP;§Y影響圏§Wで並び替える;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_PRESTIGE_TOOLTIP;Sort by §YPrestige rank§W;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_MILITARY_TOOLTIP;Sort by §YMilitary rank§W;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_ECONOMIC_TOOLTIP;Sort by §YIndustrial rank§W;;;;;;;;;;;;x
@@ -1570,7 +1570,7 @@ DIPLOMACY_SORT_BY_TOTAL_TOOLTIP;Sort by rank;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_OPINION_TOOLTIP;Sort by §YOpinion§W;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_RELATION_TOOLTIP;Sort by §YRelation§W;;;;;;;;;;;;x
 DIPLOMACY_SORT_BY_GREATPOWER_TOOLTIP;Sort by influence of $COUNTRY$;;;;;;;;;;;;x
-DIPLOMACY_WAR_INFO;Show wars;;;;;;;;;;;;x
+DIPLOMACY_WAR_INFO;戦争を表示;;;;;;;;;;;;x
 DIPLOMACY_GP_INFO;Show Great Powers;;;;;;;;;;;;x
 DIPLOMACY_NOT_ENOUGH_WARSCORE;We can only join the losing side of a war, when the current warscore is at least §Y$VALUE$%§W;;;;;;;;;;;;x
 DIPLOMACY_NOT_ENOUGH_MONTHS;We can only join the war after at least §Y$VALUE$ months§W has passed since the war started;;;;;;;;;;;;x
@@ -1584,13 +1584,13 @@ DIPLOMACY_SHIPS;Ships: §Y$VALUE$§W;;;;;;;;;;;;x
 DIPLOMACY_ALLIES;Allied with:;;;;;;;;;;;;x
 DIPLOMACY_PROTECTED;Protected by:;;;;;;;;;;;;x
 DIPLOMACY_ADD_WARGOAL;Add Wargoal;;;;;;;;;;;;x
-DIPLOMACY_CANNOT_JOIN_WAR_INVALID_WARGOAL;We cannot join a side that has added any wargoals(except §YStatus Quo§W).;;;;;;;;;;;;x
+DIPLOMACY_CANNOT_JOIN_WAR_INVALID_WARGOAL;我々は何らかの戦争目的（§Y原状維持§Wを除く）を追加した側には参加できません。;;;;;;;;;;;;x
 DIPLOMACY_WARSCORE_LABEL;Warscore:;;;;;;;;;;;;x
 DIPLOMACY_TOTAL_LABEL;Total:;;;;;;;;;;;;x
 DIPLOMACY_POPULATION_LABEL;人口;;;;;;;;;;;;x
 DIPLOMACY_FRIENDLY_LABEL;Friendly:;;;;;;;;;;;;x
 DIPLOMACY_CORDIAL_LABEL;Cordial:;;;;;;;;;;;;x
-DIPLOMACY_SPHERE_LABEL;Sphere:;;;;;;;;;;;;x
+DIPLOMACY_SPHERE_LABEL;影響圏：;;;;;;;;;;;;x
 REMOVE_DIPLOMACY_GREATNATION_STATUS;Great Nation;;;;;;;;;;;;x
 DIPLOMACY_COLONIALNATION_STATUS;Secondary Power;;;;;;;;;;;;x
 DIPLOMACY_CIVILIZEDNATION_STATUS;Civilized Nation;;;;;;;;;;;;x
@@ -1935,9 +1935,9 @@ CANNOT_TARGET_GREATNATION;We cannot influence other Great Powers;;;;;;;;;;;;x
 NOT_ENOUGH_RELATION;In order to influence this country, their opinion of us must be at least §Y$NEEDED$§W. Their current opinion is §Y$CURRENT$§W.;;;;;;;;;;;;x
 ENOUGH_RELATION;Their opinion of us is as good as it can be.;;;;;;;;;;;;x
 ALREADY_BAD_RELATION;§Y$RECIPIENT$§W already has a §Y$OPINION$§W opinion of §Y$TARGET$§W.;;;;;;;;;;;;x
-ALREADY_IN_SPHERE;This country is already in the sphere of influence of §Y$LEADER$§W.;;;;;;;;;;;;x
-IN_NO_SPHERE;This country is not in a sphere of influence.;;;;;;;;;;;;x
-IN_OUR_SPHERE;This country is in our sphere of influence.;;;;;;;;;;;;x
+ALREADY_IN_SPHERE;この国家はすでに§Y$LEADER$§Wの影響圏化にあります。;;;;;;;;;;;;x
+IN_NO_SPHERE;この国家は影響圏化にありません;;;;;;;;;;;;x
+IN_OUR_SPHERE;この国家は我々の影響圏化にあります;;;;;;;;;;;;x
 CALL_MUST_BE_ALLIES;We must be allied with country to call them into a war.;;;;;;;;;;;;x
 CALL_MUST_BE_AT_WAR;We must be at war to call our allies.;;;;;;;;;;;;x
 CALL_MUST_HAVE_JOINABLE_WAR;There is no suitable war for our allies to join.;;;;;;;;;;;;x
@@ -2041,13 +2041,13 @@ DECREASEOPINION_BUTTON;Decrease Opinion;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_LOG;We have included $RECIPIENT$ in our Sphere of Influence.;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_LOG;$ACTOR$ has included us in their Sphere of Influence.;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_LOG;$ACTOR$ has included $RECIPIENT$ in their Sphere of Influence.;;;;;;;;;;;;x
-ADDTOSPHERE_DESC;Adds this country to our Sphere of Influence.;;;;;;;;;;;;x
-ADDTOSPHERE_BUTTON;Add to Sphere;;;;;;;;;;;;x
-REMOVEFROMSPHERE_THEY_ACCEPT_LOG;We have removed $RECIPIENT$ from the Sphere of Influence of $TARGET$.;;;;;;;;;;;;x
-REMOVEFROMSPHERE_WE_ACCEPT_LOG;$ACTOR$ has removed us from the Sphere of Influence of $TARGET$.;;;;;;;;;;;;x
-REMOVEFROMSPHERE_OTHER_ACCEPT_LOG;$ACTOR$ has removed $RECIPIENT$ from the Sphere of Influence of $TARGET$.;;;;;;;;;;;;x
-REMOVE_REMOVEFROMSPHERE_DESC;Removes country from a Sphere of Influence.;;;;;;;;;;;;x
-REMOVEFROMSPHERE_BUTTON;Remove from Sphere;;;;;;;;;;;;x
+ADDTOSPHERE_DESC;この国を我々の影響圏へ編入します;;;;;;;;;;;;x
+ADDTOSPHERE_BUTTON;影響圏へ編入;;;;;;;;;;;;x
+REMOVEFROMSPHERE_THEY_ACCEPT_LOG;我々は$TARGET$の影響圏から$RECIPIENT$を排除しました。;;;;;;;;;;;;x
+REMOVEFROMSPHERE_WE_ACCEPT_LOG;$ACTOR$は$TARGET$の影響圏から我々を排除しました。;;;;;;;;;;;;x
+REMOVEFROMSPHERE_OTHER_ACCEPT_LOG;$ACTOR$は$TARGET$の影響圏から$RECIPIENT$を排除しました。;;;;;;;;;;;;x
+REMOVE_REMOVEFROMSPHERE_DESC;影響圏から国家を排除します。;;;;;;;;;;;;x
+REMOVEFROMSPHERE_BUTTON;影響圏から排除;;;;;;;;;;;;x
 INCREASERELATION_THEY_ACCEPT_LOG;We have increased our relations with $RECIPIENT$.;;;;;;;;;;;;x
 REMOVE_INCREASERELATION_WE_ACCEPT_LOG;$RECIPIENT$ has increased their relations with us.;;;;;;;;;;;;x
 INCREASERELATION_OTHER_ACCEPT_LOG;$ACTOR$ has increased their relations with $RECIPIENT$.;;;;;;;;;;;;x
@@ -2066,12 +2066,12 @@ nocasusbelli;No war justification;;;;;;;;;;;;x
 conquest;征服;;;;;;;;;;;;x
 conquest_setup;Annex $RECIPIENT$;;;;;;;;;;;;x
 conquest_short;Annex $RECIPIENT$;;;;;;;;;;;;x
-add_to_sphere;Add to Sphere;;;;;;;;;;;;x
-add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;;;;;;;;;x
-add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;;;;;;;;;x
-take_from_sphere;Take from sphere of influence;;;;;;;;;;;;x
-take_from_sphere_short;Take $THIRD$ from sphere of influence;;;;;;;;;;;;x
-take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;;;;;;;;;;;;x
+add_to_sphere;影響圏へ編入;;;;;;;;;;;;x
+add_to_sphere_short;影響圏に$RECIPIENT$を編入する;;;;;;;;;;;;x
+add_to_sphere_setup;影響圏に$RECIPIENT$を編入する;;;;;;;;;;;;x
+take_from_sphere;影響圏から剥ぎ取り;;;;;;;;;;;;x
+take_from_sphere_short;影響圏から$THIRD$を剥ぎ取ります;;;;;;;;;;;;x
+take_from_sphere_setup;$RECIPIENT$の影響圏から$THIRD$を剥ぎ取ります;;;;;;;;;;;;x
 acquire_core_state;Acquire core;;;;;;;;;;;;x
 acquire_core_state_short;Acquire $STATE$;;;;;;;;;;;;x
 acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;;;;;;;;;;;;x
@@ -2097,9 +2097,9 @@ WETARGET_DISCREDIT_LOG;$ACTOR$ has discredited us! It will lessen our influence 
 WETARGET_EXPELADVISORS_LOG;$ACTOR$ convinced $RECIPIENT$ to expel all our advisors!;;;;;;;;;;;;x
 WETARGET_BANEMBASSY_LOG;$ACTOR$ convinced $RECIPIENT$ to ban all our ambassadors!;;;;;;;;;;;;x
 WETARGET_DECREASEOPINION_LOG;$ACTOR$ has lowered opinion of us in $RECIPIENT$ to $OPINION$!;;;;;;;;;;;;x
-WETARGET_REMOVEFROMSPHERE_LOG;$ACTOR$ has removed $RECIPIENT$ from our Sphere of Influence!;;;;;;;;;;;;x
+WETARGET_REMOVEFROMSPHERE_LOG;$ACTOR$は我々の影響圏から$RECIPIENT$を排除しました。;;;;;;;;;;;;x
 DIPL_AT_WAR;Not allowed while at war;;;;;;;;;;;;x
-CW_WARNINSPHERE_SHORT;They are in $COUNTRY$'s Sphere.;;;;;;;;;;;;x
+CW_WARNINSPHERE_SHORT;彼らは$COUNTRY$の影響圏化です。;;;;;;;;;;;;x
 WARGOAL_COST_DESC;$BADBOY$ Infamy, $PRESTIGE$ Prestige and $COST$ Peace cost;;;;;;;;;;;;x
 DIPL_NOT_AT_WAR;We are not at war;;;;;;;;;;;;x
 WAR_BUTTON;Declare War;;;;;;;;;;;;x
@@ -2554,8 +2554,8 @@ BANEMBASSY_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 BANEMBASSY_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
-ADDTOSPHERE_THEY_ACCEPT_2;$MONARCHTITLE$, we have included;;;;;;;;;;;;x
-ADDTOSPHERE_THEY_ACCEPT_3;§Y$RECIPIENT$§W in our Sphere of Influence.;;;;;;;;;;;;x
+ADDTOSPHERE_THEY_ACCEPT_2;$MONARCHTITLE$、我々は;;;;;;;;;;;;x
+ADDTOSPHERE_THEY_ACCEPT_3;影響圏化に§Y$RECIPIENT$§Wを加えました。;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_4;*;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_5;*;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_6;*;;;;;;;;;;;;x
@@ -2564,8 +2564,8 @@ ADDTOSPHERE_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
-ADDTOSPHERE_WE_ACCEPT_2;$MONARCHTITLE$, we have been included in;;;;;;;;;;;;x
-ADDTOSPHERE_WE_ACCEPT_3;the Sphere of Influence of §Y$ACTOR$§W.;;;;;;;;;;;;x
+ADDTOSPHERE_WE_ACCEPT_2;$MONARCHTITLE$、我々は;;;;;;;;;;;;x
+ADDTOSPHERE_WE_ACCEPT_3;§Y$ACTOR$§Wの影響圏に加わりました。;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_4;*;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_5;*;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_6;*;;;;;;;;;;;;x
@@ -2574,9 +2574,9 @@ ADDTOSPHERE_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
-ADDTOSPHERE_OTHER_ACCEPT_2;$MONARCHTITLE$, we heard news that;;;;;;;;;;;;x
-ADDTOSPHERE_OTHER_ACCEPT_3;§Y$RECIPIENT$§W has been included in the ;;;;;;;;;;;;x
-ADDTOSPHERE_OTHER_ACCEPT_4;Sphere of Influence of §Y$ACTOR$§W.;;;;;;;;;;;;x
+ADDTOSPHERE_OTHER_ACCEPT_2;$MONARCHTITLE$、我々は;;;;;;;;;;;;x
+ADDTOSPHERE_OTHER_ACCEPT_3;§Y$RECIPIENT$§Wが§Y$ACTOR$§Wの影響圏に;;;;;;;;;;;;x
+ADDTOSPHERE_OTHER_ACCEPT_4;加入したという噂を耳にしました。;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_5;*;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_6;*;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
@@ -2584,8 +2584,8 @@ ADDTOSPHERE_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 REMOVEFROMSPHERE_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 REMOVEFROMSPHERE_THEY_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
-REMOVEFROMSPHERE_THEY_ACCEPT_2;$MONARCHTITLE$, we managed to remove;;;;;;;;;;;;x
-REMOVEFROMSPHERE_THEY_ACCEPT_3;§Y$RECIPIENT$§W from the Sphere of Influence of §Y$TARGET$§W.;;;;;;;;;;;;x
+REMOVEFROMSPHERE_THEY_ACCEPT_2;$MONARCHTITLE$、我々は;;;;;;;;;;;;x
+REMOVEFROMSPHERE_THEY_ACCEPT_3;§Y$TARGET$§Wの影響圏から§Y$RECIPIENT$§Wを離脱させました。;;;;;;;;;;;;x
 REMOVEFROMSPHERE_THEY_ACCEPT_4;*;;;;;;;;;;;;x
 REMOVEFROMSPHERE_THEY_ACCEPT_5;*;;;;;;;;;;;;x
 REMOVEFROMSPHERE_THEY_ACCEPT_6;*;;;;;;;;;;;;x
@@ -2595,7 +2595,7 @@ REMOVEFROMSPHERE_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 REMOVEFROMSPHERE_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 REMOVEFROMSPHERE_WE_ACCEPT_1;§Y$ACTOR$§W;;;;;;;;;;;;x
 REMOVEFROMSPHERE_WE_ACCEPT_2;$MONARCHTITLE$, §Y$ACTOR$§W managed to remove us;;;;;;;;;;;;x
-REMOVEFROMSPHERE_WE_ACCEPT_3;from the Sphere of Influence of §Y$TARGET$§W.;;;;;;;;;;;;x
+REMOVEFROMSPHERE_WE_ACCEPT_3;それは§Y$TARGET$§Wの影響圏からです。;;;;;;;;;;;;x
 REMOVEFROMSPHERE_WE_ACCEPT_4;*;;;;;;;;;;;;x
 REMOVEFROMSPHERE_WE_ACCEPT_5;*;;;;;;;;;;;;x
 REMOVEFROMSPHERE_WE_ACCEPT_6;*;;;;;;;;;;;;x
@@ -2605,9 +2605,9 @@ REMOVEFROMSPHERE_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_2;$MONARCHTITLE$, we have been informed that;;;;;;;;;;;;x
-REMOVEFROMSPHERE_OTHER_ACCEPT_3;§Y$ACTOR$§W removed;;;;;;;;;;;;x
+REMOVEFROMSPHERE_OTHER_ACCEPT_3;§Y$ACTOR$§Wは排除されました;;;;;;;;;;;;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_4;§Y$RECIPIENT$§W from the;;;;;;;;;;;;x
-REMOVEFROMSPHERE_OTHER_ACCEPT_5;Sphere of Influence of §Y$TARGET$§W.;;;;;;;;;;;;x
+REMOVEFROMSPHERE_OTHER_ACCEPT_5;§Y$TARGET$§Wの影響圏。;;;;;;;;;;;;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_6;*;;;;;;;;;;;;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
@@ -2895,7 +2895,7 @@ WETARGET_DECREASEOPINION_BTN3;移動;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_2;$MONARCHTITLE$, someone is tampering with our empire!;;;;;;;;;;;;x
-WETARGET_REMOVEFROMSPHERE_3;§Y$RECIPIENT$§W is no longer in our Sphere of Influence!;;;;;;;;;;;;x
+WETARGET_REMOVEFROMSPHERE_3;§Y$RECIPIENT$§Wはもはや我々の影響圏化にはありません。;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_4;We suspect §Y$ACTOR$§W is behind this!;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_5;*;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_6;*;;;;;;;;;;;;x
@@ -6368,7 +6368,7 @@ promote_bureaucrats;Encourage Bureaucrats ;;;;;;;;;;;;x
 promote_capitalists;Encourage Capitalists ;;;;;;;;;;;;x
 promote_clergymen;Encourage Clergymen ;;;;;;;;;;;;x
 promote_clerks;Encourage Clerks ;;;;;;;;;;;;x
-promote_craftsmen;Encourage Craftsmen ;;;;;;;;;;;;x
+promote_craftsmen;工員を奨励;;;;;;;;;;;;x
 promote_farmers;Encourage Farmers ;;;;;;;;;;;;x
 promote_labourers;Encourage Labourers ;;;;;;;;;;;;x
 promote_officers;Encourage Officers ;;;;;;;;;;;;x
@@ -8313,7 +8313,7 @@ KRA_liberal;自由党;;;;;;;;;;;;x
 KRA_socialist;Worker's Alliance;;;;;;;;;;;;x
 KRA_conservative_2;Agrarian Party;;;;;;;;;;;;x
 KRA_conservative_3;Nationalist Party;;;;;;;;;;;;x
-KRA_reactionary;Reactionary Party;;;;;;;;;;;;x
+KRA_reactionary;反動主義党;;;;;;;;;;;;x
 KRA_anarcho_liberal;Radical Party;;;;;;;;;;;;x
 KRA_communist;共産党;;;;;;;;;;;;x
 KRA_fascist;ファシスト党;;;;;;;;;;;;x
@@ -8966,7 +8966,7 @@ SPA_communist;Federación Regional;;;;;;;;;;;;x
 SPA_liberal_6;Republicano Reformista;;;;;;;;;;;;x
 SPA_conservative_3;Lliga Regionalista Cat.;;;;;;;;;;;;x
 SPA_liberal_7;Solidaridad Catalana;;;;;;;;;;;;x
-SPA_conservative_4;Nacionalista Vasco;;;;;;;;;;;;x
+SPA_conservative_4;バスク民族主義党;;;;;;;;;;;;x
 SPA_conservative_5;Unión Nacional;;;;;;;;;;;;x
 SPA_anarcho_liberal;急進党;;;;;;;;;;;;x
 SPA_fascist;ファランヘ党;;;;;;;;;;;;x
@@ -9835,7 +9835,7 @@ bureaucrats;官僚;;;;;;;;;;;;x
 capitalists;資本家;;;;;;;;;;;;x
 clergymen;聖職者;;;;;;;;;;;;x
 clerks;Clerks;;;;;;;;;;;;x
-craftsmen;Craftsmen;;;;;;;;;;;;x
+craftsmen;工員;;;;;;;;;;;;x
 farmers;農民;;;;;;;;;;;;x
 labourers;労働者;;;;;;;;;;;;x
 officers;将校;;;;;;;;;;;;x
@@ -14938,8 +14938,8 @@ IS_NOT_ACCEPTED_CULTURE;Is NOT accepted culture.;;;;;;;;;;;;x
 IS_ACCEPTED_CULTURE;Is accepted culture.;;;;;;;;;;;;x
 IS_NOT_COASTAL;Is NOT a coastal province.;;;;;;;;;;;;x
 IS_COASTAL;Is a coastal province.;;;;;;;;;;;;x
-IS_NOT_IN_SPHERE;Is NOT in the $ADJ$ sphere of influence.;;;;;;;;;;;;x
-IS_IN_SPHERE;Is in the $ADJ$ sphere of influence.;;;;;;;;;;;;x
+IS_NOT_IN_SPHERE;$ADJ$の影響圏化にはない;;;;;;;;;;;;x
+IS_IN_SPHERE;$ADJ$の影響圏化にある;;;;;;;;;;;;x
 IS_NOT_SLAVE_STATE;Is not a slave state.;;;;;;;;;;;;x
 IS_SLAVE_STATE;Is a slave state.;;;;;;;;;;;;x
 IS_NOT_COLONIAL_STATE;Is not a colonial state.;;;;;;;;;;;;x
@@ -14994,8 +14994,8 @@ CAN_NOT_BUILD_FACTORY;Can not build factory.\n;;;;;;;;;;;;x
 CAN_BUILD_FACTORY;Can not build factory.\n;;;;;;;;;;;;x
 GEN_POP_HAVE;Must have $WHAT$;;;;;;;;;;;;x
 GEN_POP_NOT_HAVE;Must not have $WHAT$.;;;;;;;;;;;;x
-IS_NOT_SPHERELEADER_OF;Has NOT $ADJ$ in sphere of influence.;;;;;;;;;;;;x
-IS_SPHERELEADER_OF;Has $ADJ$ in sphere of influence.;;;;;;;;;;;;x
+IS_NOT_SPHERELEADER_OF;影響圏化に$ADJ$が存在しない;;;;;;;;;;;;x
+IS_SPHERELEADER_OF;影響圏化に$ADJ$が存在する;;;;;;;;;;;;x
 HAVE_LESS_DIPLOMATIC_RELATION;has lower diplomatic relations than;;;;;;;;;;;;x
 POP_NOT_OF_CULTURE;are not $WHAT$.;;;;;;;;;;;;x
 POP_OF_CULTURE;are $WHAT$.;;;;;;;;;;;;x

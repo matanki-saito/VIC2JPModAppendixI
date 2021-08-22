@@ -30,11 +30,11 @@ the_greenland_purchase_title;白熊の購入;;;;;;;;;;;;x
 the_greenland_purchase_desc;ヤンマイエンの偉大な人々にとって全世界の白熊が一つの旗の下に統一されていないということは長い間厄介な事実でした。我々はデンマークに交渉を持ちかけて白熊を手放してもよいと思っているかを確かめるべきです。;;;;;;;;;;;;x
 bears;熊;;;;;;;;;;;;x
 polar_bears;白熊;;;;;;;;;;;;x
-INFLUENCE_SPHERE_NEIGHBOUR;隣接する勢力圏のメンバー;;;;;;;;;;;;x
+INFLUENCE_SPHERE_NEIGHBOUR;隣接する影響圏のメンバー;;;;;;;;;;;;x
 col_liferate_techs;下記を研究することは地域の生活評価に対処するのに役立ちます。;;;;;;;;;;;;x
 unite_moldavia_wallachia_title;モルダヴィア・ワラキア連合;;;;;;;;;;;;x
 unite_moldavia_wallachia_desc;モルダヴィアとワラキアの国々が合同してルーマニアに変体しました！;;;;;;;;;;;;x
-SOIS_HAS_REBELS_WARNING;反乱軍が我が国の勢力圏のメンバーに対して蜂起しました：§Y$LIST$§!;;;;;;;;;;;;x
+SOIS_HAS_REBELS_WARNING;反乱軍が我々の影響圏のメンバーに対して蜂起しました：§Y$LIST$§!;;;;;;;;;;;;x
 ALLIANCE_INVALID_GPS_IN_CRISIS;§Y危機§!が有効な時には§Y２つの列強§!間で同盟は形成されるわけがありません。;;;;;;;;;;;;x
 BP_TOOL_ARROW_MEDIUM_1_DASHED;普通の破線矢印１;;;;;;;;;;;;x
 BP_TOOL_ARROW_MEDIUM_2_DASHED;普通の破線矢印２;;;;;;;;;;;;x

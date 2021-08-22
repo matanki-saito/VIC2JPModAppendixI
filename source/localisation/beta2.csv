@@ -14,8 +14,8 @@ EXPELADVISORS_DI;Expulsion of Advisors;;;;;;;;;;;;x
 BANEMBASSY_DI;Banning of Embassy;;;;;;;;;;;;x
 INCREASEOPINION_DI;Opinion Increase;;;;;;;;;;;;x
 DECREASEOPINION_DI;Opinion Decrease;;;;;;;;;;;;x
-ADDTOSPHERE_DI;勢力圏へ編入;;;;;;;;;;;;x
-REMOVEFROMSPHERE_DI;Remove From Sphere;;;;;;;;;;;;x
+ADDTOSPHERE_DI;影響圏へ編入;;;;;;;;;;;;x
+REMOVEFROMSPHERE_DI;影響圏から排除;;;;;;;;;;;;x
 INCREASERELATION_DI;関係改善;;;;;;;;;;;;x
 DECREASERELATION_DI;Decrease Relation;;;;;;;;;;;;x
 GUNBOAT_DI;砲艦外交;;;;;;;;;;;;x
@@ -32,8 +32,8 @@ TOPBAR_AVG_CHANGE;We estimate that it will change by $VAL$§W during the next mo
 TECH_DAILY_RESEARCHPOINTS_BASE_TOOLTIP;Daily base research points: §Y$VALUE$§W;;;;;;;;;;;;x
 TECH_DAILY_RESEARCHPOINTS_TOTAL_TOOLTIP;Daily research points: §G+$VALUE$§W;;;;;;;;;;;;x
 TECH_DAILY_RESEARCHPOINTS_TOOLTIP;$POPTYPE$ provide §G$VALUE$§W research points.\n (§Y$FRACTION$%§W of the population, $OPTIMAL$% is optimal.);;;;;;;;;;;;x
-average_literacy;Literacy;;;;;;;;;;;;x
-MODIFIER_RESEARCH_POINTS;Research Points;;;;;;;;;;;;x
+average_literacy;識字率;;;;;;;;;;;;x
+MODIFIER_RESEARCH_POINTS;研究点;;;;;;;;;;;;x
 gas;Gas Attack;;;;;;;;;;;;x
 COMBAT_GAS;Gas attacks while the opponent lacks the technology to defend against it may be devastating.;;;;;;;;;;;;x
 MAY_GAS_ATTACK;Can use Gas Attack\n;;;;;;;;;;;;x
@@ -95,7 +95,7 @@ INCREASERELATION_THEY_ACCEPT_4;Our relation increased by §G$CHANGE$§W to §Y$R
 INCREASERELATION_WE_ACCEPT_4;Our relation increased by §G$CHANGE$§W to §Y$RELATION$§W.;;;;;;;;;;;;x
 DECREASERELATION_WE_ACCEPT_5;Our relation changed by §R$CHANGE$§W to §Y$RELATION$§W.;;;;;;;;;;;;x
 DECREASERELATION_THEY_ACCEPT_6;Our relation changed by §R$CHANGE$§W to §Y$RELATION$§W.;;;;;;;;;;;;x
-TRI_1743;Tripoli;;;;;;;;;;;;x
+TRI_1743;トリポリ;;;;;;;;;;;;x
 NORMAL_WAR_CONCESSION_NAME;$ORDER$ War of The $STATE$ Concession;;;;;;;;;;;;x
 AGRESSION_WAR_CONCESSION_NAME;$ORDER$ War of The $STATE$ Concession;;;;;;;;;;;;x
 demand_concession_casus_belli;Demand Concession;;;;;;;;;;;;x
@@ -120,10 +120,10 @@ DOMINION;自治領;;;;;;;;;;;;x
 SATELLITE;衛星国;;;;;;;;;;;;x
 DOMINION_OF_NOCOLOR;Dominion of;;;;;;;;;;;;x
 SATELLITE_OF_NOCOLOR;Satellite of;;;;;;;;;;;;x
-DIPLOMACY_CANNOT_SET_PRIO_MYVASSAL;They are a §Y$TYPE$§W of ours and are always in our §YSphere of Influence§W;;;;;;;;;;;;x
+DIPLOMACY_CANNOT_SET_PRIO_MYVASSAL;彼らは我々の§Y$TYPE$§Wであり、すでにその§Y影響圏§W化にあります。;;;;;;;;;;;;x
 DIPLOMACY_TRUCE_WITH;Truce with:;;;;;;;;;;;;x
 DIPLOMACY_CASUSBELLIS;Casus bellis:;;;;;;;;;;;;x
-tut_1c_9;As we said before, should a pop with soldiers attached to it rebel the brigades will rebel with it. If a brigade has a rebel faction icon next to its population icon, this means that it's POP is a member of a faction. This is very dangerous. One way to check the status of this pop and what its issues are is to click the pop icon in the unit view to open the Population view. For now, just click Next to continue.;;;;;;;;;;;;x
+tut_1c_9;以前に述べたように、兵士POPが反乱を起こした場合、そのPOP出身者によって編成された旅団も反乱に加わります。もし旅団の人口アイコンの隣に反乱派閥アイコンが表示されている場合、それは旅団の出身POPが反乱に参加していることを表します。これは非常に危険です。このPOPの状態や、何がPOPの関心事なのかなどをチェックする方法の一つは、ユニット画面のPOPアイコンをクリックして、人口画面を開くことです。とりあえず、チュートリアルを続けるため、「次へ」をクリックしてください。;;;;;;;;;;;;x
 BUDGET_VIEW_CRIME_FIGHT;Crime Fighting Effect:;;;;;;;;;;;;x
 POP_CURRENT_PROD;Current Production:;;;;;;;;;;;;x
 ALREADY_ASSIMILATED;Primary or Accepted Culture;;;;;;;;;;;;x
@@ -138,7 +138,7 @@ PW_COLONY_NO_STATE;At least §Y$NUM$§W% of the population need to be Bureaucrat
 REMOVE_PW_COLONY_NO_STATE;At least §Y$NUM$§W% of the population need to be Bureaucrats of an accepted Culture. Current ratio is §Y$CURR$§W%;;;;;;;;;;;;x
 BAD_SAVE;Error: Bad save.;;;;;;;;;;;;x
 tut_4c_12b;Let's continue to Army.;;;;;;;;;;;;x
-USA_reactionary;Southern Democrats;;;;;;;;;;;;x
+USA_reactionary;南部民主党;;;;;;;;;;;;x
 MILITARY_DIG_IN_CAP;Dig-in cap;;;;;;;;;;;;x
 MILITARY_MILITARY_TACTICS;Military tactics;;;;;;;;;;;;x
 COUNTRYALERT_NO_CanDoDecisions;There are no decisions that presently demand our attention.;;;;;;;;;;;;x
@@ -158,7 +158,7 @@ COUNTRYALERT_HaveOrganizingRebels;Rebel Factions are organizing in our country!;
 TOTAL_REBEL_POP;Rebel Faction Members;;;;;;;;;;;;x
 PROV2918;ベニン湾;;;;;;;;;;;;x
 PROV2921;ギニア沿岸;;;;;;;;;;;;x
-PROV2922;Coast of Senegambia;;;;;;;;;;;;x
+PROV2922;セネガンビア海岸;;;;;;;;;;;;x
 NUMBER_OF_EMIREES;§Y$NUM$§W have left our nation for other countries this month;;;;;;;;;;;;x
 NUMBER_OF_IMMIGREES;§Y$NUM$§W have arrived our nation from other countries this month;;;;;;;;;;;;x
 alaskan_purchase_title;スワードの冷蔵庫;;;;;;;;;;;;x
@@ -240,7 +240,7 @@ HND_fascist;Unity Party;;;;;;;;;;;;x
 HND;インド;;;;;;;;;;;;x
 WEDID_ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We are behind this.;;;;;;;;;;;;x
 WEDID_ISBANNEDEMBASSY_DESC;Banned embassy until §Y$UNTIL$§W. We are behind this.;;;;;;;;;;;;x
-OTHER_MUST_NEGOTIATE_WITH_WAR_LEADER;We are not allowed to negotiate with the enemy §YWar leader§W since that would end the war. A peace treaty can only be signed between §Y$ENEMY$§W and §Y$COUNTRY$§W.;;;;;;;;;;;;x
+OTHER_MUST_NEGOTIATE_WITH_WAR_LEADER;この戦争を終結させうるために、我々は敵側の§Y戦争指導国§Wと交渉することを許されていません。和平条約は§Y$ENEMY$§Wと§Y$COUNTRY$§Wの間でのみ調印することができます。;;;;;;;;;;;;x
 unification_humiliate_cb;Assert Hegemony;;;;;;;;;;;;x
 REMOVE_unification_humiliate_cb_desc;Humiliate another Great Power to assert leadership over your common cultural union.;;;;;;;;;;;;x
 REMOVE_unification_humiliate_cb_setup;Humiliate another Great Power to assert leadership over your common cultural union.;;;;;;;;;;;;x
@@ -282,7 +282,7 @@ PRODUCTION_SORT_BY_AVAILABLE_WORKFORCE_TOOLTIP;Sort by unemployed §Y$TYPE$§W;;
 PRODUCTION_SORT_BY_AVG_INVESTORS_TOOLTIP;Sort by average §Y$TYPE$§W in state;;;;;;;;;;;;x
 PRODUCED_DETAIL;$VAL$ available for our country;;;;;;;;;;;;x
 TRADE_AVAILABLE;Available;;;;;;;;;;;;x
-SPA_2517;Micronesia;;;;;;;;;;;;x
+SPA_2517;ミクロネシア;;;;;;;;;;;;x
 hungarian_culture_group;ハンガリー;;;;;;;;;;;;x
 polish_culture_group;ポーランド;;;;;;;;;;;;x
 czecho_slovak_culture_group;Czecho-Slovak;;;;;;;;;;;;x

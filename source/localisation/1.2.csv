@@ -51,7 +51,7 @@ RELEASE_INFAMY;汚名：;;;;;;;;;;;;x
 PROV3247;西ハワイ;;;;;;;;;;;;x
 PROV3248;西マゼラン海峡;;;;;;;;;;;;x
 EVTDESC1002;経済的な自由の不足と議会改革のペースに不満を持つ自由主義グループが、$COUNTRY_ADJ$politicsで新しい派閥を結成しました。無政府資本主義は自由主義イデオロギーの改革の最前線であり、彼らはその思想や$COUNTRY$と海外の自由貿易を推し進めるために必要とあればどんな手段でも取ります。;;;;;;;;;;;;x
-SOMEONE_HAS_ADDED_STATUS_QUO;他国が戦争目的に§Y現状回復§Wを追加した場合、我々は戦争目的を追加することができません。;;;;;;;;;;;;x
+SOMEONE_HAS_ADDED_STATUS_QUO;他国が戦争目的に§Y現状維持§Wを追加した場合、我々は戦争目的を追加することができません。;;;;;;;;;;;;x
 NO_INTERVENTION_NOT_ENOUGH_OPINION;介入するためには、戦争目的の対象国が我が国に対して§Y$REQLEVEL$§W以上の評価を持っている必要があります;;;;;;;;;;;;x
 peking_convention_title;北京条約;;;;;;;;;;;;x
 peking_convention_desc;1689年のネルチンスク条約以来、ロシア帝国はアルグン川とスタノヴォイ山脈をロシアと中国の間の自然な国境としてきました。19世紀半ばに入るとロシア人達はスタノヴォイ山脈とアムール川間の広大な土地を奪うために、この国境を越えて拡大をしようとしていました。時を同じくして西欧同盟が中華皇帝の夏の宮殿を焼き払い、北京に入城して第二次アヘン戦争を終結させました。この時ニコライ・イグナチェフという狡猾な少将がロシアの支援がなければ西欧同盟は北京から撤退できないと中国を説得することに成功しました。そしてその代償として北京条約にムラヴィヨフの利権（アイグン条約）が確認されるとともに、ウスリー川と太平洋側に跨る領土がロシアに割譲されました。こうしてロシアは一発も発射せずに約35万平方マイルの領土を獲得したのです。;;;;;;;;;;;;x
@@ -69,7 +69,7 @@ IS_NOT_BIG_PROD_TRIG;§Y$VAL$§Wの大生産国ではありません。\n;;;;;;;
 IS_BIG_PROD_TRIG;§Y$VAL$§Wの大生産国です。\n;;;;;;;;;;;;x
 HAVE_LOWER_RANK_THAN;順位が右記未満：;;;;;;;;;;;;x
 HAVE_HIGHER_RANK_THAN;順位が右記以上：;;;;;;;;;;;;x
-MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO;敵側が§Y原状回復§Wの戦争目的を追加し、我々が戦争目的を追加している場合は、敵側の§Y戦争指導国§Wと交渉しなければなりません;;;;;;;;;;;;x
+MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO;敵側が§Y原状維持§Wの戦争目的を追加し、我々が戦争目的を追加している場合は、敵側の§Y戦争指導国§Wと交渉しなければなりません;;;;;;;;;;;;x
 law_of_guarantees_title;教皇保障法;;;;;;;;;;;;x
 law_of_guarantees_desc;「保証法 」は1870年に新たに形成されたイタリア王国によって可決された法律で、「ローマ問題 」の解決を目指していました。この法律は大使を派遣したり受け入れたりするなど、イタリア国王と同様の特権をローマ法王に与えるものでした。しかし教皇ピウス9世とその後継者の両方が教皇庁の独立性を侵害していると見なし、この法律を受け入れることを拒否しました。この問題は1929年のラテラノ条約まで最終的に解決されませんでしたが、それでも「保証法」はその時からローマが若い王国の首都になることを示しました。;;;;;;;;;;;;x
 form_byzantine_empire_title;王の中の王、支配者の中の支配者;;;;;;;;;;;;x
@@ -100,22 +100,22 @@ raise_the_bonnie_blue_flag_desc;万歳！万歳！\n南部の州権、万歳！\
 the_bonnie_blue_flag;ボニー・ブルー・フラッグ;;;;;;;;;;;;x
 the_bonnie_blue_flag_desc;青地に１つの白星が我らの軍を戦場へ駆り立てます。;;;;;;;;;;;;x
 trinket_wage;ごく僅かな最低賃金;;;;;;;;;;;;x
-tut_2b_15;How factories are built depends on your country's present economic policy. Under a 'Laissez Faire' economy, for example, all your factories are built by your capitalists. In the current Belgian system, however, both the government and the capitalists can build factories. Building more factories is a good way to boost the country's economy. Go ahead and click the 'Build Factory' button for Belgian Wallonie.;;;;;;;;;;;;x
+tut_2b_15;工場がどのように建設されるかはあなたの国の現在の経済政策によります。例えば「自由放任主義（レッセフェール） 」経済の下では、工場はすべて資本家によって建設されます。しかし現在のベルギーの政策では政府も資本家もどちらも工場を建設することができます。工場を増やすことは国の経済を活性化する良い方法です。さあ、ワロン地域で「工場を建設 」ボタンをクリックしましょう。;;;;;;;;;;;;x
 webster_ashburton_treaty_title;ウェブスター＝アッシュバートン条約;;;;;;;;;;;;x
-webster_ashburton_treaty_desc;Following the events of the (undeclared) Aroostook War, The Webster-Ashburton Treaty of 1842, between the United Kingdom and The United States of America, delimited with finality the borders between Maine and New Brunswick, regulated the shared use of the Great Lakes, reaffirmed the 49th parallel border and called for a mutual commitment toward ending the Atlantic slave trade.;;;;;;;;;;;;x
+webster_ashburton_treaty_desc;(宣戦布告なき) アルーストック戦争の結果、英国と米国の間で1842年にウェブスター＝アッシュバートン条約が結ばれました。この条約により、メイン州とニューブランズウィック州間の国境線、五大湖の共用利用、北緯49度線が国境線であること、大西洋の奴隷貿易の終了に向けた相互合意が最終的に確認されました。;;;;;;;;;;;;x
 SPA_2209;キューバ;;;;;;;;;;;;x
 ENG_203;カリブ諸島;;;;;;;;;;;;x
-PV_CLERGY_LIT_PROVIDES;Clergy provinces: $VAL$;;;;;;;;;;;;x
-PV_CLERGY_LIT_NUM;$NUM$ of your population are Clergy (Optimal $OPT$): $VAL$;;;;;;;;;;;;x
-PV_CLERGY_SETTING;Educational spending at $SETTING$: $VAL$;;;;;;;;;;;;x
+PV_CLERGY_LIT_PROVIDES;聖職者プロヴィンス：$VAL$;;;;;;;;;;;;x
+PV_CLERGY_LIT_NUM;人口の$NUM$が聖職者（$OPT$が最適）：$VAL$;;;;;;;;;;;;x
+PV_CLERGY_SETTING;$SETTING$での教育支出：$VAL$;;;;;;;;;;;;x
 PV_CLERGY_TECH;技術から：$VAL$;;;;;;;;;;;;x
 EVTNAME13357;失権の原理;;;;;;;;;;;;x
-EVTDESC13357;The Doctrine of Lapse' was a British policy regarding Britain's Indian subject nations, the Princely States, that stated that any such nation could be immediately annexed by the British East India company if the ruler died without a direct heir, or if the ruler was found 'manifestly incompetent'. The doctrine was used historically to annex the states of Satara, Sambalpur, Nagpur, Jhansi and Awadh. Due to our country's present state, officials from the East India Company today declared our princely rights null and void.;;;;;;;;;;;;x
-EVTOPTA13357;ちがーーう！;;;;;;;;;;;;x
+EVTDESC13357;「失権の原理」とはイギリスのインド藩王国に関する政策の名です。これは後継者がいないまま統治者が死亡したり、統治者が「明らかに無能」であると判断された場合にすぐさまその藩王国をイギリス東インド会社は併合できるというものでした。この政策はサタラ、サンバルプル、ナーグプル、ジャーンシー、アワドの各州を併合するための口実として史実で使用されました。本日、我々の現状を見て東インド会社はその独立を無効であると宣言しました。;;;;;;;;;;;;x
+EVTOPTA13357;ああぁぁぁ！;;;;;;;;;;;;x
 EVTNAME13358;失権の原理;;;;;;;;;;;;x
 EVTDESC13358;失権の原理とはイギリスのインド藩王国に関する政策の名です。これは後継者がいないまま統治者が死亡したり、統治者が「明らかに無能」であると判断された場合にすぐさまその藩王国をイギリス東インド会社は併合できるというものでした。この政策は1857年のセポイの乱の火種の一つとなった、サタラ、サンバルプル、ナーグプル、ジャーンシー、アワドの各州を併合するための口実として史実で使用されました。方針は1858年のイギリス政府によるインド直接统治の開始とともに撤回されました。本日、$FROMCOUNTRY$政府の悲惨な状况を見た東インド会社はその独立を無効であると宣言しました。;;;;;;;;;;;;x
 EVTOPTA13358;素晴らしい！;;;;;;;;;;;;x
-EVTOPTB13358;Bah, more useless territory.;;;;;;;;;;;;x
+EVTOPTB13358;ふん、役に立たない地域などいらぬ。;;;;;;;;;;;;x
 RUS_absolute_monarchy;ロシア帝国;;;;;;;;;;;;x
 RUS_prussian_constitutionalism;ロシア帝国;;;;;;;;;;;;x
 ENG_absolute_monarchy;イギリス帝国;;;;;;;;;;;;x
@@ -123,64 +123,64 @@ ENG_prussian_constitutionalism;イギリス帝国;;;;;;;;;;;;x
 GER_absolute_monarchy;ドイツ帝国;;;;;;;;;;;;x
 GER_prussian_constitutionalism;ドイツ帝国;;;;;;;;;;;;x
 the_vega_expedition_title;ヴェガ号の航海;;;;;;;;;;;;x
-the_vega_expedition_desc;in 1878-80 Adolf Erik Nordenskiöld, with financial support from King Oscar II, became the first person to successfully circumnavigate the whole of the Eurasian landmass with his Vega Expedition. While the existence of the Northeast Passage had been confirmed since at least the middle of the century, Nordenskiöld was the first to actually navigate the passage, and his return to Stockholm in 1880 was widely celebrated.;;;;;;;;;;;;x
+the_vega_expedition_desc;1878から80年にかけ、オスカル2世王からの資金援助を受けたアドルフ・エリク・ノルデンショルドは、ヴェガ号による遠征でユーラシア大陸を一周する周航に成功した最初の人物となりました。少なくとも今世紀半ばから北東航路の存在は確認されていましたが、実際に航行したのはノルデンショルドが最初であり、1880年のストックホルム帰還は広く祝わました。;;;;;;;;;;;;x
 ENG_2068;ザンベジ;;;;;;;;;;;;x
 rhodesia_charter_title;イギリス南アフリカ会社;;;;;;;;;;;;x
-rhodesia_charter_desc;The BSAC, founded by mining magnate Cecil Rhodes, received its royal charter in 1889. The company was modeled after the British East India Company, and was established to promote the further exploitation of South-Central Africa. The area previously known as Zambezi, after the river of the same name, would later during the colonial era become known as 'Rhodesia', in honor of the man had opened the region up to British interests.;;;;;;;;;;;;x
+rhodesia_charter_desc;鉱山王セシル・ローズにより立ち上げられたBSACは1889年に勅許状を取得しました。この会社はイギリスの東インド会社をモデルとし、中南部アフリカの開発を促進するために設立されました。この地域は以前はザンベジ（後に同じ名前の川の名前としても）として知られ、植民地時代を経てからはこの地域をイギリスの国益のために解放した男に敬意を評して「ローデシア 」と呼称するようになりました。;;;;;;;;;;;;x
 TUR_proletarian_dictatorship;トルコ;;;;;;;;;;;;x
 GER_2530;ニューギニア北部;;;;;;;;;;;;x
 AST_2528;ニューギニア南部;;;;;;;;;;;;x
 kaiser_wilhelms_land_title;カイザー・ヴィルヘルムス・ラント;;;;;;;;;;;;x
-kaiser_wilhelms_land_desc;Named after the German Emperor, 'Kaiser-Wilhelms-Land' was the German name for the North Eastern Part of the island of New Guinea, which, together with the Bismarck Archipelago and other pacific holdings constituted the German colony of Neuguinea. The territory was occupied by Australian troops during World War One, and held as a League of Nations mandate until 1975.;;;;;;;;;;;;x
+kaiser_wilhelms_land_desc;ドイツ皇帝にちなんで名付けられた「カイザー・ヴィルヘルス・ランド 」は、ニューギニア島の北東部を意味するドイツ語の名前で、ビスマルク諸島やその他の太平洋諸島とともに、ドイツのNeuguinea植民地を構成していました。この領土は第一次世界大戦中にオーストラリア軍によって占領され、1975年まで国際連盟の委任統治として保持されていました。;;;;;;;;;;;;x
 megali_idea_title;メガリ・イデア;;;;;;;;;;;;x
-megali_idea_desc;The 'Megali Idea', the Great Idea, was an irredentist conception of a Greater Greek state encompassing all ethnic Greeks, including in particular the substantial Greek minorities living on the Western Coast of Asia Minor. The concept was a driving force between much of Greece's interactions with the fading Ottoman state during the 19th century, and the goals of the Great Idea came very close to a realization in the Treaty of Sèvres, signed at the end of World War One. The vast land gains that the Treaty of Sèvres accorded to Greece were however largely undone by the following Greco-Turkish war of 1919-21. Big is beautiful!;;;;;;;;;;;;x
+megali_idea_desc;「メガリ・イデア （偉大なる思想）」は特に小アジアの西海岸に住んでいる実質的なギリシア少数民族を含むすべてのギリシア民族を包含する大ギリシア国家を目指す民族統一主義の概念でした。この概念は19世紀を通して衰退しつつあったオスマン帝国とギリシャの力関係や、第一次世界大戦末期に調印されたセーヴル条約の実現によって現実味を帯びてきました。しかしながらセーヴル条約がギリシャに与えた広大な領土は1919～21年の次の希土戦争によって大部分が失われました。大きいことは素晴らしい！;;;;;;;;;;;;x
 DIFFICULTY_LABEL;難易度;;;;;;;;;;;;x
 expand_motala_verkstad_title;モータラ工場;;;;;;;;;;;;x
-expand_motala_verkstad_desc;Motala Verkstad' (Motala work- or machineshop) was founded in 1822 by Baltazar von Platen during the building of the Göta Canal. During the foremanship of Otto Edvard Carlsund, from 1843 to 1870, Motala Verkstad became one of Sweden's most internationally renowned manufacturies. The Workshop is mentioned in Jules Verne's novel '20.000 Leagues under the Sea' as having produced parts for the novel's fictional 'Nautilus' submarine.;;;;;;;;;;;;x
+expand_motala_verkstad_desc;「モータラ工場」 (モータラ製作所もしくは機械工場) は1822年にイェータ運河の建設中にバルツァール・フォン・プラテンによって設立されました。1843年から1870年まで、オットー・エドヴァルド・カールスンドが現場監督官の時代にモータラ工場はスウェーデンで最も国際的に有名な工場の一つになりました。この製作所はジュール・ヴェルヌの小説「海底2万里 」の中での架空の潜水艦「ノーチラス 」の部品を製作した場所として言及されています。;;;;;;;;;;;;x
 motala_verkstad;モータラ工場;;;;;;;;;;;;x
-desc_motala_verkstad;Founded in 1822 by Baltazar von Platen during the building of the Göta Canal, Motala Verkstad is one of Sweden's most renowned machine shops.;;;;;;;;;;;;x
-court_yard_speech_title;Borggårdstalet!;;;;;;;;;;;;x
-court_yard_speech_desc;The 'Courtyard Crisis' (Swedish: Borggårdskrisen) was a constitutional crisis in Sweden provoked by the reckless cuts in the defense budget promoted by the Liberal government of, then prime minister, Karl Staaf. On the 6th of February 1914 King Gustav V addressed -- with a rousing speech in favor of increased defense spendings -- a crowd of some 30.000 farmers who from every corner of the country had marched to Stockholm in support of King, Country and the Armed Forces. It was to be the last time that a Swedish Monarch interfered directly against the sacred principles of plebeian rule.;;;;;;;;;;;;x
-international_negotiations;International Pressure;;;;;;;;;;;;x
-desc_international_negotiations;We are exerting diplomatic pressure on a foreign country regarding a very specific issue.;;;;;;;;;;;;x
-EVTNAME23300;Mysterious Whale Sinks Ship!;;;;;;;;;;;;x
-EVTDESC23300;THE YEAR $YEAR$ was marked by a bizarre development [...] In essence, over a period of time several ships had encountered 'an enormous thing' at sea, a long spindle-shaped object, sometimes giving off a phosphorescent glow, infinitely bigger and faster than any whale.'\n\nSeveral ships of the merchant marine have been lost at sea over the past year to a strange phenomenon, believed by many to be a large and as of yet undiscovered species of whale. The renowned French professor of Marine Biology, the legendary Pierre Arronax, has offered to join a scientific expedition to investigate this strange beast that has taken to haunting the oceans of the world, and rumor has it that several countries are planning expeditions of their own to get to the bottom of this mystery.;;;;;;;;;;;;x
-EVTOPTA23300;This nefarious threat to the peace on the high seas must end!;;;;;;;;;;;;x
-EVTOPTB23300;This sounds like something out of a children's book, and I will have none of it.;;;;;;;;;;;;x
-EVTNAME23301;Mysterious Whale Sinks Ship!;;;;;;;;;;;;x
-EVTDESC23301;THE YEAR $YEAR$ was marked by a bizarre development [...] In essence, over a period of time several ships had encountered 'an enormous thing' at sea, a long spindle-shaped object, sometimes giving off a phosphorescent glow, infinitely bigger and faster than any whale.'\n\nSeveral ships of the Merchant marine have been lost at sea over the past year to a strange phenomenon, believed by many to be a large and as of yet undiscovered species of whale. Rumor has it that several countries are already investigating this phenomenon, but perhaps we should send an expedition of our own?;;;;;;;;;;;;x
-EVTOPTA23301;This nefarious threat to the peace on the high seas must end!;;;;;;;;;;;;x
-EVTOPTB23301;This sounds like something out of a children's book, and I will have none of it.;;;;;;;;;;;;x
-EVTNAME23302;Professor Arronax Washes Ashore!;;;;;;;;;;;;x
-EVTDESC23302;The renowned French marine biologist Pierre Arronax was found washed up on the shores of $COUNTRY$ today. The professor has been gone for quite some time since joining an expedition sent out to discover the truth behind a mysterious whale said to sink and devour ships on the high seas. The professor is shocked by the profound experience he has had, and his story is indeed remarkable. Arronax claims that he was washed overboard during a close encounter between his ship and the creature, and that the creature is in fact a human ship, capable of under water travel. Arronax maintains that the ship is, or was, commanded by a freedom-loving vigilante who has sworn off all contact with terra firma in favor of a free life on the world's oceans aboard his ship. Whatever the truth, Professor Arronax's many detailed accounts of many strange new life forms -- supposedly encountered during his voyage as a guest aboard this strange vessel -- will be a boon for our scientific efforts for years to come.;;;;;;;;;;;;x
-EVTOPTA23302;Nemo me impune lacessit!;;;;;;;;;;;;x
+desc_motala_verkstad;1822年にイェータ運河の建設中にバルツァール・フォン・プラテンによって設立されたモータラ工場は、スウェーデンで最も有名な機械工場の一つです。;;;;;;;;;;;;x
+court_yard_speech_title;Borggårdstalet！;;;;;;;;;;;;x
+court_yard_speech_desc;「中庭の危機 」 (スウェーデン語:Borgårdskrisen)とは、当時のカール・スターヴ首相の自由党政権が進めた防衛予算の無謀な削減が引き起こしたスウェーデンの憲法上の危機のことです。1914年2月6日、国王グスタフ5世は、国王、国家、そして軍を支持するため各地からストックホルムを目指し行進してきた約30000人の農民に向かって、国防予算の増額に賛成する内容の刺激的な演説を行いました。スウェーデンの君主が平民による統治という神聖な原則に直接干渉するのはこれが最後でした。;;;;;;;;;;;;x
+international_negotiations;国際的な圧力;;;;;;;;;;;;x
+desc_international_negotiations;我が国は特定の課題に関して諸外国に外交的圧力をかけています。;;;;;;;;;;;;x
+EVTNAME23300;不思議なクジラが船を沈める！;;;;;;;;;;;;x
+EVTDESC23300;$YEAR$年は奇妙な出来事が起きた年として記録されている。[...]　内容をまとめると、ある期間何隻かの船が長い紡錘状の物体である「巨大なもの 」に海で遭遇し、それはクジラよりも遥かに大きくて速く、ときおり燐光を発する物体だという。\n\n何隻かの商船がこの1年間に行方不明になり、多くの人々が今のところ未発見の巨大なクジラの一種だと考えています。有名なフランスの海洋生物学教授で伝説的なピエール・アロナックスは、世界の海を徘徊するようになったこの奇妙な獣を調査するための科学探検に参加することを申し出ています。噂によるとこの謎を解明するためにいくつかの国が独自の探検を計画しているということです。;;;;;;;;;;;;x
+EVTOPTA23300;海の平和に対するこの邪悪な脅威を終わらせなければならない！;;;;;;;;;;;;x
+EVTOPTB23300;子ども向けの本の話だ、取り合う価値はない。;;;;;;;;;;;;x
+EVTNAME23301;不思議なクジラが船を沈める！;;;;;;;;;;;;x
+EVTDESC23301;$YEAR$年は奇妙な出来事が起きた年として記録されている。[...]　内容をまとめると、ある期間何隻かの船が長い紡錘状の物体である「巨大なもの 」に海で遭遇し、それはクジラよりも遥かに大きくて速く、ときおり燐光を発する物体だという。\n\n何隻かの商船がこの1年間に行方不明になり、多くの人々が今のところ未発見の巨大なクジラの一種だと考えています。いくつかの国がすでにこの現象を調査しているという噂がありますが、一方で私たちは独自の探検を送るべきでしょうか？;;;;;;;;;;;;x
+EVTOPTA23301;海の平和に対するこの邪悪な脅威を終わらせなければならない！;;;;;;;;;;;;x
+EVTOPTB23301;子ども向けの本の話だ、取り合う価値はない。;;;;;;;;;;;;x
+EVTNAME23302;アロナックス教授、浜で見つかる！;;;;;;;;;;;;x
+EVTDESC23302;有名なフランスの海洋生物学者ピエール・アロナックス氏が本日、$COUNTRY$の海岸に打ち上げられて発見されました。教授は、世界の海で船を沈めてむさぼるといわれる謎のクジラの正体を探るために派遣された探検隊に加わってからかなり長い間姿を消していました。氏はこれまでの深い経験にショックを受けており、その話の内容は実に驚くべきものです。アロナックス氏は自船と例の怪物が接触したときに船外に放り出されたと主張しています。そしてこの怪物は実際には水中を航行できる人間の船だというのです。また氏は、その船が大地との接触を完全に立つことを誓い、船に乗って世界の海で自由な生活を送ることに賛同した、自由を爱する自警団によって指揮されている、もしくは指揮されていたとも主張しています。真実が何であれ、アロナックス教授が乗船していたときに遭遇したと思われる多くの珍奇で目新しい生命体について詳細に説明したことは今後何年にもわたってわれわれの科学的努力に恩恵をもたらすことでしょう。;;;;;;;;;;;;x
+EVTOPTA23302;Nemo me impune lacessit!（何ものをも私を傷付ける事は出来ない！）;;;;;;;;;;;;x
 italia_irredenta_title;未回収のイタリア;;;;;;;;;;;;x
-italia_irredenta_desc;The Italian Irredentist movement strove for the transfer to the Kingdom of Italy of all territories in the immediate vicinity of the Kingdom which were largely or partly seen as populated by ethnic Italians. Not only did this include claims to Austrian lands in Italy proper, but it also meant territorial ambitions further into Dalmatia, and Austria.;;;;;;;;;;;;x
-the_heligoland_question_title;The Heligoland Question;;;;;;;;;;;;x
-the_heligoland_question_desc;The small North Sea island of Heligoland had become a British possession during the Napoleonic Wars, ceded formally by Denmark in the 1814 Treaty of Kiel. After the Unification of Germany the island became an object of desire for The German Empire, as the few inhabitants of the Island were by and large Germans.;;;;;;;;;;;;x
+italia_irredenta_desc;イタリアの民族統一主義運動は、イタリア王国周辺で人口の大部分もしくは人口のある程度をイタリア民族が占めている地域を王国に組み入れることに傾注していました。これにはオーストリア領内にあるイタリア固有の領土だけでなく、ダルマチアやオーストリアへの領土的野心も含まれていました。;;;;;;;;;;;;x
+the_heligoland_question_title;ヘルゴラント問題;;;;;;;;;;;;x
+the_heligoland_question_desc;北海の小島であるヘルゴラントは、ナポレオン戦争中に英国の占領下となり、1814年のキール条約でデンマークから正式に割譲されました。島の少数派のドイツ人を守るため、ドイツ統一後にこの島は帝国の欲求の対象となりました。;;;;;;;;;;;;x
 miskatonic_university_title;ミスカトニック大学;;;;;;;;;;;;x
-miskatonic_university_desc;With its campus located in scenic Arkham, beside the darkly muttering Miskatonic River, in beautiful Essex County, Miskatonic University is one of New England's most renowned institutions of higher learning. Well known for its collection of unique and vast collection of books on the ancient and the occult, Miskatonic University sports, among others, fragments of the fabled Book of Eibon, and an original copy of Friedrich von Junzt's standard work 'Unaussprechlichen Kulten'.;;;;;;;;;;;;x
+miskatonic_university_desc;キャンパスは風光明媚なアーカムに位置し、暗くせせらぎのあるミスカトニック川のほとり、美しいエセックス郡にあります。ミスカトニック大学はニューイングランドで最も有名な高等教育機関の1つです。ミスカトニック大学は古代やオカルトに関するユニークで膨大な本のコレクションでよく知られていますが、中でも伝説的なエイボンの書の断片やフリードリヒ・フォン・ユンツトの代表的な著作 「無名祭祀書」 の原本などがあります。;;;;;;;;;;;;x
 miskatonic_campus;ミスカトニック大学;;;;;;;;;;;;x
-desc_miskatonic_campus;Where Science Meets the Mythos;;;;;;;;;;;;x
+desc_miskatonic_campus;科学と神話が出会う場所;;;;;;;;;;;;x
 construct_the_walhalla_title;ヴァルハラ神殿;;;;;;;;;;;;x
-construct_the_walhalla_desc;Constructed between 1830 and 1842, the Walhalla is a hall of fame in Regensburg, Bavaria, housed in a neo-classical temple building, overlooking the Danube. The brain child of King Ludwig I, the hall commemorates famous personalities from German history from Arminius to Copernicus.;;;;;;;;;;;;x
+construct_the_walhalla_desc;1830年から1842年の間に建設されたヴァルハラ神殿は、バイエルン州レーゲンスブルクにある有名な殿堂で、ドナウ川を見下ろす新古典様式の寺院建築物です。ルートヴィヒ1世の独創的な発想から生まれたこの殿堂は、アルミニウスからコペルニクスまでのドイツの歴史における著名な人物を記念しています。;;;;;;;;;;;;x
 the_walhalla;ヴァルハラ神殿;;;;;;;;;;;;x
-desc_the_walhalla;The Walhalla commemorates famous personalities from German history from Arminius to Copernicus.;;;;;;;;;;;;x
-introduce_the_presbyteries_title;Introduce the Presbyteries;;;;;;;;;;;;x
-introduce_the_presbyteries_desc;In 1848 The Kingdom of Hannover strengthened popular representation within its Lutheran State Church by the introduction of Presbyteries, popularly elected church boards charged with administering church affairs.;;;;;;;;;;;;x
-build_gotthard_tunnel_title;Build the Gotthard Tunnel;;;;;;;;;;;;x
-build_gotthard_tunnel_desc;The Gotthard Rail Tunnel was built between 1871 and 1881, connecting the towns of Göschenen and Airolo. The first tunnel ever to be built under the Gotthard Massif, the Gotthard Tunnel was in its time considered an architectural achievement made possible by modern technology.;;;;;;;;;;;;x
-the_lambert_charter_title;The Lambert Charter;;;;;;;;;;;;x
-the_lambert_charter_desc;The Lambert Charter was a document used by France to justify its many attempts at making inroads into, and eventually annex, the independent country and island of Madagascar. The document was signed by crown prince Radama II, who had grown up under the influence of French expatriates on Madagascar, and purported to give France the right to extract minerals and other natural resources from the country, in return for a 10% royalty payable to the Royal House of Madagascar.;;;;;;;;;;;;x
-end_the_merina_monarchy_title;End The Merina Monarchy;;;;;;;;;;;;x
-end_the_merina_monarchy_desc;Following a local uprising in 1897 France, who had long held Madagascar in its sphere of influence, formally deposed the Royal House and annexed the Island.;;;;;;;;;;;;x
-REVOLTALLIANCE_SETUP;When a nation breaks their alliances with us due to revolution.;;;;;;;;;;;;x
+desc_the_walhalla;ヴァルハラ神殿はアルミニウスからコペルニクスまでのドイツの歴史上の著名な人物を記念しています。;;;;;;;;;;;;x
+introduce_the_presbyteries_title;長老制度の取り入れ;;;;;;;;;;;;x
+introduce_the_presbyteries_desc;1848年にハノーファー王国におけるルーテル教会で長老制度が導入されることになり一般市民の代表が強化されました。これは教会委員に選ばれた一般人が教会に関する事柄の責任を負うものでした。;;;;;;;;;;;;x
+build_gotthard_tunnel_title;ゴッタルドトンネル;;;;;;;;;;;;x
+build_gotthard_tunnel_desc;ゴッタルド鉄道トンネルは1871年から1881年にかけて建設され、ゲシュネンとアイロロの町を結んでいます。ゴッタルド山塊の下に作られた最初のトンネル、ゴッタルドトンネルはその当時の近代技術によって成された建築的な偉業と見られました。;;;;;;;;;;;;x
+the_lambert_charter_title;ランベール特許状;;;;;;;;;;;;x
+the_lambert_charter_desc;ランバート特許状は、独立国であるマダガスカル島に侵入し、最終的に併合しようとする多くの試みを正当化するためにフランスが使った文書です。同文書にはマダガスカル在住のフランス人の影響下で育った皇太子ラダマ2世が署名しており、彼はマダガスカル王室への10%のロイヤルティと引き換えに、フランスに鉱物その他の天然資源を採取する権利を与えると主張していました。;;;;;;;;;;;;x
+end_the_merina_monarchy_title;メリナ王国の首都;;;;;;;;;;;;x
+end_the_merina_monarchy_desc;1897年、マダガスカルを影響圏としていたフランスが地方蜂起し、王室は公式に追放され、島はフランスに併合されました。;;;;;;;;;;;;x
+REVOLTALLIANCE_SETUP;ある国が革命のために我々との同盟を破棄した場合。;;;;;;;;;;;;x
 REVOLTALLIANCE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
-REVOLTALLIANCE_1;Foreign Revolution!;;;;;;;;;;;;x
-REVOLTALLIANCE_2;$MONARCHTITLE$ the nation of;;;;;;;;;;;;x
+REVOLTALLIANCE_1;外国で革命！;;;;;;;;;;;;x
+REVOLTALLIANCE_2;$MONARCHTITLE$国の;;;;;;;;;;;;x
 REVOLTALLIANCE_3;§Y$ACTOR$§W;;;;;;;;;;;;x
-REVOLTALLIANCE_4;is in revolution!;;;;;;;;;;;;x
-REVOLTALLIANCE_5;All our alliances with them are broken and our influences with them has gone to waste.;;;;;;;;;;;;x
+REVOLTALLIANCE_4;革命が発生しました！;;;;;;;;;;;;x
+REVOLTALLIANCE_5;彼らと我々の同盟はすべて破棄され、そこにかけた影響力は無駄になりました。;;;;;;;;;;;;x
 REVOLTALLIANCE_6;*;;;;;;;;;;;;x
 REVOLTALLIANCE_BTN1;OK;;;;;;;;;;;;x
 REVOLTALLIANCE_BTN2;OK;;;;;;;;;;;;x
@@ -190,31 +190,31 @@ RHO_proletarian_dictatorship;ジンバブエ;;;;;;;;;;;;x
 RHO_absolute_monarchy;南ローデシア;;;;;;;;;;;;x
 RHO_hms_government;南ローデシア;;;;;;;;;;;;x
 RHO_ADJ;ローデシア;;;;;;;;;;;;x
-RHO_conservative;Rhodesia Party;;;;;;;;;;;;x
-RHO_liberal;United Federal Party;;;;;;;;;;;;x
-RHO_reactionary;Rhodesian Front;;;;;;;;;;;;x
+RHO_conservative;ローデシア党;;;;;;;;;;;;x
+RHO_liberal;統一連邦党;;;;;;;;;;;;x
+RHO_reactionary;ローデシア人民戦線;;;;;;;;;;;;x
 RHO_socialist;ZANU;;;;;;;;;;;;x
 RHO_communist;ZAPU;;;;;;;;;;;;x
-RHO_anarcho_liberal;Responsible Government Association;;;;;;;;;;;;x
-RHO_fascist;The When-Wes;;;;;;;;;;;;x
+RHO_anarcho_liberal;責任ある政治協会;;;;;;;;;;;;x
+RHO_fascist;When-Wes;;;;;;;;;;;;x
 EGY_1842;ダルフール;;;;;;;;;;;;x
 EGY_1838;コルドファン;;;;;;;;;;;;x
 EGY_915;レバノン;;;;;;;;;;;;x
-CHI_2562;Formosa;;;;;;;;;;;;x
+CHI_2562;フォルモサ;;;;;;;;;;;;x
 BEL_1977;バ・コンゴ;;;;;;;;;;;;x
 BEL_1987;カタンガ;;;;;;;;;;;;x
-BEL_1990;Congo Orientale;;;;;;;;;;;;x
+BEL_1990;コンゴ東部州;;;;;;;;;;;;x
 BEL_1984;カサイ;;;;;;;;;;;;x
 POR_1999;北アンゴラ;;;;;;;;;;;;x
 ENG_1956;南カメルーン;;;;;;;;;;;;x
 ENG_1960;北カメルーン;;;;;;;;;;;;x
-ENG_1868;Somaliland;;;;;;;;;;;;x
-ENG_2026;Rift Valley;;;;;;;;;;;;x
-ENG_2024;Kenya;;;;;;;;;;;;x
-ENG_2019;Uganda;;;;;;;;;;;;x
-TRN_2108;Transvaal;;;;;;;;;;;;x
-POR_2060;Mocambique;;;;;;;;;;;;x
-FRA_1884;Sierra Leone;;;;;;;;;;;;x
+ENG_1868;ソマリランド;;;;;;;;;;;;x
+ENG_2026;リフト・ヴァレー;;;;;;;;;;;;x
+ENG_2024;ケニヤ;;;;;;;;;;;;x
+ENG_2019;ウガンダ;;;;;;;;;;;;x
+TRN_2108;トランスヴァール;;;;;;;;;;;;x
+POR_2060;モザンビーク;;;;;;;;;;;;x
+FRA_1884;シエラ・レオネ;;;;;;;;;;;;x
 FRA_1813;ニジェール;;;;;;;;;;;;x
 FRA_1892;象牙海岸;;;;;;;;;;;;x
 FRA_1893;ウィンドワード海岸;;;;;;;;;;;;x
@@ -229,12 +229,12 @@ ALD_1714;西サハラ;;;;;;;;;;;;x
 TRI_1739;リビア砂漠;;;;;;;;;;;;x
 EGY_1754;リビュア;;;;;;;;;;;;x
 FRA_1780;内モーリタニア;;;;;;;;;;;;x
-ORA_2103;Vrystaat;;;;;;;;;;;;x
-ENG_2092;Northern Cape;;;;;;;;;;;;x
-ENG_2083;Namaqualand;;;;;;;;;;;;x
-ENG_2096;Eastern Cape;;;;;;;;;;;;x
-ENG_2087;Cape Colony;;;;;;;;;;;;x
-BEL_1992;Equateur;;;;;;;;;;;;x
+ORA_2103;フライスタ;;;;;;;;;;;;x
+ENG_2092;北ケープ;;;;;;;;;;;;x
+ENG_2083;ナマクアランド;;;;;;;;;;;;x
+ENG_2096;東ケープ;;;;;;;;;;;;x
+ENG_2087;ケープ植民地;;;;;;;;;;;;x
+BEL_1992;エクアトゥール;;;;;;;;;;;;x
 FRA_1978;コンゴ;;;;;;;;;;;;x
 CNG;コンゴ;;;;;;;;;;;;x
 CNG_absolute_monarchy;コンゴ自由国;;;;;;;;;;;;x
@@ -242,66 +242,66 @@ CNG_presidential_dictatorship;ザイール;;;;;;;;;;;;x
 CNG_hms_government;コンゴ;;;;;;;;;;;;x
 CNG_democracy;ザイール;;;;;;;;;;;;x
 CNG_ADJ;コンゴ;;;;;;;;;;;;x
-the_congo_conference_title;Host The Congo Conference;;;;;;;;;;;;x
-the_congo_conference_desc;The Congo Conference, also known as the 'Berlin Conference', was an international conference held in 1884 at the initiative of German Chancellor Otto Graf von Bismarck. The immediate consequences of the 'General Act' adopted at the conference was a formalization of the rules of engagement for colonial expansion in Africa, and the confirmation of The Congo Free State as the personal property of King Leopold II of Belgium. What will be the outcome this time around? Host The Congo Conference, and let the dice be cast! We should be ready to send invitations to other countries within a few months of enacting this decision.;;;;;;;;;;;;x
+the_congo_conference_title;コンゴ会議を主催;;;;;;;;;;;;x
+the_congo_conference_desc;コンゴ会議、別名「ベルリン会議 」は、1884年にドイツのオットー・フォン・ビスマルク宰相の呼びかけで開かれた国際会議です。この会議の結果、アフリカにおける植民地拡張のための交戦規定の形式が一般法として採択されました。また「コンゴ自由国」 がベルギーのレオポルド2世の私有財産であることが確認されました。今回の結果はどうなるでしょうか？コンゴ会議を主催して、賽を投げましょう！私たちはこの決断を下してから数ヶ月以内に他国に招待状を送る準備ができていなければなりません。;;;;;;;;;;;;x
 EVTNAME19330;$CAPITAL$会議;;;;;;;;;;;;x
-EVTDESC19330;I do not want to miss a good chance of getting us a slice of this magnificent African cake.'\n- Leopold II of Belgium\n\nPreparations for a major international conference on Colonial policies in Africa have been underway in $COUNTRY$ for some time, and today the $MONARCHTITLE$ is ready to send out invitations to the other civilized nations and concerned parties of the world. The main issue on the table is a definitive settling of The Congo Question. One delegate nation will be given the exclusive right to control and exploit colonial Congo. Secondary Powers, Nations without a colonial empire and Powers already laying claims to areas in the Congo will receive preferential consideration in the negotiations.;;;;;;;;;;;;x
-EVTOPTA19330;Excellent, send the invitations!;;;;;;;;;;;;x
-EVTOPTB19330;I think it would be best if nothing came of this...;;;;;;;;;;;;x
+EVTDESC19330;アフリカというこのすばらしいケーキの1切れをいただくチャンスは絶対に逃したくない\nーレオポルド2世\n\nここしばらく$COUNTRY$では、アフリカにおける植民地政策に関する主要な国際会議を開催するための準備が進められてきました。そして今、$MONARCHTITLE$は他の文明国や当事国などに対して招待状を送付する準備が整いました。会議の主な課題はコンゴ問題の最終的な解决です。出席国のどこかにコンゴ植民地を支配し開発するための独占権が与えられるでしょう。交渉では準列強国、植民地のない帝国、およびすでにコンゴの地域に領有権を主張している国家が優先的に考慮されるでしょう。;;;;;;;;;;;;x
+EVTOPTA19330;素晴らしい、招待状を送付しよう！;;;;;;;;;;;;x
+EVTOPTB19330;ここで何も出てこなければいいのだが...;;;;;;;;;;;;x
 EVTNAME19335;コンゴ会議;;;;;;;;;;;;x
-EVTDESC19335;$MONARCHTITLE$, $FROMCOUNTRY$ is hosting a major international conference on policies and practices for the further colonization of Africa. The main issue at the conference will be a settling of The Congo Question, and the likely outcome of this conference is that the whole of the Congo will be recognized as a possession of one of the delegate nations. Most every civilized nation of any standing in the world will be sending a delegation to the conference, but sending a delegation could be more costly than the potential gains merit.;;;;;;;;;;;;x
-EVTOPTA19335;I do not want to miss a good chance of getting us a slice of this magnificent African cake!;;;;;;;;;;;;x
-EVTOPTB19335;I do not feel that such an unimportant affair merits our attention.;;;;;;;;;;;;x
+EVTDESC19335;$MONARCHTITLE$、$FROMCOUNTRY$は、アフリカのさらなる植民地化のための政策と実践に関する大規模な国際会議を主催しています。会議での主な問題は、コンゴ問題の解決であり、この会議の予想される結末は、全コンゴが主席国の1つの所有物として確認されることです。世界のあらゆる文明国のほとんどが代表団を会議に送るようですが、代表団を送ることは潜在的な利益よりも費用がかかるかもしれません。;;;;;;;;;;;;x
+EVTOPTA19335;アフリカというこのすばらしいケーキの1切れをいただくチャンスは絶対に逃したくない;;;;;;;;;;;;x
+EVTOPTB19335;そのような些細なことが我々の心を動かすことはない;;;;;;;;;;;;x
 EVTNAME19340;コンゴ自由国！;;;;;;;;;;;;x
-EVTDESC19340;The Congo Free State is unique in its kind. It has nothing to hide and no secrets and is not beholden to anyone except its founder.'\n- King Leopold II of Belgium\n\nThe Congo Conference that convened some time ago has reached its decision with regards to the Congo Question. The Conference has confirmed, in the 'General Act' released today, that $COUNTRY$ will be accorded the right to rule, exploit and colonize the Congo. The Congo Free State will be under the rule of $COUNTRY$, but administered as a formally independent state. Other nations will surely hasten to set up trade relations and investigate the full economic potential of the Congo;;;;;;;;;;;;x
-EVTOPTA19340;Oh joy!;;;;;;;;;;;;x
+EVTDESC19340;コンゴ自由国はこの種のものとしては独特である。そこには隠し事も秘密もまったくない。また建国者を除き誰も特権を享受することもない。\nーベルキー王レオポルド2世\n\nしばらく前に開催されたコンゴ会議（ベルリン会議）がコンゴ問題に関する決断を出しました。会議は本日発表された「一般法 」において、$COUNTRY$にコンゴを統治し、開発し、植民地化する権利が与えられることを認めました。コンゴ自由国は$COUNTRY$の統治下にはなりますが、正式に独立した国家として運営されます。他国は大急ぎで貿易関係を設立し、コンゴの完全な経済的潜在力の調査をすることでしょう。;;;;;;;;;;;;x
+EVTOPTA19340;やったね！;;;;;;;;;;;;x
 CNG_liberal;自由党;;;;;;;;;;;;x
 CNG_conservative;保守党;;;;;;;;;;;;x
 CNG_socialist;社会党;;;;;;;;;;;;x
 CNG_communist;共産党;;;;;;;;;;;;x
-CNG_reactionary;Reactionary Party;;;;;;;;;;;;x
+CNG_reactionary;反動主義党;;;;;;;;;;;;x
 CNG_fascist;ファシスト党;;;;;;;;;;;;x
-CNG_anarcho_liberal;Anarcho-Liberal Party;;;;;;;;;;;;x
-EVTNAME70000;$STATE$ Granted Statehood!;;;;;;;;;;;;x
-EVTNAME70001;$STATE$ Granted Statehood!;;;;;;;;;;;;x
-IS_SECONDARY_NATION;Is Secondary Power;;;;;;;;;;;;x
-IS_NOT_SECONDARY_NATION;Is Not Secondary Power;;;;;;;;;;;;x
-SET_PRIMARY_CULTURE;§Y$CULTURE$§W set to primary culture.\n;;;;;;;;;;;;x
-CB_ASSERT_HEGEMONY;Assert Hegemony\n;;;;;;;;;;;;x
-unification_humiliate_cb_setup;Force another Great Power to concede your leadership over your common cultural union.;;;;;;;;;;;;x
-unification_humiliate_cb_desc;Force another Great Power to concede your leadership over your common cultural union. All his influence over countries in the area will be lost.;;;;;;;;;;;;x
-EVTNAME19345;Rubber From The Congo!;;;;;;;;;;;;x
-EVTDESC19345;The soil of the Congo basin is rich, fertile, and perfectly suited for the growing of natural rubber. Sadly, much of this wild but verdant land lies dormant, unexplored and unused, in the smothering grip of barbarism and backwardness. Powerful economic interests within $COUNTRY$ wish nothing more than to be given the opportunity to develop and exploit the natural wealth of the dark cornucopia that is The Congo Free State, and, besides, not doing so might give the natives dangerous ideas. What say you, your Majesty?;;;;;;;;;;;;x
-EVTOPTA19345;I am sure the natives could lend a hand!;;;;;;;;;;;;x
-EVTOPTB19345;We have come as bringers of civilization, not as looters.;;;;;;;;;;;;x
+CNG_anarcho_liberal;無政府自由主義党;;;;;;;;;;;;x
+EVTNAME70000;$STATE$がステートに昇格！;;;;;;;;;;;;x
+EVTNAME70001;$STATE$がステートに昇格！;;;;;;;;;;;;x
+IS_SECONDARY_NATION;準列強国であること;;;;;;;;;;;;x
+IS_NOT_SECONDARY_NATION;準列強国でないこと;;;;;;;;;;;;x
+SET_PRIMARY_CULTURE;§Y$CULTURE$§Wを主要文化に設定します。\n;;;;;;;;;;;;x
+CB_ASSERT_HEGEMONY;覇権を主張\n;;;;;;;;;;;;x
+unification_humiliate_cb_setup;我が国の主要な民族との合同における指導権が我々にあることを他の列強国に認めさせます;;;;;;;;;;;;x
+unification_humiliate_cb_desc;我が国の主要な民族との合同における指導権が我々にあることを他の列強国に認めさせます。その地域の国々に対する彼の国の影響力はすべて失われるでしょう。;;;;;;;;;;;;x
+EVTNAME19345;コンゴからのゴム！;;;;;;;;;;;;x
+EVTDESC19345;コンゴ盆地の土壌は肥沃で、天然ゴムの栽培に適しています。残念なことに、この荒涼とした緑豊かな土地の多くは息の詰まるような野蛮さと前時代に支配され、未探検かつ未利用のままです。$COUNTRY$の強力な資本家たちはコンゴ自由国という闇の中のコルヌコピア、ここにある自然の富の開発と活用の機会を切望しています。その上そうしないことは原住民に危険な考えを与えるかもしれません。どうしますか、陛下？;;;;;;;;;;;;x
+EVTOPTA19345;原住民がきっと手を貸してくれるはず！;;;;;;;;;;;;x
+EVTOPTB19345;我々は略奪者としてではなく、文明の運び手として来たのだ。;;;;;;;;;;;;x
 EVTNAME19350;コンゴ改革協会;;;;;;;;;;;;x
-EVTDESC19350;Several witness reports over the past few years have spoken of the ongoing mistreatment of $COUNTRY_ADJ$ colonial subjects in The Congo Free State. Widespread brutality, mutilation and even massacres have been reported as often used tools of colonial subjugation, and these reports have begun to cast the $COUNTRY_ADJ$ colonial policy in a very poor light. An international organization -- The Congo Reform Association -- has now been founded with the stated goal of restoring human dignity to $COUNTRY$'s colonial subjects, and several well renowned authors and international humanitarians have rallied to the cause.;;;;;;;;;;;;x
-EVTOPTA19350;Blast!;;;;;;;;;;;;x
-annex_the_congo_title;Annex The Congo;;;;;;;;;;;;x
-annex_the_congo_desc;International pressure has been mounting over the issue of The Congo Free State. The Free State, which is governed as the personal property of our Monarch, is receiving a barrage of international criticism on account of the brutal colonial policies enforced there. Our best option at this stage is probably to annex the Free State and reform its administration.;;;;;;;;;;;;x
+EVTDESC19350;過去数年間の目撃者たちの報告によると、コンゴ自由州では$COUNTRY_ADJ$植民地支配者に対する虐待が続いているといいます。植民地支配の道具として、残虐行為や手足の切断、さらには虐殺などが広く用いられているとの報告があり、これらの報告が$COUNTRY_ADJ$の植民地政策を非常に悪いものにしています。$COUNTRY$の植民地支配下にあった人々に人間の尊厳を取り戻すという目標を掲げて、国際的な組織、コンゴ改革協会が設立され、著名な作家や国際的な人道主義者たちがこの運動に結集しています。;;;;;;;;;;;;x
+EVTOPTA19350;くそ！;;;;;;;;;;;;x
+annex_the_congo_title;コンゴの併合;;;;;;;;;;;;x
+annex_the_congo_desc;コンゴ自由国の問題をめぐって国際的な圧力が高まっています。我々の君主の私有財産として統治されている自由国家は、そこで強制された残忍な植民地政策のために国際的な批判の集中砲火を浴びています。ここに来ての最善の選択肢は、自由国を併合し、その政策を改革することでしょう。;;;;;;;;;;;;x
 the_congo_reform_association;コンゴ改革協会;;;;;;;;;;;;x
-the_congo_refrom_association_desc;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;;;;;;;;;;;;x
+the_congo_refrom_association_desc;国際的な人道機関は、コンゴにおけるわれわれの植民地政策に否定的な眼差しを投げかけています。;;;;;;;;;;;;x
 MODIFIER_BADBOY;汚名;;;;;;;;;;;;x
-rename_the_congo_title;Explore The Congo!;;;;;;;;;;;;x
-rename_the_congo_desc;With The Congo Free State having been confirmed as The Personal Property of King Leopold II, it is only fair and reasonable that we now explore the region, and perhaps leave a bit of a personal mark on it?;;;;;;;;;;;;x
-PROV2049;Lourenzo Marques;;;;;;;;;;;;x
+rename_the_congo_title;コンゴの探検！;;;;;;;;;;;;x
+rename_the_congo_desc;コンゴ自由国がレオポルド2世の個人財産であることが確認された今、私たちがこの地域を探索し、おそらく少しばかりの個人的な痕跡を残すことは、公正かつ合理的なことでしょうか?;;;;;;;;;;;;x
+PROV2049;ロウレンソ・マルケス;;;;;;;;;;;;x
 brazzas_expedition_title;ブラザの探検;;;;;;;;;;;;x
-brazzas_expedition_desc;The Franco-Italian adventurer Pierre Savorgnan de Brazza explored the Congo region in the 1870's and 80's, and opened up Central Africa and the right bank of the Congo river to French colonization. The city of Brazzaville in the French Congo was named after him.;;;;;;;;;;;;x
+brazzas_expedition_desc;フランコ・イタリアの冒険家ピエール・サヴォルニャン・ド・ブラザは1870年代と80年代にコンゴ地域を探検し、中央アフリカとコンゴ川右岸を開墾してフランスによる植民地化を図りました。フランス領コンゴのブラザヴィル市は彼にちなんで名付けられました。;;;;;;;;;;;;x
 USA_prussian_constitutionalism;アメリカ王国;;;;;;;;;;;;x
 von_moltkes_staff_reforms_title;フォン・モルトケの改革;;;;;;;;;;;;x
-von_moltkes_staff_reforms_desc;In 1857 Helmuth von Moltke was appointed Chief of the Prussian General Staff, which he soon set about reforming. Among the ideas implemented by von Moltke were a department for historical studies, extensive wargaming exercises and a special department dedicated to cataloging and studying the telegraph and railway networks of Prussia, and how they could be used to best effect in the event of war. The end result was that, by the time of the Franco-Prussian war, Prussia's General Staff was considered the most efficient in Europe, it's methods soon becoming widely studied and adopted abroad. Moltke remained Chief of the Prussian Staff for the next 30 years, and is known as one of the most brilliant military strategists of the 19th century.;;;;;;;;;;;;x
+von_moltkes_staff_reforms_desc;1857年、ヘルムート・フォン・モルトケはプロイセン参謀総長に任命され、すぐに改革に着手しました。フォン・モルトケによって実行されたアイデアの中には、歴史研究のための部門、大規模な盤上演習、プロイセンの電信と鉄道網の目録と研究に専念する特別な部門、および戦争の際にそれらを最も効果的に使用する方法がありました。その結果、普仏戦争の頃には、ヨーロッパではプロイセン参謀総長が最も有能と考えられるようになり、その方法はすぐに海外で広く研究され採用されるようになりました。モルトケはその後30年間プロイセン参謀総長を務め、19世紀の最も優秀な軍事戦略家の一人として知られています。;;;;;;;;;;;;x
 prussian_general_staff;プロイセン参謀本部;;;;;;;;;;;;x
-desc_prussian_general_staff;The Prussian General Staff is the most efficient in Europe, but other nations will catch up sooner or later.;;;;;;;;;;;;x
-kanun_i_esasi_title;Kanun-i-Esasi;;;;;;;;;;;;x
-kanun_i_esasi_desc;Implemented in 1876, the 'Kanun-i-Easasi' (Basic Law) was an early attempt at gifting the Ottoman Empire with a constitution. While the Basic Law would only remain in effect for two years before being repealed by Sultan Abdulhamid II, it was nevertheless an important forerunner to the later development of Ottoman and Turkish constitutionalism.;;;;;;;;;;;;x
-the_ruhr_boom_title;Encourage The Ruhr Boom;;;;;;;;;;;;x
-the_ruhr_boom_desc;The Ruhr area, formerly parts of the counties of Berg, Mark and Cleves, is changing day by day. Every day new coal pits, mines and shafts are opened up to supply the ever expanding Prussian railway networks, and lately, supported by imports of British industrial technology, factories are springing up like mushrooms after an autumn rain. The Ruhr is booming, and the example could easily spread to the rest of Germany, if only it were given a little nudge out the door.;;;;;;;;;;;;x
-ruhr_boom;The Ruhr Boom;;;;;;;;;;;;x
-desc_ruhr_boom;Cities all across Germany are growing and changing from rural townships to modern centers of industry thanks to the examples set by the burgeoning Ruhr industrialism.;;;;;;;;;;;;x
-support_ruhr_industrialism_title;Support The Krupp Family;;;;;;;;;;;;x
-DIPLOMACY_NO_ALLIES_CIVIL_WAR;Allies cannot be called into a civil war.;;;;;;;;;;;;x
-the_rhine_crisis_title;The Left Bank;;;;;;;;;;;;x
-the_rhine_crisis_desc;During Napoleon's redrawings of the European map, the left bank of the river Rhine had been annexed to France proper. In 1840 France's Prime Minister Adolphe Thiers publicly stated that, in his opinion, the Rhine still remained France's natural eastern border. With the hardships of the Napoleonic wars still in living memory the statement caused uproar in Germany, sparking what would become known as 'The Rhine Crisis';;;;;;;;;;;;x
+desc_prussian_general_staff;ヨーロッパではプロイセン参謀本部は最も優秀ですが、遅かれ早かれ他国もこれに追いつくことでしょう。;;;;;;;;;;;;x
+kanun_i_esasi_title;カーヌーン・イ・エサシ;;;;;;;;;;;;x
+kanun_i_esasi_desc;1876年に施行された「カーヌーン・イ・エサシ 」（基本法）は、オスマン帝国憲法制定の先駆けです。基本法は、スルタン・アブデュルハミト2世によって廃止されるまで2年しか有効ではありませんでしたが、それにもかかわらず、オスマン帝国とトルコの立憲主義のその後の発展の重要な先触れになりました。;;;;;;;;;;;;x
+the_ruhr_boom_title;ルール地方の好景気が促進;;;;;;;;;;;;x
+the_ruhr_boom_desc;以前はベルク、マルク、クレーヴェの一部であったルール地方は刻々と変化しています。日々拡大するプロイセンの鉄道網に対応するために、毎日新しい炭鉱、鉱山、坑道が開設されています。最近では英国の工業技術の輸入に支えられて、秋の雨後のキノコのように工場が生えだしてきています。ルール地方は好景気に沸き立っており、この事例はドアの外に少し押し出してやれば、ドイツの他の地域にも簡単に広まることでしょう。;;;;;;;;;;;;x
+ruhr_boom;ルール地方の好景気;;;;;;;;;;;;x
+desc_ruhr_boom;ドイツ全土の都市が成長しています。急成長するルール地方の産業構造を模範とし、各都市が田舎町から近代的な産業の中心地へと変化してきています。;;;;;;;;;;;;x
+support_ruhr_industrialism_title;クルップ一家を支援;;;;;;;;;;;;x
+DIPLOMACY_NO_ALLIES_CIVIL_WAR;同盟国に内戦への介入を依頼することはできません。;;;;;;;;;;;;x
+the_rhine_crisis_title;左岸;;;;;;;;;;;;x
+the_rhine_crisis_desc;ナポレオンがヨーロッパの地図を描きかえている最中にライン川の左岸はフランス本土に併合されました。1840年、フランスの首相アドルフ・ティエールは、個人的な見解として、ライン川は依然としてフランスの東側の自然国境であると公式に発言しました。ナポレオン戦争の痕跡が今も記憶に残る中、この声明はドイツで騒動を引き起こし、 「ライン危機」 として知られるようになりました。;;;;;;;;;;;;x
 build_the_eiffel_tower_title;エッフェル塔の建設;;;;;;;;;;;;x
 build_the_eiffel_tower_desc;1889年の万国博覧会のエントランスアーチとして建設されたエッフェル塔は不朽の存在の１つであり、またパリとフランス建築史の顔です。エッフェル塔は設計者のギュスターヴ・エッフェルにちなんで名付けられました。1930年にニューヨーク市のクライスラービルが完成するまで世界で最も高い人工建造物でした。;;;;;;;;;;;;x
 the_eiffel_tower;エッフェル塔;;;;;;;;;;;;x
@@ -314,8 +314,8 @@ SM_COUNTERDISTANCE;敵までの距離;;;;;;;;;;;;x
 OL_GP_INFLUENCE;影響;;;;;;;;;;;;x
 OL_VIEW_GP_INFLUENCE;§Y影響力§W表示を切り替え;;;;;;;;;;;;x
 CB_EXPIRE_DATE;§Y$DATE$§Wで期限切れ;;;;;;;;;;;;x
-BUDGET_CANT_LOAN_DESC;Banks will only loan you money if you have been meeting your interest payments and are not hostile. Foreign banks will currently never loan you more than $MAXLOAN$¤ of their total available funds for security reasons.;;;;;;;;;;;;x
-MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO_OUR_SIDE;We cannot negotiate with the enemy §YWar leader§W since we are target of a wargoal and our leader has added a §YStatus Quo§W wargoal;;;;;;;;;;;;x
+BUDGET_CANT_LOAN_DESC;銀行はあなたが金利の支払い能力を満たしていて敵対的でない場合にのみ資金を貸し出します。現在、国外の銀行は安全上の理由から貸し出し可能資金の内$MAXLOAN$¤を超える貸付を一切行いません。;;;;;;;;;;;;x
+MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO_OUR_SIDE;我々が戦争目的のターゲットかつ味方の戦争指導国が§Y原状維持§Wの戦争目的を追加した場合は、敵側の§Y戦争指導国§Wと交渉することはできません。;;;;;;;;;;;;x
 witwatersrand_gold_rush;ウィットウォーターズランド・ゴールドラッシュ;;;;;;;;;;;;x
 desc_witwatersrand_gold_rush;ウィットウォーターズランドでのゴールドラッシュにより我々は国際的に知られる様になりました。;;;;;;;;;;;;x
 ENG_bourgeois_dictatorship;ブリタニア共和国;;;;;;;;;;;;x

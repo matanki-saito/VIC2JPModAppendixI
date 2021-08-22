@@ -685,8 +685,8 @@ WARDIALOG_SELECT_COUNTRY;Select a §Ycountry§W in the list to the right;;;;;;;;
 WARDIALOG_SELECT_STATE;Select a §Ystate§W in the list to the right;;;;;;;;;;;;x
 status_quo_desc;Attempt to intervene in a war, neglecting any side to fulfill their §Ywargoals§W;;;;;;;;;;;;x
 conquest_desc;Annex a single-state §Ycountry§W or an §Yuncivilized nation§W;;;;;;;;;;;;x
-add_to_sphere_desc;Add country to our §YSphere of Influence§W;;;;;;;;;;;;x
-take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W and add it to our own;;;;;;;;;;;;x
+add_to_sphere_desc;我々の§Y影響圏§Wへ国家を編入します;;;;;;;;;;;;x
+take_from_sphere_desc;他の§Y影響圏§Wから国家を排除し、我々の下に編入します;;;;;;;;;;;;x
 acquire_core_state_desc;Aquire an enemy §Ystate§W where we have §Ycore provinces§W;;;;;;;;;;;;x
 acquire_state_desc;Aquire an enemy §Ystate§W;;;;;;;;;;;;x
 place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;;;;;;;;;;;;x
@@ -1275,8 +1275,8 @@ EXPELADVISORSTITLE;Expel Great Power's advisers;;;;;;;;;;;;x
 BANEMBASSYTITLE;Ban Great Power's embassy;;;;;;;;;;;;x
 INCREASEOPINIONTITLE;Increase Opinion;;;;;;;;;;;;x
 DECREASEOPINIONTITLE;Decrease Opinion of Great Power;;;;;;;;;;;;x
-ADDTOSPHERETITLE;Add to Sphere of Influence;;;;;;;;;;;;x
-REMOVEFROMSPHERETITLE;Remove from Sphere of Influence;;;;;;;;;;;;x
+ADDTOSPHERETITLE;影響圏に編入;;;;;;;;;;;;x
+REMOVEFROMSPHERETITLE;影響圏から排除;;;;;;;;;;;;x
 INCREASERELATION_BUTTON;Increase Relations;;;;;;;;;;;;x
 DECREASERELATION_BUTTON;Decrease Relations;;;;;;;;;;;;x
 CALLALLY_OFFER;The nation of $ACTOR$, your faithful ally, is requesting that you come to their aid in the $LIST$.;;;;;;;;;;;;x
@@ -1480,11 +1480,11 @@ tut_menu_7;Trade;;;;;;;;;;;;x
 tut_menu_7_description;Learn about trade. How and why does governments buy and sell.;;;;;;;;;;;;x
 tut_menu_8;Diplomacy;;;;;;;;;;;;x
 tut_menu_8_description;Learn about the art of diplomacy. How to make wars and alliances.;;;;;;;;;;;;x
-tut_1a_1;The Military;;;;;;;;;;;;x
-tut_1a_2;Welcome to the tutorial covering the military aspect of Victoria 2.\nYou are in command of Belgium, a small nation with great potential. There is a problem however, your Dutch neighbors have just declared war.;;;;;;;;;;;;x
-tut_1a_3;Selecting a Unit;;;;;;;;;;;;x
-REMOVE_tut_1a_4;The Dutch are massing on our borders, we must repel them. The first thing we need to do is select an army to do it. \n To select and army, click the army in Brussels, circled on the map.;;;;;;;;;;;;x
-tut_1a_5;The Unit View;;;;;;;;;;;;x
+tut_1a_1;軍事;;;;;;;;;;;;x
+tut_1a_2;ヴィクトリア２の軍事についてのチュートリアルへようこそ。\nあなたは大きな可能性を秘めた小さな国家、ベルギーの指導者です。しかし問題があります、あなたの隣人であるオランダがちょうど宣戦布告をしました。;;;;;;;;;;;;x
+tut_1a_3;ユニットの選択;;;;;;;;;;;;x
+REMOVE_tut_1a_4;オランダ軍が我々の国境付近に集まっています。我々は彼らを撃退しなければなりません。まず最初にしなければならないこと、それをする軍を選択することです。\n 軍を選択するには、地図上で丸で囲んだブリュッセルの軍をクリックします。;;;;;;;;;;;;x
+tut_1a_5;ユニット画面;;;;;;;;;;;;x
 tut_1a_6;The army you just selected, the 1e Infanterie Divisie, consists of 12000 men in 4 brigades. You can see the individual brigades and number of men in the unit view.\n In the unit view you can also find the following values:;;;;;;;;;;;;x
 tut_1a_7;The number of men and brigades. If you go into combat the number of men will decrease, if you have unemployed soldiers in your country however it will automatically recover.;;;;;;;;;;;;x
 tut_1a_8;The leader of your army, whose personality will affect the army performance.;;;;;;;;;;;;x
@@ -1500,17 +1500,17 @@ tut_1a_16;Merging;;;;;;;;;;;;x
 tut_1a_17;Well done, Brussels should now have 2 armies. You can also notice the small flag next to the waving Belgian flag next to your armies. This indicates that there is more than one army here.;;;;;;;;;;;;x
 tut_1a_17a;However, the Dutch are probably going to run over this army, we should rejoin it. First select both units in the province by dragging a box around them. If you select any units outside the province of Brussels, just press Escape on your keyboard and try again.;;;;;;;;;;;;x
 tut_1a_18;After selecting the units, press the Merge button.;;;;;;;;;;;;x
-tut_1a_20;Moving a unit;;;;;;;;;;;;x
+tut_1a_20;ユニットの移動;;;;;;;;;;;;x
 tut_1a_21;Now we need to march against the vile Dutch. We want to move our army in Brussels to take on the Dutch army in Maastricht. Select the army in Brussels and then right click Maastricht to move your army there.;;;;;;;;;;;;x
-tut_1a_22;Moving a unit;;;;;;;;;;;;x
+tut_1a_22;ユニットの移動;;;;;;;;;;;;x
 tut_1a_23;Notice the arrow that starts at your unit and points to Maastricht. As your unit progress this arrow will start to fill indicating how far your army has marched.\nUnpause the game by pressing space on your keyboard.;;;;;;;;;;;;x
-tut_1a_22b;Moving a unit;;;;;;;;;;;;x
+tut_1a_22b;ユニットの移動;;;;;;;;;;;;x
 tut_1a_22c;Your unit is now on the move, notice how the arrow is filling up.;;;;;;;;;;;;x
-tut_1a_24;The battle;;;;;;;;;;;;x
+tut_1a_24;戦い;;;;;;;;;;;;x
 tut_1a_25;Your units are now in action against the Dutch. Notice the progress bar that appeared under your unit, this indicates who are winning. More red indicates that the nation flag to the left is winning, more green indicates that the nation to the right is winning.\nClick the progress bar to get more details on the battle.;;;;;;;;;;;;x
-tut_1a_26;The battle;;;;;;;;;;;;x
+tut_1a_26;戦い;;;;;;;;;;;;x
 tut_1a_27;The combat view should now have appeared, here you can get more detailed information on what happens in the battle.\nAgain, press space to unpause the game. We should win this battle in a short while.;;;;;;;;;;;;x
-tut_1a_28;The battle;;;;;;;;;;;;x
+tut_1a_28;戦い;;;;;;;;;;;;x
 tut_1a_29;The battle is over, your army should have won. In the combat result screen you can see the results of the action. Click next to continue.;;;;;;;;;;;;x
 tut_1a_30;The Outliner;;;;;;;;;;;;x
 tut_1a_31;Clicking the map is not the only way to select a unit. Victoria 2 has a feature called the outliner. Click the little plus sign to the right to open the outliner.;;;;;;;;;;;;x
@@ -1540,7 +1540,7 @@ tut_2a_4d;Factories - Factories also produce refined goods, these however are th
 tut_2a_5;Production Screen;;;;;;;;;;;;x
 tut_2a_6;In this screen you can see all the goods produced by your nation, they are grouped by category.\nEach output goods has an icon next to it representing which production type of producers produce it:;;;;;;;;;;;;x
 tut_2a_6a;Farmers/Labourers for RGOs.;;;;;;;;;;;;x
-tut_2a_6b;Craftsmen for factories.;;;;;;;;;;;;x
+tut_2a_6b;工場には工員;;;;;;;;;;;;x
 tut_2a_6c;Artisans for their part of the production.;;;;;;;;;;;;x
 tut_2a_6d;In this screen you can hover your mouse over various icons to get a better idea about the production going on in your nation to help you make your decisions.;;;;;;;;;;;;x
 tut_3a_1;Budget;;;;;;;;;;;;x
@@ -1964,7 +1964,7 @@ tut_8c_11;Wars and War goals.;;;;;;;;;;;;x
 REMOVE_tut_8c_12;In Victoria 2 you must set a war goal for your any war you start, you can see all the war goals you can set on the right side of the war declaration pop-up. Be aware that these war goals are the only thing you can demand in peace. Let's start the war. Click OK then switch to the show wars tab.;;;;;;;;;;;;x
 tut_8c_13;Adding New War goals;;;;;;;;;;;;x
 tut_8c_14;You are not stuck with the war goals you set from the start, however. If your people are jingoistic and you have a high war score (i.e. the war is going well) you can add more goals on this screen. Be aware, though, that if you add war goals you cannot complete your population will be angry and your militancy will increase. Let's click back to the Show Great Powers Tab.;;;;;;;;;;;;x
-tut_8c_15;Spheres of Influence;;;;;;;;;;;;x
+tut_8c_15;影響圏;;;;;;;;;;;;x
 tut_8c_16;Spheres of influence represents a country being under the influence of a greater nation. Among the practical effects of this is that they are included in your common market, making spheres of influence an effective way of ensuring your economy is well supplied. Another important effect is when trying to unify a nation, you will need to have all the core provinces of that nation in your sphere. So how do you get countries into your sphere? Click next to find out.;;;;;;;;;;;;x
 tut_8c_17;Jousting for Position;;;;;;;;;;;;x
 tut_8c_18;There are two important tools for gaining spheres of influence, influence and current opinion.;;;;;;;;;;;;x
@@ -1987,10 +1987,10 @@ tut_4c_11;Navy Technology;;;;;;;;;;;;x
 tut_4c_12;This one is fairly straight forward. Making your ships bigger, faster and heavier hitting, but also giving your navies longer range thus helping you colonize further away.;;;;;;;;;;;;x
 tut_4c_13;Army Technology;;;;;;;;;;;;x
 tut_4c_14;Most advances in the field of armies are generalized for all your troops, things like supply consumption, attack power and organization. At the bottom of the list you can find some new units as well, namely tanks and planes.\nClick next to continue.;;;;;;;;;;;;x
-tut_0a_1;Welcome to Victoria 2;;;;;;;;;;;;x
-tut_0a_2;This is an introduction to Victoria 2, a Grand Strategy Game mainly set in the 19th Century. This was the era when the modern world was born, old empires died and new ones rose to power, new technologies revolutionized the way people and nations lived, new ideologies ripped nations apart or forged them stronger then ever before and all this was powered by the massive Industrial Revolution.\nSo where do you come into all this? Click next to find out.;;;;;;;;;;;;x
-tut_0a_3;Your Nation;;;;;;;;;;;;x
-tut_0a_4;In Victoria 2 you will take command of a country that you will guide through these turbulent times. In this tutorial we have chosen Belgium, a good nation to start with due to its rather limited size but significant potential, significant since it had already started industrializing when we come into the game.;;;;;;;;;;;;x
+tut_0a_1;ヴィクトリア２にようこそ;;;;;;;;;;;;x
+tut_0a_2;ここでは19世紀を舞台にしたグランド・ストラテジー・ゲーム、ヴィクトリア２の紹介をします。この時代は、近代世界が生まれ、古い帝国が死に絶え、新しい帝国が台頭し、新しい技術が人々と国家の生活様式に革命を起こし、新しいイデオロギーが国家を引き裂いたり、かつてないほど強力にしたりした時代であり、これらすべてが大規模な産業革命によって支えられていました。\nあなたはこの世界のどこに収まるでしょうか？「次へ」をクリックしてください。そこに答えがあります。;;;;;;;;;;;;x
+tut_0a_3;あなたの国家;;;;;;;;;;;;x
+tut_0a_4;ヴィクトリア２では、激動の時代を乗り切る国家を指揮します。このチュートリアルでは、ベルギーを選択しました。ベルギーは国家の規模は比較的限られていますが、大きな可能性を秘めており、というのもゲーム開始時に既に工業化が始まっているためです。;;;;;;;;;;;;x
 tut_0a_4b;In the upper left corner you can see the flag of the nation you have chosen as well as its ranking in the world, climbing up in this ranking is an important goal in the game...\nClick next to continue.;;;;;;;;;;;;x
 tut_0a_5;Guiding Your Nation;;;;;;;;;;;;x
 tut_0a_6;In Victoria 2 you have a number of tools to influence your nation's destiny. In Victoria 2 many of these are very indirect, you change laws and taxes and over time there will be consequences to your actions. To interact with your nation you have 8 screens that are opened by clicking buttons in the Top Bar, in the Top Bar you can also gain important, at a glance information, about he state of your nation.\nThe 8 screens are:;;;;;;;;;;;;x

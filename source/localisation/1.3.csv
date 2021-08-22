@@ -42,7 +42,7 @@ NEW_fascist;ファシスト党;;;;;;;;;;;;x
 DIPLOMACY_CHANCE_JOIN_WAR;戦争に参加する可能性：§Y$VAL$§W;;;;;;;;;;;;x
 PO_ISBETTER;この提案を拒否した場合は次の效果が発生します\n好戦性が§R+$MIL$§W、厭戦感情が§R+$WE$§W;;;;;;;;;;;;x
 leave_soi_title;影響圏離脱;;;;;;;;;;;;x
-leave_soi_desc;我が国はこの影響圏から離脱できますが、かつての盟主が我々を止めるために宣戦布告してくるかもしれません。;;;;;;;;;;;;x
+leave_soi_desc;我々はこの影響圏から離脱できますが、かつての盟主が我々を止めるために宣戦布告してくるかもしれません。;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_SETUP;新政党;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_HEADER;新政党結成;;;;;;;;;;;;x
 NEW_PARTY_AVAIL_1;$PARTY$が結成されました;;;;;;;;;;;;x

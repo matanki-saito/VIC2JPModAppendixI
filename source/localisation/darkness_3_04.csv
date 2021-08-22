@@ -1,20 +1,20 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 EVTNAME19356;全ての戦争を終わらせるための戦争;;;;;;;;;;;;x
-EVTDESC19356;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.\n\n From now on a great war will allow a side that is clearly winning the ability to add even more wargoals;;;;;;;;;;;;x
-EVTOPTA19356;Gentlemen, all I ask for is war, a war so grand as to make Hell itself tremble;;;;;;;;;;;;x
-EVTDESC19356_NEWS_LONG;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;x
-EVTDESC19356_NEWS_MEDIUM;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;x
-EVTDESC19356_NEWS_SHORT;It has become increasingly clear that we have entered a new era of unprecedented warfare.;;;;;;;;;;;;x
-ASSIMILATE_EFFECT;Assimilate all Pops in state\n;;;;;;;;;;;;x
-WORLD_WARS_ENABLE_DESC;Great wars can now become World wars;;;;;;;;;;;;x
-WORLD_WARS_ENABLED_DESC;World wars are enabled;;;;;;;;;;;;x
-WORLD_WARS_DISABLED_DESC;World wars are NOT enabled;;;;;;;;;;;;x
-SM_WINDOW;Window mode;;;;;;;;;;;;x
-SM_WINDOWED;Windowed;;;;;;;;;;;;x
-SM_FULLSCREEN;Fullscreen;;;;;;;;;;;;x
-SM_BORDERLESS;Borderless;;;;;;;;;;;;x
-IGNORE_DECISION_ON;This decision is set to NOT notify the player when it is available to be taken.\n\n§GClick to change notification status.§!;;;;;;;;;;;;x
-IGNORE_DECISION_OFF;This decision is set to notify the player when it is available to be taken.\n\n§GClick to change notification status.§!;;;;;;;;;;;;x
-SPLITINHALF;Split in Half;;;;;;;;;;;;x
-SPLITINHALF_DRO;Split in half will split the current unit into two roughly even-sized units and select the larger of the two units.;;;;;;;;;;;;x
+EVTDESC19356;未曾有の戦争の新時代に入ったことが日に日に明らかになってきています。私たちの時代の衝突は、もはや一地域の問題ではなく、世界の隅々にまで影響します。ますます増え続ける利害、敵対行為が関係国に及ぼす恐ろしい影響を考えれば、もはや自制する必要はありません。\n\nこれからの大戦は明らかに、より多くの戦争目的を追加する能力を勝ち取っている側を認めるでしょう;;;;;;;;;;;;x
+EVTOPTA19356;諸君、私は戦争を、地獄のような戦争を望んでいる;;;;;;;;;;;;x
+EVTDESC19356_NEWS_LONG;未曾有の戦争の新時代に入ったことが日に日に明らかになっている。私たちの時代の衝突は、もはや一地域の問題ではなく世界の隅々にまで影響する。ますます増え続ける利害、敵対行為が関係国に及ぼす恐ろしい影響を考えれば、もはや自制する必要はない。;;;;;;;;;;;;x
+EVTDESC19356_NEWS_MEDIUM;未曾有の戦争の新時代に入ったことが日に日に明らかになっている。私たちの時代の衝突は、もはや一地域の問題ではなく世界の隅々にまで影響する。ますます増え続ける利害、敵対行為が関係国に及ぼす恐ろしい影響を考えれば、もはや自制する必要はない。;;;;;;;;;;;;x
+EVTDESC19356_NEWS_SHORT;未曾有の戦争の新時代に入ったことが日に日に明らかになっている。;;;;;;;;;;;;x
+ASSIMILATE_EFFECT;ステートの全ポップを同化\n;;;;;;;;;;;;x
+WORLD_WARS_ENABLE_DESC;大戦は今や世界大戦になります;;;;;;;;;;;;x
+WORLD_WARS_ENABLED_DESC;世界大戦が可能になります;;;;;;;;;;;;x
+WORLD_WARS_DISABLED_DESC;世界大戦は不可能です;;;;;;;;;;;;x
+SM_WINDOW;ウィンドウ設定;;;;;;;;;;;;x
+SM_WINDOWED;ウィンドウ;;;;;;;;;;;;x
+SM_FULLSCREEN;フルスクリーン;;;;;;;;;;;;x
+SM_BORDERLESS;ボーダレス;;;;;;;;;;;;x
+IGNORE_DECISION_ON;この決断は取得可能となったときにプレーヤーに通知しないように設定されています。\n\n§G通知設定を変更するにはクリック§!;;;;;;;;;;;;x
+IGNORE_DECISION_OFF;この決断は取得可能となったときにプレーヤーに通知するように設定されています。\n\n§G通知設定を変更するにはクリック§!;;;;;;;;;;;;x
+SPLITINHALF;半分に分割;;;;;;;;;;;;x
+SPLITINHALF_DRO;「半分に分割」を選択すると、現在のユニットがほぼ均等な量で分割され、うち大きい方が選択されます。;;;;;;;;;;;;x

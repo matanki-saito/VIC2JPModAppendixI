@@ -37,8 +37,8 @@ TENSION_DECAY;Base Decay: §Y$VAL$§!;;;;;;;;;;;;x
 TENSION_FROM_GP_WARS;Great Powers at War: §Y$VAL$§!;;;;;;;;;;;;x
 TENSION_FROM_GP_DISARMED;Disarmed Great Powers: §Y$VAL$§!;;;;;;;;;;;;x
 TENSION_FROM_GP_RANK;Great Power Ranking: §Y$VAL$§!;;;;;;;;;;;;x
-HAS_NOT_CULTURAL_SPHERE;Does NOT have a cultural sphere;;;;;;;;;;;;x
-HAS_CULTURAL_SPHERE;Has a cultural sphere;;;;;;;;;;;;x
+HAS_NOT_CULTURAL_SPHERE;文化影響圏が存在しません;;;;;;;;;;;;x
+HAS_CULTURAL_SPHERE;文化影響圏が存在します;;;;;;;;;;;;x
 UCA;The USCA;;;;;;;;;;;;x
 LOAD_SAVEGAME_FAIL;Failed to load the savegame.;;;;;;;;;;;;x
 NEWS_TOOLTIP_UNREAD;You have §G$NUM$§! unread newspapers out of §G$MAX$§! printed.;;;;;;;;;;;;x
@@ -47,7 +47,7 @@ become_independent_desc;Declare independence from your overlord through force of
 CRISIS_DAYS_UNTIL_WAR;War will break out in §Y$DAYS$§! days if a diplomatic solution is not found.;;;;;;;;;;;;x
 REMOVEFROMSPHERE_COST_NO_INFAMY;This will cost §R$PRESTIGE$§! prestige;;;;;;;;;;;;x
 REMOVEFROMSPHERE_COST;This will cost §R$PRESTIGE$§! prestige and give you §R$INFAMY$§! infamy;;;;;;;;;;;;x
-REMOVEFROMSPHERE_DESC;Removes nation from a §YGreat Power§W's Sphere of Influence.;;;;;;;;;;;;x
+REMOVEFROMSPHERE_DESC;§Y列強§Wの影響圏から国家を削除します。;;;;;;;;;;;;x
 CRISIS_INTEREST;Their interest: §Y$VAL$§!;;;;;;;;;;;;x
 CRISIS_MAKE_OFFER_INVALID;You must offer them something!;;;;;;;;;;;;x
 CRISIS_MAKE_OFFER_NOT_LEADER;You must be a leader in the crisis to make offers.;;;;;;;;;;;;x
@@ -56,7 +56,7 @@ CRISIS_AI_WANTS_TO_BACK_1;has not decided who to support.;;;;;;;;;;;;x
 CRISIS_AI_WANTS_TO_BACK_2;is leaning towards supporting;;;;;;;;;;;;x
 CRISIS_AI_WANTS_TO_BACK_3;is strongly inclined to support;;;;;;;;;;;;x
 CRISIS_AI_INTEREST;Their interest in supporting;;;;;;;;;;;;x
-unification_release_puppet_cb_setup;Release $THIRD$ from $RECIPIENT$ and add them to your sphere of influence;;;;;;;;;;;;x
+unification_release_puppet_cb_setup;$RECIPIENT$から$THIRD$を開放し、あなたの影響圏へ彼らを編入します;;;;;;;;;;;;x
 unification_release_puppet_cb_desc;Release our cultural kin from the control of foreigners and add them to your sphere of influence;;;;;;;;;;;;x
 unification_release_puppet_cb;Free Cultural Kin;;;;;;;;;;;;x
 unification_release_puppet_cb_short;$THIRD$ is released;;;;;;;;;;;;x
@@ -69,7 +69,7 @@ AIREASON_ATTACKING_ALLY;Attacking Ally;;;;;;;;;;;;x
 AIREASON_ATTACKING_FRIENDS;Attacking Friends;;;;;;;;;;;;x
 AIREASON_ATTACKING_ENEMIES;Attacking Enemies;;;;;;;;;;;;x
 AIREASON_COMMON_FOE;Common Foe;;;;;;;;;;;;x
-AIREASON_WAR_WITH_SPHERE_LEADER;War with Sphere Leader;;;;;;;;;;;;x
+AIREASON_WAR_WITH_SPHERE_LEADER;影響圏の指導国との戦争;;;;;;;;;;;;x
 AIREASON_CONSTRUCTING_CB;Strategic Interests;;;;;;;;;;;;x
 AIREASON_HELD_CORES;Owns Core Provinces;;;;;;;;;;;;x
 AIREASON_NEGATIVE_RELATIONS;Negative Relations;;;;;;;;;;;;x
@@ -87,9 +87,9 @@ AIREASON_CIV_VS_UNCIV;Civilized vs Uncivilized;;;;;;;;;;;;x
 AIREASON_DIPLOMATIC_GOALS;Political Considerations;;;;;;;;;;;;x
 AIREASON_DISTANCE;Distance;;;;;;;;;;;;x
 AIREASON_DIFFERENT_GOVTYPES;Government Type;;;;;;;;;;;;x
-AIREASON_OUR_SPHERE;Our Sphere;;;;;;;;;;;;x
-AIREASON_OTHER_SPHERE_LEADER;Other Sphere Leader;;;;;;;;;;;;x
-AIREASON_OTHER_SPHERE;Other Sphere;;;;;;;;;;;;x
+AIREASON_OUR_SPHERE;我々の影響圏;;;;;;;;;;;;x
+AIREASON_OTHER_SPHERE_LEADER;他の影響圏の指導国;;;;;;;;;;;;x
+AIREASON_OTHER_SPHERE;他の影響圏;;;;;;;;;;;;x
 AIREASON_OVERLORD;Overlord;;;;;;;;;;;;x
 AIREASON_BADBOY;汚名;;;;;;;;;;;;x
 AIREASON_RELATIONS;Relations;;;;;;;;;;;;x

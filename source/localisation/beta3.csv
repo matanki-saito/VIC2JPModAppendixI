@@ -3,9 +3,9 @@
 COLONIAL_RANGE;植民範囲：§G+$VAL$§W;;;;;;;;;;;;x
 MODIFIER_LOCAL_SHIP_BUILD;地方船舶の建造時間;;;;;;;;;;;;x
 CB_ALLOWED_ANNEX;併合の受け入れ;;;;;;;;;;;;x
-CB_ALLOWED_ADD_TO_SPHERE;勢力圏へ編入;;;;;;;;;;;;x
+CB_ALLOWED_ADD_TO_SPHERE;影響圏へ編入;;;;;;;;;;;;x
 CB_ALLOWED_RELEASE_PUPPET;傀儡国家の開放;;;;;;;;;;;;x
-CB_ALLOWED_STATUS_QUO;原状回復;;;;;;;;;;;;x
+CB_ALLOWED_STATUS_QUO;原状維持に戻る;;;;;;;;;;;;x
 CB_ALLOWED_TRANSFER_PROVINCES;州の割譲;;;;;;;;;;;;x
 CB_ALLOWED_PRESTIGE;威信の低減;;;;;;;;;;;;x
 CB_ALLOWED_CONCESSION;敗北の受け入れ;;;;;;;;;;;;x

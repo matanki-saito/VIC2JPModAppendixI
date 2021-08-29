@@ -96,16 +96,16 @@ BYE;Belarus;;;;;;;;;;;;x
 BYE_ADJ;Byelorussian;;;;;;;;;;;;x
 UBD;United Baltic Provinces;;;;;;;;;;;;x
 UBD_ADJ;Baltic;;;;;;;;;;;;x
-UBD_conservative;Conservatives;;;;;;;;;;;;x
+UBD_conservative;保守主義者;;;;;;;;;;;;x
 UBD_liberal;Liberals;;;;;;;;;;;;x
-UBD_reactionary;Reactionaries;;;;;;;;;;;;x
+UBD_reactionary;反動主義者;;;;;;;;;;;;x
 UBD_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;;x
 UBD_socialist;Socialists;;;;;;;;;;;;x
 UBD_communist;ボリシェヴィキ;;;;;;;;;;;;x
 UBD_fascist;National Socialist Party;;;;;;;;;;;;x
-BYE_conservative;Conservatives;;;;;;;;;;;;x
+BYE_conservative;保守主義者;;;;;;;;;;;;x
 BYE_liberal;Liberals;;;;;;;;;;;;x
-BYE_reactionary;Reactionaries;;;;;;;;;;;;x
+BYE_reactionary;反動主義者;;;;;;;;;;;;x
 BYE_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;;x
 BYE_socialist;Belarusian Socialist Assembly;;;;;;;;;;;;x
 BYE_communist;ボリシェヴィキ;;;;;;;;;;;;x
@@ -121,13 +121,13 @@ PLC_communist;Partia Socjaldemokracja;;;;;;;;;;;;x
 PLC_fascist;Stronnictwo Narodowe;;;;;;;;;;;;x
 ARA;Arabia;;;;;;;;;;;;x
 ARA_ADJ;Arab;;;;;;;;;;;;x
-ARA_conservative;Conservatives;;;;;;;;;;;;x
+ARA_conservative;保守主義者;;;;;;;;;;;;x
 ARA_liberal;Liberals;;;;;;;;;;;;x
-ARA_reactionary;Reactionaries;;;;;;;;;;;;x
+ARA_reactionary;反動主義者;;;;;;;;;;;;x
 ARA_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;;x
 ARA_socialist;Socialists;;;;;;;;;;;;x
 ARA_communist;Communists;;;;;;;;;;;;x
-ARA_fascist;National Socialist Party;;;;;;;;;;;;x
+ARA_fascist;国家社会主義党;;;;;;;;;;;;x
 GCO;大コロンビア;;;;;;;;;;;;x
 GCO_ADJ;大コロンビア;;;;;;;;;;;;x
 form_gran_colombia_title;Form Gran Colombia;;;;;;;;;;;;x
@@ -150,4 +150,4 @@ IS_NOT_EMPTY; has an owner;;;;;;;;;;;;x
 EVTNAME111011928;Form Arabia;;;;;;;;;;;;x
 EVTDESC111011928;Through warfare and diplomacy an Arabian union has been created. Shall we join it?;;;;;;;;;;;;x
 EVTOPTA111011928;Of course!;;;;;;;;;;;;x
-EVTOPTB111011928;Never!;;;;;;;;;;;;x
+EVTOPTB111011928;ありえない！;;;;;;;;;;;;x

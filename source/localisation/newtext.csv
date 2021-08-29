@@ -3,7 +3,7 @@
 EVTNAME5002;スタンレー・カップ;;;;;;;;;;;;x
 EVTDESC5002;Lord Stanley of Preston was very intrigued by ice hockey as he became Governor-General of the Dominion. Originally inscribed the Dominion Hockey Challenge Cup, the trophy was donated in 1892 by him, as an award for Canada's top-ranking amateur ice hockey club. ;;;;;;;;;;;;x
 EVTOPTA5002;This might become popular...;;;;;;;;;;;;x
-EVTNAME5001;World Cup of Football;;;;;;;;;;;;x
+EVTNAME5001;サッカーワールドカップ;;;;;;;;;;;;x
 EVTDESC5001;Uruguay have just hosted the first World Cup of Football, which was a stellar success. Even though not many countries managed to travel here from Europe, there were still great football played. And what was most important of all, Uruguay won the final 4-2 over Argentina!;;;;;;;;;;;;x
 EVTOPTA5001;ウルグアイに栄光あれ！;;;;;;;;;;;;x
 EVTNAME5000;First FA Cup Played;;;;;;;;;;;;x
@@ -124,7 +124,7 @@ build_kiel_canal_title;Build the Kiel Canal;;;;;;;;;;;;x
 build_kiel_canal_desc;Building a canal between the Baltic and The North Sea would be a tremendous boon to our shipping, and we are in a position to build one in Kiel.;;;;;;;;;;;;x
 build_suez_canal_title;Build the Suez Canal;;;;;;;;;;;;x
 build_suez_canal_desc;One of the long standing problems for shipping on the Far Eastern and India trades has always been the need to round the African Cape in order to actually get there. By establishing a canal through the Suez, we will shorten the journey to Asia by days, as well as perform a wonderful feat of modern engineering.;;;;;;;;;;;;x
-build_panama_canal_title;Build Panama Canal;;;;;;;;;;;;x
+build_panama_canal_title;パナマ運河の建設;;;;;;;;;;;;x
 build_panama_canal_desc;Proposals for a Canal across the Panama Isthmus probably date back to the first discovery of the area. Nowhere is the strip of land that unites the North and South American continents thinner than here, and, with the aid of modern engineering, we could shorten the travel time between the Atlantic and The Pacific by several days by building it.;;;;;;;;;;;;x
 REVANCHISM_LOWER;Revanchism lower than §Y$VAL$§W.\n;;;;;;;;;;;;x
 REVANSCHISM_ATLEAST;Revanchism is at least §Y$VAL$§W.\n;;;;;;;;;;;;x
@@ -203,12 +203,12 @@ EVTOPTA22530;Of course we must aid and help promote this beautiful private initi
 EVTOPTB22530;I think that the government that governs the least governs the best;;;;;;;;;;;;x
 institute_central_bank_title;National Banking Act;;;;;;;;;;;;x
 institute_central_bank_desc;While our government has for some time maintained a central bank, some voices within the economic debate have begun arguing in favor of monopolizing the issuing of currency to a strict government prerogative. Proponents argue that this will lead to an increase in economic stability, while opponents see it as a fundamental breach of the freedom of trade.;;;;;;;;;;;;x
-central_bank_established;Central Bank;;;;;;;;;;;;x
+central_bank_established;中央銀行;;;;;;;;;;;;x
 central_bank_established_desc;Our government's central bank maintains a strict monopoly on the issuance of currency.;;;;;;;;;;;;x
-EVTNAME22540;Stock Exchange;;;;;;;;;;;;x
+EVTNAME22540;証券取引所;;;;;;;;;;;;x
 EVTDESC22540;Selling Greenwood & Burns at 9.76, buying at 9.5! Atman & Sons 8.12, selling, selling!'\n\nLocal businessmen in one of our provinces have formed a joint venture company to establish a local stock exchange primarily aimed at the commodities trade. The venture will doubtlessly increase local productive efforts!;;;;;;;;;;;;x
 EVTOPTA22540;Splendid news!;;;;;;;;;;;;x
-local_stock_exchange;Stock Exchange;;;;;;;;;;;;x
+local_stock_exchange;証券取引所;;;;;;;;;;;;x
 local_stock_exchange_desc;A local Stock Exchange operates in this province, increasing local production output.;;;;;;;;;;;;x
 EVTNAME22550;Wildcat Bills;;;;;;;;;;;;x
 EVTDESC22550;A bank run has ensued in one of our states today, following news that a local bank has been issuing currency to a value far exceeding its liquid assets. The situation has been raised to the national level and parliament, where opponents of free banking use the case to argue against the system of free banking as such, calling on the government to move toward a tighter regulation of the banking sector, which is opposed by powerful interests within industrialist circles and the free trade lobby.;;;;;;;;;;;;x
@@ -346,8 +346,8 @@ POP_DETAIL_LIFENEEDS;Life Needs;;;;;;;;;;;;x
 POP_DETAIL_EVERYDAYNEEDS;Everyday Needs;;;;;;;;;;;;x
 POP_DETAIL_LUXUARYNEEDS;Luxury Needs;;;;;;;;;;;;x
 CLICK_FOR_DETAILS;Click for more details.;;;;;;;;;;;;x
-CZH;Czechoslovakia;;;;;;;;;;;;x
-CZH_ADJ;Czechoslovakian;;;;;;;;;;;;x
+CZH;チェコスロバキア;;;;;;;;;;;;x
+CZH_ADJ;チェコスロバキア;;;;;;;;;;;;x
 CZH_fascist;CNSP;;;;;;;;;;;;x
 CZH_socialist;CSSD;;;;;;;;;;;;x
 CZH_conservative;CSL;;;;;;;;;;;;x
@@ -355,10 +355,10 @@ CZH_liberal;RSZML;;;;;;;;;;;;x
 CZH_communist;KSC;;;;;;;;;;;;x
 CZH_reactionary;CsND;;;;;;;;;;;;x
 CZH_anarcho_liberal;Ceska strana libertarianismus;;;;;;;;;;;;x
-YUG;Yugoslavia;;;;;;;;;;;;x
-YUG_ADJ;Yugoslavian;;;;;;;;;;;;x
+YUG;ユーゴスラビア;;;;;;;;;;;;x
+YUG_ADJ;ユーゴスラビア;;;;;;;;;;;;x
 YUG_fascist;National Front;;;;;;;;;;;;x
-YUG_socialist;Social Democratic Party;;;;;;;;;;;;x
+YUG_socialist;社会民主党;;;;;;;;;;;;x
 YUG_conservative;保守党;;;;;;;;;;;;x
 YUG_liberal;People's Party;;;;;;;;;;;;x
 YUG_communist;共産党;;;;;;;;;;;;x
@@ -375,7 +375,7 @@ AZB_reactionary;Nationalist Party;;;;;;;;;;;;x
 AZB_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 IRQ;イラク;;;;;;;;;;;;x
 IRQ_ADJ;イラク;;;;;;;;;;;;x
-IRQ_reactionary;Hashemite Faction;;;;;;;;;;;;x
+IRQ_reactionary;ハーシム派;;;;;;;;;;;;x
 IRQ_socialist;バアス党;;;;;;;;;;;;x
 IRQ_communist;共産党;;;;;;;;;;;;x
 IRQ_liberal;自由党;;;;;;;;;;;;x
@@ -395,13 +395,13 @@ PHI;フィリピン;;;;;;;;;;;;x
 PHI_ADJ;フィリピン;;;;;;;;;;;;x
 PHI_reactionary;Partido Tradicionalista;;;;;;;;;;;;x
 PHI_socialist;Partido Demokratiko;;;;;;;;;;;;x
-PHI_communist;Partido Komunista;;;;;;;;;;;;x
+PHI_communist;共産党;;;;;;;;;;;;x
 PHI_liberal;自由党;;;;;;;;;;;;x
 PHI_anarcho_liberal;Partido Libertad;;;;;;;;;;;;x
 PHI_conservative;Partido Nacionalista;;;;;;;;;;;;x
 PHI_fascist;ファシスト党;;;;;;;;;;;;x
-MCK;Manchukuo;;;;;;;;;;;;x
-MCK_ADJ;Manchu;;;;;;;;;;;;x
+MCK;満州国;;;;;;;;;;;;x
+MCK_ADJ;満州;;;;;;;;;;;;x
 MCK_reactionary;Restoration Faction;;;;;;;;;;;;x
 MCK_socialist;Manchu Socialist Party;;;;;;;;;;;;x
 MCK_communist;中国共産党;;;;;;;;;;;;x
@@ -412,56 +412,56 @@ MCK_anarcho_liberal;A Very Unlikely Candidate;;;;;;;;;;;;x
 CHI_1504;広西;;;;;;;;;;;;x
 CHI_1529;湖南;;;;;;;;;;;;x
 CHI_1499;広東;;;;;;;;;;;;x
-GXI;Guangxi Clique;;;;;;;;;;;;x
+GXI;広西軍閥;;;;;;;;;;;;x
 GXI_ADJ;広西;;;;;;;;;;;;x
 GXI_reactionary;Rongting Faction;;;;;;;;;;;;x
 GXI_socialist;社会党;;;;;;;;;;;;x
 GXI_communist;中国共産党;;;;;;;;;;;;x
 GXI_liberal;自由党;;;;;;;;;;;;x
-GXI_conservative;Kuomintang Faction;;;;;;;;;;;;x
+GXI_conservative;国民党派;;;;;;;;;;;;x
 GXI_fascist;ファシスト党;;;;;;;;;;;;x
 GXI_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 CHI_1576;山西;;;;;;;;;;;;x
-SXI;Shanxi Clique;;;;;;;;;;;;x
+SXI;山西軍閥;;;;;;;;;;;;x
 SXI_ADJ;山西;;;;;;;;;;;;x
 SXI_reactionary;Hsi-Shan Faction;;;;;;;;;;;;x
 SXI_socialist;社会党;;;;;;;;;;;;x
 SXI_communist;中国共産党;;;;;;;;;;;;x
 SXI_liberal;自由党;;;;;;;;;;;;x
-SXI_conservative;Kuomintang Faction;;;;;;;;;;;;x
+SXI_conservative;国民党派;;;;;;;;;;;;x
 SXI_fascist;ファシスト党;;;;;;;;;;;;x
 SXI_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 REAL_DEMAND;Real Demand: $VAL$;;;;;;;;;;;;x
 CHI_1601;雲南;;;;;;;;;;;;x
-YNN;Yunnan Clique;;;;;;;;;;;;x
+YNN;雲南軍閥;;;;;;;;;;;;x
 YNN_ADJ;雲南;;;;;;;;;;;;x
 YNN_reactionary;Cai E's Faction;;;;;;;;;;;;x
 YNN_socialist;社会党;;;;;;;;;;;;x
 YNN_communist;中国共産党;;;;;;;;;;;;x
 YNN_liberal;自由党;;;;;;;;;;;;x
-YNN_conservative;Kuomintang Faction;;;;;;;;;;;;x
+YNN_conservative;国民党派;;;;;;;;;;;;x
 YNN_fascist;ファシスト党;;;;;;;;;;;;x
 YNN_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 CHI_1557;青海;;;;;;;;;;;;x
 CHI_1490;甘粛;;;;;;;;;;;;x
 CHI_2062;寧夏;;;;;;;;;;;;x
-XBI;Xibei San Ma;;;;;;;;;;;;x
-XBI_ADJ;Ma;;;;;;;;;;;;x
+XBI;西北三馬;;;;;;;;;;;;x
+XBI_ADJ;馬;;;;;;;;;;;;x
 XBI_reactionary;馬家;;;;;;;;;;;;x
 XBI_socialist;社会党;;;;;;;;;;;;x
 XBI_communist;中国共産党;;;;;;;;;;;;x
 XBI_liberal;自由党;;;;;;;;;;;;x
-XBI_conservative;Kuomintang Faction;;;;;;;;;;;;x
+XBI_conservative;国民党派;;;;;;;;;;;;x
 XBI_fascist;ファシスト党;;;;;;;;;;;;x
 XBI_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 CHI_1600;新疆;;;;;;;;;;;;x
-XIN;Xinjiang Clique;;;;;;;;;;;;x
+XIN;新疆軍閥;;;;;;;;;;;;x
 XIN_ADJ;新疆;;;;;;;;;;;;x
 XIN_reactionary;Zenxin Faction;;;;;;;;;;;;x
 XIN_socialist;社会党;;;;;;;;;;;;x
 XIN_communist;中国共産党;;;;;;;;;;;;x
 XIN_liberal;自由党;;;;;;;;;;;;x
-XIN_conservative;Kuomintang Faction;;;;;;;;;;;;x
+XIN_conservative;国民党派;;;;;;;;;;;;x
 XIN_fascist;ファシスト党;;;;;;;;;;;;x
 XIN_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
 TRADE_TOP_PRODUCERS;Top 5 producers:;;;;;;;;;;;;x
@@ -953,7 +953,7 @@ switch_to_culture_tech_desc;A cultural and ideological avantgarde within our cou
 switch_to_trade_tech_title;Tycoon Capitalism & Business Schools;;;;;;;;;;;;x
 switch_to_trade_tech_desc;Our country has under the past years come increasingly under the sway of select cliques of people who have all been educated at the same, or similar, elite business schools and companies. By supporting these groups, we can ensure that our academia's focus lies where it matters: in the fields of commerce and industry. This change will, however, come at the expense of other fields of research.;;;;;;;;;;;;x
 switch_to_industry_tech_title;Corporative Industrialism;;;;;;;;;;;;x
-declare_republic_of_neuchatel_title;The Republic of Neuchâtel;;;;;;;;;;;;x
+declare_republic_of_neuchatel_title;ヌーシャテル共和国;;;;;;;;;;;;x
 declare_republic_of_neuchatel_desc;In 1707 Neuchâtel became a possession of Frederick the Great of Prussia by virtue of his maternal ties to the House of Orange-Nassau, and the principality thus effectively entered a personal union with the Kingdom of Prussia and the Hohenzollern family. During the Napoleonic wars, Prussia ceded Neuchâtel after the country's defeat at the hands of Napoleon. After the Napoleonic wars, Neuchâtel was joined with Switzerland as the 21st canton thereof, at the suggestion of Frederick William III of Prussia, while at the same time also remaining a Prussian principality pro forma. In 1848, the province shook off its monarchical past, and was declared a republic within the Swiss Confederation. The Prussian claims were equitably relinquished in 1857.;;;;;;;;;;;;x
 switch_to_industry_tech_desc;Capital and government in our country have, for some time, been doing their utmost to weave between them an intricate web of personal relations, that has increasingly come to assume the forms of a symbiotic relationship of mutual dependence. By further promoting these connections between the public and private spheres of our society, we can vastly increase our technological progress in the fields of industry, at the expense, however of research in other fields.;;;;;;;;;;;;x
 TECH_INVENTIONS_TOOLTIP;Inventions:;;;;;;;;;;;;x

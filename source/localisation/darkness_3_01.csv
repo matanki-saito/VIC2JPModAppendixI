@@ -152,12 +152,12 @@ TICKING_WARSCORE_FULFILL_BATTLE;§GFulfilled when we have a greater war score fr
 CREATE_PROTECTORATE;Create Protectorate;;;;;;;;;;;;x
 JAN;ヤン・マイエン;;;;;;;;;;;;x
 JAN_ADJ;ヤン・マイエン;;;;;;;;;;;;x
-JAN_liberal;Venstre;;;;;;;;;;;;x
-JAN_conservative;Høyre;;;;;;;;;;;;x
-JAN_socialist;Arbeiderparti;;;;;;;;;;;;x
+JAN_liberal;ヴェンスタ;;;;;;;;;;;;x
+JAN_conservative;保守党;;;;;;;;;;;;x
+JAN_socialist;労働党;;;;;;;;;;;;x
 JAN_anarcho_liberal;Radicals;;;;;;;;;;;;x
 JAN_communist;Communists;;;;;;;;;;;;x
-JAN_fascist;Nasjonal Samling;;;;;;;;;;;;x
+JAN_fascist;国民連合;;;;;;;;;;;;x
 COUNTRYALERT_NO_Colonial;Nothing in our colonies needs attention.;;;;;;;;;;;;x
 COUNTRYALERT_NO_Crisis;No current crisis.;;;;;;;;;;;;x
 COUNTRYALERT_Crisis;Current crisis is at a temperature of §Y$TEMPERATURE$§!;;;;;;;;;;;;x

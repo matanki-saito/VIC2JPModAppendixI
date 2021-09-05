@@ -125,30 +125,30 @@ FE_SCORE;Score;;;;;;;;;;;;x
 SAVE_PROG;Save progress: $VALUE$ %;;;;;;;;;;;;x
 TRANSERING_SAVE;Savegame transfer started...;;;;;;;;;;;;x
 LOADING_LOCAL_SAVE;ローカルのセーブデータのコピーを読み込み中;;;;;;;;;;;;x
-PLR_DISC;Player §Y$NAME$§W left the game.;;;;;;;;;;;;x
-PLR_CONNECT;Player §Y$NAME$§W joined the game.;;;;;;;;;;;;x
+PLR_DISC;プレイヤー§Y$NAME$§Wがゲームから離脱しました。;;;;;;;;;;;;x
+PLR_CONNECT;プレイヤー§Y$NAME$§Wがゲームに参加しました。;;;;;;;;;;;;x
 REVERT_SAVE_CAL;Reverting to default database.;;;;;;;;;;;;x
 SAVE_TRANSFER_DONE;Savegame transfer done.;;;;;;;;;;;;x
 LOADING_MAP_SPRITES;マップのスプライトを読み込み中;;;;;;;;;;;;x
 LOADING_GUI_DEF;GUI定義を読み込み中;;;;;;;;;;;;x
 LOADING_DATABASES;データベース１を読み込み中;;;;;;;;;;;;x
 LOADING_DATABASES2;データベース２を読み込み中;;;;;;;;;;;;x
-INIT_MAP_LOGIC;マップロジックを初期化中…;;;;;;;;;;;;x
-CREATING_CHKSUM;Creating Checksum...;;;;;;;;;;;;x
+INIT_MAP_LOGIC;マップロジックを初期化中;;;;;;;;;;;;x
+CREATING_CHKSUM;チェックサムを作成中;;;;;;;;;;;;x
 LOADING_HISTORY;ヒストリーファイルを読み込み中;;;;;;;;;;;;x
 LOADING_SOUNDS;サウンドファイルを読み込み中;;;;;;;;;;;;x
-PROC_FLAGS;Processing Flags...;;;;;;;;;;;;x
+PROC_FLAGS;フラグを処理中;;;;;;;;;;;;x
 LOAD_FLAGS;フラッグファイルを読み込み中;;;;;;;;;;;;x
 LOAD_GFX;グラフィックファイルを読み込み中;;;;;;;;;;;;x
-CREATING_THE_WORLD;Creating the World...;;;;;;;;;;;;x
-CREATING_TREES;Creating Trees...;;;;;;;;;;;;x
-CREATING_BORDERS;Creating Borders...;;;;;;;;;;;;x
-CREATING_RIVERS;Creating Rivers...;;;;;;;;;;;;x
-MAP_PROPERLY_INIT;Map Properly Initialised...;;;;;;;;;;;;x
+CREATING_THE_WORLD;世界を作成中;;;;;;;;;;;;x
+CREATING_TREES;木を作成中;;;;;;;;;;;;x
+CREATING_BORDERS;国境を作成中;;;;;;;;;;;;x
+CREATING_RIVERS;川を作成中;;;;;;;;;;;;x
+MAP_PROPERLY_INIT;マップを初期化中;;;;;;;;;;;;x
 CREATING_PROVINCE;Creating Province #;;;;;;;;;;;;x
-CREATING_TEXTS;Creating Texts....;;;;;;;;;;;;x
+CREATING_TEXTS;テキストを作成中;;;;;;;;;;;;x
 LOAD_EVENTS;イベントファイルを読み込み中;;;;;;;;;;;;x
-ADAPTING_HISTORY;Adapting History...;;;;;;;;;;;;x
+ADAPTING_HISTORY;歴史を適応中;;;;;;;;;;;;x
 CALC_PATHS;Calculating paths...\nThis may take several minutes.;;;;;;;;;;;;x
 FE_TOGGLE;Quick Start;;;;;;;;;;;;x
 FE_TOGGLE_NORMAL;Custom Start;;;;;;;;;;;;x
@@ -184,31 +184,31 @@ SM_DIFFICULTY;難易度;;;;;;;;;;;;x
 SM_AUTOSAVE_INTERVAL;オートセーブの間隔;;;;;;;;;;;;x
 SM_APPLY;適用;;;;;;;;;;;;x
 SM_BACK;戻る;;;;;;;;;;;;x
-SM_ALERT;Alert;;;;;;;;;;;;x
-SM_RESTART;You need to restart for the change to take effect.;;;;;;;;;;;;x
-SM_WP;Error writing to the settings-file. Check that the file is not write protected and try again;;;;;;;;;;;;x
-FE_HOST;Host;;;;;;;;;;;;x
+SM_ALERT;警告;;;;;;;;;;;;x
+SM_RESTART;変更を有効にするには、再起動する必要があります。;;;;;;;;;;;;x
+SM_WP;設定ファイルへの書き込みに失敗しました。ファイルが書き込み不可になっていないことを確認してからもう一度行ってください。;;;;;;;;;;;;x
+FE_HOST;ホスト;;;;;;;;;;;;x
 FE_JOIN_LAN_GAME;LANゲームに参加;;;;;;;;;;;;x
 FE_JOIN_INTERNET_GAME;インターネットゲームに参加;;;;;;;;;;;;x
-FE_SCAN;scan;;;;;;;;;;;;x
-FE_METASERVER;Metaserver;;;;;;;;;;;;x
+FE_SCAN;スキャン;;;;;;;;;;;;x
+FE_METASERVER;メタサーバ;;;;;;;;;;;;x
 FE_BACK;戻る;;;;;;;;;;;;x
-FE_PLAYER;Player;;;;;;;;;;;;x
-FE_PLAYER_NAME;Player name:;;;;;;;;;;;;x
+FE_PLAYER;プレイヤー;;;;;;;;;;;;x
+FE_PLAYER_NAME;プレイヤー名：;;;;;;;;;;;;x
 FE_SINGLE_PLAYER;シングルプレイヤー;;;;;;;;;;;;x
 FE_MULTI_PLAYER;マルチプレイヤー;;;;;;;;;;;;x
 FE_OPTIONS;オプション;;;;;;;;;;;;x
 FE_CREDITS;クレジット;;;;;;;;;;;;x
 FE_EXIT;終了;;;;;;;;;;;;x
-FE_NATION_TO_PLAY;Click the nation you wish to play...;;;;;;;;;;;;x
-FE_NEW_GAME;New Game;;;;;;;;;;;;x
-FE_SAVE_GAME;Save Games;;;;;;;;;;;;x
+FE_NATION_TO_PLAY;プレイしたい国を選択してください…;;;;;;;;;;;;x
+FE_NEW_GAME;新しいゲーム;;;;;;;;;;;;x
+FE_SAVE_GAME;セーブゲーム;;;;;;;;;;;;x
 FE_HISTORICAL_START;史実スタート;;;;;;;;;;;;x
-FE_SAVED_GAMES;Saved Games;;;;;;;;;;;;x
+FE_SAVED_GAMES;セーブゲーム;;;;;;;;;;;;x
 FE_SELECT_NATION;マップをクリックして国家を選択…;;;;;;;;;;;;x
-FE_NO_COUNTRY_SELECTED;No country selected;;;;;;;;;;;;x
+FE_NO_COUNTRY_SELECTED;国家が未選択;;;;;;;;;;;;x
 FE_MILITARY;軍事;;;;;;;;;;;;x
-FE_ECONOMY;Economy;;;;;;;;;;;;x
+FE_ECONOMY;経済;;;;;;;;;;;;x
 FE_DIPLOMACY;外交;;;;;;;;;;;;x
 FE_DIFFICULTY;難易度：;;;;;;;;;;;;x
 FE_AT_WAR;At war:;;;;;;;;;;;;x
@@ -218,52 +218,52 @@ FE_BOOKEDMARKED;Bookmarked dates:;;;;;;;;;;;;x
 FE_STARTING_DATE;Starting Date;;;;;;;;;;;;x
 FE_BOOKMARK_TITLE;Bookmark Title;;;;;;;;;;;;x
 FE_BOOKMARK_DATE;Bookmark date;;;;;;;;;;;;x
-FE_LOCAL_GAMES;local games;;;;;;;;;;;;x
+FE_LOCAL_GAMES;ローカルゲーム;;;;;;;;;;;;x
 FE_MY_GAME;My Game;;;;;;;;;;;;x
-FE_CANCEL;Cancel;;;;;;;;;;;;x
-PLAYER_LOST_TITLE;Player disconnected.;;;;;;;;;;;;x
+FE_CANCEL;キャンセル;;;;;;;;;;;;x
+PLAYER_LOST_TITLE;プレイヤー切断;;;;;;;;;;;;x
 PLAYER_LOST_DESC;Player(s) $playername$ disconnected. Choose your action.;;;;;;;;;;;;x
-SERVER_LOST_TITLE;Server Lost!;;;;;;;;;;;;x
-REMOVE_SERVER_LOST_DESC;The server was lost. The game will end.;;;;;;;;;;;;x
-OK;Ok;;;;;;;;;;;;x
-CANCEL;Cancel;;;;;;;;;;;;x
-SAVE;Save;;;;;;;;;;;;x
+SERVER_LOST_TITLE;サーバーが見つかりません！;;;;;;;;;;;;x
+REMOVE_SERVER_LOST_DESC;サーバーが見つかりません。ゲームを終了します。;;;;;;;;;;;;x
+OK;OK;;;;;;;;;;;;x
+CANCEL;キャンセル;;;;;;;;;;;;x
+SAVE;セーブ;;;;;;;;;;;;x
 QUIT;終了;;;;;;;;;;;;x
-START;Start;;;;;;;;;;;;x
+START;開始;;;;;;;;;;;;x
 CONTINUE;Continue;;;;;;;;;;;;x
-CONNECTED;Connected.;;;;;;;;;;;;x
-NAME_TAKEN;Your name is taken. Please leave and select another.;;;;;;;;;;;;x
+CONNECTED;接続されました;;;;;;;;;;;;x
+NAME_TAKEN;その名前は使われています。別の名前を選択してください。;;;;;;;;;;;;x
 CONNECTING;Connecting...;;;;;;;;;;;;x
-BANNED;You have been banned from this game;;;;;;;;;;;;x
-CONNECTION_FAILED;Connection failed!;;;;;;;;;;;;x
-GAME_NOT_FOUND;Game not found.;;;;;;;;;;;;x
+BANNED;あなたはこのゲームを禁止されています。;;;;;;;;;;;;x
+CONNECTION_FAILED;接続に失敗しました！;;;;;;;;;;;;x
+GAME_NOT_FOUND;ゲームが見つかりません。;;;;;;;;;;;;x
 WAITING_FOR_PLAYERS;Waiting for players...;;;;;;;;;;;;x
 ALL_PLAYERS_HERE;All players here.;;;;;;;;;;;;x
 LOOKING_FOR_HOST;Looking for host...;;;;;;;;;;;;x
 LOST_PLAYER;A player was lost...;;;;;;;;;;;;x
-SERVER_LOST;The server was lost.;;;;;;;;;;;;x
+SERVER_LOST;サーバーが見つかりません。;;;;;;;;;;;;x
 JOIN_IP_TITLE;Enter IP address...;;;;;;;;;;;;x
 HOST_TITLE;Enter the name of your game...;;;;;;;;;;;;x
-HOST_BUTTON;Host;;;;;;;;;;;;x
-JOIN_BUTTON;Join;;;;;;;;;;;;x
-LOG_SETTING_LOG;Display in log.;;;;;;;;;;;;x
-LOG_SETTING_POPUP;Open popup window.;;;;;;;;;;;;x
-LOG_SETTING_MAP;Show on map.;;;;;;;;;;;;x
-LOG_SETTING_IDLE;Display as Idle message.;;;;;;;;;;;;x
+HOST_BUTTON;ホスト;;;;;;;;;;;;x
+JOIN_BUTTON;参加;;;;;;;;;;;;x
+LOG_SETTING_LOG;ログに表示;;;;;;;;;;;;x
+LOG_SETTING_POPUP;ポップアップウィンドウを開く;;;;;;;;;;;;x
+LOG_SETTING_MAP;地図に表示。;;;;;;;;;;;;x
+LOG_SETTING_IDLE;待機状態です。;;;;;;;;;;;;x
 QUIT_TITLE;ゲームを終了する;;;;;;;;;;;;x
 QUIT_DESC;本当にゲームを終了してデスクトップに戻りますか？;;;;;;;;;;;;x
 ZOOM_IN;Zoom in;;;;;;;;;;;;x
 ZOOM_OUT;Zoom out;;;;;;;;;;;;x
 RESIGN_TITLE;Resign Game;;;;;;;;;;;;x
 RESIGN_DESC;本当にメインメニューに戻りますか？;;;;;;;;;;;;x
-SCAN;Scan;;;;;;;;;;;;x
-STOP_SCAN;Stop Scan;;;;;;;;;;;;x
-TIP_KICK;Kick player;;;;;;;;;;;;x
+SCAN;スキャン;;;;;;;;;;;;x
+STOP_SCAN;スキャンを停止;;;;;;;;;;;;x
+TIP_KICK;プレイヤーをキック;;;;;;;;;;;;x
 TIP_BAN;Ban player for the duration of this session;;;;;;;;;;;;x
-PLAYER_KICKED;$NAME$ was kicked by the host.;;;;;;;;;;;;x
-PLAYER_BANNED;$NAME$ was banned by the host.;;;;;;;;;;;;x
-YOUKICKED;You were kicked by the host for your evil deeds!;;;;;;;;;;;;x
-BAD_VERSION;The host has another version of the game!;;;;;;;;;;;;x
+PLAYER_KICKED;$NAME$ はホストにキックされました。;;;;;;;;;;;;x
+PLAYER_BANNED;$NAME$ はホストによって追放されました。;;;;;;;;;;;;x
+YOUKICKED;あなたは不快な行為をしたためキックされました！;;;;;;;;;;;;x
+BAD_VERSION;ホストとゲームのバージョンが異なります！;;;;;;;;;;;;x
 JOINED_CHANNEL;Joined channel $CHAN$.;;;;;;;;;;;;x
 USER_JOINED_CHANNEL;$NAME$ joined the channel.;;;;;;;;;;;;x
 USER_LEFT_CHANNEL;$NAME$ left the channel.;;;;;;;;;;;;x
@@ -274,13 +274,13 @@ MENU_BAR_GAME_RESIGN;やり直す;;;;;;;;;;;;x
 MENU_BAR_MESSAGE_SETTINGS;メッセージの設定;;;;;;;;;;;;x
 MENU_BAR_QUIT;終了;;;;;;;;;;;;x
 MENU_BAR_CLOSE;閉じる;;;;;;;;;;;;x
-MENU_BAR_SAVE;Save;;;;;;;;;;;;x
-MENU_BAR_SAVE_GAME_FILENAME;Saved game filename:;;;;;;;;;;;;x
-CHAT_ALLIES;Allies;;;;;;;;;;;;x
-CHAT_FOES;Foes;;;;;;;;;;;;x
-CHAT_ALL;All;;;;;;;;;;;;x
+MENU_BAR_SAVE;セーブ;;;;;;;;;;;;x
+MENU_BAR_SAVE_GAME_FILENAME;セーブファイル名：;;;;;;;;;;;;x
+CHAT_ALLIES;同盟国;;;;;;;;;;;;x
+CHAT_FOES;敵国;;;;;;;;;;;;x
+CHAT_ALL;全国家;;;;;;;;;;;;x
 CHATMESSAGE_SETUP;When you receive a chat message;;;;;;;;;;;;x
-CHATMESSAGE_HEADER;Chat message;;;;;;;;;;;;x
+CHATMESSAGE_HEADER;チャットメッセージ;;;;;;;;;;;;x
 CHATMESSAGE_1;Incoming communication,;;;;;;;;;;;;x
 CHATMESSAGE_2;$TEXT$;;;;;;;;;;;;x
 CHATMESSAGE_3;*;;;;;;;;;;;;x
@@ -292,30 +292,30 @@ CHATMESSAGE_BTN1;OK;;;;;;;;;;;;x
 CHATMESSAGE_BTN2;OK;;;;;;;;;;;;x
 CHATMESSAGE_BTN3;移動;;;;;;;;;;;;x
 CHATMESSAGE_MAP;*;;;;;;;;;;;;x
-MS_USERNAME;Username:;;;;;;;;;;;;x
-MS_PASSWORD;Password:;;;;;;;;;;;;x
-MS_CREATE_GAME;Create Game;;;;;;;;;;;;x
-MS_NAME;Name:;;;;;;;;;;;;x
-MS_USE_PASSWORD;Use Password;;;;;;;;;;;;x
-MS_JOIN_GAME;Join Game;;;;;;;;;;;;x
-MS_PASSWD;Password;;;;;;;;;;;;x
-MS_ALERT;Alert;;;;;;;;;;;;x
-MS_CONNECTION_FAILED;Connection failed!;;;;;;;;;;;;x
-MS_CHANNELS;Channels;;;;;;;;;;;;x
-MS_METASERVER_LOGIN;Metaserver Login;;;;;;;;;;;;x
-MS_JOINGAME;Join Game;;;;;;;;;;;;x
-MS_REFRESH;Refresh;;;;;;;;;;;;x
-MS_START;Start;;;;;;;;;;;;x
+MS_USERNAME;ユーザー名：;;;;;;;;;;;;x
+MS_PASSWORD;パスワード：;;;;;;;;;;;;x
+MS_CREATE_GAME;ゲームを作成;;;;;;;;;;;;x
+MS_NAME;名前：;;;;;;;;;;;;x
+MS_USE_PASSWORD;パスワードを使用;;;;;;;;;;;;x
+MS_JOIN_GAME;ゲームに参加;;;;;;;;;;;;x
+MS_PASSWD;パスワード;;;;;;;;;;;;x
+MS_ALERT;警告;;;;;;;;;;;;x
+MS_CONNECTION_FAILED;接続に失敗しました！;;;;;;;;;;;;x
+MS_CHANNELS;チャンネル;;;;;;;;;;;;x
+MS_METASERVER_LOGIN;メタサーバログイン;;;;;;;;;;;;x
+MS_JOINGAME;ゲームに参加;;;;;;;;;;;;x
+MS_REFRESH;更新;;;;;;;;;;;;x
+MS_START;開始;;;;;;;;;;;;x
 MS_BACK;戻る;;;;;;;;;;;;x
-MS_JOIN;Join;;;;;;;;;;;;x
-MS_JOIN_CHANNEL;Join Channel;;;;;;;;;;;;x
-MS_LOGIN;Login;;;;;;;;;;;;x
-MS_CREATE;Create;;;;;;;;;;;;x
-MS_GAMES;Games;;;;;;;;;;;;x
-MS_INFORMATION;Information;;;;;;;;;;;;x
-MS_CHAT;Chat;;;;;;;;;;;;x
+MS_JOIN;参加;;;;;;;;;;;;x
+MS_JOIN_CHANNEL;チャンネルに参加;;;;;;;;;;;;x
+MS_LOGIN;ログイン;;;;;;;;;;;;x
+MS_CREATE;作成;;;;;;;;;;;;x
+MS_GAMES;ゲーム;;;;;;;;;;;;x
+MS_INFORMATION;情報;;;;;;;;;;;;x
+MS_CHAT;チャット;;;;;;;;;;;;x
 MS_CHANNEL_PLAYER;#Channelname/Playerlist;;;;;;;;;;;;x
-MS_CONNECTION_LOST;Connection Lost.;;;;;;;;;;;;x
+MS_CONNECTION_LOST;切断されました。;;;;;;;;;;;;x
 PAUSE_RESUME;Resume;;;;;;;;;;;;x
 MESSAGECAT_COMBAT;Combat Messages;;;;;;;;;;;;x
 MESSAGECAT_DIPLOMACY;Diplomatic Messages;;;;;;;;;;;;x
@@ -460,7 +460,7 @@ BUILD_TIME;Build Time;;;;;;;;;;;;x
 MAXIMUM_SPEED;Max Speed;;;;;;;;;;;;x
 TRANSPORT_WEIGHT;Weight;;;;;;;;;;;;x
 SUPPLY_CONSUMPTION;Supply Consumption;;;;;;;;;;;;x
-COMBAT_WIDTH;Combat Width;;;;;;;;;;;;x
+COMBAT_WIDTH;戦闘幅;;;;;;;;;;;;x
 TRANSPORT_CAPABILITY;Transport Capability;;;;;;;;;;;;x
 HULL;Hull;;;;;;;;;;;;x
 FORT_ADJUSTER;Fort;;;;;;;;;;;;x
@@ -1216,254 +1216,254 @@ TUS_ADJ;トスカーナ;;;;;;;;;;;;x
 germanic;ゲルマン;;;;;;;;;;;;x
 dutch;オランダ;;;;;;;;;;;;x
 flemish;Flemish;;;;;;;;;;;;x
-north_german;North German;;;;;;;;;;;;x
-south_german;South German;;;;;;;;;;;;x
-swiss;Swiss;;;;;;;;;;;;x
-pan_swiss;Swiss;;;;;;;;;;;;x
+north_german;北ドイツ;;;;;;;;;;;;x
+south_german;南ドイツ;;;;;;;;;;;;x
+swiss;スイス;;;;;;;;;;;;x
+pan_swiss;スイス;;;;;;;;;;;;x
 beneluxian;Low Countries;;;;;;;;;;;;x
-ashkenazi;Ashkenazi;;;;;;;;;;;;x
-scandinavian;Scandinavian;;;;;;;;;;;;x
-swedish;Swedish;;;;;;;;;;;;x
-danish;Danish;;;;;;;;;;;;x
-norwegian;Norwegian;;;;;;;;;;;;x
-icelandic;Icelandic;;;;;;;;;;;;x
-finnish;Finnish;;;;;;;;;;;;x
-british;British;;;;;;;;;;;;x
-irish;Irish;;;;;;;;;;;;x
-italian;Italian;;;;;;;;;;;;x
-north_italian;North Italian;;;;;;;;;;;;x
-south_italian;South Italian;;;;;;;;;;;;x
-maltese;Maltese;;;;;;;;;;;;x
-iberian;Iberian;;;;;;;;;;;;x
-basque;Basque;;;;;;;;;;;;x
-spanish;Spanish;;;;;;;;;;;;x
-catalan;Catalan;;;;;;;;;;;;x
-portuguese;Portuguese;;;;;;;;;;;;x
-french;French;;;;;;;;;;;;x
+ashkenazi;アシュケナージ;;;;;;;;;;;;x
+scandinavian;スカンディナヴィア;;;;;;;;;;;;x
+swedish;スウェーデン;;;;;;;;;;;;x
+danish;デンマーク;;;;;;;;;;;;x
+norwegian;ノルウェー;;;;;;;;;;;;x
+icelandic;アイスランド;;;;;;;;;;;;x
+finnish;フィンランド;;;;;;;;;;;;x
+british;イギリス;;;;;;;;;;;;x
+irish;アイルランド;;;;;;;;;;;;x
+italian;イタリア;;;;;;;;;;;;x
+north_italian;北イタリア;;;;;;;;;;;;x
+south_italian;南イタリア;;;;;;;;;;;;x
+maltese;マルタ;;;;;;;;;;;;x
+iberian;イベリア;;;;;;;;;;;;x
+basque;バスク;;;;;;;;;;;;x
+spanish;スペイン;;;;;;;;;;;;x
+catalan;カタルーニャ;;;;;;;;;;;;x
+portuguese;ポルトガル;;;;;;;;;;;;x
+french;フランス;;;;;;;;;;;;x
 wallonian;Wallonian;;;;;;;;;;;;x
-south_slavic;South Slavic;;;;;;;;;;;;x
-croat;Croatian;;;;;;;;;;;;x
-serb;Serbian;;;;;;;;;;;;x
-bulgarian;Bulgarian;;;;;;;;;;;;x
-romanian;Romanian;;;;;;;;;;;;x
-albanian;Albanian;;;;;;;;;;;;x
-slovene;Slovene;;;;;;;;;;;;x
-bosniak;Bosniak;;;;;;;;;;;;x
-REMOVE_west_slavic;West Slavic;;;;;;;;;;;;x
-czech;Czech;;;;;;;;;;;;x
-polish;Polish;;;;;;;;;;;;x
-hungarian;Hungarian;;;;;;;;;;;;x
-slovak;Slovak;;;;;;;;;;;;x
-east_slavic;East Slavic;;;;;;;;;;;;x
-russian;Russian;;;;;;;;;;;;x
+south_slavic;南スラヴ;;;;;;;;;;;;x
+croat;クロアチア;;;;;;;;;;;;x
+serb;セルビア;;;;;;;;;;;;x
+bulgarian;ブルガリア;;;;;;;;;;;;x
+romanian;ルーマニア;;;;;;;;;;;;x
+albanian;アルバニア;;;;;;;;;;;;x
+slovene;スロベニア;;;;;;;;;;;;x
+bosniak;ボシュニャク;;;;;;;;;;;;x
+REMOVE_west_slavic;西スラヴ;;;;;;;;;;;;x
+czech;チェコ;;;;;;;;;;;;x
+polish;ポーランド;;;;;;;;;;;;x
+hungarian;ハンガリー;;;;;;;;;;;;x
+slovak;スロバキア;;;;;;;;;;;;x
+east_slavic;東スラヴ;;;;;;;;;;;;x
+russian;ロシア;;;;;;;;;;;;x
 byelorussian;Byelorussian;;;;;;;;;;;;x
-ukrainian;Ukrainian;;;;;;;;;;;;x
+ukrainian;ウクライナ;;;;;;;;;;;;x
 ugrian;Ugrian;;;;;;;;;;;;x
-baltic;Baltic;;;;;;;;;;;;x
-lithuanian;Lithuanian;;;;;;;;;;;;x
-latvian;Latvian;;;;;;;;;;;;x
-estonian;Estonian;;;;;;;;;;;;x
-levantine;Levantine;;;;;;;;;;;;x
-greek;Greek;;;;;;;;;;;;x
-georgian;Georgian;;;;;;;;;;;;x
-armenian;Armenian;;;;;;;;;;;;x
-sephardic;Sephardim;;;;;;;;;;;;x
+baltic;バルト;;;;;;;;;;;;x
+lithuanian;リトアニア;;;;;;;;;;;;x
+latvian;ラトビア;;;;;;;;;;;;x
+estonian;エストニア;;;;;;;;;;;;x
+levantine;レヴァント;;;;;;;;;;;;x
+greek;ギリシャ;;;;;;;;;;;;x
+georgian;グルジア;;;;;;;;;;;;x
+armenian;アルメニア;;;;;;;;;;;;x
+sephardic;セファルディム;;;;;;;;;;;;x
 turko_semitic;Turko Semitic;;;;;;;;;;;;x
-maghrebi;Maghrebi;;;;;;;;;;;;x
+maghrebi;マグリブ;;;;;;;;;;;;x
 misri;Misri;;;;;;;;;;;;x
-mashriqi;Mashriqi;;;;;;;;;;;;x
-bedouin;Bedouin;;;;;;;;;;;;x
-berber;Berber;;;;;;;;;;;;x
-turkish;Turkish;;;;;;;;;;;;x
-azerbaijani;Azerbaijani;;;;;;;;;;;;x
-north_caucasian;North Caucasian;;;;;;;;;;;;x
-kurdish;Kurdish;;;;;;;;;;;;x
+mashriqi;マシュリク;;;;;;;;;;;;x
+bedouin;ベドウィン;;;;;;;;;;;;x
+berber;ベルベル;;;;;;;;;;;;x
+turkish;トルコ;;;;;;;;;;;;x
+azerbaijani;アゼルバイジャン;;;;;;;;;;;;x
+north_caucasian;北コーカサス;;;;;;;;;;;;x
+kurdish;クルド;;;;;;;;;;;;x
 iranian_turanian;Iranian Turanian;;;;;;;;;;;;x
-persian;Persian;;;;;;;;;;;;x
-uzbek;Uzbek;;;;;;;;;;;;x
-kazak;Kazakh;;;;;;;;;;;;x
-kirgiz;Kyrgyz;;;;;;;;;;;;x
-tajik;Tajik;;;;;;;;;;;;x
-uighur;Uighur;;;;;;;;;;;;x
-pashtun;Pashtun;;;;;;;;;;;;x
-baluchi;Baluchi;;;;;;;;;;;;x
-hazara;Hazara;;;;;;;;;;;;x
-turkmen;Turkmen;;;;;;;;;;;;x
-tatar;Tatar;;;;;;;;;;;;x
-central_asian;Central Asian;;;;;;;;;;;;x
-mongol;Mongol;;;;;;;;;;;;x
-siberian;Siberian;;;;;;;;;;;;x
-yakut;Yakut;;;;;;;;;;;;x
-tibetan;Tibetan;;;;;;;;;;;;x
-south_asian;South Asian;;;;;;;;;;;;x
-assamese;Assamese;;;;;;;;;;;;x
-bengali;Bengali;;;;;;;;;;;;x
-bihari;Bihari;;;;;;;;;;;;x
-manipuri;Manipuri;;;;;;;;;;;;x
-nepali;Nepali;;;;;;;;;;;;x
-oriya;Oriya;;;;;;;;;;;;x
-sinhala;Sinhala;;;;;;;;;;;;x
-avadhi;Avadhi;;;;;;;;;;;;x
-kanauji;Kanauji;;;;;;;;;;;;x
-panjabi;Panjabi;;;;;;;;;;;;x
-kashmiri;Kashmiri;;;;;;;;;;;;x
-gujarati;Gujarati;;;;;;;;;;;;x
-marathi;Marathi;;;;;;;;;;;;x
+persian;ペルシア;;;;;;;;;;;;x
+uzbek;ウズベク;;;;;;;;;;;;x
+kazak;カザフ;;;;;;;;;;;;x
+kirgiz;キルギス;;;;;;;;;;;;x
+tajik;タジク;;;;;;;;;;;;x
+uighur;ウイグル;;;;;;;;;;;;x
+pashtun;パシュトゥーン;;;;;;;;;;;;x
+baluchi;バルーチ;;;;;;;;;;;;x
+hazara;ハザーラ;;;;;;;;;;;;x
+turkmen;トルクメン;;;;;;;;;;;;x
+tatar;タタール;;;;;;;;;;;;x
+central_asian;中央アジア;;;;;;;;;;;;x
+mongol;モンゴル;;;;;;;;;;;;x
+siberian;シベリア;;;;;;;;;;;;x
+yakut;ヤクート;;;;;;;;;;;;x
+tibetan;チベット;;;;;;;;;;;;x
+south_asian;南アジア;;;;;;;;;;;;x
+assamese;アッサム;;;;;;;;;;;;x
+bengali;ベンガル;;;;;;;;;;;;x
+bihari;ビハール;;;;;;;;;;;;x
+manipuri;マニプル;;;;;;;;;;;;x
+nepali;ネパール;;;;;;;;;;;;x
+oriya;オリヤー;;;;;;;;;;;;x
+sinhala;シンハラ;;;;;;;;;;;;x
+avadhi;アワディー;;;;;;;;;;;;x
+kanauji;カナウジ;;;;;;;;;;;;x
+panjabi;パンジャーブ;;;;;;;;;;;;x
+kashmiri;カシミール;;;;;;;;;;;;x
+gujarati;グジャラート;;;;;;;;;;;;x
+marathi;マラーティー;;;;;;;;;;;;x
 sindi;Sindi;;;;;;;;;;;;x
-rajput;Rajput;;;;;;;;;;;;x
-kannada;Kannada;;;;;;;;;;;;x
-malayalam;Malayalam;;;;;;;;;;;;x
-tamil;Tamil;;;;;;;;;;;;x
-telegu;Telegu;;;;;;;;;;;;x
-southeast_asian;Southeast Asian;;;;;;;;;;;;x
-vietnamese;Vietnamese;;;;;;;;;;;;x
-khmer;Khmer;;;;;;;;;;;;x
-malay;Malay;;;;;;;;;;;;x
-filipino;Filipino;;;;;;;;;;;;x
-javan;Javan;;;;;;;;;;;;x
-moluccan;Moluccan;;;;;;;;;;;;x
-thai;Thai;;;;;;;;;;;;x
+rajput;ラージプート;;;;;;;;;;;;x
+kannada;カンナダ;;;;;;;;;;;;x
+malayalam;マラヤーラム;;;;;;;;;;;;x
+tamil;タミル;;;;;;;;;;;;x
+telegu;テルグ;;;;;;;;;;;;x
+southeast_asian;東南アジア;;;;;;;;;;;;x
+vietnamese;ベトナム;;;;;;;;;;;;x
+khmer;クメール;;;;;;;;;;;;x
+malay;マレー;;;;;;;;;;;;x
+filipino;フィリピン;;;;;;;;;;;;x
+javan;ジャワ;;;;;;;;;;;;x
+moluccan;モルッカ;;;;;;;;;;;;x
+thai;タイ;;;;;;;;;;;;x
 lao;Lao;;;;;;;;;;;;x
 shan;Shan;;;;;;;;;;;;x
-burmese;Burmese;;;;;;;;;;;;x
+burmese;ビルマ;;;;;;;;;;;;x
 asian_minor;Asian Minor;;;;;;;;;;;;x
-kachin;Kachin;;;;;;;;;;;;x
-karen;Karen;;;;;;;;;;;;x
-east_asian;East Asian;;;;;;;;;;;;x
-japanese;Japanese;;;;;;;;;;;;x
-manchu;Manchu;;;;;;;;;;;;x
+kachin;カチン;;;;;;;;;;;;x
+karen;カレン;;;;;;;;;;;;x
+east_asian;東アジア;;;;;;;;;;;;x
+japanese;日本;;;;;;;;;;;;x
+manchu;満州;;;;;;;;;;;;x
 beifaren;Beifaren;;;;;;;;;;;;x
 nanfaren;Nanfaren;;;;;;;;;;;;x
-korean;Korean;;;;;;;;;;;;x
-ainu;Ainu;;;;;;;;;;;;x
-hakka;Hakka;;;;;;;;;;;;x
-miao;Miao;;;;;;;;;;;;x
-min;Min;;;;;;;;;;;;x
-zhuang;Zhuang;;;;;;;;;;;;x
-yi;Yi;;;;;;;;;;;;x
+korean;朝鮮;;;;;;;;;;;;x
+ainu;アイヌ;;;;;;;;;;;;x
+hakka;客家;;;;;;;;;;;;x
+miao;ミャオ;;;;;;;;;;;;x
+min;閩;;;;;;;;;;;;x
+zhuang;チワン;;;;;;;;;;;;x
+yi;イ;;;;;;;;;;;;x
 yue;Yue;;;;;;;;;;;;x
-oceanic;Oceanic;;;;;;;;;;;;x
-polynesian;Polynesian;;;;;;;;;;;;x
-hawaiian;Hawaiian;;;;;;;;;;;;x
-maori;Maori;;;;;;;;;;;;x
-aborigine;Aborigine;;;;;;;;;;;;x
-melanesian;Melanesian;;;;;;;;;;;;x
-micronesian;Micronesian;;;;;;;;;;;;x
-native_american;Native American;;;;;;;;;;;;x
-zapotec;Zapotec;;;;;;;;;;;;x
-mayan;Mayan;;;;;;;;;;;;x
-nahua;Nahua;;;;;;;;;;;;x
-tarascan;Tarascan;;;;;;;;;;;;x
-quechua;Quechua;;;;;;;;;;;;x
-guarani;Guarani;;;;;;;;;;;;x
-aimara;Aimara;;;;;;;;;;;;x
-amazonian;Amazonian;;;;;;;;;;;;x
-patagonian;Patagonian;;;;;;;;;;;;x
-guajiro;Guajiro;;;;;;;;;;;;x
-tupinamba;Tupinamba;;;;;;;;;;;;x
-metis;Metis;;;;;;;;;;;;x
-dakota;Dakota;;;;;;;;;;;;x
-cherokee;Cherokee;;;;;;;;;;;;x
-pueblo;Pueblo;;;;;;;;;;;;x
-inuit;Inuit;;;;;;;;;;;;x
-cree;Cree;;;;;;;;;;;;x
-navajo;Navajo;;;;;;;;;;;;x
+oceanic;オセアニア;;;;;;;;;;;;x
+polynesian;ポリネシア;;;;;;;;;;;;x
+hawaiian;ハワイ;;;;;;;;;;;;x
+maori;マオリ;;;;;;;;;;;;x
+aborigine;アボリジニ;;;;;;;;;;;;x
+melanesian;メラネシア;;;;;;;;;;;;x
+micronesian;ミクロネシア;;;;;;;;;;;;x
+native_american;アメリカ先住民;;;;;;;;;;;;x
+zapotec;サポテク;;;;;;;;;;;;x
+mayan;マヤ;;;;;;;;;;;;x
+nahua;ナワ;;;;;;;;;;;;x
+tarascan;タラスカ;;;;;;;;;;;;x
+quechua;ケチュア;;;;;;;;;;;;x
+guarani;グアラニー;;;;;;;;;;;;x
+aimara;アイマラ;;;;;;;;;;;;x
+amazonian;アマゾン;;;;;;;;;;;;x
+patagonian;パタゴニア;;;;;;;;;;;;x
+guajiro;グァヒロ;;;;;;;;;;;;x
+tupinamba;トゥピナンバ;;;;;;;;;;;;x
+metis;メティ;;;;;;;;;;;;x
+dakota;ダコタ;;;;;;;;;;;;x
+cherokee;チェロキー;;;;;;;;;;;;x
+pueblo;プエブロ;;;;;;;;;;;;x
+inuit;イヌイット;;;;;;;;;;;;x
+cree;クリー;;;;;;;;;;;;x
+navajo;ナバホ;;;;;;;;;;;;x
 native_american_minor;Native American Minor;;;;;;;;;;;;x
 neo_european_cultures;Neo European Cultures;;;;;;;;;;;;x
-yankee;Yankee;;;;;;;;;;;;x
+yankee;ヤンキー;;;;;;;;;;;;x
 anglo_canadian;Anglo Canadian;;;;;;;;;;;;x
 french_canadian;French Canadian;;;;;;;;;;;;x
-dixie;Dixie;;;;;;;;;;;;x
-texan;Texan;;;;;;;;;;;;x
-boer;Boer;;;;;;;;;;;;x
-australian;Australian;;;;;;;;;;;;x
+dixie;ディキシー;;;;;;;;;;;;x
+texan;テキサス;;;;;;;;;;;;x
+boer;ボーア;;;;;;;;;;;;x
+australian;オーストラリア;;;;;;;;;;;;x
 latin_american_cultures;Latin American Cultures;;;;;;;;;;;;x
-mexican;Mexican;;;;;;;;;;;;x
-central_american;Central American;;;;;;;;;;;;x
-caribeno;Caribeno;;;;;;;;;;;;x
-north_andean;North Andean;;;;;;;;;;;;x
-south_andean;South Andean;;;;;;;;;;;;x
+mexican;メキシコ;;;;;;;;;;;;x
+central_american;中央アメリカ;;;;;;;;;;;;x
+caribeno;カリブ;;;;;;;;;;;;x
+north_andean;北アンデス;;;;;;;;;;;;x
+south_andean;南アンデス;;;;;;;;;;;;x
 platinean;Platinean;;;;;;;;;;;;x
-brazilian;Brazilian;;;;;;;;;;;;x
+brazilian;ブラジル;;;;;;;;;;;;x
 african_diaspora_cultures;African Diaspora Cultures;;;;;;;;;;;;x
 afro_american;Afro American;;;;;;;;;;;;x
 afro_caribbean;Afro Caribbean;;;;;;;;;;;;x
 afro_caribeno;Afro Caribeno;;;;;;;;;;;;x
 afro_brazilian;Afro Brazilian;;;;;;;;;;;;x
 afro_antillean;Afro Antillean;;;;;;;;;;;;x
-west_african;West African;;;;;;;;;;;;x
-akan;Akan;;;;;;;;;;;;x
-bambara;Bambara;;;;;;;;;;;;x
-dyula;Dyula;;;;;;;;;;;;x
-edo;Edo;;;;;;;;;;;;x
-ewe;Ewe;;;;;;;;;;;;x
-fon;Fon;;;;;;;;;;;;x
-fulbe;Fulbe;;;;;;;;;;;;x
-hausa;Hausa;;;;;;;;;;;;x
-ibibio;Ibibio;;;;;;;;;;;;x
-ibo;Ibo;;;;;;;;;;;;x
-kru;Kru;;;;;;;;;;;;x
-mande;Mande;;;;;;;;;;;;x
+west_african;西アフリカ;;;;;;;;;;;;x
+akan;アカン;;;;;;;;;;;;x
+bambara;バンバラ;;;;;;;;;;;;x
+dyula;ジュラ;;;;;;;;;;;;x
+edo;エド;;;;;;;;;;;;x
+ewe;エウェ;;;;;;;;;;;;x
+fon;フォン;;;;;;;;;;;;x
+fulbe;フルベ;;;;;;;;;;;;x
+hausa;ハウサ;;;;;;;;;;;;x
+ibibio;イビビオ;;;;;;;;;;;;x
+ibo;イボ;;;;;;;;;;;;x
+kru;クル;;;;;;;;;;;;x
+mande;マンデ;;;;;;;;;;;;x
 maures;Maures;;;;;;;;;;;;x
-mossi;Mossi;;;;;;;;;;;;x
-senufo;Senufo;;;;;;;;;;;;x
-songhai;Songhai;;;;;;;;;;;;x
-tiv;Tiv;;;;;;;;;;;;x
-tuareg;Tuareg;;;;;;;;;;;;x
-wolof;Wolof;;;;;;;;;;;;x
-yoruba;Yoruba;;;;;;;;;;;;x
-central_african;Central African;;;;;;;;;;;;x
+mossi;モシ;;;;;;;;;;;;x
+senufo;セヌフォ;;;;;;;;;;;;x
+songhai;ソンガイ;;;;;;;;;;;;x
+tiv;ティブ;;;;;;;;;;;;x
+tuareg;トゥアレグ;;;;;;;;;;;;x
+wolof;ウォロフ;;;;;;;;;;;;x
+yoruba;ヨルバ;;;;;;;;;;;;x
+central_african;中央アフリカ;;;;;;;;;;;;x
 bakongo;Bakongo;;;;;;;;;;;;x
-baguirmi;Baguirmi;;;;;;;;;;;;x
-fang;Fang;;;;;;;;;;;;x
-kanuri;Kanuri;;;;;;;;;;;;x
-luba;Luba;;;;;;;;;;;;x
-lunda;Lunda;;;;;;;;;;;;x
-mongo;Mongo;;;;;;;;;;;;x
-sara;Sara;;;;;;;;;;;;x
-teda;Teda;;;;;;;;;;;;x
+baguirmi;バギルミ;;;;;;;;;;;;x
+fang;ファン;;;;;;;;;;;;x
+kanuri;カヌリ;;;;;;;;;;;;x
+luba;ルバ;;;;;;;;;;;;x
+lunda;ルンダ;;;;;;;;;;;;x
+mongo;モンゴ;;;;;;;;;;;;x
+sara;サラ;;;;;;;;;;;;x
+teda;テダ;;;;;;;;;;;;x
 african_minor;African Minor;;;;;;;;;;;;x
-east_african;East African;;;;;;;;;;;;x
-amhara;Amhara;;;;;;;;;;;;x
-afar;Afar;;;;;;;;;;;;x
-azande;Azande;;;;;;;;;;;;x
+east_african;東アフリカ;;;;;;;;;;;;x
+amhara;アムハラ;;;;;;;;;;;;x
+afar;アファル;;;;;;;;;;;;x
+azande;アザンデ;;;;;;;;;;;;x
 baganda;Baganda;;;;;;;;;;;;x
-beja;Beja;;;;;;;;;;;;x
-dinka;Dinka;;;;;;;;;;;;x
-fur;Fur;;;;;;;;;;;;x
-kikuyu;Kikuyu;;;;;;;;;;;;x
-luo;Luo;;;;;;;;;;;;x
-maasai;Maasai;;;;;;;;;;;;x
-nuer;Nuer;;;;;;;;;;;;x
-nuba;Nuba;;;;;;;;;;;;x
-oromo;Oromo;;;;;;;;;;;;x
+beja;ベジャ;;;;;;;;;;;;x
+dinka;ディンカ;;;;;;;;;;;;x
+fur;フール;;;;;;;;;;;;x
+kikuyu;キクユ;;;;;;;;;;;;x
+luo;ルオ;;;;;;;;;;;;x
+maasai;マサイ;;;;;;;;;;;;x
+nuer;ヌエル;;;;;;;;;;;;x
+nuba;ヌバ;;;;;;;;;;;;x
+oromo;オロモ;;;;;;;;;;;;x
 ruanda;Ruanda;;;;;;;;;;;;x
-rundi;Rundi;;;;;;;;;;;;x
-sidama;Sidama;;;;;;;;;;;;x
-somali;Somali;;;;;;;;;;;;x
-sudanese;Sudanese;;;;;;;;;;;;x
-sukuma;Sukuma;;;;;;;;;;;;x
-swahili;Swahili;;;;;;;;;;;;x
+rundi;ルンディ;;;;;;;;;;;;x
+sidama;シダマ;;;;;;;;;;;;x
+somali;ソマリ;;;;;;;;;;;;x
+sudanese;スーダン;;;;;;;;;;;;x
+sukuma;スクマ;;;;;;;;;;;;x
+swahili;スワヒリ;;;;;;;;;;;;x
 tigray;Tigray;;;;;;;;;;;;x
 unyamwezi;Unyamwezi;;;;;;;;;;;;x
-southern_african;Southern African;;;;;;;;;;;;x
-chewa;Chewa;;;;;;;;;;;;x
-herero;Herero;;;;;;;;;;;;x
-khoisan;Khoisan;;;;;;;;;;;;x
-lomwe;Lomwe;;;;;;;;;;;;x
-makua;Makua;;;;;;;;;;;;x
-malagasy;Malagasy;;;;;;;;;;;;x
-nguni;Nguni;;;;;;;;;;;;x
-ovimbundu;Ovimbundu;;;;;;;;;;;;x
-sena;Sena;;;;;;;;;;;;x
-shona;Shona;;;;;;;;;;;;x
-sotho;Sotho;;;;;;;;;;;;x
-tonga;Tonga;;;;;;;;;;;;x
-tswana;Tswana;;;;;;;;;;;;x
-xhosa;Xhosa;;;;;;;;;;;;x
-yao;Yao;;;;;;;;;;;;x
-zulu;Zulu;;;;;;;;;;;;x
-ENG_fascist_dictatorship;Republic of Britannia;;;;;;;;;;;;x
+southern_african;アフリカ南部;;;;;;;;;;;;x
+chewa;チェワ;;;;;;;;;;;;x
+herero;ヘレロ;;;;;;;;;;;;x
+khoisan;コイサン;;;;;;;;;;;;x
+lomwe;ロムウェ;;;;;;;;;;;;x
+makua;マクア;;;;;;;;;;;;x
+malagasy;マダガスカル;;;;;;;;;;;;x
+nguni;ングニ;;;;;;;;;;;;x
+ovimbundu;オヴィンブンド;;;;;;;;;;;;x
+sena;セナ;;;;;;;;;;;;x
+shona;ショナ;;;;;;;;;;;;x
+sotho;ソト;;;;;;;;;;;;x
+tonga;トンガ;;;;;;;;;;;;x
+tswana;ツワナ;;;;;;;;;;;;x
+xhosa;コサ;;;;;;;;;;;;x
+yao;ヤオ;;;;;;;;;;;;x
+zulu;ズールー;;;;;;;;;;;;x
+ENG_fascist_dictatorship;ブリタニア共和国;;;;;;;;;;;;x
 ENG_fascist_dictatorship_ADJ;British;;;;;;;;;;;;x
 fascist_rebels_title;ファシスト;;;;;;;;;;;;x
 fascist_rebels_name;$COUNTRY$ Fascist;;;;;;;;;;;;x
@@ -1538,13 +1538,13 @@ REL_NEUTRAL;Neutral;;;;;;;;;;;;x
 REL_CORDIAL;Cordial;;;;;;;;;;;;x
 REL_FRIENDLY;Friendly;;;;;;;;;;;;x
 REMOVE_REL_SPHERE_OF_INFLUENCE;影響圏;;;;;;;;;;;;x
-DIPLOMACY_FILTER_ALL;All;;;;;;;;;;;;x
-DIPLOMACY_FILTER_EUROPE;Europe;;;;;;;;;;;;x
-DIPLOMACY_FILTER_ASIA;Asia;;;;;;;;;;;;x
-DIPLOMACY_FILTER_NORTH_AMERICA;North America;;;;;;;;;;;;x
-DIPLOMACY_FILTER_SOUTH_AMERICA;South America;;;;;;;;;;;;x
-DIPLOMACY_FILTER_AFRICA;Africa;;;;;;;;;;;;x
-DIPLOMACY_FILTER_OCEANIA;Oceania;;;;;;;;;;;;x
+DIPLOMACY_FILTER_ALL;全国家;;;;;;;;;;;;x
+DIPLOMACY_FILTER_EUROPE;ヨーロッパ;;;;;;;;;;;;x
+DIPLOMACY_FILTER_ASIA;アジア;;;;;;;;;;;;x
+DIPLOMACY_FILTER_NORTH_AMERICA;北アメリカ;;;;;;;;;;;;x
+DIPLOMACY_FILTER_SOUTH_AMERICA;南アメリカ;;;;;;;;;;;;x
+DIPLOMACY_FILTER_AFRICA;アフリカ;;;;;;;;;;;;x
+DIPLOMACY_FILTER_OCEANIA;オセアニア;;;;;;;;;;;;x
 DIPLOMACY_FILTER_NEIGHBOURS;Neighbours;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ENEMIES;Enemies;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ALLIES;Allies;;;;;;;;;;;;x
@@ -1852,7 +1852,7 @@ SUPPLY;Supply: $VAL$;;;;;;;;;;;;x
 DEMAND;Demand: $VAL$;;;;;;;;;;;;x
 TRADE_SUPPLY_NEED;$VAL$ to supply army and navy each day.\n;;;;;;;;;;;;x
 TRADE_TEMP_PROD_NEED;$VAL$ for current production.\n;;;;;;;;;;;;x
-form_germany_title;Three Hurrahs For Germany!;;;;;;;;;;;;x
+form_germany_title;ドイツに万歳三唱！;;;;;;;;;;;;x
 form_germany_desc;By controlling, directly or indirectly, the manifold principalities, duchies and free cities that make up the German Nation, we can unite our people into one singular nation state. Three Hurrahs for the German Empire!;;;;;;;;;;;;x
 form_italy_title;Avanti Italia!;;;;;;;;;;;;x
 form_italy_desc;By establishing a dominant position on the Italian peninsula, we can secure a national homeland for our people by proclaiming ourselves the motive power of a unified Italian state.;;;;;;;;;;;;x
@@ -1864,21 +1864,21 @@ gag_rule_title;House Gag Rule;;;;;;;;;;;;x
 gag_rule_desc;The seemingly irresolvable debate over slavery threatens to tear our country apart. If we were to introduce a gag rule in the House of Representatives, barring bills on the slavery issue from being presented to the House, we could hope to at least alleviate some of the worst tensions;;;;;;;;;;;;x
 clay_and_douglas_draft_title;Clay & Douglas Draft;;;;;;;;;;;;x
 clay_and_douglas_draft_desc;Senators Henry Clay and Stephen A. Douglas have presented a draft proposal for a compromise on the slavery issue centered around the premise of popular sovereignty as the determinant for slavery or abolitionism in the territories. By supporting the draft proposal, we could calm tensions over the slavery issue for at least some time.;;;;;;;;;;;;x
-corwin_amendment_title;Corwin Amendment;;;;;;;;;;;;x
+corwin_amendment_title;コーウィン修正条項;;;;;;;;;;;;x
 corwin_amendment_desc;Tensions over slavery are about to reach the boiling point. By introducing Senator Thomas Corwin's proposed constitutional amendment, we can bar congress from enacting any constitutional amendments banning or interfering slavery. This measure is desperate, but so is the situation.;;;;;;;;;;;;x
-fugitive_slave_act_title;Fugitive Slave Act;;;;;;;;;;;;x
+fugitive_slave_act_title;逃亡奴隷法;;;;;;;;;;;;x
 fugitive_slave_act_desc;By introducing a Federal Fugitive Slave Act, we can enforce the return of escaped slaves to their owners in the slave-states. Doing so will, at least for some time, calm southern fears of abolitionism.;;;;;;;;;;;;x
 nashville_convention_title;Nashville Convention;;;;;;;;;;;;x
 nashville_convention_desc;Several representatives of the Southern states oppose the talk of secession that are being voiced in more extremist circles. If we informally endorse a convention between them, they might be able to calm the secessionist mood.;;;;;;;;;;;;x
-ostend_manifesto_title;Ostend Manifesto;;;;;;;;;;;;x
+ostend_manifesto_title;オステンド・マニフェスト;;;;;;;;;;;;x
 ostend_manifesto_desc;The Ostend Manifesto proposes that the Island of Cuba should be annexed to the United States as a slave state, to balance the expected influx of new free-states in the West. By supporting the manifesto, we can calm tension over the slavery issue domestically, but it might reduce our standing with the European Great Powers significantly.;;;;;;;;;;;;x
-kansas_nebraska_act_title;Kansas-Nebraska Act;;;;;;;;;;;;x
+kansas_nebraska_act_title;カンザス・ネブラスカ法;;;;;;;;;;;;x
 kansas_nebraska_act_desc;By enacting The Kansas-Nebraska act we will effectively repeal the Missouri Compromise of 1820, and allow popular sovereignty to determine whether slavery should or should not be allowed in the former Colony of Louisiana, and the territories presently created out of it. Abolitionists will resent us for it, but it might be necessary to prevent the sundering of our Union.;;;;;;;;;;;;x
-wilmot_proviso_title;The Wilmot Proviso;;;;;;;;;;;;x
+wilmot_proviso_title;ウィルモット条項;;;;;;;;;;;;x
 wilmot_proviso_desc;Congressman David Wilmot has suggested a bill that will ban slavery in any state acquired from the Mexican Cession. Supporting the proviso will greatly calm northern fears over Slave Power, but also increase Southern fears of abolitionism.;;;;;;;;;;;;x
 apply_for_USA_statehood_title;Apply for Statehood;;;;;;;;;;;;x
 apply_for_USA_statehood_desc;Our position on the North American continent, and our traditional cultural ties to the USA, make it likely that the USA would accept a petition of statehood from us. Doing this means our country will be annexed by the United States;;;;;;;;;;;;x
-manifest_destiny_title;Manifest Destiny;;;;;;;;;;;;x
+manifest_destiny_title;マニフェスト・デスティニー;;;;;;;;;;;;x
 manifest_destiny_desc;To bring civilization from coast to shining coast has always been the grand mission of our great republic. Let the Eagle spread it's wings.;;;;;;;;;;;;x
 king_cotton_title;King Cotton;;;;;;;;;;;;x
 king_cotton_desc;Without firing a gun, without drawing a sword, should they make war on us, we could bring the whole world to our feet. What would happen if no cotton was furnished for three years? England would topple headlong and carry the whole civilized world with her to save the South.' -- James Henry Hammond\n\nBy enacting the King Cotton policy, and boycotting all sales of cotton to the European powers, we will give them a reason to intervene on our side in the present conflict between the states.;;;;;;;;;;;;x
@@ -1888,11 +1888,11 @@ enact_anaconda_plan_title;The Anaconda Plan;;;;;;;;;;;;x
 enact_anaconda_plan_desc;Originally devised by General-in-chief Winfield Scott, the Anaconda plan was a plan for subduing the Confederacy by means of a massive naval blockade, and a military advance along the Mississippi river. By initiating blockades of CSA ports, we can increase their war exhaustion by denying them essential goods.;;;;;;;;;;;;x
 anaconda_plan;The Anaconda Plan;;;;;;;;;;;;x
 desc_anaconda_plan;The Union is blockading our ports using Winfield Scott's Anaconda Plan. While they do, our war exhaustion will increase at an increased rate, slowly choking us to death. We must secure port access!;;;;;;;;;;;;x
-shermans_march_to_the_sea_title;Sherman's March To The Sea;;;;;;;;;;;;x
+shermans_march_to_the_sea_title;シャーマンの海への進軍;;;;;;;;;;;;x
 shermans_march_to_the_sea_desc;During the campaign he conducted through Georgia in November and December of 1864, Major General William Tecumseh Sherman applied the doctrines of Total War in what can best be described as a campaign of terror directed at the civilian population of the South. By operating deep inside Confederate territory, and by destroying much of Georgia's civilian infrastructure, Sherman is often said to have broken the South's will to fight. Apply his methods, and it might be the final nail in the Confederacy's coffin.;;;;;;;;;;;;x
-forced_egyptological_excavations_title;The Valley of the Kings;;;;;;;;;;;;x
+forced_egyptological_excavations_title;王家の谷;;;;;;;;;;;;x
 forced_egyptological_excavations_desc;Since we control Luxor, we can send an expedition to The Valley of The Kings to conduct archeological excavations. Discoveries of Egyptian tombs could increase our prestige.;;;;;;;;;;;;x
-egyptological_excavations_title;The Valley of the Kings;;;;;;;;;;;;x
+egyptological_excavations_title;王家の谷;;;;;;;;;;;;x
 egyptological_excavations_desc;The Valley of the Kings, Egypt, is a potentially endless source of new archeological discoveries. By petitioning the Egyptian government for a monopoly to carry out excavations in The Valley of the Kings, we can ensure that we make these fantastic discoveries, rather than another Great Power.;;;;;;;;;;;;x
 abolish_prohibition_title;Repeal Prohibition;;;;;;;;;;;;x
 abolish_prohibition_desc;Some say that our nations's experiment with the outlawing of alcohol has gone on for too long, and argue that it should be abolished.;;;;;;;;;;;;x
@@ -1902,27 +1902,27 @@ die_groot_trek_title;Die Groot Trek;;;;;;;;;;;;x
 die_groot_trek_desc;The Great Trek was an exodus of South African farmers of primarily Dutch descent - Boers - from the British controlled Cape Colony to lands beyond the Orange and Vaal rivers, and to the 'Boer republics' established by their kinsmen in the South African hinterland.;;;;;;;;;;;;x
 attack_the_laagers_title;Attack The Laagers;;;;;;;;;;;;x
 attack_the_laagers_desc;The white men, known amongst themselves as 'Boers', have begun migrating from the British Cape Colony to the north and east, beyond the waters of the Ncome. We have seen that they come, bringing with them their women and their children, and we suspect that that means that they intend to stay, but this land is our land...;;;;;;;;;;;;x
-sand_river_convention_title;Sand River Convention;;;;;;;;;;;;x
+sand_river_convention_title;サンド・リバー協定;;;;;;;;;;;;x
 sand_river_convention_desc;By delimiting our borders with the British Cape Colony, we can strengthen our relations with the United Kingdom.;;;;;;;;;;;;x
-orange_river_convention_title;Orange River Convention;;;;;;;;;;;;x
+orange_river_convention_title;オレンジ川協定;;;;;;;;;;;;x
 orange_river_convention_desc;By delimiting our borders with the British Cape Colony, we can strengthen our relations with the United Kingdom.;;;;;;;;;;;;x
-enact_dual_monarchy_title;Austro-Hungarian Compromise;;;;;;;;;;;;x
+enact_dual_monarchy_title;アウスグライヒ;;;;;;;;;;;;x
 enact_dual_monarchy_desc;The Nobles of the Hungarian Estates have, for some time, been pushing for increased independence for the Hungarian people and the Crown of St. Stephen. A proposal for compromise has now been drafted, under which the Kingdom of Hungary and the Empire of Austria will amalgamate into a new political entity: The Austro-Hungarian dual monarchy. Gott erhalte, Gott beschütze!;;;;;;;;;;;;x
-reichsland_elsass_title;Reichsland Elsaß-Lothringen;;;;;;;;;;;;x
+reichsland_elsass_title;帝国直轄州エルザス＝ロートリンゲン;;;;;;;;;;;;x
 reichsland_elsass_desc;Since we have acquired control over the formerly French regions of Alsace-Lorraine, perhaps we should also consider changing the street names? Let us institute the new Reichsland of Elsaß-Lothringen!;;;;;;;;;;;;x
 restore_alsace_title;Restore Alsace-Lorraine!;;;;;;;;;;;;x
 restore_alsace_desc;Since the Alsace has been restored to its rightful place within the French nation, we should probably revert the street signs back to French.;;;;;;;;;;;;x
-trail_of_tears_title;The Trail of Tears;;;;;;;;;;;;x
+trail_of_tears_title;涙の道;;;;;;;;;;;;x
 trail_of_tears_desc;The 'Trail of Tears' is the English rendition of the Cherokee name for the forced relocation of the greater Cherokee nation from its homelands in the south-eastern United States - Georgia, Tennessee, Alabama, etc. - to the newly established Indian territories in Oklahoma. By the Indian Removal Act of 1830, enacting this decision lies within our prerogative.;;;;;;;;;;;;x
 custers_expedition_title;Expedition to The Black Hills;;;;;;;;;;;;x
 custers_expedition_desc;The Black Hills, Dakota Territory, has been recognized by our Government as belonging to the Sioux. The area has, however, not been prospected for minerals yet, and reports have recently been surfacing that the Indians have been extracting enormous amounts of gold from the hill range. An able young Lieutenant Colonel, one George Armstrong Custer, stands ready to be dispatched to the Black Hills to investigate the matter.;;;;;;;;;;;;x
-enact_the_homestead_act_title;The Homestead Act;;;;;;;;;;;;x
+enact_the_homestead_act_title;ホームステッド法;;;;;;;;;;;;x
 enact_the_homestead_act_desc;Signed into law by President Abraham Lincoln in 1862, the Homestead Act was designed to give eligible applicants freehold titles for lands of up to 160 acres in size. The act was one of several similar United States' laws, all contributing to the image and perception of America as a land of opportunity and new beginnings.;;;;;;;;;;;;x
-ems_dispatch_title;The Ems Dispatch;;;;;;;;;;;;x
+ems_dispatch_title;エムス電報事件;;;;;;;;;;;;x
 ems_dispatch_desc;Originally sent as an internal memo of King Wilhelm I of Prussia to the Prussian Chancellor Otto von Bismarck, concerning demands made by the French Ambassador during an informal meeting between him and the Monarch at the Spa resort Bad Ems in Prussian Hesse-Nassau, the Ems dispatch was perhaps the most important triggering factor that led to France's declaration of what would later be known as the Franco-Prussian war. By sending the Ems dispatch, we will risk provoking a war with France.;;;;;;;;;;;;x
-liberty_enlightening_the_world_title;Liberty Enlightening The World;;;;;;;;;;;;x
+liberty_enlightening_the_world_title;世界を照らす自由;;;;;;;;;;;;x
 liberty_enlightening_the_world_desc;It has been almost 100 years since France, and General Lafayette, came to the aid of the brave, young American republic at the hour of her birth and most dire need. Since then, the American republic has served as an inspiration to freedom loving people everywhere, and has stood as a clear and voiceful reminder to the world of the possibilities of human liberty. Some within France's republican circles have suggested that we celebrate this centennial by presenting to the American people a suitable gift to mark their first hundred years as a free people, and their historical bonds of friendship with the French nation. Vive la Liberté!;;;;;;;;;;;;x
-construct_germania_werft_title;Friedrich Krupp Germaniawerft;;;;;;;;;;;;x
+construct_germania_werft_title;フリードリヒ・クルップ・ゲルマニアヴェルフト;;;;;;;;;;;;x
 construct_germania_werft_desc;The Germaniawerft (Ger. Germania Wharf), was a major German shipbuilding wharf in Kiel, North Germany, which was responsible for constructing many of the German U-boats deployed by the German Kriegsmarine during WWI and WWII, as well as Kaiser Wilhelm II's personal yacht. Originally founded as the Norddeutsche Schiffbau-Gesellschaft in 1867, the wharf was bought by renowned German industrialist Friedrich Krupp in 1902, and renamed the Germaniawerft. By constructing the Germaniawerft in Kiel, we can ensure that the Fatherland never lacks the ships it needs.;;;;;;;;;;;;x
 WE_NOT_GREATNATION;We must be a Great Power to perform this action;;;;;;;;;;;;x
 ACT_NO_SELF;We cannot negotiate with ourselves.;;;;;;;;;;;;x
@@ -3230,11 +3230,11 @@ INFRASTRUCTURE_EFFECT;$DIRECTION$ $VALUE$ level of railroad\n;;;;;;;;;;;;x
 RENAME_PROV_EFF;$OLD$ renamed to §Y$NEW$§W.\n;;;;;;;;;;;;x
 RENAME_REGION_EFF;$OLD$ renamed to §Y$NEW$§W.\n;;;;;;;;;;;;x
 LITERACY_EFFECT;$DIRECTION$ $VALUE$ literacy\n;;;;;;;;;;;;x
-local_tractors;Tractors;;;;;;;;;;;;x
+local_tractors;トラクター;;;;;;;;;;;;x
 desc_local_tractors;Mechanized farming has arrived in this province in the form of tractors, increasing the efficiency, and reducing the labour intensity, of local farming.;;;;;;;;;;;;x
 local_distribution_channels;Commercial Retailers;;;;;;;;;;;;x
 desc_local_distribution_channels;New and efficient modes and structures for the selling and reselling of goods have been implemented in this province, leaving farmers free to tend their fields.;;;;;;;;;;;;x
-local_nitroglycerin;Nitroglycerin;;;;;;;;;;;;x
+local_nitroglycerin;ニトログリセリン;;;;;;;;;;;;x
 desc_local_nitroglycerin;Knowledge of the use of modern explosives has spread to this province, aiding local mining ventures.;;;;;;;;;;;;x
 local_electricity;Electrical Lighting;;;;;;;;;;;;x
 desc_local_electricity;Electrical Lights have been put up on the streets in this province, increasing the efficiency of all local production, as workers work in new and well lit environs.;;;;;;;;;;;;x
@@ -3248,11 +3248,11 @@ blood_and_iron_mine;Blood & Iron Mine;;;;;;;;;;;;x
 desc_blood_and_iron_mine;A rich, but dangerous and difficult, lode of iron ore is being mined in this province.;;;;;;;;;;;;x
 naval_school;Naval School;;;;;;;;;;;;x
 desc_naval_school;The Merchant Marine operates a Naval School in this province, providing lessons in leadership and education in the latest naval technologies;;;;;;;;;;;;x
-beer_halls;Beer Halls;;;;;;;;;;;;x
+beer_halls;ビアホール;;;;;;;;;;;;x
 desc_beer_halls;This province has a Beer Hall, a Saloon or a Bar for every occasion, and the citizens spend a fair amount of their time in them.;;;;;;;;;;;;x
 libertine_culture;Libertine Culture;;;;;;;;;;;;x
 desc_libertine_culture;Our nation takes a libertine approach to the use of alcohol. Eleven bottles of beer on the wall, yo-ho-ho and a bottle of rum.;;;;;;;;;;;;x
-temperance_league;Temperance League;;;;;;;;;;;;x
+temperance_league;禁酒同盟;;;;;;;;;;;;x
 desc_temperance_league;Our nation has a strong and prominent temperance league with a fair amount of traction even within government circles.;;;;;;;;;;;;x
 destitution_and_poverty;Destitution & Poverty;;;;;;;;;;;;x
 desc_destitution_and_poverty;The consumption of alcohol is fast becoming a major social problem in this province;;;;;;;;;;;;x
@@ -3264,56 +3264,56 @@ trek_boers;Trek Boers;;;;;;;;;;;;x
 desc_trek_boers;Boers from the Cape Colony are migrating to this province. A small trickle in the stream that what will later be known as 'The Great Trek'.;;;;;;;;;;;;x
 boer_exodus;Boer Exodus;;;;;;;;;;;;x
 desc_boer_exodus;Boers are leaving this province en masse for the hinterland and the Boer Republics.;;;;;;;;;;;;x
-gold_rush;Gold Rush;;;;;;;;;;;;x
+gold_rush;ゴールドラッシュ;;;;;;;;;;;;x
 desc_gold_rush;This province is booming due to the discovery of gold;;;;;;;;;;;;x
 abolitionist_society;Abolitionist Society;;;;;;;;;;;;x
 desc_abolitionist_society;An abolitionist society in this province is spreading pamphlets decrying slavery, and calling for its abolition.;;;;;;;;;;;;x
 REMOVE_suffragette_movements;Suffragette Movements;;;;;;;;;;;;x
 REMOVE_desc_suffragette_movements;;;;;;;;;;;;;x
-knights_of_the_golden_circle;Knights of The Golden Circle;;;;;;;;;;;;x
+knights_of_the_golden_circle;ゴールデン・サークル騎士団;;;;;;;;;;;;x
 desc_knights_of_the_golden_circle;A secret society dedicated to the advancement of slavery operates in this province.;;;;;;;;;;;;x
-american_anti_slavery_society;American Anti-Slavery Society;;;;;;;;;;;;x
+american_anti_slavery_society;アメリカ反奴隷制協会;;;;;;;;;;;;x
 desc_american_anti_slavery_society;A society dedicated to the abolition of slavery operates in this province.;;;;;;;;;;;;x
 copperhead_democrats;Copperhead Democrats;;;;;;;;;;;;x
 desc_copperhead_democrats;Pro-secessionist Democrats are active in this province;;;;;;;;;;;;x
 REMOVE_mud_march;Mud March;;;;;;;;;;;;x
 REMOVE_desc_mud_march;3,000 women participated in a demonstration which later became known as the Mud March.;;;;;;;;;;;;x
-REMOVE_nuwss_suffrage;National Union of Women's Suffrage Society;;;;;;;;;;;;x
+REMOVE_nuwss_suffrage;女性参政権協会全国同盟;;;;;;;;;;;;x
 REMOVE_desc_nuwss_suffrage;A new society named NUWSS have appeared in your province.;;;;;;;;;;;;x
 REMOVE_nswvr_suffrage;National Society of Women's Right to Vote;;;;;;;;;;;;x
 REMOVE_desc_nswvr_suffrage;A new society named NSWRV have appeared in your province.;;;;;;;;;;;;x
 REMOVE_neutral_suffrage;Neutral;;;;;;;;;;;;x
 REMOVE_desc_neutral_suffrage;You are neutral towards the NUWSS and NSWRV.;;;;;;;;;;;;x
-REMOVE_women_suffrage;Women's Suffrage;;;;;;;;;;;;x
+REMOVE_women_suffrage;女性参政権;;;;;;;;;;;;x
 REMOVE_desc_women_suffrage;Women want the same rights as men has.;;;;;;;;;;;;x
-REMOVE_nswrv_women_education;Education for Women;;;;;;;;;;;;x
+REMOVE_nswrv_women_education;女子教育;;;;;;;;;;;;x
 REMOVE_desc_nswrv_women_education;Women in your province have gotten the opportunity to train at colleges;;;;;;;;;;;;x
-REMOVE_nuwss_women_education;Education for Women;;;;;;;;;;;;x
+REMOVE_nuwss_women_education;女子教育;;;;;;;;;;;;x
 REMOVE_desc_nuwss_women_education;Women in your province have gotten the opportunity to train at colleges;;;;;;;;;;;;x
-REMOVE_right_vote;Right to Vote;;;;;;;;;;;;x
+REMOVE_right_vote;選挙権;;;;;;;;;;;;x
 REMOVE_desc_right_vote;A solution to the Women's Suffrage might be near.;;;;;;;;;;;;x
 REMOVE_wrong_vote;Wrong Vote;;;;;;;;;;;;x
 REMOVE_desc_wrong_vote;A solution to the Women's Suffrage is nowhere to be seen.;;;;;;;;;;;;x
 REMOVE_lawless_suffragettes;Lawless Suffragettes;;;;;;;;;;;;x
 REMOVE_desc_lawless_suffragettes;Suffragettes are using more drastic methods to try and gain support for their cause.;;;;;;;;;;;;x
-labor_union;Labor Union;;;;;;;;;;;;x
+labor_union;労働組合;;;;;;;;;;;;x
 desc_labor_union;Workers have joined forces and created a labor union in your province.;;;;;;;;;;;;x
 worker_union;Worker's Union;;;;;;;;;;;;x
 strike_solution;Strike Solution;;;;;;;;;;;;x
 desc_strike_solution;Your generosity have stopped the strike.;;;;;;;;;;;;x
 province_strike;Province Strike;;;;;;;;;;;;x
 desc_province_strike;Workers have gone on strike in your province.;;;;;;;;;;;;x
-national_workshops;National Workshops;;;;;;;;;;;;x
+national_workshops;国立作業場;;;;;;;;;;;;x
 desc_national_workshops;National Workshops helps the unemployed.;;;;;;;;;;;;x
 trade_union;Trade Union;;;;;;;;;;;;x
 desc_trade_union;Workers have joined forces and created a trade union in your province.;;;;;;;;;;;;x
-black_shirts;Blackshirts;;;;;;;;;;;;x
+black_shirts;黒シャツ隊;;;;;;;;;;;;x
 desc_black_shirts;Blackshirts are provoking the residents in the province.;;;;;;;;;;;;x
 free_corps;Free Corps;;;;;;;;;;;;x
 desc_free_corps;Inspired by the Blackshirts, the Free Corps are a nuisance in your province.;;;;;;;;;;;;x
 am_everywhere;I Am Everywhere;;;;;;;;;;;;x
 desc_am_everywhere;A fascist newspaper have released its first copy in the province.;;;;;;;;;;;;x
-the_massacre;The Massacre;;;;;;;;;;;;x
+the_massacre;虐殺;;;;;;;;;;;;x
 desc_the_massacre;A group of people consisting of socialists and liberals have been murdered.;;;;;;;;;;;;x
 fascist_welfare;Fascist Welfare;;;;;;;;;;;;x
 desc_fascist_welfare; ;;;;;;;;;;;;x
@@ -3337,7 +3337,7 @@ REMOVE_change_name;Change Your Name;;;;;;;;;;;;x
 REMOVE_desc_change_name;Immigrants may have to change their name in order to get a job.;;;;;;;;;;;;x
 REMOVE_own_home;Owning a Home;;;;;;;;;;;;x
 REMOVE_desc_own_home;To own a house may do wonders for the assimilation of immigrants.;;;;;;;;;;;;x
-REMOVE_naturalization;Naturalization;;;;;;;;;;;;x
+REMOVE_naturalization;帰化;;;;;;;;;;;;x
 REMOVE_desc_naturalization;A couple of immigrants have become citizens of the country.;;;;;;;;;;;;x
 REMOVE_advanced_naturalization;Advanced Naturalization;;;;;;;;;;;;x
 REMOVE_desc_advanced_naturalization;Many immigrants have become citizens of the country.;;;;;;;;;;;;x
@@ -3345,25 +3345,25 @@ REMOVE_massive_naturalization;Massive Naturalizations;;;;;;;;;;;;x
 REMOVE_desc_massive_naturalization;All immigrants have become citizens of the country.;;;;;;;;;;;;x
 REMOVE_denaturalization;Denaturalization;;;;;;;;;;;;x
 REMOVE_desc_denaturalization;An immigrant in $COUNTRY$ have been deprived of his citizenship.;;;;;;;;;;;;x
-REMOVE_segregation;Segregation;;;;;;;;;;;;x
+REMOVE_segregation;隔離政策;;;;;;;;;;;;x
 REMOVE_desc_segregation;Segregation between foreigners and citizens have caused discontent.;;;;;;;;;;;;x
-REMOVE_ghetto;Ghetto;;;;;;;;;;;;x
+REMOVE_ghetto;ゲットー;;;;;;;;;;;;x
 REMOVE_desc_ghetto;Ghettos are filled to the brim with immigrants and minorities of various kinds.;;;;;;;;;;;;x
-REMOVE_diaspora;Diaspora;;;;;;;;;;;;x
+REMOVE_diaspora;ディアスポラ;;;;;;;;;;;;x
 REMOVE_desc_diaspora;A diaspora have been created.;;;;;;;;;;;;x
 REMOVE_no_diaspora;No Diaspora;;;;;;;;;;;;x
 REMOVE_desc_no_diaspora;The immigrants were not allowed to create a diaspora.;;;;;;;;;;;;x
-REMOVE_anarchist_exclusion;Anarchist Exclusion Act;;;;;;;;;;;;x
+REMOVE_anarchist_exclusion;アナキスト排除法;;;;;;;;;;;;x
 REMOVE_desc_anarchist_exclusion;The Anarchist Exclusion Act enables immigrants to be deported if they subscribe to anarchist ideas.;;;;;;;;;;;;x
 government_sanitarium;Sanitarium;;;;;;;;;;;;x
 desc_government_sanitarium;The Government operates a sanitarium for tuberculosis patients in this province.;;;;;;;;;;;;x
 liberal_agitation;Liberal Agitation;;;;;;;;;;;;x
 desc_liberal_agitation;Firebrands are arguing the cause of liberalism and revolution.;;;;;;;;;;;;x
-potato_blight;Potato Blight;;;;;;;;;;;;x
+potato_blight;ジャガイモ疫病;;;;;;;;;;;;x
 desc_potato_blight;Famine spreads as crops lie, dead and rotting, in our fields.;;;;;;;;;;;;x
 anti_jacobin_tract;Anti-Jacobin Tract;;;;;;;;;;;;x
 desc_anti_jacobin_tract;A tract arguing the causes of counter-revolution, order, religion and monarchy has received widespread circulation in our country.;;;;;;;;;;;;x
-cholera_epidemic_small;Outbreak of Cholera;;;;;;;;;;;;x
+cholera_epidemic_small;コレラの発生;;;;;;;;;;;;x
 desc_cholera_epidemic_small;Cholera has broken out in this province, and threatens to spread.;;;;;;;;;;;;x
 cholera_epidemic_big;Cholera Epidemic;;;;;;;;;;;;x
 desc_cholera_epidemic_big;Cholera has broken out in this province, and threatens to spread.;;;;;;;;;;;;x
@@ -3379,7 +3379,7 @@ silk_famine;Silk Famine;;;;;;;;;;;;x
 desc_silk_famine;A local outbreak of Pébrine prevents local silk farms from operating at full capacity;;;;;;;;;;;;x
 western_influences;Western Influences;;;;;;;;;;;;x
 desc_western_influences;Our government pursues a policy of active encouragement of Western Influences.;;;;;;;;;;;;x
-uncivilized_isolationism;Isolationism;;;;;;;;;;;;x
+uncivilized_isolationism;孤立主義;;;;;;;;;;;;x
 desc_uncivilized_isolationism;Our country has closed its ports and borders to foreigners.;;;;;;;;;;;;x
 western_presence;Western Presence;;;;;;;;;;;;x
 desc_western_presence;An expatriate community of foreigners, from various European countries and Great Powers, has formed here.;;;;;;;;;;;;x
@@ -3387,9 +3387,9 @@ foreign_smugglers;Foreign Smugglers;;;;;;;;;;;;x
 desc_foreign_smugglers;A smuggling ring run by foreigners operates in this province.;;;;;;;;;;;;x
 foreign_trading_post;Foreign Trading Post;;;;;;;;;;;;x
 desc_foreign_trading_post;A separate class of our citizens, kept apart from the general populace, administer a trading post for foreigners in this province.;;;;;;;;;;;;x
-local_opium_habit;Opium Problem;;;;;;;;;;;;x
+local_opium_habit;アヘン問題;;;;;;;;;;;;x
 desc_local_opium_habit;Our subjects in this province have taken to opium eating on an epidemic scale.;;;;;;;;;;;;x
-trade_restrictions;Trade Restrictions;;;;;;;;;;;;x
+trade_restrictions;貿易規制;;;;;;;;;;;;x
 desc_trade_restrictions;Our country has a policy of regulating and banning certain imports and exports.;;;;;;;;;;;;x
 sayings_of_the_dutch;Sayings of The Dutch;;;;;;;;;;;;x
 desc_sayings_of_the_dutch;We have translated a large amount of western literature and incorporated it fully into our national body of knowledge, boosting our scientific research.;;;;;;;;;;;;x
@@ -3453,13 +3453,13 @@ local_economic_downturn;Local Economic Downturn;;;;;;;;;;;;x
 desc_local_economic_downturn;This province has taken a temporary economic hit, but should recover within a few years.;;;;;;;;;;;;x
 minority_building_restrictions;Minority Building Restrictions;;;;;;;;;;;;x
 desc_minority_building_restrictions;Our country enforces policies that prevent minorities from constructing permanent buildings, even on land they own.;;;;;;;;;;;;x
-dryzymalas_wagon;Dryzymala's Wagon;;;;;;;;;;;;x
+dryzymalas_wagon;ドゥジマワのバン;;;;;;;;;;;;x
 desc_dryzymalas_wagon;Old man Dryzymala avoids the building ban by living in a wagon;;;;;;;;;;;;x
-flying_university;Flying University;;;;;;;;;;;;x
+flying_university;さまよえる大学;;;;;;;;;;;;x
 desc_flying_university;An underground organisation provides higher education in a minority language;;;;;;;;;;;;x
 border_ruffians;Border Ruffians;;;;;;;;;;;;x
 desc_border_ruffians;Border Ruffians is souring the quality of life for people in this province.;;;;;;;;;;;;x
-REMOVE_vote_right;Right to Vote;;;;;;;;;;;;x
+REMOVE_vote_right;選挙権;;;;;;;;;;;;x
 REMOVE_desc_vote_right;A solution to the Women's Suffrage might be near.;;;;;;;;;;;;x
 the_homestead_act;ホームステッド法;;;;;;;;;;;;x
 desc_the_homestead_act;The Homestead Act allows any eligible applicant a freehold title to a settlement 160 acres in size. Rumor of free land for the taking has spread to Europe, and the world, and poor, huddled masses, yearning to breathe free flock to our shores.;;;;;;;;;;;;x
@@ -3481,11 +3481,11 @@ colonial_mismanagement;Colonial Mismanagement;;;;;;;;;;;;x
 colonial_mismanagement_desc;The small sums afforded the Colonial Office (Administration Spending) has meant that this colony has fallen into a state of bureaucratic disrepair.;;;;;;;;;;;;x
 colonial_recruitment;Land! Liberty! Labour!;;;;;;;;;;;;x
 colonial_recruitment_desc;A government campaign is attracting immigrants to this province with promises of land and opportunities.;;;;;;;;;;;;x
-baby_boom;Baby Boom;;;;;;;;;;;;x
+baby_boom;ベビーブーム;;;;;;;;;;;;x
 baby_bood_desc;A campaign for increased nativity has lead to more people being born in this province.;;;;;;;;;;;;x
 loyal_askaris;Gurkhas, Askaris & Tirailleurs;;;;;;;;;;;;x
 loyal_askaris_desc;The people in this province are generally supportive of our rule, and several of them serve, or are willing to serve, in colonial military regiments;;;;;;;;;;;;x
-EVTNAME100;禁酒運動;;;;;;;;;;;;x
+EVTNAME100;禁酒同盟;;;;;;;;;;;;x
 EVTDESC100;With the ravages of alcohol taking a daily toll on our people, tearing away, every day with newfound intensity, at the moral and spiritual fabric of our national character, it becomes imperative for us to bond together in defense of public virtue, and to educate and uplift the poor and the downtrodden to the virtues of temperance.'\n\nFor quite some time now, our country has been dealing with increases in the consumption of alcohol. Readily available, and cheap, distilled spirits, in combination with hard working conditions, make the poorer classes especially susceptible to this deadly poison. It comes as no surprise that a $COUNTRY_ADJ$ Temperance League has been formed;;;;;;;;;;;;x
 EVTOPTA100;What's wrong with a few drinks? *hiccup*;;;;;;;;;;;;x
 EVTOPTB100;An excellent initiative!;;;;;;;;;;;;x
@@ -3646,7 +3646,7 @@ EVTNAME2040;Owning a Home;;;;;;;;;;;;x
 EVTDESC2040;The many immigrants who have arrived in the country have created a demand for housing. The construction of new homes must be speeded up when reports show that many immigrants share housing with up to ten or twenty people. This is a minor disaster as this could create epidemics, revolts and other disturbances.;;;;;;;;;;;;x
 EVTOPTA2040;Let us speed this up.;;;;;;;;;;;;x
 EVTOPTB2040;No need to hurry.;;;;;;;;;;;;x
-REMOVE_EVTNAME2050;Naturalization;;;;;;;;;;;;x
+REMOVE_EVTNAME2050;帰化;;;;;;;;;;;;x
 REMOVE_EVTDESC2050;It's been five years since the first immigrants came to this country. After these five years, immigrants can apply for membership in the country, become real citizens and not have to be called aliens any more.;;;;;;;;;;;;x
 REMOVE_EVTOPTA2050;Give them citizenship.;;;;;;;;;;;;x
 REMOVE_EVTOPTB2050;Just a few more years...;;;;;;;;;;;;x
@@ -3660,7 +3660,7 @@ REMOVE_EVTOPTA2070;Okay.;;;;;;;;;;;;x
 REMOVE_EVTNAME2080;Denaturalization;;;;;;;;;;;;x
 REMOVE_EVTDESC2080;You have been deemed unworthy of citizenship in this country. You have thirty days to leave $COUNTRY$, otherwise you risk imprisonment for up to four years.'\n\nThe judge was harsh but just. The man's crime against the state was not severe enough to make him serve time in prison, but severe enough to strip him of his citizenship and getting him deported.;;;;;;;;;;;;x
 REMOVE_EVTOPTA2080;Okay;;;;;;;;;;;;x
-REMOVE_EVTNAME2090;Segregation;;;;;;;;;;;;x
+REMOVE_EVTNAME2090;隔離政策;;;;;;;;;;;;x
 REMOVE_EVTDESC2090;Separate schools, separate shops, even separate washrooms. The segregation between immigrants and citizens have risen to a new level, causing irritation and discontent.;;;;;;;;;;;;x
 REMOVE_EVTOPTA2090;Good.;;;;;;;;;;;;x
 REMOVE_EVTOPTB2090;That's sad.;;;;;;;;;;;;x
@@ -5168,7 +5168,7 @@ REMOVE_EVTNAME17170;Women's Suffrage: The Vote;;;;;;;;;;;;x
 REMOVE_EVTDESC17170;All their long and tedious work have bore fruit. The suffragette have presented their suggestions to a minister of the Upper House, who has turned it into a political reform and presented it to the Parliament. Your vote is the last to be cast, and it will settle the question. Will women be the equals of men before the law, and be equal in all their rights?;;;;;;;;;;;;x
 REMOVE_EVTOPTA17170;Yes.;;;;;;;;;;;;x
 REMOVE_EVTOPTB17170;No.;;;;;;;;;;;;x
-REMOVE_EVTNAME17500;Labor Union;;;;;;;;;;;;x
+REMOVE_EVTNAME17500;労働組合;;;;;;;;;;;;x
 REMOVE_EVTDESC17500;The workers from several different factories and workplaces have formed a labor union, which will handle the negotiation of wages, work rules, complaint procedures, rules governing hiring, firing and promotion of workers, benefits, workplace safety and policies between the workers and employers in your province.;;;;;;;;;;;;x
 REMOVE_EVTOPTA17500;Fine.;;;;;;;;;;;;x
 REMOVE_EVTOPTB17500;Okay.;;;;;;;;;;;;x
@@ -5903,7 +5903,7 @@ EVTOPTB38502;Resist it by force!;;;;;;;;;;;;x
 EVTNAME38502;Shall Zanzibar be Free?;;;;;;;;;;;;x
 EVTDESC38502;After four years, many in Zanzibar came to believe that their continued subordinate status to Oman made little sense given Zanzibar's greater wealth. Should we proclaim our full independence from Oman?;;;;;;;;;;;;x
 EVTOPTB38502;We can not risk intervention by outside forces;;;;;;;;;;;;x
-EVTNAME38503;The Zanzibar Question;;;;;;;;;;;;x
+EVTNAME38503;ザンジバル問題;;;;;;;;;;;;x
 EVTDESC38503;Four years after Sultan Said's death, Majid refused to pay the tribute to his brother Thuwaini. With the help of the British under Lord Canning, the Viceroy of India, a deal was reached which recognised Zanzibari independence in return for a tribute.;;;;;;;;;;;;x
 EVTOPTA38503;Accept their independence;;;;;;;;;;;;x
 EVTOPTB38503;Zanzibar is OURS!;;;;;;;;;;;;x
@@ -5931,7 +5931,7 @@ EVTOPTA44106;Speech is a kind of act.;;;;;;;;;;;;x
 EVTNAME44107;コモン・ロー;;;;;;;;;;;;x
 EVTDESC44107;In 1861 Oliver Wendell Holmes' published The Common Law, a history of the common-law tradition. In it he asserted that law was not logical, but rather the will of the judge tempered by circumstances, or,  as its most famous maxim put it, The Life of the law has not been logic, but experience. It quickly became a classic and Holmes was appointed to a professorship at Harvard the next year and was eventually made a Justice of the U.S. Supreme Court. The publication of The Common Law signalled the rise of pragmatism among American intellectuals and presaged a growing distrust of moralism after the horrible slaughter of the Civil War.;;;;;;;;;;;;x
 EVTOPTA44107;The law is the will of he whom the sheriff will obey.;;;;;;;;;;;;x
-EVTNAME44108;Ulysses S. Grant's Personal Memoirs;;;;;;;;;;;;x
+EVTNAME44108;ユリシーズ・S・グラントの回想録;;;;;;;;;;;;x
 EVTDESC44108;In 1885 Ulysses S. Grant published his 'Personal Memoirs', which were a nearly complete retelling of his life. He wrote the book while suffering from throat cancer in order to try and guarantee his family a living after he died. Universally considered a masterpiece of American letters, Grant's memoirs are distinctive for their directness, clarity and economy of style. Mark Twain compared it favorably with Caesar's 'Commentaries'. The 'Personal Memoirs' was a smashing success in its time and remains one of the few books continuously in print since the Civil War. It is probably the best book written by an American President.;;;;;;;;;;;;x
 EVTOPTA44108;I must have them!;;;;;;;;;;;;x
 EVTNAME44109;アルフレッド・セイヤー・マハン;;;;;;;;;;;;x
@@ -5946,7 +5946,7 @@ EVTDESC44111;Pinkerton men, who have proven themselves effective at solving trai
 EVTOPTA44111;We never sleep;;;;;;;;;;;;x
 EVTNAME44112;ナショナルリーグ;;;;;;;;;;;;x
 EVTDESC44112;Eight teams have banded to form a clean, well-run baseball league -- the Boston Red Caps, Chicago White Stockings, Cincinnati Reds, Hartford Dark Blues, Louisville Grays, New York Mutuals, Philadelphia Athletics, and St. Louis Browns.;;;;;;;;;;;;x
-EVTOPTA44112;Play ball!;;;;;;;;;;;;x
+EVTOPTA44112;プレイボール！;;;;;;;;;;;;x
 EVTNAME44113;シカゴ大火;;;;;;;;;;;;x
 EVTDESC44113;A fire that began in the barn at the residence of Patrick O'Leary on DeKoven Street spread throughout the business district, destroying 17,450 buildings, killing 300 people and leaving over 98,000 homeless.;;;;;;;;;;;;x
 EVTOPTA44113;Where is your cow, Mrs O'Leary?;;;;;;;;;;;;x
@@ -6646,7 +6646,7 @@ MODIFIER_UNIT_REPAIR;Repair Time;;;;;;;;;;;;x
 MODIFIER_COMBAT_MOVEMENT_SPEED;Combat Movement Speed;;;;;;;;;;;;x
 MODIFIER_ATTACK_REINFORCE_CHANCE;Attack Reinforce Chance;;;;;;;;;;;;x
 MODIFIER_DEFEND_REINFORCE_CHANCE;Defend Reinforce Chance;;;;;;;;;;;;x
-MODIFIER_COMBAT_WIDTH;Combat Width;;;;;;;;;;;;x
+MODIFIER_COMBAT_WIDTH;戦闘幅;;;;;;;;;;;;x
 MODIFIER_ORG_REGAIN;Organisation Regain Rate;;;;;;;;;;;;x
 MODIFIER_LAND_ORGANISATION;Land Organisation;;;;;;;;;;;;x
 MODIFIER_AIR_ORGANISATION;Air Organisation;;;;;;;;;;;;x
@@ -6920,7 +6920,7 @@ UW_LOAD_NO_FLEET_FOUND;There is no fleet here that this unit can be loaded onto.
 UW_LOAD_IS_VALID;Click to load this unit onto a transport fleet.;;;;;;;;;;;;x
 UW_DUGIN;This unit is dug in, and has been digging in for §Y$CURR$§W days. The maximum preparation possible for our country is §Y$CAP$§W days.;;;;;;;;;;;;x
 UW_SUPPLY_STATUS;This unit received §Y$VAL$§W% of the supplies needed in the last day. The current daily supply consumption is: $CON$;;;;;;;;;;;;x
-UNIT_COMBAT_WIDTH;Combat Width;;;;;;;;;;;;x
+UNIT_COMBAT_WIDTH;戦闘幅;;;;;;;;;;;;x
 ARMIES;Land Units;;;;;;;;;;;;x
 NAVIES;Naval Units;;;;;;;;;;;;x
 AIRWINGS;Air Units;;;;;;;;;;;;x
@@ -11826,703 +11826,703 @@ PROV1943;ジョス;;;;;;;;;;;;x
 PROV1944;ゴンベ;;;;;;;;;;;;x
 PROV1945;カノ;;;;;;;;;;;;x
 PROV1946;ケビ;;;;;;;;;;;;x
-PROV1947;Katsina;;;;;;;;;;;;x
-PROV1948;Sokoto;;;;;;;;;;;;x
-PROV1949;Hadejia;;;;;;;;;;;;x
-PROV1950;Yola;;;;;;;;;;;;x
+PROV1947;カツィナ;;;;;;;;;;;;x
+PROV1948;ソコト;;;;;;;;;;;;x
+PROV1949;アデジャ;;;;;;;;;;;;x
+PROV1950;ヨラ;;;;;;;;;;;;x
 PROV1951;Kuka;;;;;;;;;;;;x
-PROV1952;Nguru;;;;;;;;;;;;x
+PROV1952;ングル;;;;;;;;;;;;x
 PROV1953;Dikoa;;;;;;;;;;;;x
-PROV1954;São Tomé;;;;;;;;;;;;x
-PROV1955;Fernando Pó;;;;;;;;;;;;x
-PROV1956;Douala;;;;;;;;;;;;x
-PROV1957;Buea;;;;;;;;;;;;x
-PROV1958;Kribi;;;;;;;;;;;;x
-PROV1959;Yaounde;;;;;;;;;;;;x
-PROV1960;Bafoussam;;;;;;;;;;;;x
-PROV1961;Bamenda;;;;;;;;;;;;x
-PROV1962;Bertoua;;;;;;;;;;;;x
-PROV1963;Ngaoundere;;;;;;;;;;;;x
-PROV1964;Maroua;;;;;;;;;;;;x
-PROV1965;Bangui;;;;;;;;;;;;x
-PROV1966;Nola;;;;;;;;;;;;x
-PROV1967;Bouar;;;;;;;;;;;;x
-PROV1968;Bossangoa;;;;;;;;;;;;x
-PROV1969;Zemio;;;;;;;;;;;;x
-PROV1970;Bangassou;;;;;;;;;;;;x
-PROV1971;Ndele;;;;;;;;;;;;x
-PROV1972;Libreville;;;;;;;;;;;;x
-PROV1973;Bata;;;;;;;;;;;;x
+PROV1954;サン・トメ;;;;;;;;;;;;x
+PROV1955;フェルナンド・ポー;;;;;;;;;;;;x
+PROV1956;ドゥアラ;;;;;;;;;;;;x
+PROV1957;ブエア;;;;;;;;;;;;x
+PROV1958;クリビ;;;;;;;;;;;;x
+PROV1959;ヤウンデ;;;;;;;;;;;;x
+PROV1960;バフーサム;;;;;;;;;;;;x
+PROV1961;バメンダ;;;;;;;;;;;;x
+PROV1962;ベルトゥア;;;;;;;;;;;;x
+PROV1963;ンガウンデレ;;;;;;;;;;;;x
+PROV1964;マルア;;;;;;;;;;;;x
+PROV1965;バンギ;;;;;;;;;;;;x
+PROV1966;ノラ;;;;;;;;;;;;x
+PROV1967;ブワル;;;;;;;;;;;;x
+PROV1968;ボサンゴア;;;;;;;;;;;;x
+PROV1969;ゼミオ;;;;;;;;;;;;x
+PROV1970;バンガスー;;;;;;;;;;;;x
+PROV1971;ンデレ;;;;;;;;;;;;x
+PROV1972;リーブルヴィル;;;;;;;;;;;;x
+PROV1973;バタ;;;;;;;;;;;;x
 PROV1974;Mayumbe;;;;;;;;;;;;x
-PROV1975;Moanda;;;;;;;;;;;;x
+PROV1975;モアンダ;;;;;;;;;;;;x
 PROV1976;Makokou;;;;;;;;;;;;x
 PROV1977;Nkuna;;;;;;;;;;;;x
-PROV1978;Madingou;;;;;;;;;;;;x
+PROV1978;マディング;;;;;;;;;;;;x
 PROV1979;Biloka;;;;;;;;;;;;x
-PROV1980;Djambala;;;;;;;;;;;;x
-PROV1981;Impfondo;;;;;;;;;;;;x
-PROV1982;Kinshasa;;;;;;;;;;;;x
-PROV1983;Boma;;;;;;;;;;;;x
-PROV1984;Kananga;;;;;;;;;;;;x
+PROV1980;ジャンバラ;;;;;;;;;;;;x
+PROV1981;アンフォンド;;;;;;;;;;;;x
+PROV1982;キンシャサ;;;;;;;;;;;;x
+PROV1983;ボーマ;;;;;;;;;;;;x
+PROV1984;カナンガ;;;;;;;;;;;;x
 PROV1985;Kumbana;;;;;;;;;;;;x
-PROV1986;Lusambo;;;;;;;;;;;;x
+PROV1986;ルサンボ;;;;;;;;;;;;x
 PROV1987;Bunkeya;;;;;;;;;;;;x
 PROV1988;Mussumba;;;;;;;;;;;;x
 PROV1989;Munza;;;;;;;;;;;;x
 PROV1990;Nyangwe;;;;;;;;;;;;x
-PROV1991;Uvira;;;;;;;;;;;;x
+PROV1991;ウビラ;;;;;;;;;;;;x
 PROV1992;Basoko;;;;;;;;;;;;x
-PROV1993;Irebu;;;;;;;;;;;;x
+PROV1993;イレブ;;;;;;;;;;;;x
 PROV1994;Nsheng;;;;;;;;;;;;x
-PROV1995;Gemena;;;;;;;;;;;;x
-PROV1996;Kisangani;;;;;;;;;;;;x
+PROV1995;ゲメナ;;;;;;;;;;;;x
+PROV1996;キサンガニ;;;;;;;;;;;;x
 PROV1997;Mungbane;;;;;;;;;;;;x
 PROV1998;Baramo;;;;;;;;;;;;x
-PROV1999;Luanda;;;;;;;;;;;;x
-PROV2000;Cabinda;;;;;;;;;;;;x
-PROV2001;Mbanza;;;;;;;;;;;;x
-PROV2002;Quibala;;;;;;;;;;;;x
-PROV2003;Benguela;;;;;;;;;;;;x
-PROV2004;Moçâmedes;;;;;;;;;;;;x
-PROV2005;Huambo;;;;;;;;;;;;x
-PROV2006;Kuito;;;;;;;;;;;;x
-PROV2007;Mavinga;;;;;;;;;;;;x
-PROV2008;Ondjiva;;;;;;;;;;;;x
-PROV2009;Malanje;;;;;;;;;;;;x
-PROV2010;Saurimo;;;;;;;;;;;;x
+PROV1999;ルアンダ;;;;;;;;;;;;x
+PROV2000;カビンダ;;;;;;;;;;;;x
+PROV2001;ンバンザ;;;;;;;;;;;;x
+PROV2002;キバラ;;;;;;;;;;;;x
+PROV2003;ベンゲラ;;;;;;;;;;;;x
+PROV2004;モサメデス;;;;;;;;;;;;x
+PROV2005;ウアンボ;;;;;;;;;;;;x
+PROV2006;クイト;;;;;;;;;;;;x
+PROV2007;マビンガ;;;;;;;;;;;;x
+PROV2008;オンジバ;;;;;;;;;;;;x
+PROV2009;マランジェ;;;;;;;;;;;;x
+PROV2010;サウリモ;;;;;;;;;;;;x
 PROV2011;Kubanda;;;;;;;;;;;;x
-PROV2012;Lusaka;;;;;;;;;;;;x
-PROV2013;Mongu;;;;;;;;;;;;x
-PROV2014;Kasempa;;;;;;;;;;;;x
+PROV2012;ルサカ;;;;;;;;;;;;x
+PROV2013;モング;;;;;;;;;;;;x
+PROV2014;カセンパ;;;;;;;;;;;;x
 PROV2015;Monzo;;;;;;;;;;;;x
-PROV2016;Kazembe;;;;;;;;;;;;x
+PROV2016;カゼンベ;;;;;;;;;;;;x
 PROV2017;Kasema;;;;;;;;;;;;x
-PROV2018;Chipata;;;;;;;;;;;;x
-PROV2019;Entebbe;;;;;;;;;;;;x
-PROV2020;Mbarara;;;;;;;;;;;;x
-PROV2021;Masindi;;;;;;;;;;;;x
-PROV2022;Kitgum;;;;;;;;;;;;x
-PROV2023;Jinja;;;;;;;;;;;;x
-PROV2024;Nairobi;;;;;;;;;;;;x
-PROV2025;Marsabit;;;;;;;;;;;;x
-PROV2026;Lodwar;;;;;;;;;;;;x
-PROV2027;Nakuru;;;;;;;;;;;;x
-PROV2028;Kisumu;;;;;;;;;;;;x
-PROV2029;Mombasa;;;;;;;;;;;;x
-PROV2030;Lamu;;;;;;;;;;;;x
-PROV2031;Wajir;;;;;;;;;;;;x
-PROV2032;Garissa;;;;;;;;;;;;x
-PROV2033;Voi;;;;;;;;;;;;x
-PROV2034;Kigali;;;;;;;;;;;;x
-PROV2035;Usumbura;;;;;;;;;;;;x
-PROV2036;Dar Es Salaam;;;;;;;;;;;;x
-PROV2037;Tanga;;;;;;;;;;;;x
-PROV2038;Kilwa;;;;;;;;;;;;x
-PROV2039;Lindi;;;;;;;;;;;;x
-PROV2040;Songea;;;;;;;;;;;;x
+PROV2018;チパタ;;;;;;;;;;;;x
+PROV2019;エンテベ;;;;;;;;;;;;x
+PROV2020;ムバララ;;;;;;;;;;;;x
+PROV2021;マシンディ;;;;;;;;;;;;x
+PROV2022;キトゥグム;;;;;;;;;;;;x
+PROV2023;ジンジャ;;;;;;;;;;;;x
+PROV2024;ナイロビ;;;;;;;;;;;;x
+PROV2025;マルサビット;;;;;;;;;;;;x
+PROV2026;ロドワル;;;;;;;;;;;;x
+PROV2027;ナクル;;;;;;;;;;;;x
+PROV2028;キスム;;;;;;;;;;;;x
+PROV2029;モンバサ;;;;;;;;;;;;x
+PROV2030;ラム;;;;;;;;;;;;x
+PROV2031;ワジール;;;;;;;;;;;;x
+PROV2032;ガリッサ;;;;;;;;;;;;x
+PROV2033;ボイ;;;;;;;;;;;;x
+PROV2034;キガリ;;;;;;;;;;;;x
+PROV2035;ウスンブラ;;;;;;;;;;;;x
+PROV2036;ダルエスサラーム;;;;;;;;;;;;x
+PROV2037;タンガ;;;;;;;;;;;;x
+PROV2038;キルワ;;;;;;;;;;;;x
+PROV2039;リンディ;;;;;;;;;;;;x
+PROV2040;ソンゲア;;;;;;;;;;;;x
 PROV2041;Masasi;;;;;;;;;;;;x
-PROV2042;Iringa;;;;;;;;;;;;x
-PROV2043;Tabora;;;;;;;;;;;;x
-PROV2044;Mwanza;;;;;;;;;;;;x
-PROV2045;Morogoro;;;;;;;;;;;;x
-PROV2046;Ujiji;;;;;;;;;;;;x
-PROV2047;Arusha;;;;;;;;;;;;x
-PROV2048;Zanzibar;;;;;;;;;;;;x
-REMOVE_PROV2049;Maputo;;;;;;;;;;;;x
+PROV2042;イリンガ;;;;;;;;;;;;x
+PROV2043;タボラ;;;;;;;;;;;;x
+PROV2044;ムワンザ;;;;;;;;;;;;x
+PROV2045;モロゴロ;;;;;;;;;;;;x
+PROV2046;ウジジ;;;;;;;;;;;;x
+PROV2047;アルーシャ;;;;;;;;;;;;x
+PROV2048;ザンジバル;;;;;;;;;;;;x
+REMOVE_PROV2049;マプト;;;;;;;;;;;;x
 PROV2050;Chaimate;;;;;;;;;;;;x
-PROV2051;Inhambane;;;;;;;;;;;;x
+PROV2051;イニャンバネ;;;;;;;;;;;;x
 PROV2052;Massekisse;;;;;;;;;;;;x
-PROV2053;Sena;;;;;;;;;;;;x
-PROV2054;Tete;;;;;;;;;;;;x
-PROV2055;Songo;;;;;;;;;;;;x
-PROV2056;Zumbo;;;;;;;;;;;;x
-PROV2057;Sofala;;;;;;;;;;;;x
-PROV2058;Mossurize;;;;;;;;;;;;x
-PROV2059;Quelimane;;;;;;;;;;;;x
-PROV2060;Moçambique;;;;;;;;;;;;x
+PROV2053;セナ;;;;;;;;;;;;x
+PROV2054;テテ;;;;;;;;;;;;x
+PROV2055;ソンゴ;;;;;;;;;;;;x
+PROV2056;ズンボ;;;;;;;;;;;;x
+PROV2057;ソファラ;;;;;;;;;;;;x
+PROV2058;モスリゼ;;;;;;;;;;;;x
+PROV2059;ケリマネ;;;;;;;;;;;;x
+PROV2060;モザンビーク;;;;;;;;;;;;x
 PROV2061;Angoche;;;;;;;;;;;;x
-PROV2062;Shangzhou;;;;;;;;;;;;x
-PROV2063;Ibo;;;;;;;;;;;;x
-PROV2064;Nampula;;;;;;;;;;;;x
-PROV2065;Milange;;;;;;;;;;;;x
-PROV2066;Zomba;;;;;;;;;;;;x
-PROV2067;Lilongwe;;;;;;;;;;;;x
-PROV2068;Harare;;;;;;;;;;;;x
-PROV2069;Gweru;;;;;;;;;;;;x
-PROV2070;Mutare;;;;;;;;;;;;x
-PROV2071;Bulawayo;;;;;;;;;;;;x
-PROV2072;Hwange;;;;;;;;;;;;x
-PROV2073;Masvingo;;;;;;;;;;;;x
-PROV2074;Gaborone;;;;;;;;;;;;x
-PROV2075;Serowe;;;;;;;;;;;;x
-PROV2076;Nokaneng;;;;;;;;;;;;x
-PROV2077;Tsabong;;;;;;;;;;;;x
-PROV2078;Windhoek;;;;;;;;;;;;x
-PROV2079;Swakopmund;;;;;;;;;;;;x
-PROV2080;Tsumeb;;;;;;;;;;;;x
+PROV2062;商州;;;;;;;;;;;;x
+PROV2063;イボ;;;;;;;;;;;;x
+PROV2064;ナンプラ;;;;;;;;;;;;x
+PROV2065;ミランジェ;;;;;;;;;;;;x
+PROV2066;ゾンバ;;;;;;;;;;;;x
+PROV2067;リロングウェ;;;;;;;;;;;;x
+PROV2068;ハラレ;;;;;;;;;;;;x
+PROV2069;グウェル;;;;;;;;;;;;x
+PROV2070;ムタレ;;;;;;;;;;;;x
+PROV2071;ブラワヨ;;;;;;;;;;;;x
+PROV2072;ワンゲ;;;;;;;;;;;;x
+PROV2073;マシンゴ;;;;;;;;;;;;x
+PROV2074;ハボローネ;;;;;;;;;;;;x
+PROV2075;セロウェ;;;;;;;;;;;;x
+PROV2076;ノカネン;;;;;;;;;;;;x
+PROV2077;ツァボン;;;;;;;;;;;;x
+PROV2078;ウィントフック;;;;;;;;;;;;x
+PROV2079;スワコプムント;;;;;;;;;;;;x
+PROV2080;ツメブ;;;;;;;;;;;;x
 PROV2081;Linyati;;;;;;;;;;;;x
 PROV2082;Otjinene;;;;;;;;;;;;x
-PROV2083;Walvis Bay;;;;;;;;;;;;x
-PROV2084;Angra Pequena;;;;;;;;;;;;x
+PROV2083;ウォルビスベイ;;;;;;;;;;;;x
+PROV2084;アングラ・ペケナ;;;;;;;;;;;;x
 PROV2085;Nu-gouses;;;;;;;;;;;;x
-PROV2086;Karasburg;;;;;;;;;;;;x
-PROV2087;Cape Town;;;;;;;;;;;;x
-PROV2088;Springbok;;;;;;;;;;;;x
-PROV2089;Worcester;;;;;;;;;;;;x
+PROV2086;カラスバーグ;;;;;;;;;;;;x
+PROV2087;ケープタウン;;;;;;;;;;;;x
+PROV2088;スプリングボック;;;;;;;;;;;;x
+PROV2089;ウースター;;;;;;;;;;;;x
 PROV2090;Swettenham;;;;;;;;;;;;x
-PROV2091;Mossel Bay;;;;;;;;;;;;x
+PROV2091;モッセルベイ;;;;;;;;;;;;x
 PROV2092;Beaufort;;;;;;;;;;;;x
-PROV2093;Calvinia;;;;;;;;;;;;x
-PROV2094;Kimberley;;;;;;;;;;;;x
+PROV2093;カルビニア;;;;;;;;;;;;x
+PROV2094;キンバリー;;;;;;;;;;;;x
 PROV2095;Dikathong;;;;;;;;;;;;x
-PROV2096;Port Elizabeth;;;;;;;;;;;;x
-PROV2097;Graaf Reinet;;;;;;;;;;;;x
-PROV2098;Bisho;;;;;;;;;;;;x
+PROV2096;ポート・エリザベス;;;;;;;;;;;;x
+PROV2097;グラーフ＝ライネ;;;;;;;;;;;;x
+PROV2098;ビショ;;;;;;;;;;;;x
 PROV2099;Mathele;;;;;;;;;;;;x
-PROV2100;Umtata;;;;;;;;;;;;x
-PROV2101;Bloemfontein;;;;;;;;;;;;x
-PROV2102;Winburg;;;;;;;;;;;;x
+PROV2100;ウムタタ;;;;;;;;;;;;x
+PROV2101;ブルームフォンテーン;;;;;;;;;;;;x
+PROV2102;ウィンバーグ;;;;;;;;;;;;x
 PROV2103;Philippolis;;;;;;;;;;;;x
-PROV2104;Thaba Bosiu;;;;;;;;;;;;x
-PROV2105;Pretoria;;;;;;;;;;;;x
-PROV2106;Witwatersrand;;;;;;;;;;;;x
-PROV2107;Klerksdorp;;;;;;;;;;;;x
+PROV2104;タバ・ボシウ;;;;;;;;;;;;x
+PROV2105;プレトリア;;;;;;;;;;;;x
+PROV2106;ウィットウォーターズランド;;;;;;;;;;;;x
+PROV2107;クレルクスドルプ;;;;;;;;;;;;x
 PROV2108;Mosega;;;;;;;;;;;;x
-PROV2109;Lydenburg;;;;;;;;;;;;x
+PROV2109;ライデンバーグ;;;;;;;;;;;;x
 PROV2110;Thohoyandu;;;;;;;;;;;;x
-PROV2111;Durban;;;;;;;;;;;;x
-PROV2112;Ladysmith;;;;;;;;;;;;x
-PROV2113;Ulundi;;;;;;;;;;;;x
-PROV2114;Mbabane;;;;;;;;;;;;x
-PROV2115;Tananarive;;;;;;;;;;;;x
-PROV2116;Fianarantsoa;;;;;;;;;;;;x
-PROV2117;Ampanihy;;;;;;;;;;;;x
-PROV2118;Tolanaro;;;;;;;;;;;;x
-PROV2119;Toamasina;;;;;;;;;;;;x
-PROV2120;Antsiranana;;;;;;;;;;;;x
-PROV2121;Mahajanga;;;;;;;;;;;;x
-PROV2122;Toliara;;;;;;;;;;;;x
-PROV2123;Comoros;;;;;;;;;;;;x
-PROV2124;Mayotte;;;;;;;;;;;;x
-PROV2125;Mauritius;;;;;;;;;;;;x
-PROV2126;Bourbon;;;;;;;;;;;;x
-PROV2127;Seychelles;;;;;;;;;;;;x
-PROV2128;Diego Garcia;;;;;;;;;;;;x
-PROV2129;Saint Helena;;;;;;;;;;;;x
-PROV2130;Ascension;;;;;;;;;;;;x
-PROV2131;Falkland Islands;;;;;;;;;;;;x
-PROV2132;Tristan da Cunha;;;;;;;;;;;;x
-PROV2133;South Georgia;;;;;;;;;;;;x
-PROV2134;Azores;;;;;;;;;;;;x
-PROV2135;Madeira;;;;;;;;;;;;x
-PROV2136;Canary Islands;;;;;;;;;;;;x
-PROV2137;Hermosillo;;;;;;;;;;;;x
-PROV2138;Loreto;;;;;;;;;;;;x
-PROV2139;Rosarito;;;;;;;;;;;;x
-PROV2140;Nogales;;;;;;;;;;;;x
-PROV2141;Guaymas;;;;;;;;;;;;x
-PROV2142;Chihuahua;;;;;;;;;;;;x
-PROV2143;Paso del Norte;;;;;;;;;;;;x
-PROV2144;Delicias;;;;;;;;;;;;x
-PROV2145;Parral;;;;;;;;;;;;x
-PROV2146;Monterrey;;;;;;;;;;;;x
-PROV2147;Morelos;;;;;;;;;;;;x
-PROV2148;Reynosa;;;;;;;;;;;;x
-PROV2149;Matamoros;;;;;;;;;;;;x
-PROV2150;Ciudad Victoria;;;;;;;;;;;;x
-PROV2151;Saltillo;;;;;;;;;;;;x
-PROV2152;Monclova;;;;;;;;;;;;x
-PROV2153;Durango;;;;;;;;;;;;x
+PROV2111;ダーバン;;;;;;;;;;;;x
+PROV2112;レディスミス;;;;;;;;;;;;x
+PROV2113;ウルンディ;;;;;;;;;;;;x
+PROV2114;ムババーネ;;;;;;;;;;;;x
+PROV2115;タナナリヴ;;;;;;;;;;;;x
+PROV2116;フィアナランツォア;;;;;;;;;;;;x
+PROV2117;アンパニヒ;;;;;;;;;;;;x
+PROV2118;トラニャロ;;;;;;;;;;;;x
+PROV2119;トゥアマシナ;;;;;;;;;;;;x
+PROV2120;アンツィラナナ;;;;;;;;;;;;x
+PROV2121;マハザンガ;;;;;;;;;;;;x
+PROV2122;トゥリアラ;;;;;;;;;;;;x
+PROV2123;コモロ;;;;;;;;;;;;x
+PROV2124;マヨット;;;;;;;;;;;;x
+PROV2125;モーリシャス;;;;;;;;;;;;x
+PROV2126;ブルボン;;;;;;;;;;;;x
+PROV2127;セーシェル;;;;;;;;;;;;x
+PROV2128;ディエゴ・ガルシア;;;;;;;;;;;;x
+PROV2129;セント・ヘレナ;;;;;;;;;;;;x
+PROV2130;アセンション;;;;;;;;;;;;x
+PROV2131;フォークランド諸島;;;;;;;;;;;;x
+PROV2132;トリスタンダクーニャ;;;;;;;;;;;;x
+PROV2133;サウスジョージア;;;;;;;;;;;;x
+PROV2134;アゾレス;;;;;;;;;;;;x
+PROV2135;マデイラ;;;;;;;;;;;;x
+PROV2136;カナリア諸島;;;;;;;;;;;;x
+PROV2137;エルモシージョ;;;;;;;;;;;;x
+PROV2138;ロレト;;;;;;;;;;;;x
+PROV2139;ロサリト;;;;;;;;;;;;x
+PROV2140;ノガーレス;;;;;;;;;;;;x
+PROV2141;グアイマス;;;;;;;;;;;;x
+PROV2142;チワワ;;;;;;;;;;;;x
+PROV2143;パソ・デル・ノルテ;;;;;;;;;;;;x
+PROV2144;デリシアス;;;;;;;;;;;;x
+PROV2145;パラル;;;;;;;;;;;;x
+PROV2146;モンテレイ;;;;;;;;;;;;x
+PROV2147;モレロス;;;;;;;;;;;;x
+PROV2148;レイノーサ;;;;;;;;;;;;x
+PROV2149;マタモロス;;;;;;;;;;;;x
+PROV2150;シウダ・ビクトリア;;;;;;;;;;;;x
+PROV2151;サルティーヨ;;;;;;;;;;;;x
+PROV2152;モンクローバ;;;;;;;;;;;;x
+PROV2153;ドゥランゴ;;;;;;;;;;;;x
 PROV2154;Santa María del Oro;;;;;;;;;;;;x
-PROV2155;Torreón;;;;;;;;;;;;x
-PROV2156;Mazatlán;;;;;;;;;;;;x
-PROV2157;Culiacán;;;;;;;;;;;;x
-PROV2158;Zacatecas;;;;;;;;;;;;x
-PROV2159;San Luis Potosí;;;;;;;;;;;;x
-PROV2160;Aguascalientes;;;;;;;;;;;;x
-PROV2161;Tepic;;;;;;;;;;;;x
-PROV2162;Veracruz;;;;;;;;;;;;x
-PROV2163;Tampico;;;;;;;;;;;;x
-PROV2164;Minatitlán;;;;;;;;;;;;x
-PROV2165;Villahermosa;;;;;;;;;;;;x
-PROV2166;Guadalajara;;;;;;;;;;;;x
-PROV2167;Guanajuato;;;;;;;;;;;;x
-PROV2168;Puerto Vallarta;;;;;;;;;;;;x
-PROV2169;Colima;;;;;;;;;;;;x
-PROV2170;Morelia;;;;;;;;;;;;x
+PROV2155;トレオン;;;;;;;;;;;;x
+PROV2156;マサトラン;;;;;;;;;;;;x
+PROV2157;クリアカン;;;;;;;;;;;;x
+PROV2158;サカテカス;;;;;;;;;;;;x
+PROV2159;サン・ルイス・ポトシ;;;;;;;;;;;;x
+PROV2160;アグアスカリエンテス;;;;;;;;;;;;x
+PROV2161;テピク;;;;;;;;;;;;x
+PROV2162;ベラクルス;;;;;;;;;;;;x
+PROV2163;タンピコ;;;;;;;;;;;;x
+PROV2164;ミナティトラン;;;;;;;;;;;;x
+PROV2165;ビヤエルモサ;;;;;;;;;;;;x
+PROV2166;グアダラハラ;;;;;;;;;;;;x
+PROV2167;グアナファト;;;;;;;;;;;;x
+PROV2168;プエルト・バヤルタ;;;;;;;;;;;;x
+PROV2169;コリマ;;;;;;;;;;;;x
+PROV2170;モレリア;;;;;;;;;;;;x
 PROV2171;Los Albañiles;;;;;;;;;;;;x
-PROV2172;Mexico City;;;;;;;;;;;;x
-PROV2173;Querétaro;;;;;;;;;;;;x
-PROV2174;Toluca;;;;;;;;;;;;x
-PROV2175;Tulancingo;;;;;;;;;;;;x
-PROV2176;Puebla;;;;;;;;;;;;x
-PROV2177;Oaxaca;;;;;;;;;;;;x
+PROV2172;メキシコシティ;;;;;;;;;;;;x
+PROV2173;ケレタロ;;;;;;;;;;;;x
+PROV2174;トルーカ;;;;;;;;;;;;x
+PROV2175;トゥランシンゴ;;;;;;;;;;;;x
+PROV2176;プエブラ;;;;;;;;;;;;x
+PROV2177;オアハカ;;;;;;;;;;;;x
 PROV2178;Collataro;;;;;;;;;;;;x
-PROV2179;Acapulco;;;;;;;;;;;;x
-PROV2180;Chilpancingo;;;;;;;;;;;;x
-PROV2181;Tuxtla;;;;;;;;;;;;x
-PROV2182;Tapachula;;;;;;;;;;;;x
-PROV2183;Mérida;;;;;;;;;;;;x
-PROV2184;Campeche;;;;;;;;;;;;x
-PROV2185;Bacalar;;;;;;;;;;;;x
-PROV2186;Guatemala;;;;;;;;;;;;x
-PROV2187;Quetzaltenango;;;;;;;;;;;;x
-PROV2188;Puerto Barrios;;;;;;;;;;;;x
+PROV2179;アカプルコ;;;;;;;;;;;;x
+PROV2180;チルパンスィンゴ;;;;;;;;;;;;x
+PROV2181;トゥストラ;;;;;;;;;;;;x
+PROV2182;タパチュラ;;;;;;;;;;;;x
+PROV2183;メリダ;;;;;;;;;;;;x
+PROV2184;カンペチェ;;;;;;;;;;;;x
+PROV2185;バカラル;;;;;;;;;;;;x
+PROV2186;グアテマラ;;;;;;;;;;;;x
+PROV2187;ケツァルテナンゴ;;;;;;;;;;;;x
+PROV2188;プエルト・バリオス;;;;;;;;;;;;x
 PROV2189;Sayaxché;;;;;;;;;;;;x
-PROV2190;Belize;;;;;;;;;;;;x
-PROV2191;San Salvador;;;;;;;;;;;;x
-PROV2192;San Miguel;;;;;;;;;;;;x
-PROV2193;Comayagua;;;;;;;;;;;;x
-PROV2194;San Pedro Sula;;;;;;;;;;;;x
-PROV2195;La Ceiba;;;;;;;;;;;;x
-PROV2196;Puerto Lempira;;;;;;;;;;;;x
-PROV2197;Managua;;;;;;;;;;;;x
-PROV2198;Rivas;;;;;;;;;;;;x
-PROV2199;León;;;;;;;;;;;;x
-PROV2200;Bluefields;;;;;;;;;;;;x
-PROV2201;San José;;;;;;;;;;;;x
-PROV2202;Liberia;;;;;;;;;;;;x
-PROV2203;Limón;;;;;;;;;;;;x
-PROV2204;Panama City;;;;;;;;;;;;x
-PROV2205;David;;;;;;;;;;;;x
-PROV2206;Penonomé;;;;;;;;;;;;x
-PROV2207;Sainshand;;;;;;;;;;;;x
-PROV2208;Yaviza;;;;;;;;;;;;x
-PROV2209;Havana;;;;;;;;;;;;x
-PROV2210;Jagua;;;;;;;;;;;;x
-PROV2211;Camagüey;;;;;;;;;;;;x
-PROV2212;Santiago de Cuba;;;;;;;;;;;;x
-PROV2213;Port Au Prince;;;;;;;;;;;;x
-PROV2214;Santo Domingo;;;;;;;;;;;;x
-PROV2215;Cap Haitien;;;;;;;;;;;;x
-PROV2216;La Vega;;;;;;;;;;;;x
-PROV2217;Jamaica;;;;;;;;;;;;x
-PROV2218;Cayman Islands;;;;;;;;;;;;x
-PROV2219;Bahamas;;;;;;;;;;;;x
-PROV2220;Turks And Caicos;;;;;;;;;;;;x
-PROV2221;Nanjing;;;;;;;;;;;;x
-PROV2222;Puerto Rico;;;;;;;;;;;;x
-PROV2223;Saint Thomas;;;;;;;;;;;;x
-PROV2224;Antigua;;;;;;;;;;;;x
-PROV2225;Montserrat;;;;;;;;;;;;x
-PROV2226;Tortola;;;;;;;;;;;;x
-PROV2227;Saint Kitts;;;;;;;;;;;;x
-PROV2228;Martinique;;;;;;;;;;;;x
-PROV2229;Barbados;;;;;;;;;;;;x
-PROV2230;Guadeloupe;;;;;;;;;;;;x
-PROV2231;Saint Lucia;;;;;;;;;;;;x
-PROV2232;Dominica;;;;;;;;;;;;x
-PROV2233;Grenada;;;;;;;;;;;;x
-PROV2234;Curacao;;;;;;;;;;;;x
-PROV2235;Aruba;;;;;;;;;;;;x
-PROV2236;Saint Martin;;;;;;;;;;;;x
-PROV2237;Trinidad;;;;;;;;;;;;x
-PROV2238;Tobago;;;;;;;;;;;;x
-PROV2239;Georgetown;;;;;;;;;;;;x
-PROV2240;Paramaribo;;;;;;;;;;;;x
-PROV2241;Cayenne;;;;;;;;;;;;x
-PROV2242;Mahdia;;;;;;;;;;;;x
-PROV2243;Essequibo;;;;;;;;;;;;x
-PROV2244;Christmas Island;;;;;;;;;;;;x
-PROV2245;Apetina;;;;;;;;;;;;x
-PROV2246;Maripasoula;;;;;;;;;;;;x
-PROV2247;Bogotá;;;;;;;;;;;;x
-PROV2248;Ibagué;;;;;;;;;;;;x
-PROV2249;Tunja;;;;;;;;;;;;x
-PROV2250;Manizales;;;;;;;;;;;;x
-PROV2251;Cúcuta;;;;;;;;;;;;x
-PROV2252;Medellín;;;;;;;;;;;;x
-PROV2253;Quibdó;;;;;;;;;;;;x
-PROV2254;Cartagena de Indias;;;;;;;;;;;;x
-PROV2255;Barranquilla;;;;;;;;;;;;x
-PROV2256;Cali;;;;;;;;;;;;x
-PROV2257;Popayán;;;;;;;;;;;;x
+PROV2190;ベリーズ;;;;;;;;;;;;x
+PROV2191;サン・サルバドル;;;;;;;;;;;;x
+PROV2192;サン・ミゲル;;;;;;;;;;;;x
+PROV2193;コマヤグア;;;;;;;;;;;;x
+PROV2194;サン・ペドロ・スーラ;;;;;;;;;;;;x
+PROV2195;ラ・セイバ;;;;;;;;;;;;x
+PROV2196;プエルト・レンピラ;;;;;;;;;;;;x
+PROV2197;マナグア;;;;;;;;;;;;x
+PROV2198;リバス;;;;;;;;;;;;x
+PROV2199;レオン;;;;;;;;;;;;x
+PROV2200;ブルーフィールズ;;;;;;;;;;;;x
+PROV2201;サンホセ;;;;;;;;;;;;x
+PROV2202;リベリア;;;;;;;;;;;;x
+PROV2203;リモン;;;;;;;;;;;;x
+PROV2204;パナマシティ;;;;;;;;;;;;x
+PROV2205;ダビッド;;;;;;;;;;;;x
+PROV2206;ペノノメ;;;;;;;;;;;;x
+PROV2207;サインシャンド;;;;;;;;;;;;x
+PROV2208;ヤビサ;;;;;;;;;;;;x
+PROV2209;ハバナ;;;;;;;;;;;;x
+PROV2210;ハグア;;;;;;;;;;;;x
+PROV2211;カマグエイ;;;;;;;;;;;;x
+PROV2212;サンティアーゴ・デ・クーバ;;;;;;;;;;;;x
+PROV2213;ポルトープランス;;;;;;;;;;;;x
+PROV2214;サントドミンゴ;;;;;;;;;;;;x
+PROV2215;カパイシャン;;;;;;;;;;;;x
+PROV2216;ラ・ベガ;;;;;;;;;;;;x
+PROV2217;ジャマイカ;;;;;;;;;;;;x
+PROV2218;ケイマン諸島;;;;;;;;;;;;x
+PROV2219;バハマ;;;;;;;;;;;;x
+PROV2220;タークス・カイコス;;;;;;;;;;;;x
+PROV2221;南京;;;;;;;;;;;;x
+PROV2222;プエルトリコ;;;;;;;;;;;;x
+PROV2223;セント・トーマス;;;;;;;;;;;;x
+PROV2224;アンティグア;;;;;;;;;;;;x
+PROV2225;モントセラト;;;;;;;;;;;;x
+PROV2226;トルトラ;;;;;;;;;;;;x
+PROV2227;セントキッツ;;;;;;;;;;;;x
+PROV2228;マルティニーク;;;;;;;;;;;;x
+PROV2229;バルバドス;;;;;;;;;;;;x
+PROV2230;グアドループ;;;;;;;;;;;;x
+PROV2231;セントルシア;;;;;;;;;;;;x
+PROV2232;ドミニカ;;;;;;;;;;;;x
+PROV2233;グレナダ;;;;;;;;;;;;x
+PROV2234;キュラソー;;;;;;;;;;;;x
+PROV2235;アルバ;;;;;;;;;;;;x
+PROV2236;セント・マーチン;;;;;;;;;;;;x
+PROV2237;トリニダード;;;;;;;;;;;;x
+PROV2238;トバゴ;;;;;;;;;;;;x
+PROV2239;ジョージタウン;;;;;;;;;;;;x
+PROV2240;パラマリボ;;;;;;;;;;;;x
+PROV2241;カイエンヌ;;;;;;;;;;;;x
+PROV2242;マディア;;;;;;;;;;;;x
+PROV2243;エセキボ;;;;;;;;;;;;x
+PROV2244;クリスマス島;;;;;;;;;;;;x
+PROV2245;アーペティナ;;;;;;;;;;;;x
+PROV2246;マリパソエラ;;;;;;;;;;;;x
+PROV2247;ボゴタ;;;;;;;;;;;;x
+PROV2248;イバゲ;;;;;;;;;;;;x
+PROV2249;トゥンハ;;;;;;;;;;;;x
+PROV2250;マニサレス;;;;;;;;;;;;x
+PROV2251;ククタ;;;;;;;;;;;;x
+PROV2252;メデジン;;;;;;;;;;;;x
+PROV2253;キブド;;;;;;;;;;;;x
+PROV2254;カルタヘナ・デ・インディアス;;;;;;;;;;;;x
+PROV2255;バランキージャ;;;;;;;;;;;;x
+PROV2256;カリ;;;;;;;;;;;;x
+PROV2257;ポパヤン;;;;;;;;;;;;x
 PROV2258;Buenaventura;;;;;;;;;;;;x
-PROV2259;Pasto;;;;;;;;;;;;x
-PROV2260;San José del Guaviare;;;;;;;;;;;;x
+PROV2259;パスト;;;;;;;;;;;;x
+PROV2260;サン・ホセ・デル・グアビアレ;;;;;;;;;;;;x
 PROV2261;Obando;;;;;;;;;;;;x
-PROV2262;Casanare;;;;;;;;;;;;x
-PROV2263;El Encanto;;;;;;;;;;;;x
-PROV2264;Caracas;;;;;;;;;;;;x
-PROV2265;Guanare;;;;;;;;;;;;x
-PROV2266;Calabozo;;;;;;;;;;;;x
-PROV2267;Cumaná;;;;;;;;;;;;x
-PROV2268;San Felipe;;;;;;;;;;;;x
-PROV2269;Güiria;;;;;;;;;;;;x
-PROV2270;Maracaibo;;;;;;;;;;;;x
+PROV2262;カサナレ;;;;;;;;;;;;x
+PROV2263;エル・エンカント;;;;;;;;;;;;x
+PROV2264;カラカス;;;;;;;;;;;;x
+PROV2265;グアナレ;;;;;;;;;;;;x
+PROV2266;カラボソ;;;;;;;;;;;;x
+PROV2267;クマナ;;;;;;;;;;;;x
+PROV2268;サン・フェリペ;;;;;;;;;;;;x
+PROV2269;ギリア;;;;;;;;;;;;x
+PROV2270;マラカイボ;;;;;;;;;;;;x
 PROV2271;Valera;;;;;;;;;;;;x
-PROV2272;Coro;;;;;;;;;;;;x
-PROV2273;Barquisimeto;;;;;;;;;;;;x
-PROV2274;Barinas;;;;;;;;;;;;x
-PROV2275;Angostura;;;;;;;;;;;;x
+PROV2272;コロ;;;;;;;;;;;;x
+PROV2273;バルキシメト;;;;;;;;;;;;x
+PROV2274;バリナス;;;;;;;;;;;;x
+PROV2275;アンゴストゥーラ;;;;;;;;;;;;x
 PROV2276;Curiapo;;;;;;;;;;;;x
 PROV2277;El Jobal;;;;;;;;;;;;x
-PROV2278;San Fernando de Atabapo;;;;;;;;;;;;x
-PROV2279;Quito;;;;;;;;;;;;x
-PROV2280;Guayaquil;;;;;;;;;;;;x
-PROV2281;Esmereldas;;;;;;;;;;;;x
-PROV2282;Loja;;;;;;;;;;;;x
-PROV2283;Zamora;;;;;;;;;;;;x
+PROV2278;サンフェルナンド・デ・アタバポ;;;;;;;;;;;;x
+PROV2279;キト;;;;;;;;;;;;x
+PROV2280;グアヤキル;;;;;;;;;;;;x
+PROV2281;エスメラルダス;;;;;;;;;;;;x
+PROV2282;ロハ;;;;;;;;;;;;x
+PROV2283;サモラ;;;;;;;;;;;;x
 PROV2284;Tena;;;;;;;;;;;;x
-PROV2285;Galápagos;;;;;;;;;;;;x
-PROV2286;Iquitos;;;;;;;;;;;;x
-PROV2287;Yurimaguas;;;;;;;;;;;;x
+PROV2285;ガラパゴス;;;;;;;;;;;;x
+PROV2286;イキトス;;;;;;;;;;;;x
+PROV2287;ユリマグアス;;;;;;;;;;;;x
 PROV2288;Yuncos;;;;;;;;;;;;x
 PROV2289;Puca Urco;;;;;;;;;;;;x
-PROV2290;Cajamarca;;;;;;;;;;;;x
-PROV2291;Piura;;;;;;;;;;;;x
-PROV2292;Trujillo;;;;;;;;;;;;x
-PROV2293;Huánuco;;;;;;;;;;;;x
-PROV2294;Moyobamba;;;;;;;;;;;;x
-PROV2295;Lima;;;;;;;;;;;;x
-PROV2296;Huancavelica;;;;;;;;;;;;x
-PROV2297;Ica;;;;;;;;;;;;x
-PROV2298;Huaraz;;;;;;;;;;;;x
-PROV2299;Ayacucho;;;;;;;;;;;;x
-PROV2300;Pucallpa;;;;;;;;;;;;x
-PROV2301;Puerto Maldonado;;;;;;;;;;;;x
-PROV2302;Cusco;;;;;;;;;;;;x
-PROV2303;Puno;;;;;;;;;;;;x
-PROV2304;Arequipa;;;;;;;;;;;;x
-PROV2305;Antofagasta;;;;;;;;;;;;x
-PROV2306;Sorocaba;;;;;;;;;;;;x
-PROV2307;Iquique;;;;;;;;;;;;x
-PROV2308;Arica;;;;;;;;;;;;x
-PROV2309;Calama;;;;;;;;;;;;x
-PROV2310;La Paz;;;;;;;;;;;;x
-PROV2311;Cochabamba;;;;;;;;;;;;x
-PROV2312;Oruro;;;;;;;;;;;;x
-PROV2313;Chuquisaca;;;;;;;;;;;;x
-PROV2314;Potosí;;;;;;;;;;;;x
-PROV2315;Tarija;;;;;;;;;;;;x
-PROV2316;Santa Cruz;;;;;;;;;;;;x
-PROV2317;San Ignacio;;;;;;;;;;;;x
-PROV2318;Roboré;;;;;;;;;;;;x
+PROV2290;カハマルカ;;;;;;;;;;;;x
+PROV2291;ピウラ;;;;;;;;;;;;x
+PROV2292;トルヒーリョ;;;;;;;;;;;;x
+PROV2293;ワヌコ;;;;;;;;;;;;x
+PROV2294;モヨバンバ;;;;;;;;;;;;x
+PROV2295;リマ;;;;;;;;;;;;x
+PROV2296;ワンカベリカ;;;;;;;;;;;;x
+PROV2297;イカ;;;;;;;;;;;;x
+PROV2298;ワラス;;;;;;;;;;;;x
+PROV2299;アヤクーチョ;;;;;;;;;;;;x
+PROV2300;プカルパ;;;;;;;;;;;;x
+PROV2301;プエルト・マルドナド;;;;;;;;;;;;x
+PROV2302;クスコ;;;;;;;;;;;;x
+PROV2303;プーノ;;;;;;;;;;;;x
+PROV2304;アレキパ;;;;;;;;;;;;x
+PROV2305;アントファガスタ;;;;;;;;;;;;x
+PROV2306;ソロカーバ;;;;;;;;;;;;x
+PROV2307;イキケ;;;;;;;;;;;;x
+PROV2308;アリカ;;;;;;;;;;;;x
+PROV2309;カラマ;;;;;;;;;;;;x
+PROV2310;ラパス;;;;;;;;;;;;x
+PROV2311;コチャバンバ;;;;;;;;;;;;x
+PROV2312;オルロ;;;;;;;;;;;;x
+PROV2313;チュキサカ;;;;;;;;;;;;x
+PROV2314;ポトシ;;;;;;;;;;;;x
+PROV2315;タリハ;;;;;;;;;;;;x
+PROV2316;サンタ・クルス;;;;;;;;;;;;x
+PROV2317;サン・イグナシオ;;;;;;;;;;;;x
+PROV2318;ロボレ;;;;;;;;;;;;x
 PROV2319;Santa Ana;;;;;;;;;;;;x
-PROV2320;Riberalta;;;;;;;;;;;;x
-PROV2321;Cobija;;;;;;;;;;;;x
-PROV2322;Copiapó;;;;;;;;;;;;x
-PROV2323;La Serena;;;;;;;;;;;;x
-PROV2324;Santiago;;;;;;;;;;;;x
-PROV2325;Valparaíso;;;;;;;;;;;;x
-PROV2326;Viña del Mar;;;;;;;;;;;;x
-PROV2327;Talca;;;;;;;;;;;;x
-PROV2328;Valdivia;;;;;;;;;;;;x
-PROV2329;Temuco;;;;;;;;;;;;x
-PROV2330;Cauquenes;;;;;;;;;;;;x
-PROV2331;Chillán;;;;;;;;;;;;x
-PROV2332;Osorno;;;;;;;;;;;;x
-PROV2333;Puerto Aisén;;;;;;;;;;;;x
-PROV2334;Punta Arenas;;;;;;;;;;;;x
-PROV2335;Porvenir;;;;;;;;;;;;x
-PROV2336;Easter Island;;;;;;;;;;;;x
+PROV2320;リベラルタ;;;;;;;;;;;;x
+PROV2321;コビハ;;;;;;;;;;;;x
+PROV2322;コピアポ;;;;;;;;;;;;x
+PROV2323;ラ・セレーナ;;;;;;;;;;;;x
+PROV2324;サンティアゴ;;;;;;;;;;;;x
+PROV2325;バルパライソ;;;;;;;;;;;;x
+PROV2326;ビニャ・デル・マール;;;;;;;;;;;;x
+PROV2327;タルカ;;;;;;;;;;;;x
+PROV2328;バルディビア;;;;;;;;;;;;x
+PROV2329;テムコ;;;;;;;;;;;;x
+PROV2330;カウケネス;;;;;;;;;;;;x
+PROV2331;チヤン;;;;;;;;;;;;x
+PROV2332;オソルノ;;;;;;;;;;;;x
+PROV2333;プエルト・アイセン;;;;;;;;;;;;x
+PROV2334;プンタ・アレーナス;;;;;;;;;;;;x
+PROV2335;ポルベニール;;;;;;;;;;;;x
+PROV2336;イースター島;;;;;;;;;;;;x
 PROV2337;Fortin Falcon;;;;;;;;;;;;x
 PROV2338;Puerto Guaraní;;;;;;;;;;;;x
-PROV2339;Asuncion;;;;;;;;;;;;x
-PROV2340;Pilar;;;;;;;;;;;;x
-PROV2341;Encarnación;;;;;;;;;;;;x
-PROV2342;San Pedro;;;;;;;;;;;;x
-PROV2343;Concepción;;;;;;;;;;;;x
-PROV2344;Montevideo;;;;;;;;;;;;x
-PROV2345;Paysandú;;;;;;;;;;;;x
-PROV2346;Tacuarembó;;;;;;;;;;;;x
-PROV2347;Melo;;;;;;;;;;;;x
-PROV2348;Buenos Aires;;;;;;;;;;;;x
+PROV2339;アスンシオン;;;;;;;;;;;;x
+PROV2340;ピラール;;;;;;;;;;;;x
+PROV2341;エンカルナシオン;;;;;;;;;;;;x
+PROV2342;サン・ペドロ;;;;;;;;;;;;x
+PROV2343;コンセプシオン;;;;;;;;;;;;x
+PROV2344;モンテビデオ;;;;;;;;;;;;x
+PROV2345;パイサンドゥー;;;;;;;;;;;;x
+PROV2346;タクアレンボー;;;;;;;;;;;;x
+PROV2347;メロ;;;;;;;;;;;;x
+PROV2348;ブエノスアイレス;;;;;;;;;;;;x
 PROV2349;Junín;;;;;;;;;;;;x
 PROV2350;Azul;;;;;;;;;;;;x
-PROV2351;La Plata;;;;;;;;;;;;x
-PROV2352;Mar del Plata;;;;;;;;;;;;x
-PROV2353;Trenque Lauquen;;;;;;;;;;;;x
-PROV2354;Bahía Blanca;;;;;;;;;;;;x
-PROV2355;Carmen;;;;;;;;;;;;x
-PROV2356;Corrientes;;;;;;;;;;;;x
-PROV2357;Curuzú Cuatiá;;;;;;;;;;;;x
+PROV2351;ラ・プラタ;;;;;;;;;;;;x
+PROV2352;マル・デル・プラタ;;;;;;;;;;;;x
+PROV2353;トレンケ・ラウケン;;;;;;;;;;;;x
+PROV2354;バイアブランカ;;;;;;;;;;;;x
+PROV2355;カルメン;;;;;;;;;;;;x
+PROV2356;コリエンテス;;;;;;;;;;;;x
+PROV2357;クルス・クアティア;;;;;;;;;;;;x
 PROV2358;Santo Tomás;;;;;;;;;;;;x
-PROV2359;Colón;;;;;;;;;;;;x
-PROV2360;Paraná;;;;;;;;;;;;x
-PROV2361;Sancti Spiritu;;;;;;;;;;;;x
-PROV2362;Reconquista;;;;;;;;;;;;x
-PROV2363;Rosario;;;;;;;;;;;;x
-PROV2364;Resistencia;;;;;;;;;;;;x
+PROV2359;コロン;;;;;;;;;;;;x
+PROV2360;パラナ;;;;;;;;;;;;x
+PROV2361;サンクティ・スピリトゥ;;;;;;;;;;;;x
+PROV2362;レコンキスタ;;;;;;;;;;;;x
+PROV2363;ロサリオ;;;;;;;;;;;;x
+PROV2364;レシステンシア;;;;;;;;;;;;x
 PROV2365;Villa Ángela;;;;;;;;;;;;x
-PROV2366;Formosa;;;;;;;;;;;;x
+PROV2366;フォルモーサ;;;;;;;;;;;;x
 PROV2367;Xolotas;;;;;;;;;;;;x
-PROV2368;Salta;;;;;;;;;;;;x
-PROV2369;Jujuy;;;;;;;;;;;;x
+PROV2368;サルタ;;;;;;;;;;;;x
+PROV2369;フフイ;;;;;;;;;;;;x
 PROV2370;Cochinoca;;;;;;;;;;;;x
 PROV2371;Equia;;;;;;;;;;;;x
-PROV2372;Rivadavia;;;;;;;;;;;;x
-PROV2373;Tucumán;;;;;;;;;;;;x
-PROV2374;Catamarca;;;;;;;;;;;;x
+PROV2372;リバダビア;;;;;;;;;;;;x
+PROV2373;トゥクマン;;;;;;;;;;;;x
+PROV2374;カタマルカ;;;;;;;;;;;;x
 PROV2375;Vinchina;;;;;;;;;;;;x
-PROV2376;Santiago del Estero;;;;;;;;;;;;x
+PROV2376;サンティアゴ・デル・エステーロ;;;;;;;;;;;;x
 PROV2377;Añatuya;;;;;;;;;;;;x
 PROV2378;Mailín;;;;;;;;;;;;x
 PROV2379;Córdoba de Argentina;;;;;;;;;;;;x
 PROV2380;Villa Nueva;;;;;;;;;;;;x
-PROV2381;Río Cuarto;;;;;;;;;;;;x
+PROV2381;リオ・クアルト;;;;;;;;;;;;x
 PROV2382;Renancó;;;;;;;;;;;;x
-PROV2383;San Luis;;;;;;;;;;;;x
-PROV2384;Mercedes;;;;;;;;;;;;x
-PROV2385;La Rioja;;;;;;;;;;;;x
-PROV2386;Santa Rita;;;;;;;;;;;;x
-PROV2387;San Juan;;;;;;;;;;;;x
-PROV2388;Calingasta;;;;;;;;;;;;x
-PROV2389;Mendoza;;;;;;;;;;;;x
-PROV2390;San Rafael;;;;;;;;;;;;x
-PROV2391;Neuquén;;;;;;;;;;;;x
-PROV2392;Viedma;;;;;;;;;;;;x
+PROV2383;サン・ルイス;;;;;;;;;;;;x
+PROV2384;メルセデス;;;;;;;;;;;;x
+PROV2385;ラ・リオハ;;;;;;;;;;;;x
+PROV2386;サンタ・リタ;;;;;;;;;;;;x
+PROV2387;サン・フアン;;;;;;;;;;;;x
+PROV2388;カリンガスタ;;;;;;;;;;;;x
+PROV2389;メンドーサ;;;;;;;;;;;;x
+PROV2390;サン・ラファエル;;;;;;;;;;;;x
+PROV2391;ネウケン;;;;;;;;;;;;x
+PROV2392;ビエドマ;;;;;;;;;;;;x
 PROV2393;Telén;;;;;;;;;;;;x
-PROV2394;Bariloche;;;;;;;;;;;;x
+PROV2394;バリローチェ;;;;;;;;;;;;x
 PROV2395;Curacó;;;;;;;;;;;;x
-PROV2396;Rawson;;;;;;;;;;;;x
-PROV2397;Esquel;;;;;;;;;;;;x
-PROV2398;Puerto Deseado;;;;;;;;;;;;x
-PROV2399;Río Gallegos;;;;;;;;;;;;x
-PROV2400;Río Grande;;;;;;;;;;;;x
+PROV2396;ラウソン;;;;;;;;;;;;x
+PROV2397;エスケル;;;;;;;;;;;;x
+PROV2398;プエルト・デセアド;;;;;;;;;;;;x
+PROV2399;リオ・ガジェゴス;;;;;;;;;;;;x
+PROV2400;リオ・グランデ;;;;;;;;;;;;x
 PROV2401;Marabitanas;;;;;;;;;;;;x
-PROV2402;Manaus;;;;;;;;;;;;x
-PROV2403;Cachoeira;;;;;;;;;;;;x
-PROV2404;Tefe;;;;;;;;;;;;x
-PROV2405;Borba;;;;;;;;;;;;x
-PROV2406;Cocos Islands;;;;;;;;;;;;x
-PROV2407;Tabatinga;;;;;;;;;;;;x
-PROV2408;Oriximina;;;;;;;;;;;;x
-PROV2409;Saint Vincent;;;;;;;;;;;;x
-PROV2410;Belém;;;;;;;;;;;;x
-PROV2411;Santarém;;;;;;;;;;;;x
-PROV2412;Óbidos;;;;;;;;;;;;x
-PROV2413;Marabá;;;;;;;;;;;;x
-PROV2414;Amapá;;;;;;;;;;;;x
-PROV2415;Macapá;;;;;;;;;;;;x
-PROV2416;Dourados;;;;;;;;;;;;x
+PROV2402;マナウス;;;;;;;;;;;;x
+PROV2403;カショエイラ;;;;;;;;;;;;x
+PROV2404;テフェー;;;;;;;;;;;;x
+PROV2405;ボルバ;;;;;;;;;;;;x
+PROV2406;ココス諸島;;;;;;;;;;;;x
+PROV2407;タバチンガ;;;;;;;;;;;;x
+PROV2408;オリシミナ;;;;;;;;;;;;x
+PROV2409;セントビンセント;;;;;;;;;;;;x
+PROV2410;ベレン;;;;;;;;;;;;x
+PROV2411;サンタレン;;;;;;;;;;;;x
+PROV2412;オビドス;;;;;;;;;;;;x
+PROV2413;マラバ;;;;;;;;;;;;x
+PROV2414;アマパー;;;;;;;;;;;;x
+PROV2415;マカパ;;;;;;;;;;;;x
+PROV2416;ドウラドス;;;;;;;;;;;;x
 PROV2417;Vila Bela;;;;;;;;;;;;x
-PROV2418;Cuiabá;;;;;;;;;;;;x
-PROV2419;Corumbá;;;;;;;;;;;;x
+PROV2418;クイアバ;;;;;;;;;;;;x
+PROV2419;コルンバ;;;;;;;;;;;;x
 PROV2420;Iguatemi;;;;;;;;;;;;x
 PROV2421;Vila Boa;;;;;;;;;;;;x
 PROV2422;Aganja;;;;;;;;;;;;x
-PROV2423;Palmas;;;;;;;;;;;;x
-PROV2424;São Luís;;;;;;;;;;;;x
+PROV2423;パルマス;;;;;;;;;;;;x
+PROV2424;サン・ルイス;;;;;;;;;;;;x
 PROV2425;Chapada;;;;;;;;;;;;x
-PROV2426;Teresina;;;;;;;;;;;;x
-PROV2427;Oeiras;;;;;;;;;;;;x
-PROV2428;Paraíba;;;;;;;;;;;;x
-PROV2429;Fortaleza;;;;;;;;;;;;x
-PROV2430;Crato;;;;;;;;;;;;x
-PROV2431;Natal;;;;;;;;;;;;x
-PROV2432;Recife;;;;;;;;;;;;x
+PROV2426;テレジーナ;;;;;;;;;;;;x
+PROV2427;ウェイラス;;;;;;;;;;;;x
+PROV2428;パライバ;;;;;;;;;;;;x
+PROV2429;フォルタレザ;;;;;;;;;;;;x
+PROV2430;クラト;;;;;;;;;;;;x
+PROV2431;ナタール;;;;;;;;;;;;x
+PROV2432;レシフェ;;;;;;;;;;;;x
 PROV2433;Cabrobo;;;;;;;;;;;;x
-PROV2434;Maceió;;;;;;;;;;;;x
-PROV2435;Aracaju;;;;;;;;;;;;x
+PROV2434;マセイオ;;;;;;;;;;;;x
+PROV2435;アラカジュ;;;;;;;;;;;;x
 PROV2436;バイーア州サルヴァドール;;;;;;;;;;;;x
-PROV2437;Juazeiro;;;;;;;;;;;;x
+PROV2437;ジュアゼイロ;;;;;;;;;;;;x
 PROV2438;Vila do Barra;;;;;;;;;;;;x
-PROV2439;Porto Seguro;;;;;;;;;;;;x
-PROV2440;Vitória da Conquista;;;;;;;;;;;;x
-PROV2441;Ouro Preto;;;;;;;;;;;;x
+PROV2439;ポルト・セグーロ;;;;;;;;;;;;x
+PROV2440;ヴィトリア・ダ・コンキスタ;;;;;;;;;;;;x
+PROV2441;オウロ・プレット;;;;;;;;;;;;x
 PROV2442;Sabará;;;;;;;;;;;;x
 PROV2443;Januária;;;;;;;;;;;;x
-PROV2444;Paracatu;;;;;;;;;;;;x
-PROV2445;Uberaba;;;;;;;;;;;;x
-PROV2446;São João del Rey;;;;;;;;;;;;x
-PROV2447;Rio de Janeiro;;;;;;;;;;;;x
-PROV2448;Campos;;;;;;;;;;;;x
-PROV2449;Vitória;;;;;;;;;;;;x
-PROV2450;São Paulo;;;;;;;;;;;;x
-PROV2451;Santos;;;;;;;;;;;;x
-PROV2452;Campinas;;;;;;;;;;;;x
+PROV2444;パラカトゥ;;;;;;;;;;;;x
+PROV2445;ウベラバ;;;;;;;;;;;;x
+PROV2446;サン・ジョアン・デル・レイ;;;;;;;;;;;;x
+PROV2447;リオ・デ・ジャネイロ;;;;;;;;;;;;x
+PROV2448;カンポス;;;;;;;;;;;;x
+PROV2449;ヴィトーリア;;;;;;;;;;;;x
+PROV2450;サンパウロ;;;;;;;;;;;;x
+PROV2451;サントス;;;;;;;;;;;;x
+PROV2452;カンピーナス;;;;;;;;;;;;x
 PROV2453;Assis;;;;;;;;;;;;x
-PROV2454;Fiji;;;;;;;;;;;;x
-PROV2455;Iguape;;;;;;;;;;;;x
-PROV2456;Araraquara;;;;;;;;;;;;x
-PROV2457;Curitiba;;;;;;;;;;;;x
-PROV2458;Guarapuava;;;;;;;;;;;;x
-PROV2459;Lajes;;;;;;;;;;;;x
-PROV2460;Castro;;;;;;;;;;;;x
+PROV2454;フィジー;;;;;;;;;;;;x
+PROV2455;イグアペ;;;;;;;;;;;;x
+PROV2456;アララクアラ;;;;;;;;;;;;x
+PROV2457;クリチバ;;;;;;;;;;;;x
+PROV2458;グアラプアバ;;;;;;;;;;;;x
+PROV2459;ラジェス;;;;;;;;;;;;x
+PROV2460;カストロ;;;;;;;;;;;;x
 PROV2461;Desterro;;;;;;;;;;;;x
-PROV2462;São Miguel;;;;;;;;;;;;x
-PROV2463;Porto Alegre;;;;;;;;;;;;x
-PROV2464;Pelotas;;;;;;;;;;;;x
-PROV2465;Passo Fundo;;;;;;;;;;;;x
-PROV2466;Santa Maria;;;;;;;;;;;;x
-PROV2467;Alegrete;;;;;;;;;;;;x
-PROV2468;Sydney;;;;;;;;;;;;x
-PROV2469;Newcastle;;;;;;;;;;;;x
-PROV2470;Port Macquarie;;;;;;;;;;;;x
+PROV2462;サン・ミゲル;;;;;;;;;;;;x
+PROV2463;ポルト・アレグレ;;;;;;;;;;;;x
+PROV2464;ペロタス;;;;;;;;;;;;x
+PROV2465;パソ・フンド;;;;;;;;;;;;x
+PROV2466;サンタ・マリア;;;;;;;;;;;;x
+PROV2467;アレグレテ;;;;;;;;;;;;x
+PROV2468;シドニー;;;;;;;;;;;;x
+PROV2469;ニューカッスル;;;;;;;;;;;;x
+PROV2470;ポート・マッコーリー;;;;;;;;;;;;x
 PROV2471;Ophir;;;;;;;;;;;;x
-PROV2472;Eden;;;;;;;;;;;;x
-PROV2473;Wagga Wagga;;;;;;;;;;;;x
-PROV2474;Moree;;;;;;;;;;;;x
-PROV2475;Broken Hill;;;;;;;;;;;;x
-PROV2476;Melbourne;;;;;;;;;;;;x
-PROV2477;Warmambool;;;;;;;;;;;;x
-PROV2478;Ballarat;;;;;;;;;;;;x
-PROV2479;Sale;;;;;;;;;;;;x
+PROV2472;イーデン;;;;;;;;;;;;x
+PROV2473;ウォガウォガ;;;;;;;;;;;;x
+PROV2474;モーリー;;;;;;;;;;;;x
+PROV2475;ブロークンヒル;;;;;;;;;;;;x
+PROV2476;メルボルン;;;;;;;;;;;;x
+PROV2477;ウォーナンブール;;;;;;;;;;;;x
+PROV2478;バララット;;;;;;;;;;;;x
+PROV2479;セール;;;;;;;;;;;;x
 PROV2480;Beechworth;;;;;;;;;;;;x
-PROV2481;Swan Hill;;;;;;;;;;;;x
-PROV2482;Tasmania;;;;;;;;;;;;x
-PROV2483;Brisbane;;;;;;;;;;;;x
-PROV2484;Gladstone;;;;;;;;;;;;x
-PROV2485;Clermont;;;;;;;;;;;;x
-PROV2486;Toowoomba;;;;;;;;;;;;x
-PROV2487;Townsville;;;;;;;;;;;;x
-PROV2488;Cooktown;;;;;;;;;;;;x
-PROV2489;Longreach;;;;;;;;;;;;x
-PROV2490;Charleville;;;;;;;;;;;;x
-PROV2491;Adelaide;;;;;;;;;;;;x
-PROV2492;Port Lincoln;;;;;;;;;;;;x
-PROV2493;Robe;;;;;;;;;;;;x
-PROV2494;Port Augusta;;;;;;;;;;;;x
-PROV2495;Oodnadatta;;;;;;;;;;;;x
-PROV2496;Tarcoola;;;;;;;;;;;;x
-PROV2497;Perth;;;;;;;;;;;;x
-PROV2498;Kojonup;;;;;;;;;;;;x
-PROV2499;Geraldton;;;;;;;;;;;;x
-PROV2500;Kalgoorlie;;;;;;;;;;;;x
-PROV2501;Broome;;;;;;;;;;;;x
-PROV2502;Dampier;;;;;;;;;;;;x
-PROV2503;Wiluna;;;;;;;;;;;;x
-PROV2504;Esperance;;;;;;;;;;;;x
-PROV2505;Palmerston;;;;;;;;;;;;x
-PROV2506;Tennant Creek;;;;;;;;;;;;x
-PROV2507;Alice Springs;;;;;;;;;;;;x
-PROV2508;Norfolk Island;;;;;;;;;;;;x
-PROV2509;Auckland;;;;;;;;;;;;x
-PROV2510;New Plymouth;;;;;;;;;;;;x
-PROV2511;Napier;;;;;;;;;;;;x
-PROV2512;Wellington;;;;;;;;;;;;x
-PROV2513;Dunedin;;;;;;;;;;;;x
-PROV2514;Hokitika;;;;;;;;;;;;x
-PROV2515;Christchurch;;;;;;;;;;;;x
-PROV2516;Nelson;;;;;;;;;;;;x
-PROV2517;Guam;;;;;;;;;;;;x
-PROV2518;Palau;;;;;;;;;;;;x
-PROV2519;Yap;;;;;;;;;;;;x
-PROV2520;Taveuni;;;;;;;;;;;;x
-PROV2521;Saipan;;;;;;;;;;;;x
-PROV2522;Marshall Islands;;;;;;;;;;;;x
-PROV2523;Nauru;;;;;;;;;;;;x
-PROV2524;Wake;;;;;;;;;;;;x
+PROV2481;スワンヒル;;;;;;;;;;;;x
+PROV2482;タスマニア;;;;;;;;;;;;x
+PROV2483;ブリスベン;;;;;;;;;;;;x
+PROV2484;グラッドストン;;;;;;;;;;;;x
+PROV2485;クレルモン;;;;;;;;;;;;x
+PROV2486;トゥーンバ;;;;;;;;;;;;x
+PROV2487;タウンズビル;;;;;;;;;;;;x
+PROV2488;クックタウン;;;;;;;;;;;;x
+PROV2489;ロングリーチ;;;;;;;;;;;;x
+PROV2490;チャールビル;;;;;;;;;;;;x
+PROV2491;アデレード;;;;;;;;;;;;x
+PROV2492;ポートリンカーン;;;;;;;;;;;;x
+PROV2493;ローブ;;;;;;;;;;;;x
+PROV2494;ポートオーガスタ;;;;;;;;;;;;x
+PROV2495;ウードナダッタ;;;;;;;;;;;;x
+PROV2496;タークーラ;;;;;;;;;;;;x
+PROV2497;パース;;;;;;;;;;;;x
+PROV2498;コジョナップ;;;;;;;;;;;;x
+PROV2499;ジェラルトン;;;;;;;;;;;;x
+PROV2500;カルグーリー;;;;;;;;;;;;x
+PROV2501;ブルーム;;;;;;;;;;;;x
+PROV2502;ダンピア;;;;;;;;;;;;x
+PROV2503;ウィルナ;;;;;;;;;;;;x
+PROV2504;エスペランス;;;;;;;;;;;;x
+PROV2505;パーマストン;;;;;;;;;;;;x
+PROV2506;テナントクリーク;;;;;;;;;;;;x
+PROV2507;アリススプリングス;;;;;;;;;;;;x
+PROV2508;ノーフォーク島;;;;;;;;;;;;x
+PROV2509;オークランド;;;;;;;;;;;;x
+PROV2510;ニュープリマス;;;;;;;;;;;;x
+PROV2511;ネーピア;;;;;;;;;;;;x
+PROV2512;ウェリントン;;;;;;;;;;;;x
+PROV2513;ダニーデン;;;;;;;;;;;;x
+PROV2514;ホキティカ;;;;;;;;;;;;x
+PROV2515;クライストチャーチ;;;;;;;;;;;;x
+PROV2516;ネルソン;;;;;;;;;;;;x
+PROV2517;グアム;;;;;;;;;;;;x
+PROV2518;パラオ;;;;;;;;;;;;x
+PROV2519;ヤップ;;;;;;;;;;;;x
+PROV2520;タベウニ;;;;;;;;;;;;x
+PROV2521;サイパン;;;;;;;;;;;;x
+PROV2522;マーシャル諸島;;;;;;;;;;;;x
+PROV2523;ナウル;;;;;;;;;;;;x
+PROV2524;ウェーク;;;;;;;;;;;;x
 PROV2525;Marcus;;;;;;;;;;;;x
-PROV2526;Palmyra;;;;;;;;;;;;x
-PROV2527;Gilbert Islands;;;;;;;;;;;;x
-PROV2528;Port Moresby;;;;;;;;;;;;x
-PROV2529;Kerema;;;;;;;;;;;;x
-PROV2530;Lae;;;;;;;;;;;;x
-PROV2531;Madang;;;;;;;;;;;;x
+PROV2526;パルミラ;;;;;;;;;;;;x
+PROV2527;ギルバート諸島;;;;;;;;;;;;x
+PROV2528;ポートモレスビー;;;;;;;;;;;;x
+PROV2529;ケレマ;;;;;;;;;;;;x
+PROV2530;ラエ;;;;;;;;;;;;x
+PROV2531;マダン;;;;;;;;;;;;x
 PROV2532;Forte São Joaquim;;;;;;;;;;;;x
-PROV2533;Targu Mures;;;;;;;;;;;;x
-PROV2534;Solomon Islands;;;;;;;;;;;;x
-PROV2535;New Hebrides;;;;;;;;;;;;x
-PROV2536;Santa Cruz Islands;;;;;;;;;;;;x
-PROV2537;New Britain;;;;;;;;;;;;x
-PROV2538;Novi Sad;;;;;;;;;;;;x
-PROV2539;Bougainville;;;;;;;;;;;;x
-PROV2540;Tonga;;;;;;;;;;;;x
-PROV2541;Ellice Islands;;;;;;;;;;;;x
-PROV2542;Wallis and Futuna;;;;;;;;;;;;x
-PROV2543;Apia;;;;;;;;;;;;x
-PROV2544;Pago Pago;;;;;;;;;;;;x
-PROV2545;Rarotonga;;;;;;;;;;;;x
-PROV2546;Tongareva;;;;;;;;;;;;x
-PROV2547;Tokelau;;;;;;;;;;;;x
-PROV2548;Niue;;;;;;;;;;;;x
-PROV2549;Tarauacá;;;;;;;;;;;;x
+PROV2533;トゥルグ・ムレシュ;;;;;;;;;;;;x
+PROV2534;ソロモン諸島;;;;;;;;;;;;x
+PROV2535;ニューヘブリディーズ;;;;;;;;;;;;x
+PROV2536;サンタクルーズ諸島;;;;;;;;;;;;x
+PROV2537;ニューブリテン;;;;;;;;;;;;x
+PROV2538;ノヴィ・サド;;;;;;;;;;;;x
+PROV2539;ブーゲンビル;;;;;;;;;;;;x
+PROV2540;トンガ;;;;;;;;;;;;x
+PROV2541;エリス諸島;;;;;;;;;;;;x
+PROV2542;ウォリス・フツナ;;;;;;;;;;;;x
+PROV2543;アピア;;;;;;;;;;;;x
+PROV2544;パゴパゴ;;;;;;;;;;;;x
+PROV2545;ラロトンガ;;;;;;;;;;;;x
+PROV2546;トンガレバ;;;;;;;;;;;;x
+PROV2547;トケラウ;;;;;;;;;;;;x
+PROV2548;ニウエ;;;;;;;;;;;;x
+PROV2549;タラウアカ;;;;;;;;;;;;x
 PROV2550;Forte do Príncipe;;;;;;;;;;;;x
-PROV2551;Marquesas;;;;;;;;;;;;x
-PROV2552;Pitcairn;;;;;;;;;;;;x
-PROV2553;Tuamotus;;;;;;;;;;;;x
-PROV2554;Posadas;;;;;;;;;;;;x
-PROV2555;Augusta;;;;;;;;;;;;x
-PROV2556;Asheville;;;;;;;;;;;;x
-PROV2557;Esbjerg;;;;;;;;;;;;x
+PROV2551;マルケサス;;;;;;;;;;;;x
+PROV2552;ピトケアン;;;;;;;;;;;;x
+PROV2553;トゥアモトゥ諸島;;;;;;;;;;;;x
+PROV2554;ポサーダス;;;;;;;;;;;;x
+PROV2555;オーガスタ;;;;;;;;;;;;x
+PROV2556;アシュビル;;;;;;;;;;;;x
+PROV2557;エスビャウ;;;;;;;;;;;;x
 PROV2558;De Aar;;;;;;;;;;;;x
 PROV2559;Suhaj;;;;;;;;;;;;x
-PROV2560;Darmstadt;;;;;;;;;;;;x
-PROV2561;Siegburg;;;;;;;;;;;;x
-PROV2562;Tainan;;;;;;;;;;;;x
-PROV2563;Safi;;;;;;;;;;;;x
+PROV2560;ダルムシュタット;;;;;;;;;;;;x
+PROV2561;ジークブルク;;;;;;;;;;;;x
+PROV2562;台南;;;;;;;;;;;;x
+PROV2563;サフィ;;;;;;;;;;;;x
 PROV2564;Salima;;;;;;;;;;;;x
-PROV2565;Cebu;;;;;;;;;;;;x
-PROV2566;Agartala;;;;;;;;;;;;x
-PROV2567;Gaeta;;;;;;;;;;;;x
-PROV2568;Lugano;;;;;;;;;;;;x
-PROV2569;Niksic;;;;;;;;;;;;x
-PROV2570;Beauvais;;;;;;;;;;;;x
-PROV2571;Tauranga;;;;;;;;;;;;x
-PROV2572;Nan;;;;;;;;;;;;x
-PROV2573;Mboul;;;;;;;;;;;;x
-PROV2574;Mochudi;;;;;;;;;;;;x
-PROV2575;Ipoh;;;;;;;;;;;;x
-PROV2576;Natuna;;;;;;;;;;;;x
-PROV2577;Pljevlja;;;;;;;;;;;;x
-PROV2578;Tacna;;;;;;;;;;;;x
-PROV2579;Truk;;;;;;;;;;;;x
+PROV2565;セブ;;;;;;;;;;;;x
+PROV2566;アガルタラ;;;;;;;;;;;;x
+PROV2567;ガエータ;;;;;;;;;;;;x
+PROV2568;ルガーノ;;;;;;;;;;;;x
+PROV2569;ニクシッチ;;;;;;;;;;;;x
+PROV2570;ボーヴェ;;;;;;;;;;;;x
+PROV2571;タウランガ;;;;;;;;;;;;x
+PROV2572;ナーン;;;;;;;;;;;;x
+PROV2573;ンブール;;;;;;;;;;;;x
+PROV2574;モチュディ;;;;;;;;;;;;x
+PROV2575;イポー;;;;;;;;;;;;x
+PROV2576;ナトゥナ;;;;;;;;;;;;x
+PROV2577;プリエブリャ;;;;;;;;;;;;x
+PROV2578;タクナ;;;;;;;;;;;;x
+PROV2579;チューク;;;;;;;;;;;;x
 PROV2580;Stara Ladoga;;;;;;;;;;;;x
 PROV2581;Mataka;;;;;;;;;;;;x
-PROV2582;Kotor;;;;;;;;;;;;x
-PROV2583;Cetinje;;;;;;;;;;;;x
-PROV2584;Bielsko;;;;;;;;;;;;x
-PROV2585;Matan as Sarah;;;;;;;;;;;;x
-PROV2586;Al-Ahsa;;;;;;;;;;;;x
-PROV2587;Kola;;;;;;;;;;;;x
-PROV2588;Onega;;;;;;;;;;;;x
+PROV2582;コトル;;;;;;;;;;;;x
+PROV2583;ツェティニェ;;;;;;;;;;;;x
+PROV2584;ビェルスコ;;;;;;;;;;;;x
+PROV2585;マアタン・アッ・サッラ;;;;;;;;;;;;x
+PROV2586;アル＝アハサー;;;;;;;;;;;;x
+PROV2587;コラ;;;;;;;;;;;;x
+PROV2588;オネガ;;;;;;;;;;;;x
 PROV2589;Shoyna;;;;;;;;;;;;x
 PROV2590;Ugolnoye;;;;;;;;;;;;x
 PROV2591;Holsteinsborg;;;;;;;;;;;;x
-PROV2592;Ungava;;;;;;;;;;;;x
+PROV2592;アンガヴァ;;;;;;;;;;;;x
 PROV2593;Fort George;;;;;;;;;;;;x
 PROV2594;Pickle;;;;;;;;;;;;x
-PROV2595;Nunavut;;;;;;;;;;;;x
-PROV2596;Fort Resolution;;;;;;;;;;;;x
-PROV2597;Fort Vermilion;;;;;;;;;;;;x
-PROV2598;Fort Liard;;;;;;;;;;;;x
-PROV2599;Fairbanks;;;;;;;;;;;;x
-PROV2600;Altamira;;;;;;;;;;;;x
+PROV2595;ヌナヴト;;;;;;;;;;;;x
+PROV2596;フォートレゾリューション;;;;;;;;;;;;x
+PROV2597;フォートバーミリオン;;;;;;;;;;;;x
+PROV2598;フォートリアード;;;;;;;;;;;;x
+PROV2599;フェアバンクス;;;;;;;;;;;;x
+PROV2600;アルタミラ;;;;;;;;;;;;x
 PROV2601;Sandy Desert;;;;;;;;;;;;x
 PROV2602;Roebourne;;;;;;;;;;;;x
-PROV2603;Tanami;;;;;;;;;;;;x
-PROV2604;Normanton;;;;;;;;;;;;x
-PROV2605;Gibson's Desert;;;;;;;;;;;;x
-PROV2606;Zhambyl;;;;;;;;;;;;x
-PROV2607;Lop Nur;;;;;;;;;;;;x
-PROV2608;Khatgal;;;;;;;;;;;;x
+PROV2603;タナミ;;;;;;;;;;;;x
+PROV2604;ノーマントン;;;;;;;;;;;;x
+PROV2605;ギブソン砂漠;;;;;;;;;;;;x
+PROV2606;ジャンブール;;;;;;;;;;;;x
+PROV2607;ロプノール;;;;;;;;;;;;x
+PROV2608;ハトガル;;;;;;;;;;;;x
 PROV2609;Araouane;;;;;;;;;;;;x
-PROV2610;Uralsk;;;;;;;;;;;;x
-PROV2611;Turgay;;;;;;;;;;;;x
-PROV2612;Aktash;;;;;;;;;;;;x
+PROV2610;ウラリスク;;;;;;;;;;;;x
+PROV2611;トゥルガイ;;;;;;;;;;;;x
+PROV2612;アクタシュ;;;;;;;;;;;;x
 PROV2613;Nyda;;;;;;;;;;;;x
 PROV2614;Mordiyakha;;;;;;;;;;;;x
-PROV2615;Krasnoselkup;;;;;;;;;;;;x
-PROV2616;Tilichiki;;;;;;;;;;;;x
+PROV2615;クラスノセリクプ;;;;;;;;;;;;x
+PROV2616;チリチキ;;;;;;;;;;;;x
 PROV2617;Saghalian Oula;;;;;;;;;;;;x
-PROV2618;Talaya;;;;;;;;;;;;x
+PROV2618;タラヤ;;;;;;;;;;;;x
 PROV2619;Abiy;;;;;;;;;;;;x
 PROV2620;Syasir;;;;;;;;;;;;x
-PROV2621;Srednekolymsk;;;;;;;;;;;;x
-PROV2622;Markovo;;;;;;;;;;;;x
-PROV2623;Midway Island;;;;;;;;;;;;x
-PROV2624;Loango;;;;;;;;;;;;x
-PROV2625;Port Hope Simpson;;;;;;;;;;;;x
+PROV2621;スレドネコリムスク;;;;;;;;;;;;x
+PROV2622;マルコヴォ;;;;;;;;;;;;x
+PROV2623;ミッドウェー島;;;;;;;;;;;;x
+PROV2624;ロアンゴ;;;;;;;;;;;;x
+PROV2625;ポート・ホープ・シンプソン;;;;;;;;;;;;x
 PROV2626;Port Harrison;;;;;;;;;;;;x
-PROV2627;Fort Chimo;;;;;;;;;;;;x
-PROV2628;Attawapiskat;;;;;;;;;;;;x
+PROV2627;フォート・チモ;;;;;;;;;;;;x
+PROV2628;アタワピスカト;;;;;;;;;;;;x
 PROV2629;Beatton River;;;;;;;;;;;;x
-PROV2630;Cordova;;;;;;;;;;;;x
-PROV2631;Unalakeet;;;;;;;;;;;;x
-PROV2632;Ammassalik;;;;;;;;;;;;x
-PROV2633;Ossora;;;;;;;;;;;;x
-PROV2634;Rassvet;;;;;;;;;;;;x
-PROV2635;Kariba;;;;;;;;;;;;x
+PROV2630;コードバ;;;;;;;;;;;;x
+PROV2631;ウナラクリート;;;;;;;;;;;;x
+PROV2632;アンマサリク;;;;;;;;;;;;x
+PROV2633;オッソラ;;;;;;;;;;;;x
+PROV2634;ラススヴェト;;;;;;;;;;;;x
+PROV2635;カリバ;;;;;;;;;;;;x
 PROV2636;Egedesminde;;;;;;;;;;;;x
-PROV2637;Novo Mariinsk;;;;;;;;;;;;x
-PROV2638;Omsukchan;;;;;;;;;;;;x
-PROV2639;Susuman;;;;;;;;;;;;x
+PROV2637;ノヴォ・マリインスク;;;;;;;;;;;;x
+PROV2638;オムスクチャン;;;;;;;;;;;;x
+PROV2639;ススマン;;;;;;;;;;;;x
 PROV2640;Ziryanka;;;;;;;;;;;;x
-PROV2641;Ayan;;;;;;;;;;;;x
-PROV2642;Ust Nera;;;;;;;;;;;;x
-PROV2643;Honuu;;;;;;;;;;;;x
+PROV2641;アヤン;;;;;;;;;;;;x
+PROV2642;ウスチ＝ネラ;;;;;;;;;;;;x
+PROV2643;ホヌウ;;;;;;;;;;;;x
 PROV2644;Olyekminsk;;;;;;;;;;;;x
 PROV2645;Chilchi;;;;;;;;;;;;x
 PROV2646;Ases Igan;;;;;;;;;;;;x
@@ -12716,15 +12716,15 @@ PROV2833;Amur Delta;;;;;;;;;;;;x
 PROV2834;Bay of Ayan;;;;;;;;;;;;x
 PROV2835;Bay of Komenskoie;;;;;;;;;;;;x
 PROV2836;Coast of Kamchatska;;;;;;;;;;;;x
-PROV2837;Okhotsk Sea;;;;;;;;;;;;x
-PROV2838;Coast of Sakhalin;;;;;;;;;;;;x
-PROV2839;Soya Strait;;;;;;;;;;;;x
-PROV2840;Tsugaru Strait;;;;;;;;;;;;x
+PROV2837;オホーツク海;;;;;;;;;;;;x
+PROV2838;サハリン沿岸;;;;;;;;;;;;x
+PROV2839;宗谷海峡;;;;;;;;;;;;x
+PROV2840;津軽海峡;;;;;;;;;;;;x
 PROV2841;日本海;;;;;;;;;;;;x
 PROV2842;Amakusa Sea;;;;;;;;;;;;x
-PROV2843;Setto Inland Sea;;;;;;;;;;;;x
-PROV2844;Tokai Sea;;;;;;;;;;;;x
-PROV2845;Ryukyu Islands;;;;;;;;;;;;x
+PROV2843;瀬戸内海;;;;;;;;;;;;x
+PROV2844;東海;;;;;;;;;;;;x
+PROV2845;琉球諸島;;;;;;;;;;;;x
 PROV2846;Luzon Strait;;;;;;;;;;;;x
 PROV2847;Paracel Islands;;;;;;;;;;;;x
 PROV2848;Manila Bay;;;;;;;;;;;;x
@@ -13168,327 +13168,327 @@ PROVINCEVIEW_ADMIN_TECH;From tech: §Y$VALUE$%§W;;;;;;;;;;;;x
 PROVINCEVIEW_ADMIN_POPS;From §YBureaucrats: $VALUE$%§W;;;;;;;;;;;;x
 PROVINCEVIEW_UNCOLONIZED;Uncolonized;;;;;;;;;;;;x
 PROVINCEVIEW_SELECT_NATIONAL_FOCUS_TO_COLONIZE;Select national focus to colonize.;;;;;;;;;;;;x
-USA_1;Alaska;;;;;;;;;;;;x
-USA_78;Washington;;;;;;;;;;;;x
-USA_81;Oregon;;;;;;;;;;;;x
-USA_91;Idaho;;;;;;;;;;;;x
-USA_106;Colorado;;;;;;;;;;;;x
-USA_111;Wyoming;;;;;;;;;;;;x
-USA_116;Montana;;;;;;;;;;;;x
-USA_118;North Dakota;;;;;;;;;;;;x
-USA_121;South Dakota;;;;;;;;;;;;x
-USA_124;Nebraska;;;;;;;;;;;;x
-USA_126;Kansas;;;;;;;;;;;;x
-USA_129;Oklahoma;;;;;;;;;;;;x
-USA_139;Louisiana;;;;;;;;;;;;x
-USA_144;Arkansas;;;;;;;;;;;;x
-USA_148;Missouri;;;;;;;;;;;;x
-USA_151;Iowa;;;;;;;;;;;;x
-USA_158;Minnesota;;;;;;;;;;;;x
-USA_162;Wisconsin;;;;;;;;;;;;x
-USA_168;Illinois;;;;;;;;;;;;x
-USA_170;Indiana;;;;;;;;;;;;x
-USA_176;Michigan;;;;;;;;;;;;x
-USA_178;Ohio;;;;;;;;;;;;x
-USA_185;Kentucky;;;;;;;;;;;;x
-USA_188;Tennessee;;;;;;;;;;;;x
-USA_194;Mississippi;;;;;;;;;;;;x
-USA_196;Alabama;;;;;;;;;;;;x
-USA_200;Florida;;;;;;;;;;;;x
-USA_201;Georgia;;;;;;;;;;;;x
-USA_211;Virginia;;;;;;;;;;;;x
-REMOVE_USA_220;West Virginia;;;;;;;;;;;;x
-USA_223;Pennsylvania;;;;;;;;;;;;x
-USA_231;New Jersey;;;;;;;;;;;;x
-USA_232;New York;;;;;;;;;;;;x
-USA_243;Massachusetts;;;;;;;;;;;;x
-USA_247;New England;;;;;;;;;;;;x
-USA_2556;North Carolina;;;;;;;;;;;;x
-ENG_6;Yukon Territory;;;;;;;;;;;;x
-ENG_9;Northwest Territories;;;;;;;;;;;;x
-ENG_13;British Columbia;;;;;;;;;;;;x
-ENG_22;Alberta;;;;;;;;;;;;x
-ENG_30;Saskatchewan;;;;;;;;;;;;x
-ENG_36;Manitoba;;;;;;;;;;;;x
-ENG_44;Nunavut Territory;;;;;;;;;;;;x
-ENG_46;Ontario;;;;;;;;;;;;x
-ENG_58;Quebec;;;;;;;;;;;;x
-ENG_74;Newfoundland;;;;;;;;;;;;x
-TEX_132;Texas;;;;;;;;;;;;x
-UCA_2186;Guatemala;;;;;;;;;;;;x
-UCA_2191;Honduras;;;;;;;;;;;;x
-UCA_2197;Nicaragua;;;;;;;;;;;;x
-UCA_2201;Costa Rica;;;;;;;;;;;;x
-CLM_1723;Panama;;;;;;;;;;;;x
-SPA_2209;Greater Antilles;;;;;;;;;;;;x
-URU_2344;Uruguay;;;;;;;;;;;;x
-ECU_2279;Ecuador;;;;;;;;;;;;x
-HAI_2213;Hispaniola;;;;;;;;;;;;x
-SWE_329;Götaland;;;;;;;;;;;;x
-SWE_318;Norrland;;;;;;;;;;;;x
-SWE_322;Svealand;;;;;;;;;;;;x
-SIC_763;Sicily;;;;;;;;;;;;x
-GRE_826;Peloponnese;;;;;;;;;;;;x
-TUR_853;Albania;;;;;;;;;;;;x
-TUR_788;Bosnia;;;;;;;;;;;;x
-MOL_673;Moldavia;;;;;;;;;;;;x
-WAL_665;Wallachia;;;;;;;;;;;;x
-SPA_474;Galicia;;;;;;;;;;;;x
+USA_1;アラスカ;;;;;;;;;;;;x
+USA_78;ワシントン;;;;;;;;;;;;x
+USA_81;オレゴン;;;;;;;;;;;;x
+USA_91;アイダホ;;;;;;;;;;;;x
+USA_106;コロラド;;;;;;;;;;;;x
+USA_111;ワイオミング;;;;;;;;;;;;x
+USA_116;モンタナ;;;;;;;;;;;;x
+USA_118;ノースダコタ;;;;;;;;;;;;x
+USA_121;サウスダコタ;;;;;;;;;;;;x
+USA_124;ネブラスカ;;;;;;;;;;;;x
+USA_126;カンザス;;;;;;;;;;;;x
+USA_129;オクラホマ;;;;;;;;;;;;x
+USA_139;ルイジアナ;;;;;;;;;;;;x
+USA_144;アーカンソー;;;;;;;;;;;;x
+USA_148;ミズーリ;;;;;;;;;;;;x
+USA_151;アイオワ;;;;;;;;;;;;x
+USA_158;ミネソタ;;;;;;;;;;;;x
+USA_162;ウィスコンシン;;;;;;;;;;;;x
+USA_168;イリノイ;;;;;;;;;;;;x
+USA_170;インディアナ;;;;;;;;;;;;x
+USA_176;ミシガン;;;;;;;;;;;;x
+USA_178;オハイオ;;;;;;;;;;;;x
+USA_185;ケンタッキー;;;;;;;;;;;;x
+USA_188;テネシー;;;;;;;;;;;;x
+USA_194;ミシシッピ;;;;;;;;;;;;x
+USA_196;アラバマ;;;;;;;;;;;;x
+USA_200;フロリダ;;;;;;;;;;;;x
+USA_201;ジョージア;;;;;;;;;;;;x
+USA_211;バージニア;;;;;;;;;;;;x
+REMOVE_USA_220;ウェストバージニア;;;;;;;;;;;;x
+USA_223;ペンシルベニア;;;;;;;;;;;;x
+USA_231;ニュージャージー;;;;;;;;;;;;x
+USA_232;ニューヨーク;;;;;;;;;;;;x
+USA_243;マサチューセッツ;;;;;;;;;;;;x
+USA_247;ニューイングランド;;;;;;;;;;;;x
+USA_2556;ノースカロライナ;;;;;;;;;;;;x
+ENG_6;ユーコン準州;;;;;;;;;;;;x
+ENG_9;ノースウエスト準州;;;;;;;;;;;;x
+ENG_13;ブリティッシュコロンビア;;;;;;;;;;;;x
+ENG_22;アルバータ;;;;;;;;;;;;x
+ENG_30;サスカチュワン;;;;;;;;;;;;x
+ENG_36;マニトバ;;;;;;;;;;;;x
+ENG_44;ヌナブト準州;;;;;;;;;;;;x
+ENG_46;オンタリオ;;;;;;;;;;;;x
+ENG_58;ケベック;;;;;;;;;;;;x
+ENG_74;ニューファンドランド;;;;;;;;;;;;x
+TEX_132;テキサス;;;;;;;;;;;;x
+UCA_2186;グアテマラ;;;;;;;;;;;;x
+UCA_2191;ホンジュラス;;;;;;;;;;;;x
+UCA_2197;ニカラグア;;;;;;;;;;;;x
+UCA_2201;コスタリカ;;;;;;;;;;;;x
+CLM_1723;パナマ;;;;;;;;;;;;x
+SPA_2209;大アンティル諸島;;;;;;;;;;;;x
+URU_2344;ウルグアイ;;;;;;;;;;;;x
+ECU_2279;エクアドル;;;;;;;;;;;;x
+HAI_2213;イスパニョーラ;;;;;;;;;;;;x
+SWE_329;イェータランド;;;;;;;;;;;;x
+SWE_318;ノールランド;;;;;;;;;;;;x
+SWE_322;スヴェアランド;;;;;;;;;;;;x
+SIC_763;シチリア;;;;;;;;;;;;x
+GRE_826;ペロポネソス;;;;;;;;;;;;x
+TUR_853;アルバニア;;;;;;;;;;;;x
+TUR_788;ボスニア;;;;;;;;;;;;x
+MOL_673;モルダヴィア;;;;;;;;;;;;x
+WAL_665;ワラキア;;;;;;;;;;;;x
+SPA_474;ガリシア;;;;;;;;;;;;x
 SPA_477;León-Castilla;;;;;;;;;;;;x
 SPA_492;Vasconia-Aragón;;;;;;;;;;;;x
-SPA_498;Catalonia;;;;;;;;;;;;x
-ENG_2468;New South Wales;;;;;;;;;;;;x
-ENG_2476;Victoria;;;;;;;;;;;;x
-ENG_2483;Queensland;;;;;;;;;;;;x
-ENG_2491;South Australia;;;;;;;;;;;;x
-ENG_2497;Western Australia;;;;;;;;;;;;x
-ENG_2505;Northern Territory;;;;;;;;;;;;x
-ENG_2509;North Island;;;;;;;;;;;;x
-ENG_2513;South Island;;;;;;;;;;;;x
-NET_1413;Java;;;;;;;;;;;;x
-ENG_1321;Ceylon;;;;;;;;;;;;x
-CHI_2608;Mongolia;;;;;;;;;;;;x
-OMA_1166;Oman;;;;;;;;;;;;x
-ABU_1162;Abu Dhabi;;;;;;;;;;;;x
-YEM_1173;Yemen;;;;;;;;;;;;x
-HDJ_1151;Hedjaz;;;;;;;;;;;;x
-TUN_1726;Tunisia;;;;;;;;;;;;x
-FRA_1879;Guinea;;;;;;;;;;;;x
-ENG_1887;Liberia;;;;;;;;;;;;x
-FRA_1907;Ghana;;;;;;;;;;;;x
-FRA_1914;Togo;;;;;;;;;;;;x
-FRA_1919;Dahomey;;;;;;;;;;;;x
-FRA_1972;Gabon;;;;;;;;;;;;x
-ENG_2074;Botswana;;;;;;;;;;;;x
-ENG_2014;Zambia;;;;;;;;;;;;x
-SIA_1366;Cambodia;;;;;;;;;;;;x
-AUS_613;Kärnten-Steiermark;;;;;;;;;;;;x
-AUS_612;Tirol;;;;;;;;;;;;x
-AUS_702;West Galicia;;;;;;;;;;;;x
-AUS_662;East Galicia;;;;;;;;;;;;x
-AUS_633;Slovakia;;;;;;;;;;;;x
-AUS_777;Slavonia;;;;;;;;;;;;x
-AUS_780;Dalmatia;;;;;;;;;;;;x
-AUS_771;Croatia;;;;;;;;;;;;x
-AUS_726;Lombardia;;;;;;;;;;;;x
-AUS_736;Istria;;;;;;;;;;;;x
-AUS_729;Venetia;;;;;;;;;;;;x
-AUS_625;Bohemia;;;;;;;;;;;;x
-AUS_626;Moravia;;;;;;;;;;;;x
-AUS_654;Western Siebenbürgen;;;;;;;;;;;;x
-AUS_657;Eastern Siebenbürgen;;;;;;;;;;;;x
-AUS_647;Alföld;;;;;;;;;;;;x
+SPA_498;カタルーニャ;;;;;;;;;;;;x
+ENG_2468;ニューサウスウェールズ;;;;;;;;;;;;x
+ENG_2476;ビクトリア;;;;;;;;;;;;x
+ENG_2483;クイーンズランド;;;;;;;;;;;;x
+ENG_2491;南オーストラリア;;;;;;;;;;;;x
+ENG_2497;西オーストラリア;;;;;;;;;;;;x
+ENG_2505;ノーザンテリトリー;;;;;;;;;;;;x
+ENG_2509;北島;;;;;;;;;;;;x
+ENG_2513;南島;;;;;;;;;;;;x
+NET_1413;ジャワ;;;;;;;;;;;;x
+ENG_1321;セイロン;;;;;;;;;;;;x
+CHI_2608;モンゴル;;;;;;;;;;;;x
+OMA_1166;オマーン;;;;;;;;;;;;x
+ABU_1162;アブダビ;;;;;;;;;;;;x
+YEM_1173;イエメン;;;;;;;;;;;;x
+HDJ_1151;ヒジャーズ;;;;;;;;;;;;x
+TUN_1726;チュニジア;;;;;;;;;;;;x
+FRA_1879;ギニア;;;;;;;;;;;;x
+ENG_1887;リベリア;;;;;;;;;;;;x
+FRA_1907;ガーナ;;;;;;;;;;;;x
+FRA_1914;トーゴ;;;;;;;;;;;;x
+FRA_1919;ダホメ;;;;;;;;;;;;x
+FRA_1972;ガボン;;;;;;;;;;;;x
+ENG_2074;ボツワナ;;;;;;;;;;;;x
+ENG_2014;ザンビア;;;;;;;;;;;;x
+SIA_1366;カンボジア;;;;;;;;;;;;x
+AUS_613;ケルンテン＝シュタイアーマルク;;;;;;;;;;;;x
+AUS_612;チロル;;;;;;;;;;;;x
+AUS_702;西ガリツィア;;;;;;;;;;;;x
+AUS_662;東ガリツィア;;;;;;;;;;;;x
+AUS_633;スロバキア;;;;;;;;;;;;x
+AUS_777;スラヴォニア;;;;;;;;;;;;x
+AUS_780;ダルマチア;;;;;;;;;;;;x
+AUS_771;クロアチア;;;;;;;;;;;;x
+AUS_726;ロンバルディア;;;;;;;;;;;;x
+AUS_736;イストリア;;;;;;;;;;;;x
+AUS_729;ヴェネツィア;;;;;;;;;;;;x
+AUS_625;ボヘミア;;;;;;;;;;;;x
+AUS_626;モラヴィア;;;;;;;;;;;;x
+AUS_654;ジーベンビュルゲン西部;;;;;;;;;;;;x
+AUS_657;ジーベンビュルゲン東部;;;;;;;;;;;;x
+AUS_647;アルフェルド;;;;;;;;;;;;x
 AUS_623;Transdanubia;;;;;;;;;;;;x
-AUS_619;Österreich;;;;;;;;;;;;x
-AUS_641;Central Hungary;;;;;;;;;;;;x
-MEX_85;California;;;;;;;;;;;;x
-MEX_100;Arizona;;;;;;;;;;;;x
-MEX_103;New Mexico;;;;;;;;;;;;x
-MEX_94;Nevada-Utah;;;;;;;;;;;;x
-ENG_260;Munster;;;;;;;;;;;;x
-ENG_263;Leinster-Connacht;;;;;;;;;;;;x
-ENG_254;Ulster;;;;;;;;;;;;x
-ENG_273;Wales;;;;;;;;;;;;x
-ENG_277;North West England;;;;;;;;;;;;x
-ENG_280;North East England;;;;;;;;;;;;x
-ENG_284;Midlands;;;;;;;;;;;;x
+AUS_619;エスターライヒ;;;;;;;;;;;;x
+AUS_641;中央ハンガリー;;;;;;;;;;;;x
+MEX_85;カリフォルニア;;;;;;;;;;;;x
+MEX_100;アリゾナ;;;;;;;;;;;;x
+MEX_103;ニューメキシコ;;;;;;;;;;;;x
+MEX_94;ネバダ＝ユタ;;;;;;;;;;;;x
+ENG_260;マンスター;;;;;;;;;;;;x
+ENG_263;レンスター＝コノート;;;;;;;;;;;;x
+ENG_254;アルスター;;;;;;;;;;;;x
+ENG_273;ウェールズ;;;;;;;;;;;;x
+ENG_277;北西イングランド;;;;;;;;;;;;x
+ENG_280;北東イングランド;;;;;;;;;;;;x
+ENG_284;ミッドランズ;;;;;;;;;;;;x
 ENG_291;Eastern Counties;;;;;;;;;;;;x
-ENG_300;South East England;;;;;;;;;;;;x
-ENG_296;South West England;;;;;;;;;;;;x
-ENG_1252;North Bengal;;;;;;;;;;;;x
-ENG_1251;South Bengal;;;;;;;;;;;;x
-ENG_1258;Assam;;;;;;;;;;;;x
-FRA_77;Saint Pierre and Miquelon;;;;;;;;;;;;x
-SPA_513;Granada;;;;;;;;;;;;x
-SPA_512;Andalucía;;;;;;;;;;;;x
-SPA_484;Extremadura;;;;;;;;;;;;x
-SPA_503;Valencia;;;;;;;;;;;;x
-SPA_487;Castilla la Nueva;;;;;;;;;;;;x
-GRE_837;Attica;;;;;;;;;;;;x
-TUR_832;Thessalía;;;;;;;;;;;;x
-TUR_803;Southern Serbia;;;;;;;;;;;;x
-SER_794;Northern Serbia;;;;;;;;;;;;x
-REMOVE_TUR_806;West Macedonia;;;;;;;;;;;;x
-TUR_805;East Macedonia;;;;;;;;;;;;x
-TUR_860;Thrace;;;;;;;;;;;;x
-EGY_843;Aegean Islands;;;;;;;;;;;;x
-TUR_855;Cyprus;;;;;;;;;;;;x
-TUR_809;Rumelia;;;;;;;;;;;;x
-TUR_810;Bulgaria;;;;;;;;;;;;x
-TUR_674;Dobrudja;;;;;;;;;;;;x
-MON_2582;Montenegro;;;;;;;;;;;;x
-FRA_458;Aquitaine;;;;;;;;;;;;x
-FRA_442;Poitou;;;;;;;;;;;;x
-FRA_455;Le Midi;;;;;;;;;;;;x
-FRA_461;Languedoc;;;;;;;;;;;;x
-FRA_467;Provence;;;;;;;;;;;;x
-FRA_445;Limousin;;;;;;;;;;;;x
-FRA_448;Auvergne;;;;;;;;;;;;x
-FRA_451;Rhone;;;;;;;;;;;;x
-FRA_420;Bretagne;;;;;;;;;;;;x
-FRA_435;Loire;;;;;;;;;;;;x
-FRA_438;Region Centre;;;;;;;;;;;;x
-FRA_428;Bourgogne;;;;;;;;;;;;x
-FRA_418;Normandie;;;;;;;;;;;;x
-FRA_425;Ile de France;;;;;;;;;;;;x
-FRA_404;Champagne;;;;;;;;;;;;x
-FRA_412;Alsace-Lorraine;;;;;;;;;;;;x
-FRA_399;Picardie;;;;;;;;;;;;x
-POR_518;Douro;;;;;;;;;;;;x
-POR_521;Estremadura;;;;;;;;;;;;x
-POR_525;Alentejo;;;;;;;;;;;;x
-POR_2134;Macaronesia;;;;;;;;;;;;x
-ENG_266;Highlands;;;;;;;;;;;;x
-ENG_271;Lowlands;;;;;;;;;;;;x
-BEL_394;Wallonie;;;;;;;;;;;;x
-BEL_387;Vlaanderen;;;;;;;;;;;;x
-NET_375;Holland;;;;;;;;;;;;x
-NET_381;Gelderland;;;;;;;;;;;;x
-NET_385;Friesland;;;;;;;;;;;;x
-SAR_466;Savoie;;;;;;;;;;;;x
-SAR_720;Piemonte;;;;;;;;;;;;x
-SAR_765;Sardegna;;;;;;;;;;;;x
-AUS_768;Slovenia;;;;;;;;;;;;x
-MOD_739;Emilia;;;;;;;;;;;;x
-PAP_741;Romagna;;;;;;;;;;;;x
-TUS_744;Toscana;;;;;;;;;;;;x
-PAP_752;Lazio;;;;;;;;;;;;x
-SIC_754;Campania;;;;;;;;;;;;x
-SIC_753;Puglia;;;;;;;;;;;;x
-SWI_605;West Switzerland;;;;;;;;;;;;x
-SWI_603;East Switzerland;;;;;;;;;;;;x
-BAD_586;Baden;;;;;;;;;;;;x
-WUR_589;Württemberg;;;;;;;;;;;;x
-HES_2560;Hesse-Nassau;;;;;;;;;;;;x
-BAV_599;Bayern;;;;;;;;;;;;x
-BAV_595;Franken;;;;;;;;;;;;x
-SAX_558;Sachsen;;;;;;;;;;;;x
-HEK_568;Hessen;;;;;;;;;;;;x
-HAN_534;Hannover;;;;;;;;;;;;x
-PRU_572;Rheinland;;;;;;;;;;;;x
-PRU_575;Nordrhein;;;;;;;;;;;;x
-PRU_581;Westfalen;;;;;;;;;;;;x
+ENG_300;南東イングランド;;;;;;;;;;;;x
+ENG_296;南西イングランド;;;;;;;;;;;;x
+ENG_1252;北ベンガル;;;;;;;;;;;;x
+ENG_1251;南ベンガル;;;;;;;;;;;;x
+ENG_1258;アッサム;;;;;;;;;;;;x
+FRA_77;サンピエール島・ミクロン島;;;;;;;;;;;;x
+SPA_513;グラナダ;;;;;;;;;;;;x
+SPA_512;アンダルシア;;;;;;;;;;;;x
+SPA_484;エストレマドゥーラ;;;;;;;;;;;;x
+SPA_503;バレンシア;;;;;;;;;;;;x
+SPA_487;カスティーリャ・ラ・ヌエバ;;;;;;;;;;;;x
+GRE_837;アッティカ;;;;;;;;;;;;x
+TUR_832;テッサリア;;;;;;;;;;;;x
+TUR_803;セルビア南部;;;;;;;;;;;;x
+SER_794;セルビア北部;;;;;;;;;;;;x
+REMOVE_TUR_806;西マケドニア;;;;;;;;;;;;x
+TUR_805;東マケドニア;;;;;;;;;;;;x
+TUR_860;トラキア;;;;;;;;;;;;x
+EGY_843;エーゲ海諸島;;;;;;;;;;;;x
+TUR_855;キプロス;;;;;;;;;;;;x
+TUR_809;ルメリア;;;;;;;;;;;;x
+TUR_810;ブルガリア;;;;;;;;;;;;x
+TUR_674;ドブルジャ;;;;;;;;;;;;x
+MON_2582;モンテネグロ;;;;;;;;;;;;x
+FRA_458;アキテーヌ;;;;;;;;;;;;x
+FRA_442;ポワトゥー;;;;;;;;;;;;x
+FRA_455;ル・ミディ;;;;;;;;;;;;x
+FRA_461;ラングドック;;;;;;;;;;;;x
+FRA_467;プロヴァンス;;;;;;;;;;;;x
+FRA_445;リムーザン;;;;;;;;;;;;x
+FRA_448;オーヴェルニュ;;;;;;;;;;;;x
+FRA_451;ローヌ;;;;;;;;;;;;x
+FRA_420;ブルターニュ;;;;;;;;;;;;x
+FRA_435;ロワール;;;;;;;;;;;;x
+FRA_438;サントル地域圏;;;;;;;;;;;;x
+FRA_428;ブルゴーニュ;;;;;;;;;;;;x
+FRA_418;ノルマンディー;;;;;;;;;;;;x
+FRA_425;イル＝ド＝フランス;;;;;;;;;;;;x
+FRA_404;シャンパーニュ;;;;;;;;;;;;x
+FRA_412;アルザス＝ロレーヌ;;;;;;;;;;;;x
+FRA_399;ピカルディ;;;;;;;;;;;;x
+POR_518;ドウロ;;;;;;;;;;;;x
+POR_521;エストレマドゥーラ;;;;;;;;;;;;x
+POR_525;アレンテージョ;;;;;;;;;;;;x
+POR_2134;マカロネシア;;;;;;;;;;;;x
+ENG_266;ハイランド;;;;;;;;;;;;x
+ENG_271;ローランド;;;;;;;;;;;;x
+BEL_394;ワロン;;;;;;;;;;;;x
+BEL_387;フラーンデーレン;;;;;;;;;;;;x
+NET_375;ホラント;;;;;;;;;;;;x
+NET_381;ヘルダーラント;;;;;;;;;;;;x
+NET_385;フリースラント;;;;;;;;;;;;x
+SAR_466;サヴォワ;;;;;;;;;;;;x
+SAR_720;ピエモンテ;;;;;;;;;;;;x
+SAR_765;サルデーニャ;;;;;;;;;;;;x
+AUS_768;スロベニア;;;;;;;;;;;;x
+MOD_739;エミリア;;;;;;;;;;;;x
+PAP_741;ロマーニャ;;;;;;;;;;;;x
+TUS_744;トスカーナ;;;;;;;;;;;;x
+PAP_752;ラツィオ;;;;;;;;;;;;x
+SIC_754;カンパニア;;;;;;;;;;;;x
+SIC_753;プッリャ;;;;;;;;;;;;x
+SWI_605;西スイス;;;;;;;;;;;;x
+SWI_603;東スイス;;;;;;;;;;;;x
+BAD_586;バーデン;;;;;;;;;;;;x
+WUR_589;ヴュルテンベルク;;;;;;;;;;;;x
+HES_2560;ヘッセン＝ナッサウ;;;;;;;;;;;;x
+BAV_599;バイエルン;;;;;;;;;;;;x
+BAV_595;フランケン;;;;;;;;;;;;x
+SAX_558;ザクセン;;;;;;;;;;;;x
+HEK_568;ヘッセン;;;;;;;;;;;;x
+HAN_534;ハノーファー;;;;;;;;;;;;x
+PRU_572;ラインラント;;;;;;;;;;;;x
+PRU_575;ノルトライン;;;;;;;;;;;;x
+PRU_581;ヴェストファーレン;;;;;;;;;;;;x
 HAM_528;Osthannover;;;;;;;;;;;;x
-REMOVE_MEC_544;Mecklemburg-Holstein;;;;;;;;;;;;x
-PRU_553;Magdeburg;;;;;;;;;;;;x
-PRU_549;Brandenburg;;;;;;;;;;;;x
-PRU_546;Pommern;;;;;;;;;;;;x
-PRU_682;Schlesien;;;;;;;;;;;;x
-PRU_701;Posen;;;;;;;;;;;;x
-PRU_690;Westpreußen;;;;;;;;;;;;x
-PRU_695;Ostpreußen;;;;;;;;;;;;x
-DEN_367;Jylland;;;;;;;;;;;;x
-DEN_372;Sjaelland;;;;;;;;;;;;x
-SWE_313;Ostlandet;;;;;;;;;;;;x
-SWE_309;Vestlandet;;;;;;;;;;;;x
-SWE_308;Nordnorge;;;;;;;;;;;;x
-RUS_366;Lappi;;;;;;;;;;;;x
-RUS_340;Southern Finland;;;;;;;;;;;;x
-RUS_349;Estonia;;;;;;;;;;;;x
-RUS_354;Latvia;;;;;;;;;;;;x
-RUS_360;Lietuva;;;;;;;;;;;;x
+REMOVE_MEC_544;メクレンブルク＝ホルシュタイン;;;;;;;;;;;;x
+PRU_553;マクデブルク;;;;;;;;;;;;x
+PRU_549;ブランデンブルク;;;;;;;;;;;;x
+PRU_546;ポンメルン;;;;;;;;;;;;x
+PRU_682;シュレージエン;;;;;;;;;;;;x
+PRU_701;ポーゼン;;;;;;;;;;;;x
+PRU_690;西プロイセン;;;;;;;;;;;;x
+PRU_695;オストプロイセン;;;;;;;;;;;;x
+DEN_367;ユラン;;;;;;;;;;;;x
+DEN_372;シェラン;;;;;;;;;;;;x
+SWE_313;エストラン;;;;;;;;;;;;x
+SWE_309;ヴェストラン;;;;;;;;;;;;x
+SWE_308;ノールノルゲ;;;;;;;;;;;;x
+RUS_366;ラッピ;;;;;;;;;;;;x
+RUS_340;南フィンランド;;;;;;;;;;;;x
+RUS_349;エストニア;;;;;;;;;;;;x
+RUS_354;ラトビア;;;;;;;;;;;;x
+RUS_360;リエトゥヴァ;;;;;;;;;;;;x
 RUS_710;Wielkopolskie;;;;;;;;;;;;x
 RUS_706;Mazowieckie;;;;;;;;;;;;x
-RUS_707;Brêst;;;;;;;;;;;;x
-RUS_718;Minsk;;;;;;;;;;;;x
-RUS_676;Budjak;;;;;;;;;;;;x
-RUS_965;Cherson;;;;;;;;;;;;x
-RUS_958;Kiev;;;;;;;;;;;;x
-RUS_964;Crimea;;;;;;;;;;;;x
-RUS_980;Luhansk;;;;;;;;;;;;x
-RUS_1090;Georgia;;;;;;;;;;;;x
-RUS_1098;Armenia;;;;;;;;;;;;x
-RUS_339;Karelia;;;;;;;;;;;;x
-RUS_994;Ingria;;;;;;;;;;;;x
-RUS_1003;Novgorod;;;;;;;;;;;;x
-RUS_947;Orsha;;;;;;;;;;;;x
-RUS_943;Smolensk;;;;;;;;;;;;x
+RUS_707;ブレスト;;;;;;;;;;;;x
+RUS_718;ミンスク;;;;;;;;;;;;x
+RUS_676;ブジャク;;;;;;;;;;;;x
+RUS_965;ヘルソン;;;;;;;;;;;;x
+RUS_958;キエフ;;;;;;;;;;;;x
+RUS_964;クリミア;;;;;;;;;;;;x
+RUS_980;ルハーンスク;;;;;;;;;;;;x
+RUS_1090;グルジア;;;;;;;;;;;;x
+RUS_1098;アルメニア;;;;;;;;;;;;x
+RUS_339;カレリア;;;;;;;;;;;;x
+RUS_994;イングリア;;;;;;;;;;;;x
+RUS_1003;ノヴゴロド;;;;;;;;;;;;x
+RUS_947;オルシャ;;;;;;;;;;;;x
+RUS_943;スモレンスク;;;;;;;;;;;;x
 RUS_955;Rovne;;;;;;;;;;;;x
-RUS_998;Tver;;;;;;;;;;;;x
-RUS_981;Arkhangelsk;;;;;;;;;;;;x
-RUS_990;Galich;;;;;;;;;;;;x
-RUS_1008;Moscow;;;;;;;;;;;;x
-RUS_1009;Bryansk;;;;;;;;;;;;x
-RUS_977;Kursk;;;;;;;;;;;;x
+RUS_998;トヴェリ;;;;;;;;;;;;x
+RUS_981;アルハンゲリスク;;;;;;;;;;;;x
+RUS_990;ガーリチ;;;;;;;;;;;;x
+RUS_1008;モスクワ;;;;;;;;;;;;x
+RUS_1009;ブリャンスク;;;;;;;;;;;;x
+RUS_977;クルスク;;;;;;;;;;;;x
 RUS_2589;Nenetsia;;;;;;;;;;;;x
-RUS_1026;Perm;;;;;;;;;;;;x
-RUS_1020;Kazan;;;;;;;;;;;;x
-RUS_1060;Samara;;;;;;;;;;;;x
-RUS_1037;Tartaria;;;;;;;;;;;;x
-RUS_1041;Astrakhan;;;;;;;;;;;;x
-RUS_979;Rostov;;;;;;;;;;;;x
-RUS_1048;Ekaterinodar;;;;;;;;;;;;x
-RUS_1052;North Caucasia;;;;;;;;;;;;x
-RUS_336;Northern Finland;;;;;;;;;;;;x
-FRA_411;Franche-Comté;;;;;;;;;;;;x
-HAW_658;Hawaiian Islands;;;;;;;;;;;;x
-AST_2527;Kiribati;;;;;;;;;;;;x
-AST_801;Polynesia;;;;;;;;;;;;x
-AST_2454;Fiji;;;;;;;;;;;;x
-AST_2535;Vanuatu;;;;;;;;;;;;x
-AST_2244;Christmas & Cocos Islands;;;;;;;;;;;;x
-RUS_1104;Baku;;;;;;;;;;;;x
-RUS_1102;Azerbaijan;;;;;;;;;;;;x
-ENG_2224;West Indies;;;;;;;;;;;;x
-REMOVE_ENG_203;North Caribbean Islands;;;;;;;;;;;;x
-ENG_2228;Lesser Antilles;;;;;;;;;;;;x
-MEX_2138;Sonora;;;;;;;;;;;;x
-MEX_2142;Chihuahua;;;;;;;;;;;;x
-MEX_2151;Durango;;;;;;;;;;;;x
-MEX_2146;Nuevo León;;;;;;;;;;;;x
-MEX_2173;Zacatecas;;;;;;;;;;;;x
-MEX_2161;Jalisco;;;;;;;;;;;;x
-MEX_2170;Morelia;;;;;;;;;;;;x
-MEX_2162;México;;;;;;;;;;;;x
-MEX_2183;Yucatán;;;;;;;;;;;;x
-CLM_2251;Antioquía;;;;;;;;;;;;x
-CLM_2247;Cundinamarca;;;;;;;;;;;;x
-CLM_2262;Guaviare;;;;;;;;;;;;x
-CLM_2256;Valle del Cauca;;;;;;;;;;;;x
-BRZ_2401;Amazonas;;;;;;;;;;;;x
-VNZ_2234;Zulia;;;;;;;;;;;;x
-VNZ_2265;Miranda;;;;;;;;;;;;x
-VNZ_2278;Bolívar;;;;;;;;;;;;x
-ENG_1979;Guayana;;;;;;;;;;;;x
-PEU_2289;Pastaza;;;;;;;;;;;;x
-BRZ_2408;Pará;;;;;;;;;;;;x
-BRZ_2410;Maranhão;;;;;;;;;;;;x
-BRZ_2427;Rio Grande do Norte;;;;;;;;;;;;x
-BRZ_2428;Pernambuco;;;;;;;;;;;;x
-BRZ_2439;Bahia;;;;;;;;;;;;x
-BRZ_2416;Mato Grosso;;;;;;;;;;;;x
-BRZ_2246;Minas Gerais;;;;;;;;;;;;x
-BRZ_2447;Rio de Janeiro;;;;;;;;;;;;x
-BRZ_2306;São Paulo;;;;;;;;;;;;x
-BRZ_2462;Paraná;;;;;;;;;;;;x
-BRZ_2467;Rio Grande do Sul;;;;;;;;;;;;x
-PEU_2291;Cajamarca;;;;;;;;;;;;x
-PEU_2300;Lima;;;;;;;;;;;;x
-PEU_2297;Ica;;;;;;;;;;;;x
-PEU_2303;Arequipa;;;;;;;;;;;;x
-PRG_2338;Alto Paraguay;;;;;;;;;;;;x
+RUS_1026;ペルミ;;;;;;;;;;;;x
+RUS_1020;カザン;;;;;;;;;;;;x
+RUS_1060;サマラ;;;;;;;;;;;;x
+RUS_1037;タルタリア;;;;;;;;;;;;x
+RUS_1041;アストラハン;;;;;;;;;;;;x
+RUS_979;ロストフ;;;;;;;;;;;;x
+RUS_1048;エカテリノダール;;;;;;;;;;;;x
+RUS_1052;北カフカース;;;;;;;;;;;;x
+RUS_336;フィンランド北部;;;;;;;;;;;;x
+FRA_411;フランシュ＝コンテ;;;;;;;;;;;;x
+HAW_658;ハワイ諸島;;;;;;;;;;;;x
+AST_2527;キリバス;;;;;;;;;;;;x
+AST_801;ポリネシア;;;;;;;;;;;;x
+AST_2454;フィジー;;;;;;;;;;;;x
+AST_2535;バヌアツ;;;;;;;;;;;;x
+AST_2244;クリスマス島・ココス諸島;;;;;;;;;;;;x
+RUS_1104;バクー;;;;;;;;;;;;x
+RUS_1102;アゼルバイジャン;;;;;;;;;;;;x
+ENG_2224;西インド諸島;;;;;;;;;;;;x
+REMOVE_ENG_203;北カリブ諸島;;;;;;;;;;;;x
+ENG_2228;小アンティル諸島;;;;;;;;;;;;x
+MEX_2138;ソノラ;;;;;;;;;;;;x
+MEX_2142;チワワ;;;;;;;;;;;;x
+MEX_2151;ドゥランゴ;;;;;;;;;;;;x
+MEX_2146;ヌエボ・レオン;;;;;;;;;;;;x
+MEX_2173;サカテカス;;;;;;;;;;;;x
+MEX_2161;ハリスコ;;;;;;;;;;;;x
+MEX_2170;モレリア;;;;;;;;;;;;x
+MEX_2162;メキシコ;;;;;;;;;;;;x
+MEX_2183;ユカタン;;;;;;;;;;;;x
+CLM_2251;アンティオキア;;;;;;;;;;;;x
+CLM_2247;クンディナマルカ;;;;;;;;;;;;x
+CLM_2262;グアビアーレ;;;;;;;;;;;;x
+CLM_2256;バジェ・デル・カウカ;;;;;;;;;;;;x
+BRZ_2401;アマゾナス;;;;;;;;;;;;x
+VNZ_2234;スリア;;;;;;;;;;;;x
+VNZ_2265;ミランダ;;;;;;;;;;;;x
+VNZ_2278;ボリバル;;;;;;;;;;;;x
+ENG_1979;ガイアナ;;;;;;;;;;;;x
+PEU_2289;パスタサ;;;;;;;;;;;;x
+BRZ_2408;パラー;;;;;;;;;;;;x
+BRZ_2410;マラニョン;;;;;;;;;;;;x
+BRZ_2427;リオグランデ・ド・ノルテ;;;;;;;;;;;;x
+BRZ_2428;ペルナンブーコ;;;;;;;;;;;;x
+BRZ_2439;バイーア;;;;;;;;;;;;x
+BRZ_2416;マットグロッソ;;;;;;;;;;;;x
+BRZ_2246;ミナスジェライス;;;;;;;;;;;;x
+BRZ_2447;リオ・デ・ジャネイロ;;;;;;;;;;;;x
+BRZ_2306;サンパウロ;;;;;;;;;;;;x
+BRZ_2462;パラナ;;;;;;;;;;;;x
+BRZ_2467;リオグランデ・ド・スル;;;;;;;;;;;;x
+PEU_2291;カハマルカ;;;;;;;;;;;;x
+PEU_2300;リマ;;;;;;;;;;;;x
+PEU_2297;イカ;;;;;;;;;;;;x
+PEU_2303;アレキパ;;;;;;;;;;;;x
+PRG_2338;アルト・パラグアイ;;;;;;;;;;;;x
 PRG_2343;Bajo Paraguay;;;;;;;;;;;;x
-BOL_2321;La Paz;;;;;;;;;;;;x
-BOL_2317;Santa Cruz;;;;;;;;;;;;x
-BOL_2305;Potosí;;;;;;;;;;;;x
-CHL_2332;Araucania;;;;;;;;;;;;x
-CHL_2322;Santiago;;;;;;;;;;;;x
-CHL_2327;Los Ríos;;;;;;;;;;;;x
-ARG_2368;Jujuy;;;;;;;;;;;;x
-ARG_2387;Tucumán;;;;;;;;;;;;x
-ARG_2393;Río Negro;;;;;;;;;;;;x
-ARG_2377;Chaco;;;;;;;;;;;;x
-ARG_2384;La Pampa;;;;;;;;;;;;x
-ARG_2357;Corrientes;;;;;;;;;;;;x
-ARG_2363;Santa Fe;;;;;;;;;;;;x
-ARG_2355;Buenos Aires;;;;;;;;;;;;x
+BOL_2321;ラパス;;;;;;;;;;;;x
+BOL_2317;サンタ・クルス;;;;;;;;;;;;x
+BOL_2305;ポトシ;;;;;;;;;;;;x
+CHL_2332;アラウカニア;;;;;;;;;;;;x
+CHL_2322;サンティアゴ;;;;;;;;;;;;x
+CHL_2327;ロス・リオス;;;;;;;;;;;;x
+ARG_2368;フフイ;;;;;;;;;;;;x
+ARG_2387;トゥクマン;;;;;;;;;;;;x
+ARG_2393;リオネグロ;;;;;;;;;;;;x
+ARG_2377;チャコ;;;;;;;;;;;;x
+ARG_2384;ラ・パンパ;;;;;;;;;;;;x
+ARG_2357;コリエンテス;;;;;;;;;;;;x
+ARG_2363;サンタフェ;;;;;;;;;;;;x
+ARG_2355;ブエノスアイレス;;;;;;;;;;;;x
 ARG_2391;Patagonia Septentrional;;;;;;;;;;;;x
 ARG_2398;Patagonia Meridional;;;;;;;;;;;;x
-ENG_43;Nunavut;;;;;;;;;;;;x
-ENG_68;New Brunswick;;;;;;;;;;;;x
-SPA_1463;Mindanao;;;;;;;;;;;;x
-SPA_1455;Luzón;;;;;;;;;;;;x
-SPA_1459;Visayas;;;;;;;;;;;;x
+ENG_43;ヌナヴト;;;;;;;;;;;;x
+ENG_68;ニューブランズウィック;;;;;;;;;;;;x
+SPA_1463;ミンダナオ;;;;;;;;;;;;x
+SPA_1455;ルソン;;;;;;;;;;;;x
+SPA_1459;ビサヤ諸島;;;;;;;;;;;;x
 catholic;カトリック;;;;;;;;;;;;x
 protestant;プロテスタント;;;;;;;;;;;;x
 orthodox;正教会;;;;;;;;;;;;x

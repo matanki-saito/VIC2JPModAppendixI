@@ -38,7 +38,7 @@ war_we_lose_medium_title;SHAMEFUL PEACE SIGNED!;;;;;;;;;;;;x
 war_we_lose_medium_desc;On $DATE_LONG_1$, the War between $TAG_0_0$ and $TAG_1_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end $TAG_2_0$ was the victor.;;;;;;;;;;;;x
 war_we_lose_small_title;Peace with $TAG_2_0$;;;;;;;;;;;;x
 war_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $TAG_2_0$;;;;;;;;;;;;x
-rebels_win_small_title;Revolution!;;;;;;;;;;;;x
+rebels_win_small_title;革命！;;;;;;;;;;;;x
 rebels_win_small_desc;$STRING_0_0$ have defeated $TAG_0_0$ and broken the country, what will the $STRING_0_3$ $STRING_0_4$ do now?;;;;;;;;;;;;x
 KEYNAME;テキスト;;;;;;;;;;;;x
 some_fake_1836_title_1;Opiate update!;;;;;;;;;;;;x
@@ -54,7 +54,7 @@ some_fake_1836_5;Postage stamp introduced in the United kingdom, known as “Pen
 some_fake_1836_title_6;Out now!;;;;;;;;;;;;x
 some_fake_1836_6;“Dead souls” released in Russia, critics claim it is too difficult.;;;;;;;;;;;;x
 some_fake_1836_title_7;Woodwind or Brass?;;;;;;;;;;;;x
-some_fake_1836_title_8;Gold rush!;;;;;;;;;;;;x
+some_fake_1836_title_8;ゴールドラッシュ！;;;;;;;;;;;;x
 some_fake_1836_8;Gold discovered in California, massive rush of prospectors to the area!;;;;;;;;;;;;x
 some_fake_1836_title_9;The Raven' published;;;;;;;;;;;;x
 some_fake_1836_9;A grim tour-de-force, Poe’s latest short story is sure to raise the hairs on the back of your neck.;;;;;;;;;;;;x
@@ -62,14 +62,14 @@ some_fake_1836_title_10;The bountiful female form;;;;;;;;;;;;x
 some_fake_1836_10;(reader discretion is advised) Female waist and hip sizes are apparently at an all-time minimum and maximum respectively. Continued on page 5;;;;;;;;;;;;x
 some_fake_1836_title_11;Editorial;;;;;;;;;;;;x
 some_fake_1836_11;This liberalism will destroy the western civilisation. Without strong government, people are going to starve and revert to barbarism to survive and feed their children. (see pg. 10);;;;;;;;;;;;x
-some_fake_1850_title_1;Our ancestors?;;;;;;;;;;;;x
+some_fake_1850_title_1;我々の祖先？;;;;;;;;;;;;x
 some_fake_1850_1;Scientists amazed by "Neanderthal man" fossil discovery in Germany.;;;;;;;;;;;;x
 some_fake_1850_title_2;Editorial:;;;;;;;;;;;;x
 some_fake_1850_2;It is the assured opinion of this newspaper that animal-fat is the perfect substance for greasing bullet-cartridges. See how we reached this unshakable conclusion inside (see pg 10);;;;;;;;;;;;x
 some_fake_1850_title_3;Canals in decline;;;;;;;;;;;;x
 some_fake_1850_3;The once-proud canal system of our nation is seen to be in precipitous decline. What can be done? Continued on page 4;;;;;;;;;;;;x
-some_fake_1860_title_1;Lincoln assassinated;;;;;;;;;;;;x
-some_fake_1860_1;Abraham Lincoln assassinated in Ford’s theatre by John Wilkes Booth, shot dead at close range.;;;;;;;;;;;;x
+some_fake_1860_title_1;リンカーン暗殺される;;;;;;;;;;;;x
+some_fake_1860_1;エイブラハム・リンカーンはフォード劇場でジョン・ウィルクス・ブースに至近距離から銃撃され暗殺された。;;;;;;;;;;;;x
 some_fake_1860_title_2;Lincoln fine;;;;;;;;;;;;x
 some_fake_1860_2;Failed assassination attempt of Abraham Lincoln by John Wilkes Booth, President throws assailant from balcony of Ford’s theatre.;;;;;;;;;;;;x
 some_fake_1860_title_3;Unsporting;;;;;;;;;;;;x
@@ -84,7 +84,7 @@ some_fake_1860_title_7;Sombrero width at an all-time high;;;;;;;;;;;;x
 some_fake_1860_7;It is reported that the width of an average bandito’s sombrero has risen to an astounding 57 inches in Mexico.;;;;;;;;;;;;x
 some_fake_1860_title_8;Fire-brigade' established;;;;;;;;;;;;x
 some_fake_1860_8;They're new, but they're good. ;;;;;;;;;;;;x
-some_fake_1860_title_9;Football gains popularity;;;;;;;;;;;;x
+some_fake_1860_title_9;サッカーの人気が高まる;;;;;;;;;;;;x
 some_fake_1860_9;Attendances at association football matches have risen recently, with the spectacle proving especially popular amongst members of the labouring and destitute classes. ;;;;;;;;;;;;x
 some_fake_1860_title_10;Editorial:;;;;;;;;;;;;x
 some_fake_1860_10;Beware the female bicycleatrix. Women astride machines, petticoats fluttering carelessly in the breeze, ankles exposed for all to see, will send men into a deranged frenzy ( pg. 10);;;;;;;;;;;;x
@@ -98,13 +98,13 @@ some_fake_1870_title_3;Corset-related fainting;;;;;;;;;;;;x
 some_fake_1870_3;Is at an all-time high! Yet again our nation’s spas, hospitals and chaise-longues are inundated with victims of corset overtightening.;;;;;;;;;;;;x
 some_fake_1880_title_1;Airborn Success!;;;;;;;;;;;;x
 some_fake_1880_1;La France, a French military airship, becomes first powered airship to make a successful round trip.;;;;;;;;;;;;x
-some_fake_1880_title_2;High-rise Buildings;;;;;;;;;;;;x
+some_fake_1880_title_2;高層建築物;;;;;;;;;;;;x
 some_fake_1880_2;“Sky-Scrapers” built in America, these massive steel-framed buildings tower over their surroundings.;;;;;;;;;;;;x
 some_fake_1880_title_3;Mint juleps saved!;;;;;;;;;;;;x
-some_fake_1880_3;Marvin C. Stone, in the USA, invents the ”drinking straw”.;;;;;;;;;;;;x
+some_fake_1880_3;アメリカのマーヴィン・C・ストーンが「飲用藁（ストロー）」を発明した。;;;;;;;;;;;;x
 some_fake_1880_title_4;Nothing can go wrong here;;;;;;;;;;;;x
 some_fake_1880_4;Cure for morphine addiction discovered in USA: Coca-wine!;;;;;;;;;;;;x
-some_fake_1880_title_5;Bismarck resigns;;;;;;;;;;;;x
+some_fake_1880_title_5;ビスマルクが辞職;;;;;;;;;;;;x
 some_fake_1880_5;Bismarck resigns as Chancellor of Germany, ship of state loses her pilot.;;;;;;;;;;;;x
 some_fake_1880_title_6;Editorial:;;;;;;;;;;;;x
 some_fake_1880_6;This socialism will destroy western civilisation. Why, it will empower the working classes, allowing them to believe they are as good and worthy as the rich. Pish & fipsy! (pg 10) ;;;;;;;;;;;;x
@@ -127,13 +127,13 @@ some_fake_1890_7;Reputed paleontologist O.C Marsh revealed today that the famed 
 some_fake_1900_title_1;Lighter than air;;;;;;;;;;;;x
 some_fake_1900_1;The first zeppelin flight occurs over Lake Constance near Friedrichshafen, Germany.;;;;;;;;;;;;x
 some_fake_1900_title_2;Disaster!;;;;;;;;;;;;x
-some_fake_1900_2;A powerful hurricane has hit Galveston, Texas, USA killing around 8,000 people.;;;;;;;;;;;;x
+some_fake_1900_2;米国テキサスのガルベストンを強烈なハリケーンが襲い、およそ8,000人が犠牲となった。;;;;;;;;;;;;x
 some_fake_1900_title_3;Disaster!;;;;;;;;;;;;x
-some_fake_1900_3;In Martinique, Mount Pelée has erupted, destroying the town of Saint-Pierre and killing over 30,000.;;;;;;;;;;;;x
+some_fake_1900_3;マルティニーク島のプレー山が噴火したことにより、サン・ピエールの街は破壊され30,000人以上の人々が犠牲となった。;;;;;;;;;;;;x
 some_fake_1900_title_4;Disaster!;;;;;;;;;;;;x
-some_fake_1900_4;Mount Vesuvius has erupted, devastating Naples.;;;;;;;;;;;;x
+some_fake_1900_4;ヴェスヴィオ山が噴火し、ナポリは壊滅的被害を受けた。;;;;;;;;;;;;x
 some_fake_1900_title_6;Disaster!;;;;;;;;;;;;x
-some_fake_1900_6;An earthquake and tsunami has hit  Messina and Calabria, in Sicily, killing over 70,000 people.;;;;;;;;;;;;x
+some_fake_1900_6;シチリアのメッシーナとカラブリアを地震と津波が襲い、70,000人以上の人々が犠牲になった。;;;;;;;;;;;;x
 some_fake_1900_title_7;The Captain of Köpenick;;;;;;;;;;;;x
 some_fake_1900_7;An impostor masquerading as a German military officer managed to fool soldiers in Berlin and steal over 4000 marks due to so-called suspicions of crooked bookkeeping. He gave a receipt. ;;;;;;;;;;;;x
 some_fake_1910_title_1;Disaster!;;;;;;;;;;;;x
@@ -268,7 +268,7 @@ some_fake_ANY_title_46;Law discussed;;;;;;;;;;;;x
 some_fake_ANY_46;Lawyers from all over the country convened today in $OURCAPITAL$ to discuss eventual updates to the country's judiciary system in matters of civil and criminal law.;;;;;;;;;;;;x
 some_fake_ANY_title_48;The history of $OURCOUNTRY$;;;;;;;;;;;;x
 some_fake_ANY_48;A definitive multivolume work on the history of the $OURCOUNTRY_ADJ$ civilization has finally been completed. Leading historians proclaim it the greatest reference yet, true to our heroic deeds.;;;;;;;;;;;;x
-some_fake_ANY_title_49;Bach Concert;;;;;;;;;;;;x
+some_fake_ANY_title_49;バッハの演奏会;;;;;;;;;;;;x
 some_fake_ANY_49;A dash of nostalgia for all enthusiasts of music. A collection of Bach's most famous pieces will be played by the $OURCOUNTRY_ADJ$ National Orchestra next week in the Grand Concert Hall of $OURCAPITAL$. ;;;;;;;;;;;;x
 some_fake_ANY_title_50;Stone delivered;;;;;;;;;;;;x
 some_fake_ANY_50;Inhabitants of $ANYPROVINCE$ puzzled by the delivery of gigantic pieces of marble from abroad. Rumour has it that a new grandiose monument will be built in the capital's main square.;;;;;;;;;;;;x

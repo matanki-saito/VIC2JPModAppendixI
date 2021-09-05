@@ -198,9 +198,9 @@ D11;$REGION$民主共和国;;;;;;;;;;;;x
 D11_ADJ;Depublican;;;;;;;;;;;;x
 D12;The $REGION$ Union;;;;;;;;;;;;x
 D12_ADJ;Unionite;;;;;;;;;;;;x
-D13;The $REGION$ Kingdom;;;;;;;;;;;;x
+D13;$REGION$王国;;;;;;;;;;;;x
 D13_ADJ;Kingsmen;;;;;;;;;;;;x
-D14;The Dominion of $REGION$;;;;;;;;;;;;x
+D14;$REGION$自治領;;;;;;;;;;;;x
 D14_ADJ;Dominion;;;;;;;;;;;;x
 D15;$REGION$大公国;;;;;;;;;;;;x
 D15_ADJ;Grandee;;;;;;;;;;;;x
@@ -224,7 +224,7 @@ D24;The Glorious Union of $REGION$;;;;;;;;;;;;x
 D24_ADJ;Glorious;;;;;;;;;;;;x
 D25;Mighty $REGION$;;;;;;;;;;;;x
 D25_ADJ;Mighty;;;;;;;;;;;;x
-D26;The $REGION$ Free State;;;;;;;;;;;;x
+D26;$REGION$自由国;;;;;;;;;;;;x
 D26_ADJ;Freestator;;;;;;;;;;;;x
 D27;The $REGION$ Commonwealth;;;;;;;;;;;;x
 D27_ADJ;Commonwealth;;;;;;;;;;;;x
@@ -232,7 +232,7 @@ D28;The $REGION$ Confederacy;;;;;;;;;;;;x
 D28_ADJ;Confederate;;;;;;;;;;;;x
 D29;The Free People of $REGION$;;;;;;;;;;;;x
 D29_ADJ;Freepeople;;;;;;;;;;;;x
-D30;The $REGION$ Republic;;;;;;;;;;;;x
+D30;$REGION$共和国;;;;;;;;;;;;x
 D30_ADJ;Republican;;;;;;;;;;;;x
 D31;The Holy Union of $REGION$;;;;;;;;;;;;x
 D31_ADJ;Zealot;;;;;;;;;;;;x
@@ -254,19 +254,19 @@ D39;The Most Serene Republic of $REGION$;;;;;;;;;;;;x
 D39_ADJ;Serene;;;;;;;;;;;;x
 D40;The Secret Kingdom of $REGION$;;;;;;;;;;;;x
 D40_ADJ;Secret;;;;;;;;;;;;x
-D41;The Commune of $REGION$;;;;;;;;;;;;x
+D41;$REGION$・コミューン;;;;;;;;;;;;x
 D41_ADJ;Communist;;;;;;;;;;;;x
 D42;$REGION$・コミューン;;;;;;;;;;;;x
 D42_ADJ;Communist;;;;;;;;;;;;x
 D43;The Worker's Union of $REGION$;;;;;;;;;;;;x
 D43_ADJ;Worker;;;;;;;;;;;;x
-D44;The Landgrave of $REGION$;;;;;;;;;;;;x
+D44;$REGION$方伯;;;;;;;;;;;;x
 D44_ADJ;Landgravine;;;;;;;;;;;;x
 D45;The Nation of $REGION$;;;;;;;;;;;;x
 D45_ADJ;Nationite;;;;;;;;;;;;x
 D46;Holy $REGION$;;;;;;;;;;;;x
 D46_ADJ;Zealous;;;;;;;;;;;;x
-D47;The $REGION$ Dominion;;;;;;;;;;;;x
+D47;$REGION$自治領;;;;;;;;;;;;x
 D47_ADJ;Dominator;;;;;;;;;;;;x
 D48;The People's State of $REGION$;;;;;;;;;;;;x
 D48_ADJ;Popular;;;;;;;;;;;;x

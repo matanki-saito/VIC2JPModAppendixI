@@ -201,7 +201,7 @@ TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$ may be used by our armies as a daily su
 TRADE_FLOW_MAY_USE_DESC;$INPUT$ may be used by $PRODUCER$ to produce $OUTPUT$.;;;;;;;;;;;;x
 TRADE_FLOW_MILITARY_SUPPLY;Military Consumption;;;;;;;;;;;;x
 TRADE_FLOW_CURRENT_PRICE;Current Price:;;;;;;;;;;;;x
-TRADE_FLOW_DETAILS;Details;;;;;;;;;;;;x
+TRADE_FLOW_DETAILS;詳細;;;;;;;;;;;;x
 TRADE_FLOW_PART_OF_WORLD_PROD;§Y$PERC$%§W of world production.;;;;;;;;;;;;x
 EMIGRATION_AT_PROVINCE_TOOLTIP;(§R$TOTALEMI$§!) §YEmigrations to:§!\n$EMILIST$\n(§G$TOTALIMM$§!) §YImmigrations from:§!\n$IMMLIST$;;;;;;;;;;;;x
 NO_MIGRATIONS_FOUND1_TOOLTIP;Province belongs to: §Y$COUNTRY$§!;;;;;;;;;;;;x

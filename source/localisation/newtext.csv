@@ -116,13 +116,13 @@ navy_tech_research_bonus;Navy Tech Research;;;;;;;;;;;;x
 THERE_ARE_BACKING;§Y$VAL$§W of the population want this reform.;;;;;;;;;;;;x
 ORG_EXPLANATION_TT;The higher this percentage is, the stronger the rebel uprising will become.;;;;;;;;;;;;x
 COLONIAL_MIGRATION_TECH;Colonial Migration;;;;;;;;;;;;x
-COMBAT_WIDTH_TECH;Combat Width;;;;;;;;;;;;x
+COMBAT_WIDTH_TECH;戦闘幅;;;;;;;;;;;;x
 PLURALITY_EXPLANATION;Plurality is the shared level of consciousness in our country. The memories of the past victories and defeats in the name of liberty remind our people of what could be.;;;;;;;;;;;;x
 REMOVE_REVANCHISM_EXPLANATION;From the French word revenge, Revanchism is the yearning for the return for our rightful land. Our people are ready to make greater sacrifices for their return.;;;;;;;;;;;;x
 GAIN_PROVINCE;Gain §Y$WHERE$§W from §Y$WHO$§W.\n;;;;;;;;;;;;x
-build_kiel_canal_title;Build the Kiel Canal;;;;;;;;;;;;x
+build_kiel_canal_title;キール運河の建設;;;;;;;;;;;;x
 build_kiel_canal_desc;Building a canal between the Baltic and The North Sea would be a tremendous boon to our shipping, and we are in a position to build one in Kiel.;;;;;;;;;;;;x
-build_suez_canal_title;Build the Suez Canal;;;;;;;;;;;;x
+build_suez_canal_title;スエズ運河の建設;;;;;;;;;;;;x
 build_suez_canal_desc;One of the long standing problems for shipping on the Far Eastern and India trades has always been the need to round the African Cape in order to actually get there. By establishing a canal through the Suez, we will shorten the journey to Asia by days, as well as perform a wonderful feat of modern engineering.;;;;;;;;;;;;x
 build_panama_canal_title;パナマ運河の建設;;;;;;;;;;;;x
 build_panama_canal_desc;Proposals for a Canal across the Panama Isthmus probably date back to the first discovery of the area. Nowhere is the strip of land that unites the North and South American continents thinner than here, and, with the aid of modern engineering, we could shorten the travel time between the Atlantic and The Pacific by several days by building it.;;;;;;;;;;;;x
@@ -243,8 +243,8 @@ WARINDEMNITIES_EXPENSE;War indemnities: §R$VAL$§W;;;;;;;;;;;;x
 WARSUBSIDIES_INCOME;War subsidies: §G$VAL$§W;;;;;;;;;;;;x
 WARINDEMNITIES_INCOME;War indemnities: §G$VAL$§W;;;;;;;;;;;;x
 REMOVE_BUDGET_DIPL_DESC;Various costs/income uncured though diplomacy or peace deals;;;;;;;;;;;;x
-sami;Sami;;;;;;;;;;;;x
-pan_romanian;Romanian;;;;;;;;;;;;x
+sami;サーミ;;;;;;;;;;;;x
+pan_romanian;ルーマニア;;;;;;;;;;;;x
 MODIFIER_MOBILISED;Mobilized: $VALUE$;;;;;;;;;;;;x
 MODIFIER_OVERSEAS;Overseas penalty: $VALUE$;;;;;;;;;;;;x
 TRADE_OVERSEAS_NEED;$VAL$ for provinces overseas.\n;;;;;;;;;;;;x
@@ -288,7 +288,7 @@ MILITARY_ARMY_ORG;Land organization;;;;;;;;;;;;x
 MILITARY_NAVY_ORG;Naval organization;;;;;;;;;;;;x
 MILITARY_UNIT_EXPERIENCE;Unit start experience;;;;;;;;;;;;x
 MILITARY_RECRUIT_TIME;Recruit time;;;;;;;;;;;;x
-MILITARY_COMBAT_WIDTH;Combat Width;;;;;;;;;;;;x
+MILITARY_COMBAT_WIDTH;戦闘幅;;;;;;;;;;;;x
 COMWID_BASE;Base Value: §Y$VAL$§W;;;;;;;;;;;;x
 MILITARY_WAR_EXHAUSTION_TOOLTIP;War exhaustion: $VALUE$;;;;;;;;;;;;x
 MILITARY_MAX_WAR_EXHAUSTION_TOOLTIP;Max War exhaustion: $VALUE$;;;;;;;;;;;;x
@@ -596,7 +596,7 @@ EVTOPTA14140;Of course the church must be renovated!;;;;;;;;;;;;x
 EVTOPTB14140;Some funds could be considered on grounds of cultural importance;;;;;;;;;;;;x
 EVTOPTC14140;This issue must fundamentally be left to popular sovereignty;;;;;;;;;;;;x
 EVTOPTD14140;We must oppose such plans on grounds of principle.;;;;;;;;;;;;x
-EVTOPTE14140;God is dead;;;;;;;;;;;;x
+EVTOPTE14140;神は死んだ;;;;;;;;;;;;x
 EVTNAME14150;Immigration & Employment;;;;;;;;;;;;x
 EVTNAME14150_sub;Immigration Debate in Local Elections;;;;;;;;;;;;x
 EVTDESC14150;The current inflow of immigrants has created a demand for more jobs. Advocates of immigrant rights demand that newly naturalized citizens be accorded the same rights as residents by birth. The situation has become a topic of debate in the local election.;;;;;;;;;;;;x
@@ -621,7 +621,7 @@ EVTOPTB14170;Full citizenship, with only minor qualifications, is the way forwar
 EVTOPTC14170;We essentially endorse full citizenship;;;;;;;;;;;;x
 EVTOPTD14170;Full citizenship is, sadly, not an option;;;;;;;;;;;;x
 EVTOPTE14170;Immigrants!? In *my* $COUNTRY$!?;;;;;;;;;;;;x
-EVTNAME14180;War & Peace;;;;;;;;;;;;x
+EVTNAME14180;戦争と平和;;;;;;;;;;;;x
 EVTNAME14180_sub;Militarism Debated in Election Campaign;;;;;;;;;;;;x
 EVTDESC14180;The debate in $COUNTRY$ in the preludes to the coming election mostly concerns the military and defense policies of $COUNTRY$. The state has long been a bastion of hawkish sentiments with regards to foreign policy, and this year does not seem to be an exception. It is clear that jingoistic policies will be favored in voter turnouts, but a turn in the debate could perhaps reduce the impact.;;;;;;;;;;;;x
 EVTOPTA14180;To war, by Jingo!;;;;;;;;;;;;x
@@ -761,7 +761,7 @@ EVTNAME17090;Leaflet Campaign;;;;;;;;;;;;x
 EVTDESC17090;We covered the entire city. Me and the girls split up, met at the corner of Main St. and 3rd, and then went off to each try to cover a block or two. It was hard work, but I remember it as a happy time.'\n\n$COUNTRY_ADJ$ Suffragettes have undertaken a leaflet campaign in one of our states, in order to gain traction for their cause. All around the city, women can be seen wearing placards and handing out leaflets asking for support for a whole host of suffragette causes: From property, to marriage, to domestic law to the vote and beyond.;;;;;;;;;;;;x
 EVTOPTA17090;I'm not sure how the locals will feel about all this littering. Not sure at all.;;;;;;;;;;;;x
 EVTOPTB17090;Isn't there at least one MP living thereabouts?;;;;;;;;;;;;x
-EVTNAME17100;Education for Women;;;;;;;;;;;;x
+EVTNAME17100;女子教育;;;;;;;;;;;;x
 EVTDESC17100;If you, sir, is upset by the fact that Student No. 156 wears a bonnet, I would be pleased to remove my conspicuous headgear and take a seat at the rear of the classroom, but I  will not voluntarily absent myself from a lecture.'\n\nWoman causes scandal at a $COUNTRY_ADJ$ university, by being there. A woman has enrolled at one of our institutions of higher learning, and the event has caused a fair amount of scandal among local conservatives.;;;;;;;;;;;;x
 EVTOPTA17100;Throw that willy-nilly out of my institution of higher learning!;;;;;;;;;;;;x
 EVTOPTB17100;So our erudites are intimidated by the female intellect?;;;;;;;;;;;;x
@@ -780,7 +780,7 @@ EVTNAME17140;Suffragette Hunger Strike!;;;;;;;;;;;;x
 EVTDESC17140;A $COUNTRY_ADJ$ suffragette, jailed on account of violent protesting during a rally, has gone on a two week hunger strike in one of our states' prisons, protesting $COUNTRY$'s supposedly poor treatment of its women. The strike is carried out under the slogan 'Votes for women', and the case has made woman's suffrage the focal point of the local political debate, with every newspaper left, right and center reporting on the case.;;;;;;;;;;;;x
 EVTOPTA17140;I suggest that the local authorities force feed that hysterical woman;;;;;;;;;;;;x
 EVTOPTB17140;Release her and let us be done with this affair;;;;;;;;;;;;x
-EVTNAME17150;Cat and Mouse Act;;;;;;;;;;;;x
+EVTNAME17150;猫とねずみ法;;;;;;;;;;;;x
 EVTDESC17150;The (so-called) Cat and Mouse Act was an infamous British law passed in 1912 in order to combat the suffragette tactic of using hunger strikes as a means to build sympathy for the Suffragette cause. The law stated that a person could be released from jail to recover from any serious illness, only to be jailed again on recovery, thereby washing the government's hands of any harm caused to the woman in question by the hunger strike. A similar ordinance has found its way into the legislature of one of our states, where suffragette hunger strikes are handled in this exact same way.;;;;;;;;;;;;x
 EVTOPTA17150;Use the pressure of the central government to end the legislation;;;;;;;;;;;;x
 EVTOPTB17150;Ignore the matter;;;;;;;;;;;;x
@@ -806,7 +806,7 @@ EVTNAME17510;Demonstration Turned Sour;;;;;;;;;;;;x
 EVTDESC17510;Screams can be heard from a workplace in one of our states, where socialist agitators have turned an ongoing labour conflict from bad to worse. Local capitalists are appalled at the liberties these revolutionaries allow themselves with regards to how, when and where they preach their revolutionary ideology, and are considering forming a citizen guard, should the situation escalate further.;;;;;;;;;;;;x
 EVTOPTA17510;We will not recommend our citizens to form protection rackets;;;;;;;;;;;;x
 EVTOPTB17510;Anything to stave off the red hydra!;;;;;;;;;;;;x
-EVTNAME17520;Sabotage;;;;;;;;;;;;x
+EVTNAME17520;破壊活動;;;;;;;;;;;;x
 EVTDESC17520;A factory in one of our states has become the target of a mild, but costly, sabotage campaign during the past few weeks, and local management suspects that a know socialist agitator in the area is responsible for this development, as the gentleman in question is known by management to have taken issue with a decision they recently took regarding company internal division of labour.;;;;;;;;;;;;x
 EVTOPTA17520;You mean you fired someone? Nothing wrong with that!;;;;;;;;;;;;x
 EVTOPTB17520;Denounce the profiteering of those fat-cats;;;;;;;;;;;;x
@@ -1079,7 +1079,7 @@ USA_220;コロンビア特別区;;;;;;;;;;;;x
 USA_218;ウェストバージニア;;;;;;;;;;;;x
 USA_219;メリーランド;;;;;;;;;;;;x
 EVTDESC16000;A house divided against itself cannot stand. I believe this government cannot endure, permanently, half slave and half free. I do not expect the Union to be dissolved — I do not expect the house to fall — but I do expect it will cease to be divided. It will become all one thing or all the other.' -- Abraham Lincoln\n\nIt is over. All attempts at compromise, the efforts of decades of public discourse on the issue of slavery, have failed. This morning the congressmen from the Southern states resigned their offices, and the slave states declared secession from the perpetual Union. The states of Missouri and Maryland, along with the Western Part of Virginia, have declared themselves for the Union, and Washington D.C. is under the control of Union troops. A southern wind blows hard on our house divided.;;;;;;;;;;;;x
-emancipation_proclamation_title;Emancipation Proclamation;;;;;;;;;;;;x
+emancipation_proclamation_title;奴隷解放宣言;;;;;;;;;;;;x
 emancipation_proclamation_desc;The Emancipation Proclamation is the collective name for two executive presidential orders issued by President Abraham Lincoln during the Civil War, declaring the emancipation of all slaves in the Southern United States. By issuing the Emancipation Proclamation, we will let the world know that the stakes in the present war is nothing save the freedom of all black men in the Union.;;;;;;;;;;;;x
 GC_DESC;The ideals of the French Revolution were believed to have met their final demise at the hands of the Ancien Régimes of Europe. The flames of revolution may have been put out for now, but the ideas of nationalism and liberalism can never die. This new era of unprecedented technological progress, doubts will be cast on certainties that have stood since time immemorial. Far away, across the briny foam, the riches of Asia and Africa beckon. Maestro, choose your instrument, and let the music play.;;;;;;;;;;;;x
 HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is greater than: ;;;;;;;;;;;;x
@@ -1117,8 +1117,8 @@ POLITICS_SHOW_REFORMS;Show Reforms;;;;;;;;;;;;x
 POLITICS_RELEASE_VASSAL;Release Nation;;;;;;;;;;;;x
 POLITICS_RELEASE_VASSAL_DESC;§Y$TAG$§b will receive the following §Y$NUM$§b province(s): §Y$PROVINCES$§b;;;;;;;;;;;;x
 POLITICS_RELEASE_VASSAL_DESC_LIMIT;§b and others.;;;;;;;;;;;;x
-POLITICS_SATELLITE;Satellite;;;;;;;;;;;;x
-POLITICS_DOMINION;Dominion;;;;;;;;;;;;x
+POLITICS_SATELLITE;衛星国;;;;;;;;;;;;x
+POLITICS_DOMINION;自治領;;;;;;;;;;;;x
 POLITICS_RELEASE_VASSAL_TOOLTIP;Release §Y$TAG$§W as a §Y$TYPE$§W. §Y$TAG$§W will receive the following §Y$NUM$§W province(s): §Y$PROVINCES$§W;;;;;;;;;;;;x
 HOLD_ELECTION;Hold Election;;;;;;;;;;;;x
 civil_war;Civil War;;;;;;;;;;;;x
@@ -1148,7 +1148,7 @@ fatherland_volunteers_desc;During The War of The Triple Alliance, when Paraguaya
 ATWAR;The country is at war;;;;;;;;;;;;x
 law_1420_of_general_common_education_title;Law 1420;;;;;;;;;;;;x
 law_1420_of_general_common_education_desc;Law 1420 of General Common Education was an Argentine law passed in 1884, during president Julio Argentino Roca, that established the country's first free, mandatory, national and secular system of education. While the secular slant of the law caused some friction between the catholic church and the Argentine government, the law can nevertheless be regarded a landmark in the history of Argentine education.;;;;;;;;;;;;x
-danmarks_riges_grundlov_title;Danmarks Riges Grundlov;;;;;;;;;;;;x
+danmarks_riges_grundlov_title;デンマーク王国憲法;;;;;;;;;;;;x
 danmarks_riges_grundlov_desc;Denmark had been an absolute monarchy since 1660 when, on June fifth 1849, King Frederick VII signed the document known as 'Danmarks Riges Grundlov', The Danish Constitution, into law. The signing of a constitution delimiting the monarch's power, a development which Fredericks predecessors had fought hard to avoid, came about during a period of Danish national unity, following the First Schleswig War. The constitution marks Denmark's transition away from absolutism, and to a constitutional monarchy. Let us give our people a constitution!;;;;;;;;;;;;x
 ADD_WARGOAL_DESC;Require $COST$ war score to demand;;;;;;;;;;;;x
 ADD_WARGOAL_PEACE_COST;Costs $COST$ war score to demand in a peace deal;;;;;;;;;;;;x
@@ -1187,7 +1187,7 @@ EVTOPTA2080;I'm not sure we can be bothered;;;;;;;;;;;;x
 EVTOPTB2080;We shall certainly investigate the situation;;;;;;;;;;;;x
 sign_treaty_of_london_title;ロンドン条約;;;;;;;;;;;;x
 sign_treaty_of_london_desc;While Belgium's de facto independence from The Netherlands had been established by force of arms during the Belgian revolution of 1831, it had not been confirmed de jure by The Netherlands until the signing of the Treaty of London. In 1839 The Netherlands, along with all the Great Powers of Europe, signed the treaty, which formally established Belgium's independence and neutrality. By signing the treaty we will lose our claim to Belgium, but our standing in the eyes of the world will improve.;;;;;;;;;;;;x
-EVTNAME2090;Segregation;;;;;;;;;;;;x
+EVTNAME2090;隔離政策;;;;;;;;;;;;x
 EVTDESC2090;Newly arrived immigrants in $PROVINCENAME$ are finding it hard to assimilate into the broader $COUNTRY_ADJ$ populace, and many among the local population have come to view them as an alien presence. Immigrants live in separate areas of the city, go to separate schools and shops, and generally have very little contact with the extended community.;;;;;;;;;;;;x
 EVTOPTA2090;They must be integrated, by force if necessary;;;;;;;;;;;;x
 EVTOPTB2090;Seems that the locals have the right ideas there!;;;;;;;;;;;;x
@@ -1378,7 +1378,7 @@ become_negusa_nagast_title;ネグサ・ナガスト;;;;;;;;;;;;x
 become_negusa_nagast_desc;The 'Zemene Mesafint', the 'Age of Princes', was a period in Ethiopian history lasting from about 1769 to the coronation of Tweodros II in 1855, during which Ethiopia was largely fractioned due to political infighting, and the imperial office reduced to the status of a mere figurehead. The coronation of Tweodros to 'Negusa Nagast', 'King of Kings', ended the Age of Princes, and ushered in the modern Imperial era in Ethiopia. Is it time for a coronation?;;;;;;;;;;;;x
 hellenic_parliament_title;Voule ton Ellinon;;;;;;;;;;;;x
 hellenic_parliament_desc;The first national parliament of the modern Greek state was instituted only in 1843, and only after the September 3rd Revolution of that same year had effectively forced then King Otto to grant the country a constitution. The inauguration of the first 'Voule ton Ellinon', the Hellenic parliament, marks not only Greece's transition to a constitutional monarchy, but also the first taste of democracy in Hellas since the ancients.;;;;;;;;;;;;x
-palais_garnier_title;Build the Palais Garnier;;;;;;;;;;;;x
+palais_garnier_title;ガルニエ宮の建設;;;;;;;;;;;;x
 palais_garnier_desc;The Palais Garnier was, from its inauguration in 1875 to 1989, the chief home of the Paris Opera. Designed by Charles Garnier in the Neo-Baroque style, the Opera House was widely regarded in its day as a masterpiece of modern architecture, and was widely imitated all over the western world. The Palais also served as the inspiration for Gaston Leroux' classic novel 'The Phantom of the Opera'.;;;;;;;;;;;;x
 COUNTRYALERT_IsBuildingFactories;We are building/expanding factories in the following states:;;;;;;;;;;;;x
 REMOVE_COUNTRYALERT_HasClosedFactories;There are closed factories in the following states:;;;;;;;;;;;;x
@@ -1457,7 +1457,7 @@ the_first_vatican_council_title;バチカン公会議;;;;;;;;;;;;x
 the_first_vatican_council_desc;In 1868, Pope Piux IX convened the 20th ecumenical council of the Roman Catholic Church. The council was convened to address the perceived problems of the modern ideologies of liberalism, rationalism and materialism, as well as to further define Catholic dogma. While the council was cut short by the capture of Rome by the newly formed Kingdom of Italy, it still left a lasting impression on Catholic theology in the form of the formalized Dogma of Papal Infallibility.;;;;;;;;;;;;x
 manifesto_on_unshakable_autocracy_title;Manifesto on Unshakable Autocracy;;;;;;;;;;;;x
 manifesto_on_unshakable_autocracy_desc;The Manifesto on Unshakable Autocracy' was published by Tsar Alexander III on the 29 of April 1881 (Julian Calendar), approximately two months after his father, Alexander II, was assassinated by Nikolai Rysakov of the Narodnaya Volya terrorist organization. The manifesto strongly rejected any ideas of liberal reform, many of them his father's own, instead arguing in favor of the traditional, unshakable, autocracy of Russia.;;;;;;;;;;;;x
-promulgate_the_ems_ukaz_title;The Ems Ukaz;;;;;;;;;;;;x
+promulgate_the_ems_ukaz_title;エムス法;;;;;;;;;;;;x
 promulgate_the_ems_ukaz_desc;The Ems Ukaz was a decree published by Tsar Alexander II in 1876, banning the use of the Ukrainian language, disparagingly referred to as 'the Little Russian dialect', in any and all printed material, with exception only made for the reprinting of old documents. The ukaz was named after Bad Ems, Germany, a German spa resort where the Tsar was, at the time of the ukaz' promulgation, staying.;;;;;;;;;;;;x
 DOMINION_OF;§YDominion§W of;;;;;;;;;;;;x
 SATELLITE_OF;§YSatellite§W of;;;;;;;;;;;;x

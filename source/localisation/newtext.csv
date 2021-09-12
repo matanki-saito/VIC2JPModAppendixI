@@ -1462,7 +1462,7 @@ promulgate_the_ems_ukaz_desc;The Ems Ukaz was a decree published by Tsar Alexand
 DOMINION_OF;§YDominion§W of;;;;;;;;;;;;x
 SATELLITE_OF;§YSatellite§W of;;;;;;;;;;;;x
 SORT_BY_INFRA;Sort by average state infrastructure;;;;;;;;;;;;x
-tut_menu_0;Introduction;;;;;;;;;;;;x
+tut_menu_0;イントロダクション;;;;;;;;;;;;x
 tut_menu_0_description;This tutorial will introduce you to the most basic parts of what Victoria 2 is and how you play it.;;;;;;;;;;;;x
 tut_menu_1;Armies and Navies;;;;;;;;;;;;x
 tut_menu_1_description;Learn about managing your armies and navies;;;;;;;;;;;;x
@@ -1478,7 +1478,7 @@ tut_menu_6;Population;;;;;;;;;;;;x
 tut_menu_6_description;Learn about your population, who are they? who are their friends, to which social class do they belong?;;;;;;;;;;;;x
 tut_menu_7;Trade;;;;;;;;;;;;x
 tut_menu_7_description;Learn about trade. How and why does governments buy and sell.;;;;;;;;;;;;x
-tut_menu_8;Diplomacy;;;;;;;;;;;;x
+tut_menu_8;外交;;;;;;;;;;;;x
 tut_menu_8_description;Learn about the art of diplomacy. How to make wars and alliances.;;;;;;;;;;;;x
 tut_1a_1;軍事;;;;;;;;;;;;x
 tut_1a_2;ヴィクトリア２の軍事についてのチュートリアルへようこそ。\nあなたは大きな可能性を秘めた小さな国家、ベルギーの指導者です。しかし問題があります、あなたの隣人であるオランダがちょうど宣戦布告をしました。;;;;;;;;;;;;x
@@ -1682,7 +1682,7 @@ tutorial_continue_intermediary;Intermediary $TYPE$;;;;;;;;;;;;x
 tutorial_continue_advanced;Advanced $TYPE$;;;;;;;;;;;;x
 tutorial_continue_end;Return to Menu;;;;;;;;;;;;x
 LEDGER_HEADER_RANK;Nation Ranking;;;;;;;;;;;;x
-chapter_name_0;Introduction;;;;;;;;;;;;x
+chapter_name_0;イントロダクション;;;;;;;;;;;;x
 chapter_name_1;Armies and Navies;;;;;;;;;;;;x
 chapter_name_2;Production;;;;;;;;;;;;x
 chapter_name_3;Budget;;;;;;;;;;;;x

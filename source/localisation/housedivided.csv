@@ -418,7 +418,7 @@ MSG_FILTER_TITLE;We are interested in:;;;;;;;;;;;;x
 MSG_FILTER_DESELECT;Deselect All;;;;;;;;;;;;x
 MSG_FILTER_BEST_GUESS;Best Guess;;;;;;;;;;;;x
 MSG_FILTER_ENEMIES;Enemies;;;;;;;;;;;;x
-MSG_FILTER_ALLIES;Allies;;;;;;;;;;;;x
+MSG_FILTER_ALLIES;同盟国;;;;;;;;;;;;x
 MSG_FILTER_NEIGHBOURS;Neighbors;;;;;;;;;;;;x
 MSG_FILTER_SPHERE;影響圏;;;;;;;;;;;;x
 PRODUCTION_BROWSE_INVEST;Other;;;;;;;;;;;;x

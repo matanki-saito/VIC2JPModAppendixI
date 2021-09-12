@@ -155,7 +155,7 @@ vacuum_tube;Vacuum Tube;;;;;;;;;;;;x
 vacuum_tube_desc;The vacuum tube (also known as the thermionic valve) is a device that utilizes the flow of current through a vacuum. In a vacuum tube electrons travel via thermionic emission (the Edison Effect) from a hot filament (negative cathode) through the vacuum to a positive electrode (the anode). Additional electrodes were later interposed between the anode and cathode, enabling amplification and switching of signals. Vacuum tubes were essential to the production and commercialization of radio, telephones, TV, radar, and early computers;;;;;;;;;;;;x
 tulls_seed_drill;Tull's Seed Drill;;;;;;;;;;;;x
 tulls_seed_drill_desc;Up until this era, farmers planted the seeds for cereal crops by carrying the seeds in a bag and walking up and down the field throwing or broadcasting the seed. They broadcast the seed by hand on to the ploughed and harrowed ground. The problem with this method was that it did not give a very even distribution. It was not, therefore, an efficient use of the seed and much of it was wasted. Jethro Tull invented a Seed Drill which could be pulled behind a horse. It consisted of a wheeled vehicle containing a box filled with grain. There was a wheel-driven ratchet that sprayed the seed out evenly as the Seed Drill was pulled across the field.;;;;;;;;;;;;x
-rotherham_plough;Rotherham Plough;;;;;;;;;;;;x
+rotherham_plough;ロザラム・プラウ;;;;;;;;;;;;x
 rotherham_plough_desc;The Rotherham or Yorkshire Plough invented by Disney Stanyforth and Joseph Foljambe was an improvement on the traditional plough. It was constructed of wood like the standard plough but the fittings and coulter (cutting blade) were made of iron and the mouldboard and ploughshare were covered in iron plates. It was lighter than the traditional plough and could be easily worked with a pair of horses.;;;;;;;;;;;;x
 telephone_switchboard;Telephone Switchboard;;;;;;;;;;;;x
 telephone_switchboard_desc;The telephone switchboard is a system of electrical components used to connect telephone calls. The first telephone switchboard was invented by Hungarian Tivadar Puskás in 1877 while working for Thomas Edison. Primitive Telephone exchanges were in place for commercial applications by 1881 in the eastern US and western Europe. Telephone exchanges consisted of hundreds of 'plug boards' where a staff of operators manually 'plugged in' calls to route them. Almon Brown Strowger patented the first stepping switch in 1891, which led to automated telephone switching.;;;;;;;;;;;;x
@@ -202,9 +202,9 @@ BRU_1394;北ボルネオ;;;;;;;;;;;;x
 PER_1141;Laristan-Sistan;;;;;;;;;;;;x
 PER_1148;ホラーサーン;;;;;;;;;;;;x
 PER_1138;フーゼスターン;;;;;;;;;;;;x
-PER_1135;Fars-Kerman;;;;;;;;;;;;x
+PER_1135;ファールス＝ケルマーン;;;;;;;;;;;;x
 PER_1127;エスファハーン;;;;;;;;;;;;x
-PER_1116;Gilan-Mazandaran;;;;;;;;;;;;x
+PER_1116;ギーラーン＝マーザンダラーン;;;;;;;;;;;;x
 PER_1121;Irakajemi;;;;;;;;;;;;x
 PER_1112;タブリーズ;;;;;;;;;;;;x
 PER_1122;ロレスターン;;;;;;;;;;;;x
@@ -269,7 +269,7 @@ RUS_1074;カムチャツカ;;;;;;;;;;;;x
 RUS_2590;Coastal Chukotka;;;;;;;;;;;;x
 TUR_885;カルス;;;;;;;;;;;;x
 TUR_884;トラブゾン;;;;;;;;;;;;x
-TUR_889;Diyarbakir-Van;;;;;;;;;;;;x
+TUR_889;ディヤルバクル＝ヴァン;;;;;;;;;;;;x
 TUR_876;Ankara and Adana;;;;;;;;;;;;x
 TUR_873;コンヤ;;;;;;;;;;;;x
 TUR_881;カスタモヌ;;;;;;;;;;;;x

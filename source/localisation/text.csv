@@ -56,7 +56,7 @@ BUDGET_TAX_RICH;Tax(Rich);;;;;;;;;;;;x
 BUDGET_TAX_RICH_DESC;;;;;;;;;;;;;x
 BUDGET_TOTAL_FUNDS;Total Funds;;;;;;;;;;;;x
 BUDGET_TOTAL_DEBT;Total Debt;;;;;;;;;;;;x
-BUDGET_TAKE_LOAN;Take Loan;;;;;;;;;;;;x
+BUDGET_TAKE_LOAN;融資を受ける;;;;;;;;;;;;x
 BUDGET_REPAY_LOAN;Repay Loan;;;;;;;;;;;;x
 BUDGET_DAILY_INCOME;Daily Income;;;;;;;;;;;;x
 BUDGET_DAILY_EXPENSES;Daily Expenses;;;;;;;;;;;;x
@@ -212,7 +212,7 @@ FE_ECONOMY;経済;;;;;;;;;;;;x
 FE_DIPLOMACY;外交;;;;;;;;;;;;x
 FE_DIFFICULTY;難易度：;;;;;;;;;;;;x
 FE_AT_WAR;At war:;;;;;;;;;;;;x
-FE_ALLIES;Allies:;;;;;;;;;;;;x
+FE_ALLIES;同盟国：;;;;;;;;;;;;x
 FE_LOAD;LOAD;;;;;;;;;;;;x
 FE_BOOKEDMARKED;Bookmarked dates:;;;;;;;;;;;;x
 FE_STARTING_DATE;Starting Date;;;;;;;;;;;;x
@@ -1547,7 +1547,7 @@ DIPLOMACY_FILTER_AFRICA;アフリカ;;;;;;;;;;;;x
 DIPLOMACY_FILTER_OCEANIA;オセアニア;;;;;;;;;;;;x
 DIPLOMACY_FILTER_NEIGHBOURS;Neighbours;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ENEMIES;Enemies;;;;;;;;;;;;x
-DIPLOMACY_FILTER_ALLIES;Allies;;;;;;;;;;;;x
+DIPLOMACY_FILTER_ALLIES;同盟国;;;;;;;;;;;;x
 DIPLOMACY_FILTER_SPHERE;影響圏;;;;;;;;;;;;x
 DIPLOMACY_FILTER_ALL_TOOLTIP;List all countries;;;;;;;;;;;;x
 DIPLOMACY_FILTER_EUROPE_TOOLTIP;List §YEuropean§W countries;;;;;;;;;;;;x
@@ -1581,7 +1581,7 @@ REMOVE_DIPLOMACY_CANNOT_JOIN_WAR_INVALID_ENEMY;We are at war with §Y$COUNTRY$§
 DIPLOMACY_WAR_EXHAUSTION;War Exhaustion: §Y$VALUE$%§W;;;;;;;;;;;;x
 DIPLOMACY_BRIGADES;Brigades: §Y$VALUE$§W;;;;;;;;;;;;x
 DIPLOMACY_SHIPS;Ships: §Y$VALUE$§W;;;;;;;;;;;;x
-DIPLOMACY_ALLIES;Allied with:;;;;;;;;;;;;x
+DIPLOMACY_ALLIES;次と同盟：;;;;;;;;;;;;x
 DIPLOMACY_PROTECTED;Protected by:;;;;;;;;;;;;x
 DIPLOMACY_ADD_WARGOAL;Add Wargoal;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_JOIN_WAR_INVALID_WARGOAL;我々は何らかの戦争目的（§Y原状維持§Wを除く）を追加した側には参加できません。;;;;;;;;;;;;x
@@ -1988,7 +1988,7 @@ ALLIANCE_THEY_DECLINE_LOG;$RECIPIENT$ declined our Military Alliance offer.;;;;;
 ALLIANCE_WE_DECLINE_LOG;We declined a Military Alliance offer from $ACTOR$.;;;;;;;;;;;;x
 ALLIANCE_OTHER_DECLINE_LOG;$RECIPIENT$ declined a Military Alliance offer from $ACTOR$.;;;;;;;;;;;;x
 ALLIANCE_DESC;If a country accepts our Alliance offer, it may come to our assistance during wars.;;;;;;;;;;;;x
-ALLIANCE_BUTTON;Form Alliance;;;;;;;;;;;;x
+ALLIANCE_BUTTON;同盟を締結する;;;;;;;;;;;;x
 ALLIANCE_OFFER;$ACTOR$ offers us an Alliance. By accepting it we are promising to help each other in times of war.;;;;;;;;;;;;x
 CANCELALLIANCE_THEY_ACCEPT_LOG;We have broken our Alliance with $RECIPIENT$.;;;;;;;;;;;;x
 CANCELALLIANCE_WE_ACCEPT_LOG;$ACTOR$ broke their Alliance with us.;;;;;;;;;;;;x
@@ -3103,7 +3103,7 @@ DIST_ADMINISTRATION;Administration;;;;;;;;;;;;x
 DIST_EDUCATION;Education;;;;;;;;;;;;x
 DIST_DEFENCE;Defence Spending;;;;;;;;;;;;x
 DIST_SOCIAL;Social Spending;;;;;;;;;;;;x
-REMOVE_ADM_DESC;Spending on administration allows your bureaucrats to run and maintain a healthy bureaucracy, increasing your tax efficiency.;;;;;;;;;;;;x
+REMOVE_ADM_DESC;行政への支出は官僚が健全な官僚機関を運営し、維持することを可能にし、徴税効率を高めます。;;;;;;;;;;;;x
 PAYED_POPS;§Y$NUM$§W §Y$TYPE$s§W getting §Y$MONEY$§W;;;;;;;;;;;;x
 REMOVE_EDU_DESC;The educational budget goes to pay the clergy as well as producing research points;;;;;;;;;;;;x
 DEFENCE_DESC;The defence spending goes towards paying your soldiers and officers;;;;;;;;;;;;x
@@ -3358,7 +3358,7 @@ REMOVE_desc_anarchist_exclusion;The Anarchist Exclusion Act enables immigrants t
 government_sanitarium;Sanitarium;;;;;;;;;;;;x
 desc_government_sanitarium;The Government operates a sanitarium for tuberculosis patients in this province.;;;;;;;;;;;;x
 liberal_agitation;Liberal Agitation;;;;;;;;;;;;x
-desc_liberal_agitation;Firebrands are arguing the cause of liberalism and revolution.;;;;;;;;;;;;x
+desc_liberal_agitation;煽動者が自由主義運動と革命について主張しています。;;;;;;;;;;;;x
 potato_blight;ジャガイモ疫病;;;;;;;;;;;;x
 desc_potato_blight;Famine spreads as crops lie, dead and rotting, in our fields.;;;;;;;;;;;;x
 anti_jacobin_tract;Anti-Jacobin Tract;;;;;;;;;;;;x
@@ -3490,7 +3490,7 @@ EVTDESC100;With the ravages of alcohol taking a daily toll on our people, tearin
 EVTOPTA100;What's wrong with a few drinks? *hiccup*;;;;;;;;;;;;x
 EVTOPTB100;An excellent initiative!;;;;;;;;;;;;x
 EVTNAME110;\nビアホールが開店;;;;;;;;;;;;x
-EVTDESC110;今日、我が国の州のひとつでまた１軒のビアホールが開店し、遊び人、バクチ打ち、飲んだくれの楽園としてのこの州の評判をさらなるものにしました。この州では今や１００人に１人の割合で酒場、売春宿、ビアホール、その他もろもろの悪徳と罪にまみれた施設が存在することになります。スピリッツは気分が落ちこんだ際の気晴らしとして有用かもしれませんが、長い目でみたときの過剰摂取による影響を軽く見ることはできません。;;;;;;;;;;;;x
+EVTDESC110;今日、我々の州のひとつでまた１軒のビアホールが開店し、遊び人、バクチ打ち、飲んだくれの楽園としてのこの州の評判をさらなるものにしました。この州では今や１００人に１人の割合で酒場、売春宿、ビアホール、その他もろもろの悪徳と罪にまみれた施設が存在することになります。スピリッツは気分が落ちこんだ際の気晴らしとして有用かもしれませんが、長い目でみたときの過剰摂取による影響を軽く見ることはできません。;;;;;;;;;;;;x
 EVTOPTA110;かんぱーい！;;;;;;;;;;;;x
 EVTOPTB110;地方政府に圧力をかけてこの流れを止めよう;;;;;;;;;;;;x
 EVTNAME120;Drunken Riots;;;;;;;;;;;;x
@@ -5090,10 +5090,10 @@ EVTOPTA16440;They will submit, sooner or later.;;;;;;;;;;;;x
 EVTNAME16450;Apprehending Geronimo;;;;;;;;;;;;x
 EVTDESC16450;The renowned Apache outlaw Geronimo has surrendered today, to Captain Henry Lawton of The Army, with his small, tattered band of Apache men, women and children. With Geronimo's surrender, the last shred of Apache resistance in the West has died out, and this once proud Indian nation can now be considered pacified. Geronimo will, many years from now, on his deathbed, confess to a nephew that he always regretted the decision to surrender.;;;;;;;;;;;;x
 EVTOPTA16450;Hail to the Chief!;;;;;;;;;;;;x
-EVTNAME17000;Suffragette Movements;;;;;;;;;;;;x
-EVTDESC17000;...we will not accept our situation anymore, we will not stand back, we will not remain silent! Give women the right to vote!'\n\nThe development of liberal and feminist thought during the past years have caused women in $COUNTRY$ to form suffragette organizations, demanding that the state accord them legal equality with men. All across $COUNTRY$, women are leaving their primary roles as housewives and caretakers, demanding the right to vote, to work, and to own property.;;;;;;;;;;;;x
-REMOVE_EVTOPTA17000;There will be no suffrage at this junction;;;;;;;;;;;;x
-REMOVE_EVTOPTB17000;If only there were popular support for this idea...;;;;;;;;;;;;x
+EVTNAME17000;サフラジェット運動;;;;;;;;;;;;x
+EVTDESC17000;…私たちはもう自らの状況を受け入れたりしない、私たちは後ずさりしない、私たちは黙っていない！女性に選挙権を！\n\n過去数年間の自由主義とフェミニスト思想の発達は$COUNTRY$の女性が婦人参政権団体を結成する原因となりました。彼女たちは国が女性に男性との法的平等を与えるべきだと主張をしています。$COUNTRY$全体で、女性は母親や家内といった果たしてきた役割を捨てて、投票権、労働権、所有権を要求しています。;;;;;;;;;;;;x
+REMOVE_EVTOPTA17000;今の段階では参政権は不要だ;;;;;;;;;;;;x
+REMOVE_EVTOPTB17000;この考えを支持する人がいればあるいは…;;;;;;;;;;;;x
 EVTNAME17010;Women's Parliaments;;;;;;;;;;;;x
 EVTDESC17010;A small group of women have organized an international convention on the subject of women's rights. The two-day $CAPITAL$ Convention has been held, with both men and women attending, but with the first day's proceedings reserved for the ladies, and with the second day devoted almost exclusively to political tactics. Although there was no unanimity between the delegates, the convention has nevertheless decided to adopt ten resolutions which, taken together, demand that women be accorded equality in matters of Family Law, Education, Property Rights, Jobs, Religion, and Morals.;;;;;;;;;;;;x
 EVTOPTA17010;Use the secret police to contain these dangerous revolutionaries;;;;;;;;;;;;x
@@ -7026,8 +7026,8 @@ NOT_FROM_THIS_GOV;It is not possible to convert to this government type from our
 NO_SHIPS;No ships;;;;;;;;;;;;x
 NOT_EXIST;$TAG$ does not exist at this time.;;;;;;;;;;;;x
 NOT_SELECT;All players must select a country.;;;;;;;;;;;;x
-NOALLIES;No Allies;;;;;;;;;;;;x
-ALLIES;Allies:;;;;;;;;;;;;x
+NOALLIES;同盟国なし;;;;;;;;;;;;x
+ALLIES;同盟国：;;;;;;;;;;;;x
 SHORTCUT_SHIELD;$TAG$ is an interesting choice during this period. Click to select it.;;;;;;;;;;;;x
 I Do.;Let's Do it;;;;;;;;;;;;x
 Run away!;I'm not sure, maybe later;;;;;;;;;;;;x
@@ -12526,196 +12526,196 @@ PROV2643;ホヌウ;;;;;;;;;;;;x
 PROV2644;Olyekminsk;;;;;;;;;;;;x
 PROV2645;Chilchi;;;;;;;;;;;;x
 PROV2646;Ases Igan;;;;;;;;;;;;x
-PROV2647;Yansk;;;;;;;;;;;;x
-PROV2648;Yakutsk;;;;;;;;;;;;x
-PROV2649;Zhigansk;;;;;;;;;;;;x
-PROV2650;Nyurba;;;;;;;;;;;;x
+PROV2647;ヤンスク;;;;;;;;;;;;x
+PROV2648;ヤクーツク;;;;;;;;;;;;x
+PROV2649;ジガンスク;;;;;;;;;;;;x
+PROV2650;ニュルバ;;;;;;;;;;;;x
 PROV2651;Udanchniy;;;;;;;;;;;;x
 PROV2652;Kular;;;;;;;;;;;;x
-PROV2653;Saskylah;;;;;;;;;;;;x
-PROV2654;Khatanga;;;;;;;;;;;;x
-PROV2655;Tura;;;;;;;;;;;;x
+PROV2653;サスキラフ;;;;;;;;;;;;x
+PROV2654;ハタンガ;;;;;;;;;;;;x
+PROV2655;トゥラ;;;;;;;;;;;;x
 PROV2656;Tayimba;;;;;;;;;;;;x
-PROV2657;Svetlogorsk;;;;;;;;;;;;x
-PROV2658;Kheta;;;;;;;;;;;;x
+PROV2657;スヴェトロゴルスク;;;;;;;;;;;;x
+PROV2658;ヘタ;;;;;;;;;;;;x
 PROV2659;Napalkovo;;;;;;;;;;;;x
 PROV2660;Bereyezovka;;;;;;;;;;;;x
 PROV2661;Nizhnekolymsk;;;;;;;;;;;;x
-PROV2662;Cherskiy;;;;;;;;;;;;x
-PROV2663;Kamenskoye;;;;;;;;;;;;x
+PROV2662;チェルスキー;;;;;;;;;;;;x
+PROV2663;カメンスコエ;;;;;;;;;;;;x
 PROV2664;Oyotuni;;;;;;;;;;;;x
-PROV2665;Chokurdakh;;;;;;;;;;;;x
-PROV2666;Pevek;;;;;;;;;;;;x
-PROV2667;Bulun;;;;;;;;;;;;x
-PROV2668;Verkhoyansk;;;;;;;;;;;;x
-PROV2669;Amga;;;;;;;;;;;;x
-PROV2670;Tiksi;;;;;;;;;;;;x
-PROV2671;Zhilinda;;;;;;;;;;;;x
-PROV2672;Pokrovsk;;;;;;;;;;;;x
-PROV2673;Olenyok;;;;;;;;;;;;x
+PROV2665;チョクルダフ;;;;;;;;;;;;x
+PROV2666;ペヴェク;;;;;;;;;;;;x
+PROV2667;ブルン;;;;;;;;;;;;x
+PROV2668;ベルホヤンスク;;;;;;;;;;;;x
+PROV2669;アムガ;;;;;;;;;;;;x
+PROV2670;ティクシ;;;;;;;;;;;;x
+PROV2671;ジリンダ;;;;;;;;;;;;x
+PROV2672;ポクロフスク;;;;;;;;;;;;x
+PROV2673;オレニョーク;;;;;;;;;;;;x
 PROV2674;Essey;;;;;;;;;;;;x
 PROV2675;Yekonda;;;;;;;;;;;;x
-PROV2676;Kirensk;;;;;;;;;;;;x
+PROV2676;キレンスク;;;;;;;;;;;;x
 PROV2677;Dotkon;;;;;;;;;;;;x
-PROV2678;Bulgan;;;;;;;;;;;;x
-PROV2679;Khovd;;;;;;;;;;;;x
-PROV2680;Dudinka;;;;;;;;;;;;x
+PROV2678;ボルガン;;;;;;;;;;;;x
+PROV2679;ホブド;;;;;;;;;;;;x
+PROV2680;ドゥディンカ;;;;;;;;;;;;x
 PROV2681;Kikkiakki;;;;;;;;;;;;x
-PROV2682;Aksarka;;;;;;;;;;;;x
+PROV2682;アクサルカ;;;;;;;;;;;;x
 PROV2683;Bakchar;;;;;;;;;;;;x
-PROV2684;Yar Sale;;;;;;;;;;;;x
-PROV2685;Muzhi;;;;;;;;;;;;x
-PROV2686;Ishim;;;;;;;;;;;;x
-PROV2687;Amderma;;;;;;;;;;;;x
-PROV2688;Inta;;;;;;;;;;;;x
+PROV2684;ヤル＝サレ;;;;;;;;;;;;x
+PROV2685;ムジ;;;;;;;;;;;;x
+PROV2686;イシム;;;;;;;;;;;;x
+PROV2687;アンジェルマ;;;;;;;;;;;;x
+PROV2688;インタ;;;;;;;;;;;;x
 PROV2689;Mulda;;;;;;;;;;;;x
-PROV2690;Verkhniy Ufaley;;;;;;;;;;;;x
+PROV2690;ヴェルフニー・ウファレイ;;;;;;;;;;;;x
 PROV2691;Vorgovo;;;;;;;;;;;;x
 PROV2692;Kostino;;;;;;;;;;;;x
-PROV2693;Uchami;;;;;;;;;;;;x
-PROV2694;Vanavara;;;;;;;;;;;;x
-PROV2695;Mukhtuya;;;;;;;;;;;;x
-PROV2696;Aldan;;;;;;;;;;;;x
-PROV2697;Magdagachi;;;;;;;;;;;;x
+PROV2693;ウチャミ;;;;;;;;;;;;x
+PROV2694;ヴァナバラ;;;;;;;;;;;;x
+PROV2695;ムフトゥヤ;;;;;;;;;;;;x
+PROV2696;アルダン;;;;;;;;;;;;x
+PROV2697;マグダガチ;;;;;;;;;;;;x
 PROV2698;Slavgorod;;;;;;;;;;;;x
-PROV2699;Izhma;;;;;;;;;;;;x
-PROV2700;Usogorsk;;;;;;;;;;;;x
+PROV2699;イジュマ;;;;;;;;;;;;x
+PROV2700;ウソゴルスク;;;;;;;;;;;;x
 PROV2701;Surinda;;;;;;;;;;;;x
-PROV2702;Aralsk;;;;;;;;;;;;x
-PROV2703;Vänern;;;;;;;;;;;;x
-PROV2704;Vättern;;;;;;;;;;;;x
-PROV2705;Gulf of Bothnia;;;;;;;;;;;;x
-PROV2706;Ålands Hav;;;;;;;;;;;;x
-PROV2707;Gulf of Finland;;;;;;;;;;;;x
-PROV2708;Western Baltic Sea;;;;;;;;;;;;x
-PROV2709;Gulf of Riga;;;;;;;;;;;;x
-PROV2710;Southern Baltic Sea;;;;;;;;;;;;x
-PROV2711;Öresund;;;;;;;;;;;;x
-PROV2712;Kattegat;;;;;;;;;;;;x
-PROV2713;Peipsi Järv;;;;;;;;;;;;x
-PROV2714;Ladoga;;;;;;;;;;;;x
-PROV2715;Onega;;;;;;;;;;;;x
-PROV2716;White Sea;;;;;;;;;;;;x
-PROV2717;Lofoten Sea;;;;;;;;;;;;x
-PROV2718;Northern Norwegian Sea;;;;;;;;;;;;x
-PROV2719;Southern Norwegian Sea;;;;;;;;;;;;x
-PROV2720;Skagerrack;;;;;;;;;;;;x
-PROV2721;Helgoland Bight;;;;;;;;;;;;x
-PROV2722;Coast of Holland;;;;;;;;;;;;x
-PROV2723;Dogger Bank;;;;;;;;;;;;x
-PROV2724;Straits of Dover;;;;;;;;;;;;x
-PROV2725;The Channel;;;;;;;;;;;;x
-PROV2726;Lands End;;;;;;;;;;;;x
-PROV2727;Coast of Britanny;;;;;;;;;;;;x
-PROV2728;Quiberon Bay;;;;;;;;;;;;x
-PROV2729;Cote D'Argent;;;;;;;;;;;;x
-PROV2730;Bay of Biscay;;;;;;;;;;;;x
-PROV2731;Cantabrian Sea;;;;;;;;;;;;x
+PROV2702;アラリスク;;;;;;;;;;;;x
+PROV2703;ヴェーネルン湖;;;;;;;;;;;;x
+PROV2704;ヴェッテルン湖;;;;;;;;;;;;x
+PROV2705;ボスニア湾;;;;;;;;;;;;x
+PROV2706;オーランド海;;;;;;;;;;;;x
+PROV2707;フィンランド湾;;;;;;;;;;;;x
+PROV2708;西バルト海;;;;;;;;;;;;x
+PROV2709;リガ湾;;;;;;;;;;;;x
+PROV2710;南バルト海;;;;;;;;;;;;x
+PROV2711;エーレスンド海峡;;;;;;;;;;;;x
+PROV2712;カテガット海峡;;;;;;;;;;;;x
+PROV2713;ペイプシ湖;;;;;;;;;;;;x
+PROV2714;ラドガ湖;;;;;;;;;;;;x
+PROV2715;オネガ湖;;;;;;;;;;;;x
+PROV2716;白海;;;;;;;;;;;;x
+PROV2717;ロフォーテン海;;;;;;;;;;;;x
+PROV2718;北ノルウェー海;;;;;;;;;;;;x
+PROV2719;南ノルウェー海;;;;;;;;;;;;x
+PROV2720;スカゲラク海峡;;;;;;;;;;;;x
+PROV2721;ヘルゴラント湾;;;;;;;;;;;;x
+PROV2722;ホラント沿岸;;;;;;;;;;;;x
+PROV2723;ドッガーバンク;;;;;;;;;;;;x
+PROV2724;ドーバー海峡;;;;;;;;;;;;x
+PROV2725;イギリス海峡;;;;;;;;;;;;x
+PROV2726;ランズ・エンド;;;;;;;;;;;;x
+PROV2727;ブルターニュ海岸;;;;;;;;;;;;x
+PROV2728;キブロン湾;;;;;;;;;;;;x
+PROV2729;コートダルジャン;;;;;;;;;;;;x
+PROV2730;ビスケー湾;;;;;;;;;;;;x
+PROV2731;カンタブリア海;;;;;;;;;;;;x
 PROV2732;Tyne;;;;;;;;;;;;x
-PROV2733;Firth of Forth;;;;;;;;;;;;x
-PROV2734;The North Sea;;;;;;;;;;;;x
-PROV2735;Moray Firth;;;;;;;;;;;;x
-PROV2736;North Channel;;;;;;;;;;;;x
-PROV2737;Irish Sea;;;;;;;;;;;;x
-PROV2738;St. George's Channel;;;;;;;;;;;;x
-PROV2739;Donegal Bay;;;;;;;;;;;;x
-PROV2740;Dingle Bay;;;;;;;;;;;;x
-PROV2741;Celtic Sea;;;;;;;;;;;;x
-PROV2742;Western Approaches;;;;;;;;;;;;x
-PROV2743;Finisterre Bay;;;;;;;;;;;;x
-PROV2744;Lusitanian Sea;;;;;;;;;;;;x
-PROV2745;Gulf of Cadiz;;;;;;;;;;;;x
-PROV2746;Straits of Gibraltar;;;;;;;;;;;;x
-PROV2747;Gulf of Almería;;;;;;;;;;;;x
-PROV2748;Gulf of Valencia;;;;;;;;;;;;x
-PROV2749;Gulf of Lion;;;;;;;;;;;;x
-PROV2750;Cote D'Azur;;;;;;;;;;;;x
-PROV2751;Ligurian Sea;;;;;;;;;;;;x
-PROV2752;Gulf of Mallorca;;;;;;;;;;;;x
-PROV2753;Western Mediterranean;;;;;;;;;;;;x
-PROV2754;Barbary Coast;;;;;;;;;;;;x
-PROV2755;Cape Bon;;;;;;;;;;;;x
-PROV2756;Tyrrhenian Sea;;;;;;;;;;;;x
-PROV2757;Bay of Naples;;;;;;;;;;;;x
-PROV2758;Gulf of Gabes;;;;;;;;;;;;x
-PROV2759;Malta Channel;;;;;;;;;;;;x
-PROV2760;Straits of Messina;;;;;;;;;;;;x
-PROV2761;Gulf of Venice;;;;;;;;;;;;x
-PROV2762;Adriatic Sea;;;;;;;;;;;;x
-PROV2763;Straits of Otranto;;;;;;;;;;;;x
-PROV2764;Gulf of Taranto;;;;;;;;;;;;x
-PROV2765;Ionian Sea;;;;;;;;;;;;x
-PROV2766;Gulf of Sirte;;;;;;;;;;;;x
-PROV2767;Gulf of Tobruk;;;;;;;;;;;;x
-PROV2768;Bay of Alexandria;;;;;;;;;;;;x
-PROV2769;Palestinian Coast;;;;;;;;;;;;x
-PROV2770;Gulf of Cyprus;;;;;;;;;;;;x
-PROV2771;Sea of Crete;;;;;;;;;;;;x
-PROV2772;Aegean Sea;;;;;;;;;;;;x
-PROV2773;Sea of Marmara;;;;;;;;;;;;x
-PROV2774;Gulf of Varna;;;;;;;;;;;;x
-PROV2775;Gulf of Odessa;;;;;;;;;;;;x
-PROV2776;Sea of Azov;;;;;;;;;;;;x
-PROV2777;Eastern Black Sea;;;;;;;;;;;;x
-PROV2778;Lake Balaton;;;;;;;;;;;;x
-PROV2779;Caspian Sea;;;;;;;;;;;;x
-PROV2780;Aral Sea;;;;;;;;;;;;x
-PROV2781;Gulf of Suez;;;;;;;;;;;;x
-PROV2782;Red Sea;;;;;;;;;;;;x
+PROV2733;フォース湾;;;;;;;;;;;;x
+PROV2734;北海;;;;;;;;;;;;x
+PROV2735;マレー湾;;;;;;;;;;;;x
+PROV2736;ノース海峡;;;;;;;;;;;;x
+PROV2737;アイリッシュ海;;;;;;;;;;;;x
+PROV2738;セントジョージ海峡;;;;;;;;;;;;x
+PROV2739;ドニゴール湾;;;;;;;;;;;;x
+PROV2740;ディングル湾;;;;;;;;;;;;x
+PROV2741;ケルト海;;;;;;;;;;;;x
+PROV2742;ウエスタンアプローチ;;;;;;;;;;;;x
+PROV2743;フィニステール湾;;;;;;;;;;;;x
+PROV2744;ルシタニア海;;;;;;;;;;;;x
+PROV2745;カディス湾;;;;;;;;;;;;x
+PROV2746;ジブラルタル海峡;;;;;;;;;;;;x
+PROV2747;アルメリア湾;;;;;;;;;;;;x
+PROV2748;バレンシア湾;;;;;;;;;;;;x
+PROV2749;リオン湾;;;;;;;;;;;;x
+PROV2750;コート・ダジュール;;;;;;;;;;;;x
+PROV2751;リグリア海;;;;;;;;;;;;x
+PROV2752;マヨルカ湾;;;;;;;;;;;;x
+PROV2753;西地中海;;;;;;;;;;;;x
+PROV2754;バルバリア海岸;;;;;;;;;;;;x
+PROV2755;ボン岬;;;;;;;;;;;;x
+PROV2756;ティレニア海;;;;;;;;;;;;x
+PROV2757;ナポリ湾;;;;;;;;;;;;x
+PROV2758;ガベス湾;;;;;;;;;;;;x
+PROV2759;マルタ海峡;;;;;;;;;;;;x
+PROV2760;メッシーナ海峡;;;;;;;;;;;;x
+PROV2761;ヴェネツィア湾;;;;;;;;;;;;x
+PROV2762;アドリア海;;;;;;;;;;;;x
+PROV2763;オトラント海峡;;;;;;;;;;;;x
+PROV2764;タラント湾;;;;;;;;;;;;x
+PROV2765;イオニア海;;;;;;;;;;;;x
+PROV2766;スルト湾;;;;;;;;;;;;x
+PROV2767;トブルク湾;;;;;;;;;;;;x
+PROV2768;アレクサンドリア湾;;;;;;;;;;;;x
+PROV2769;パレスチナ沿岸;;;;;;;;;;;;x
+PROV2770;キプロス湾;;;;;;;;;;;;x
+PROV2771;クレタ海;;;;;;;;;;;;x
+PROV2772;エーゲ海;;;;;;;;;;;;x
+PROV2773;マルマラ海;;;;;;;;;;;;x
+PROV2774;ヴァルナ湾;;;;;;;;;;;;x
+PROV2775;オデッサ湾;;;;;;;;;;;;x
+PROV2776;アゾフ海;;;;;;;;;;;;x
+PROV2777;東黒海;;;;;;;;;;;;x
+PROV2778;バラトン湖;;;;;;;;;;;;x
+PROV2779;カスピ海;;;;;;;;;;;;x
+PROV2780;アラル海;;;;;;;;;;;;x
+PROV2781;スエズ湾;;;;;;;;;;;;x
+PROV2782;紅海;;;;;;;;;;;;x
 PROV2783;Straits of Obokk;;;;;;;;;;;;x
-PROV2784;Bal el Mandeb;;;;;;;;;;;;x
+PROV2784;バブ・エル・マンデブ海峡;;;;;;;;;;;;x
 PROV2785;Coast of Mascate;;;;;;;;;;;;x
 PROV2786;Mascate Coast;;;;;;;;;;;;x
-PROV2787;Straits of Hormuz;;;;;;;;;;;;x
-PROV2788;Persian Gulf;;;;;;;;;;;;x
-PROV2789;Gulf of Indus;;;;;;;;;;;;x
-PROV2790;Gulf of Gujarat;;;;;;;;;;;;x
+PROV2787;ホルムズ海峡;;;;;;;;;;;;x
+PROV2788;ペルシア湾;;;;;;;;;;;;x
+PROV2789;インダス湾;;;;;;;;;;;;x
+PROV2790;グジャラート湾;;;;;;;;;;;;x
 PROV2791;Laquedive Islands;;;;;;;;;;;;x
-PROV2792;Coast of Malabar;;;;;;;;;;;;x
-PROV2793;Comorin Cape;;;;;;;;;;;;x
+PROV2792;マラバール海岸;;;;;;;;;;;;x
+PROV2793;コモリン岬;;;;;;;;;;;;x
 PROV2794;Coast of Caramandel;;;;;;;;;;;;x
-PROV2795;Coast of Orissa;;;;;;;;;;;;x
-PROV2796;Ganges Delta;;;;;;;;;;;;x
-PROV2797;Akyab Bay;;;;;;;;;;;;x
-PROV2798;Irrawady Delta;;;;;;;;;;;;x
-PROV2799;Andaman Sea;;;;;;;;;;;;x
-PROV2800;Mergui Archipelago;;;;;;;;;;;;x
-PROV2801;Straits of Malacca;;;;;;;;;;;;x
-PROV2802;Nicobar Isles;;;;;;;;;;;;x
-PROV2803;Coast of Atjeh;;;;;;;;;;;;x
-PROV2804;Coast of Sumatra;;;;;;;;;;;;x
-PROV2805;Sunda Strait;;;;;;;;;;;;x
-PROV2806;Coast of Java;;;;;;;;;;;;x
-PROV2807;Coast of Surabaya;;;;;;;;;;;;x
-PROV2808;Straits of Lombok;;;;;;;;;;;;x
-PROV2809;Timor Sea;;;;;;;;;;;;x
-PROV2810;The Moluccas;;;;;;;;;;;;x
-PROV2811;Java Sea;;;;;;;;;;;;x
-PROV2812;Straits of Makassar;;;;;;;;;;;;x
-PROV2813;Karimata Strait;;;;;;;;;;;;x
-PROV2814;Straits of Johore;;;;;;;;;;;;x
-PROV2815;Malayan Sea;;;;;;;;;;;;x
-PROV2816;Coast of Sarawak;;;;;;;;;;;;x
-PROV2817;Mekong Delta;;;;;;;;;;;;x
-PROV2818;Gulf of Siam;;;;;;;;;;;;x
-PROV2819;Cam Ranh Bay;;;;;;;;;;;;x
-PROV2820;South China Sea;;;;;;;;;;;;x
-PROV2821;Coast of Brunei;;;;;;;;;;;;x
-PROV2822;Coast of Annam;;;;;;;;;;;;x
-PROV2823;Gulf of Tonkin;;;;;;;;;;;;x
-PROV2824;Guangzhou Bay;;;;;;;;;;;;x
-PROV2825;Taiwan Strait;;;;;;;;;;;;x
-PROV2826;Yang Tse Delta;;;;;;;;;;;;x
-PROV2827;Yellow Sea;;;;;;;;;;;;x
-PROV2828;Korea Bay;;;;;;;;;;;;x
-PROV2829;South Korean Sea;;;;;;;;;;;;x
-PROV2830;North Korean Sea;;;;;;;;;;;;x
-PROV2831;Coast of Olga;;;;;;;;;;;;x
-PROV2832;Tatar Straits;;;;;;;;;;;;x
-PROV2833;Amur Delta;;;;;;;;;;;;x
-PROV2834;Bay of Ayan;;;;;;;;;;;;x
-PROV2835;Bay of Komenskoie;;;;;;;;;;;;x
-PROV2836;Coast of Kamchatska;;;;;;;;;;;;x
+PROV2795;オリッサ沿岸;;;;;;;;;;;;x
+PROV2796;ガンジス・デルタ;;;;;;;;;;;;x
+PROV2797;アキャブ湾;;;;;;;;;;;;x
+PROV2798;イラワディ・デルタ;;;;;;;;;;;;x
+PROV2799;アンダマン海;;;;;;;;;;;;x
+PROV2800;メルギー諸島;;;;;;;;;;;;x
+PROV2801;マラッカ海峡;;;;;;;;;;;;x
+PROV2802;ニコバル諸島;;;;;;;;;;;;x
+PROV2803;アチェ沿岸;;;;;;;;;;;;x
+PROV2804;スマトラ沿岸;;;;;;;;;;;;x
+PROV2805;スンダ海峡;;;;;;;;;;;;x
+PROV2806;ジャワ沿岸;;;;;;;;;;;;x
+PROV2807;スラバヤ沿岸;;;;;;;;;;;;x
+PROV2808;ロンボク海峡;;;;;;;;;;;;x
+PROV2809;ティモール海;;;;;;;;;;;;x
+PROV2810;モルッカ諸島;;;;;;;;;;;;x
+PROV2811;ジャワ海;;;;;;;;;;;;x
+PROV2812;マカッサル海峡;;;;;;;;;;;;x
+PROV2813;カリマタ海峡;;;;;;;;;;;;x
+PROV2814;ジョホール海峡;;;;;;;;;;;;x
+PROV2815;マレー海;;;;;;;;;;;;x
+PROV2816;サラワク沿岸;;;;;;;;;;;;x
+PROV2817;メコン・デルタ;;;;;;;;;;;;x
+PROV2818;シャム湾;;;;;;;;;;;;x
+PROV2819;カムラン湾;;;;;;;;;;;;x
+PROV2820;南シナ海;;;;;;;;;;;;x
+PROV2821;ブルネイ沿岸;;;;;;;;;;;;x
+PROV2822;安南沿岸;;;;;;;;;;;;x
+PROV2823;トンキン湾;;;;;;;;;;;;x
+PROV2824;広州湾;;;;;;;;;;;;x
+PROV2825;台湾海峡;;;;;;;;;;;;x
+PROV2826;長江デルタ;;;;;;;;;;;;x
+PROV2827;黄海;;;;;;;;;;;;x
+PROV2828;朝鮮湾;;;;;;;;;;;;x
+PROV2829;朝鮮海南部;;;;;;;;;;;;x
+PROV2830;朝鮮海北部;;;;;;;;;;;;x
+PROV2831;オリガ海岸;;;;;;;;;;;;x
+PROV2832;タタール海峡;;;;;;;;;;;;x
+PROV2833;アムール・デルタ;;;;;;;;;;;;x
+PROV2834;アヤン湾;;;;;;;;;;;;x
+PROV2835;コメンスコエ湾;;;;;;;;;;;;x
+PROV2836;カムチャツカ沿岸;;;;;;;;;;;;x
 PROV2837;オホーツク海;;;;;;;;;;;;x
 PROV2838;サハリン沿岸;;;;;;;;;;;;x
 PROV2839;宗谷海峡;;;;;;;;;;;;x
@@ -12725,107 +12725,107 @@ PROV2842;Amakusa Sea;;;;;;;;;;;;x
 PROV2843;瀬戸内海;;;;;;;;;;;;x
 PROV2844;東海;;;;;;;;;;;;x
 PROV2845;琉球諸島;;;;;;;;;;;;x
-PROV2846;Luzon Strait;;;;;;;;;;;;x
-PROV2847;Paracel Islands;;;;;;;;;;;;x
-PROV2848;Manila Bay;;;;;;;;;;;;x
-PROV2849;Coast of Luzon;;;;;;;;;;;;x
-PROV2850;Gulf of Leyte;;;;;;;;;;;;x
-PROV2851;Sulu Sea;;;;;;;;;;;;x
-PROV2852;Sea of Celebes;;;;;;;;;;;;x
-PROV2853;Sea of Ternate;;;;;;;;;;;;x
-PROV2854;Sea of Banda;;;;;;;;;;;;x
-PROV2855;Philippine Sea;;;;;;;;;;;;x
-PROV2856;Palau Islands;;;;;;;;;;;;x
-PROV2857;Biak Bay;;;;;;;;;;;;x
+PROV2846;ルソン海峡;;;;;;;;;;;;x
+PROV2847;西沙諸島;;;;;;;;;;;;x
+PROV2848;マニラ湾;;;;;;;;;;;;x
+PROV2849;ルソン海岸;;;;;;;;;;;;x
+PROV2850;レイテ湾;;;;;;;;;;;;x
+PROV2851;スールー海;;;;;;;;;;;;x
+PROV2852;セレベス海;;;;;;;;;;;;x
+PROV2853;テルナテ海;;;;;;;;;;;;x
+PROV2854;バンダ海;;;;;;;;;;;;x
+PROV2855;フィリピン海;;;;;;;;;;;;x
+PROV2856;パラオ諸島;;;;;;;;;;;;x
+PROV2857;ビアク湾;;;;;;;;;;;;x
 PROV2858;Vilian Strait;;;;;;;;;;;;x
-PROV2859;Trobrian Islands;;;;;;;;;;;;x
-PROV2860;Torres Strait;;;;;;;;;;;;x
+PROV2859;トロブリアンド諸島;;;;;;;;;;;;x
+PROV2860;トレス海峡;;;;;;;;;;;;x
 PROV2861;Arafuam Sea;;;;;;;;;;;;x
-PROV2862;Kolepom Bay;;;;;;;;;;;;x
-PROV2863;Gulf of Carpentaria;;;;;;;;;;;;x
-PROV2864;Great Barrier Reef;;;;;;;;;;;;x
-PROV2865;Capricorn Bay;;;;;;;;;;;;x
-PROV2866;Cape Howe;;;;;;;;;;;;x
-PROV2867;Bass Strait;;;;;;;;;;;;x
-PROV2868;Kangaroo Island;;;;;;;;;;;;x
-PROV2869;Great Australian Bight;;;;;;;;;;;;x
-PROV2870;Cape Leeuwin;;;;;;;;;;;;x
-PROV2871;Shark Bay;;;;;;;;;;;;x
-PROV2872;Northwest Cape;;;;;;;;;;;;x
-PROV2873;King Sound;;;;;;;;;;;;x
-PROV2874;Tasman Plateau;;;;;;;;;;;;x
+PROV2862;コレポム湾;;;;;;;;;;;;x
+PROV2863;カーペンタリア湾;;;;;;;;;;;;x
+PROV2864;グレートバリアリーフ;;;;;;;;;;;;x
+PROV2865;カプリコーン湾;;;;;;;;;;;;x
+PROV2866;ハウ岬;;;;;;;;;;;;x
+PROV2867;バス海峡;;;;;;;;;;;;x
+PROV2868;カンガルー島;;;;;;;;;;;;x
+PROV2869;グレートオーストラリア湾;;;;;;;;;;;;x
+PROV2870;ルーウィン岬;;;;;;;;;;;;x
+PROV2871;シャーク湾;;;;;;;;;;;;x
+PROV2872;北西岬;;;;;;;;;;;;x
+PROV2873;キング入り江;;;;;;;;;;;;x
+PROV2874;タスマニア海台;;;;;;;;;;;;x
 PROV2875;Toogee Ridge;;;;;;;;;;;;x
-PROV2876;Cook Strait;;;;;;;;;;;;x
-PROV2877;Northern Tasman Sea;;;;;;;;;;;;x
-PROV2878;Cape Farewell;;;;;;;;;;;;x
-PROV2879;Coast of New Zealand;;;;;;;;;;;;x
-PROV2880;Southern Tasman Sea;;;;;;;;;;;;x
-PROV2881;Canterbury Bight;;;;;;;;;;;;x
-PROV2882;New Caledonian Sea;;;;;;;;;;;;x
-PROV2883;Coral Sea;;;;;;;;;;;;x
+PROV2876;クック海峡;;;;;;;;;;;;x
+PROV2877;北タスマン海;;;;;;;;;;;;x
+PROV2878;フェアウェル岬;;;;;;;;;;;;x
+PROV2879;ニュージーランド沿岸;;;;;;;;;;;;x
+PROV2880;南タスマン海;;;;;;;;;;;;x
+PROV2881;カンタベリー湾;;;;;;;;;;;;x
+PROV2882;ニューカレドニア海;;;;;;;;;;;;x
+PROV2883;珊瑚海;;;;;;;;;;;;x
 PROV2884;Gilbert Sea;;;;;;;;;;;;x
-PROV2885;Solomon Sea;;;;;;;;;;;;x
-PROV2886;Nauru Island;;;;;;;;;;;;x
-PROV2887;Melanesia Sea;;;;;;;;;;;;x
-PROV2888;Micronesia Sea;;;;;;;;;;;;x
-PROV2889;Philippine Trench;;;;;;;;;;;;x
-PROV2890;Philippine Basin;;;;;;;;;;;;x
-PROV2891;Tinian Sea;;;;;;;;;;;;x
-PROV2892;Iwo Jima Sea;;;;;;;;;;;;x
+PROV2885;ソロモン海;;;;;;;;;;;;x
+PROV2886;ナウル島;;;;;;;;;;;;x
+PROV2887;メラネシア海;;;;;;;;;;;;x
+PROV2888;ミクロネシア海;;;;;;;;;;;;x
+PROV2889;フィリピン海溝;;;;;;;;;;;;x
+PROV2890;フィリピン海盆;;;;;;;;;;;;x
+PROV2891;テニアン海;;;;;;;;;;;;x
+PROV2892;硫黄島海;;;;;;;;;;;;x
 PROV2893;Taihei Ocean;;;;;;;;;;;;x
-PROV2894;The Kuriles;;;;;;;;;;;;x
-PROV2895;Bay of Uka;;;;;;;;;;;;x
-PROV2896;Bay of Oljut;;;;;;;;;;;;x
-PROV2897;Bay of Anadyr;;;;;;;;;;;;x
+PROV2894;千島列島;;;;;;;;;;;;x
+PROV2895;ウカ湾;;;;;;;;;;;;x
+PROV2896;オルジュト湾;;;;;;;;;;;;x
+PROV2897;アナディリ湾;;;;;;;;;;;;x
 PROV2898;Yekaterina Plains;;;;;;;;;;;;x
-PROV2899;Horn of Africa;;;;;;;;;;;;x
-PROV2900;Coast of Pepper;;;;;;;;;;;;x
-PROV2901;Zanzibar Strait;;;;;;;;;;;;x
-PROV2902;Mozambique Channel;;;;;;;;;;;;x
-PROV2903;Diego Suarez Bay;;;;;;;;;;;;x
-PROV2904;Western Arabian Sea;;;;;;;;;;;;x
-PROV2905;Eastern Arabian Sea;;;;;;;;;;;;x
-PROV2906;The Seychelles;;;;;;;;;;;;x
-PROV2907;Coast of Tamatave;;;;;;;;;;;;x
-PROV2908;The Mascareignes;;;;;;;;;;;;x
-PROV2909;Gulf of Zambeze;;;;;;;;;;;;x
-PROV2910;Coast of Natal;;;;;;;;;;;;x
-PROV2911;Coast of Transkei;;;;;;;;;;;;x
-PROV2912;Coast of Ciskei;;;;;;;;;;;;x
-PROV2913;Cape of Good Hope;;;;;;;;;;;;x
-PROV2914;Coast of Namibia;;;;;;;;;;;;x
-PROV2915;Coast of Angola;;;;;;;;;;;;x
-PROV2916;Gulf of Kongo;;;;;;;;;;;;x
-PROV2917;Coast of Cameroon;;;;;;;;;;;;x
-REMOVE_PROV2918;Gulf of Nigeria;;;;;;;;;;;;x
-PROV2919;Gold Coast;;;;;;;;;;;;x
-PROV2920;Ivory Coast;;;;;;;;;;;;x
-REMOVE_PROV2921;Coast of Gambia;;;;;;;;;;;;x
-REMOVE_PROV2922;Coast of Guinea;;;;;;;;;;;;x
-PROV2923;Mauritanian Coast;;;;;;;;;;;;x
-PROV2924;Canarian Sea;;;;;;;;;;;;x
-PROV2925;Coast of Morocco;;;;;;;;;;;;x
-PROV2926;Jan Mayen Sea;;;;;;;;;;;;x
-PROV2927;Spitzberg Sea;;;;;;;;;;;;x
-PROV2928;Icelandic Sea;;;;;;;;;;;;x
-PROV2929;Shetland Straits;;;;;;;;;;;;x
-PROV2930;Coast of Iceland;;;;;;;;;;;;x
-PROV2931;Northeastern Atlantic;;;;;;;;;;;;x
+PROV2899;アフリカの角;;;;;;;;;;;;x
+PROV2900;胡椒海岸;;;;;;;;;;;;x
+PROV2901;ザンジバル海峡;;;;;;;;;;;;x
+PROV2902;モザンビーク海峡;;;;;;;;;;;;x
+PROV2903;ディエゴ・スアレス湾;;;;;;;;;;;;x
+PROV2904;西アラビア海;;;;;;;;;;;;x
+PROV2905;東アラビア海;;;;;;;;;;;;x
+PROV2906;セーシェル諸島;;;;;;;;;;;;x
+PROV2907;タマタヴ沿岸;;;;;;;;;;;;x
+PROV2908;マスカリン諸島;;;;;;;;;;;;x
+PROV2909;ザンベジ湾;;;;;;;;;;;;x
+PROV2910;ナタール沿岸;;;;;;;;;;;;x
+PROV2911;トランスカイ沿岸;;;;;;;;;;;;x
+PROV2912;シスカイ沿岸;;;;;;;;;;;;x
+PROV2913;喜望峰;;;;;;;;;;;;x
+PROV2914;ナミビア沿岸;;;;;;;;;;;;x
+PROV2915;アンゴラ沿岸;;;;;;;;;;;;x
+PROV2916;コンゴ湾;;;;;;;;;;;;x
+PROV2917;カメルーン沿岸;;;;;;;;;;;;x
+REMOVE_PROV2918;ナイジェリア湾;;;;;;;;;;;;x
+PROV2919;黄金海岸;;;;;;;;;;;;x
+PROV2920;象牙海岸;;;;;;;;;;;;x
+REMOVE_PROV2921;ガンビア沿岸;;;;;;;;;;;;x
+REMOVE_PROV2922;ギニア沿岸;;;;;;;;;;;;x
+PROV2923;モーリタニア海岸;;;;;;;;;;;;x
+PROV2924;カナリア海;;;;;;;;;;;;x
+PROV2925;モロッコ沿岸;;;;;;;;;;;;x
+PROV2926;ヤンマイエン海;;;;;;;;;;;;x
+PROV2927;スピッツベルゲン海;;;;;;;;;;;;x
+PROV2928;アイスランド海;;;;;;;;;;;;x
+PROV2929;シェトランド海峡;;;;;;;;;;;;x
+PROV2930;アイスランド沿岸;;;;;;;;;;;;x
+PROV2931;大西洋北東部;;;;;;;;;;;;x
 PROV2932;Rockall;;;;;;;;;;;;x
-PROV2933;Denmark Strait;;;;;;;;;;;;x
-PROV2934;Eastern Coast of Greenland;;;;;;;;;;;;x
-PROV2935;Western Coast of Greenland;;;;;;;;;;;;x
-PROV2936;Labrador Strait;;;;;;;;;;;;x
-PROV2937;Baffin Bay;;;;;;;;;;;;x
-PROV2938;Hudson Straits;;;;;;;;;;;;x
-PROV2939;James Bay;;;;;;;;;;;;x
-PROV2940;Western Hudson Bay;;;;;;;;;;;;x
-PROV2941;Eastern Hudson Bay;;;;;;;;;;;;x
-PROV2942;Foxe Basin;;;;;;;;;;;;x
-PROV2943;Gulf of St. Lawrence;;;;;;;;;;;;x
-PROV2944;Cabot Strait;;;;;;;;;;;;x
-PROV2945;Bay of Fundy;;;;;;;;;;;;x
-PROV2946;Strait of Belle Isle;;;;;;;;;;;;x
+PROV2933;デンマーク海峡;;;;;;;;;;;;x
+PROV2934;グリーンランド東沿岸;;;;;;;;;;;;x
+PROV2935;グリーンランド西沿岸;;;;;;;;;;;;x
+PROV2936;ラブラドール海峡;;;;;;;;;;;;x
+PROV2937;バフィン湾;;;;;;;;;;;;x
+PROV2938;ハドソン海峡;;;;;;;;;;;;x
+PROV2939;ジェームズ湾;;;;;;;;;;;;x
+PROV2940;西ハドソン湾;;;;;;;;;;;;x
+PROV2941;東ハドソン湾;;;;;;;;;;;;x
+PROV2942;フォックス湾;;;;;;;;;;;;x
+PROV2943;セントローレンス湾;;;;;;;;;;;;x
+PROV2944;カボット海峡;;;;;;;;;;;;x
+PROV2945;ファンディ湾;;;;;;;;;;;;x
+PROV2946;ベルアイル海峡;;;;;;;;;;;;x
 PROV2947;Fortune Bay;;;;;;;;;;;;x
 PROV2948;Notre Dame Bay;;;;;;;;;;;;x
 PROV2949;Labrador Sea;;;;;;;;;;;;x
@@ -13125,7 +13125,7 @@ PROV3242;Maury Sea Channel;;;;;;;;;;;;x
 PROV3243;Southeast Pacific Basin;;;;;;;;;;;;x
 PROV3244;Jaluit Passage;;;;;;;;;;;;x
 PROV3245;Markov Plains;;;;;;;;;;;;x
-PROV3246;Jan Mayen;;;;;;;;;;;;x
+PROV3246;ヤンマイエン;;;;;;;;;;;;x
 PROVINCEVIEW_RGOOWNER;State RGO owner presence: §Y$VALUE$% $TYPE$§W;;;;;;;;;;;;x
 PROVINCEVIEW_ADMIN;State administrative efficiency: §Y$VALUE$%§W;;;;;;;;;;;;x
 PROVINCEVIEW_LIFERATING;Province liferating: §Y$VALUE$§W;;;;;;;;;;;;x
@@ -14823,7 +14823,7 @@ TB_TRADE_EXPORT;Top exported:;;;;;;;;;;;;x
 TB_TRADE_NEEDS;Needs: $PARAM$;;;;;;;;;;;;x
 TB_TRADE_TOP_SOLD;Top sold: $PARAM$;;;;;;;;;;;;x
 TB_TRADE_TOP_BOUGHT;Top bought: $PARAM$;;;;;;;;;;;;x
-TB_DIPLOMACY_ALLIES;Allies: §Y$PARAM$§W;;;;;;;;;;;;x
+TB_DIPLOMACY_ALLIES;同盟国：§Y$PARAM$§W;;;;;;;;;;;;x
 TB_DIPLOMACY_ENEMIES;War: §Y$PARAM$§W;;;;;;;;;;;;x
 TB_DIPLOMACY_PRESTIGE;Prestige:;;;;;;;;;;;;x
 TB_DIPLOMACY_DIPLOPOINTS;Diplomatic points:;;;;;;;;;;;;x

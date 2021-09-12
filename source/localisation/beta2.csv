@@ -144,9 +144,9 @@ MILITARY_MILITARY_TACTICS;Military tactics;;;;;;;;;;;;x
 COUNTRYALERT_NO_CanDoDecisions;There are no decisions that presently demand our attention.;;;;;;;;;;;;x
 POP_OTHER_LABEL;Other;;;;;;;;;;;;x
 annex_hawaii_title;ニューランズ決議;;;;;;;;;;;;x
-annex_hawaii_desc;The Newlands Resolution was a joint resolution of The U.S. Congress passed in 1898, and named after congressman Francis G. Newlands, which annexed the Republic of Hawaii to the United States, thus creating the Territory of Hawaii.;;;;;;;;;;;;x
+annex_hawaii_desc;ニューランズ決議はフランシス・G・ニューランズ議員にちなんで名付けられたアメリカ合衆国議会が1898年に可決した共同決議であり、ハワイ共和国を合衆国に併合しハワイ準州を設立するというものでした。;;;;;;;;;;;;x
 ionian_islands_question_title;ロンドン条約（1864）;;;;;;;;;;;;x
-ionian_islands_question_desc;The Ionian Islands had been an amical protectorate of the United Kingdom ever since the end of the Napoelonic Wars. In 1862 the protectorate was deemed to expensive to maintain, and the islands were, after two years of negotiations, seceded to Greece.;;;;;;;;;;;;x
+ionian_islands_question_desc;イオニア諸島はナポレオン戦争の終結以降、イギリスの友好的な保護国でした。1862年、保護国の維持には費用がかかると判断され、2年に渡る交渉の末、諸島はギリシャに引き渡されました。;;;;;;;;;;;;x
 WARSUBSIDIES_DESC;Offer §Y$MONEY$§W¤ each day to help this nation;;;;;;;;;;;;x
 release_puppet;Release Puppet;;;;;;;;;;;;x
 release_puppet_short;$THIRD$ is released;;;;;;;;;;;;x
@@ -251,7 +251,7 @@ PRODUCTION_REQUIRED_DAILY_INPUTS;Required daily inputs:;;;;;;;;;;;;x
 PRODUCTION_DAILY_OUTPUT;Daily output:;;;;;;;;;;;;x
 COUNTRYALERT_NO_HasClosedFactories;There are no bankrupt factories in our nation;;;;;;;;;;;;x
 COUNTRYALERT_HasClosedFactories;There are bankrupt factories in the following states:;;;;;;;;;;;;x
-CHI_1496;Hong Kong & Macao;;;;;;;;;;;;x
+CHI_1496;香港・マカオ;;;;;;;;;;;;x
 ANY_STATE_STARTS;Any State;;;;;;;;;;;;x
 indian_sepoys_title;セポイの反乱;;;;;;;;;;;;x
 indian_sepoys_name;Indian Sepoys;;;;;;;;;;;;x

@@ -11,12 +11,12 @@ SUPPLY_CORE;中核州：;;;;;;;;;;;;x
 fascist_uh;ファシストは社会改革の拡大、それから政治改革の廃止を支持します。しかしファシストが与党でない限り、いかなる改革にも反対するでしょう。;;;;;;;;;;;;x
 reactionary_uh;反動主義者は常に政治改革と社会改革の両方を後退させようとします。;;;;;;;;;;;;x
 conservative_uh;保守主義者は現状維持を好みますが、高い好戦性の下では改革を支持するかもしれません。;;;;;;;;;;;;x
-socialist_uh;Socialists want to see the enactment of further social reforms, but may back political reforms under conditions of high militancy.;;;;;;;;;;;;x
-communist_uh;Communists want to enact social reforms, but want to see political reforms rolled back.;;;;;;;;;;;;x
-liberal_uh;Liberals want to enact further political reforms, but will also support social reform under conditions of high militancy.;;;;;;;;;;;;x
-anarcho_liberal_uh;Anarcho-Liberals want to see social reforms rolled back, and will never support further reforms of any kind.;;;;;;;;;;;;x
-RP_ACCUMULATED;We have accumulated §Y$VAL$§W research points that are currently unused.;;;;;;;;;;;;x
-WEGAINCB_SETUP;When we gain a Casus Belli;;;;;;;;;;;;x
+socialist_uh;社会主義者はさらなる社会改革の制定を望みますが、高い好戦性の下では政治改革を後退させようとするかもしれません。;;;;;;;;;;;;x
+communist_uh;共産主義者は社会改革の制定を望みますが、政治改革は後退させようとします。;;;;;;;;;;;;x
+liberal_uh;自由主義者はさらなる政治改革の制定を望みますが、高い好戦性の下では社会改革も支持します。;;;;;;;;;;;;x
+anarcho_liberal_uh;無政府資本主義者は社会改革の後退を望み、いかなる種類の改革も支持することはありません。;;;;;;;;;;;;x
+RP_ACCUMULATED;現在、未使用の研究点が§Y$VAL$§W蓄積されています。;;;;;;;;;;;;x
+WEGAINCB_SETUP;我々が開戦事由を獲得したとき;;;;;;;;;;;;x
 WEGAINCB_HEADER;$MONARCHTITLE$;;;;;;;;;;;;x
 WEGAINCB_1;開戦事由;;;;;;;;;;;;x
 WEGAINCB_2;我々は次を得ました：;;;;;;;;;;;;x
@@ -29,290 +29,290 @@ WEGAINCB_BTN1;OK;;;;;;;;;;;;x
 WEGAINCB_BTN2;OK;;;;;;;;;;;;x
 WEGAINCB_BTN3;移動;;;;;;;;;;;;x
 WEGAINCB_MAP;*;;;;;;;;;;;;x
-NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;;;;;;;;;;;;x
-AGRESSION_WAR_FREE_NAME;$ORDER$$FIRST$ War of Propping up $COUNTRY$;;;;;;;;;;;;x
-NORMAL_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Colonial Conquest of $STATE$;;;;;;;;;;;;x
-AGRESSION_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Colonial War for $STATE$;;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME;$ORDER$$FIRST$ Conquest of $STATE$;;;;;;;;;;;;x
-AGRESSION_WAR_TAKE_NAME;$ORDER$$FIRST$ War of $STATE$;;;;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;;;;;;;;;x
-AGRESSION_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Aggression for $STATE$;;;;;;;;;;;;x
-NORMAL_WAR_TAKE_SPHERE_NAME;第$ORDER$次$COUNTRY$戦争;;;;;;;;;;;;x
-AGRESSION_WAR_TAKE_SPHERE_NAME;$COUNTRY$を巡る第$ORDER$次$FIRST$ー$SECOND$戦争;;;;;;;;;;;;x
-NORMAL_WAR_ADD_SPHERE_NAME;第$ORDER$次$SECOND$服従戦争;;;;;;;;;;;;x
-AGRESSION_WAR_ADD_SPHERE_NAME;第$ORDER$次$SECOND$属国化戦争;;;;;;;;;;;;x
-NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;;;;;;;;;;x
-AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;;;;;;;;;;x
-NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND$ War;;;;;;;;;;;;x
-AGRESSION_WAR_CONQUEST_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;;;;;;;;;;;;x
-ADJ_FORT_EXTRA_ATTR;And §R+$VAL$%§W from hostile adjacent forts.;;;;;;;;;;;;x
-IS_NOT_ACCEPTED_CULTURE_POP;does not belong to an accepted culture.\n;;;;;;;;;;;;x
-IS_ACCEPTED_CULTURE_POP;belong to an accepted culture.\n;;;;;;;;;;;;x
+NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$$COUNTRY_ADJ$解放戦争;;;;;;;;;;;;x
+AGRESSION_WAR_FREE_NAME;$ORDER$$FIRST$$COUNTRY$支援戦争;;;;;;;;;;;;x
+NORMAL_WAR_COLONIAL_NAME;$ORDER$$FIRST$$STATE$植民地化;;;;;;;;;;;;x
+AGRESSION_WAR_COLONIAL_NAME;$ORDER$$FIRST$$STATE$征服戦争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME;$ORDER$$FIRST$$STATE$征服;;;;;;;;;;;;x
+AGRESSION_WAR_TAKE_NAME;$STATE$目的の$ORDER$$FIRST$戦争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$$STATE$解放;;;;;;;;;;;;x
+AGRESSION_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$$STATE$侵略;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$COUNTRY$戦争;;;;;;;;;;;;x
+AGRESSION_WAR_TAKE_SPHERE_NAME;$COUNTRY$を巡る$ORDER$$FIRST$ー$SECOND$戦争;;;;;;;;;;;;x
+NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$$SECOND$服従戦争;;;;;;;;;;;;x
+AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$$SECOND$属国化戦争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$内戦;;;;;;;;;;;;x
+AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$内戦;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME;$ORDER$$SECOND$征服戦争;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_NAME;$SECOND_COUNTRY$に対する$ORDER$$FIRST$戦争;;;;;;;;;;;;x
+ADJ_FORT_EXTRA_ATTR;そして隣接する敵要塞から§R+$VAL$§W。;;;;;;;;;;;;x
+IS_NOT_ACCEPTED_CULTURE_POP;受容文化ではありません。\n;;;;;;;;;;;;x
+IS_ACCEPTED_CULTURE_POP;受容文化です。\n;;;;;;;;;;;;x
 IS_NOT_PRIMARY_CULTURE_POP;§Y$NAME$§Wではない\n;;;;;;;;;;;;x
 IS_PRIMARY_CULTURE_POP;§Y$NAME$§Wである\n;;;;;;;;;;;;x
 NEW_CORE_EFFECT_TAG2;$TAG$は中核州として§Y$NEW$§Wを得るでしょう。\n;;;;;;;;;;;;x
-digin;Dig-In;;;;;;;;;;;;x
+digin;塹壕;;;;;;;;;;;;x
 terrain;地形;;;;;;;;;;;;x
-crossing;Crossing;;;;;;;;;;;;x
-total_occupation;Occupied Home Provinces;;;;;;;;;;;;x
-total_blockaded;Blockaded Home Ports;;;;;;;;;;;;x
-PW_SLAVE_STATE;Slave State;;;;;;;;;;;;x
-CURR_REL_TT;Our current relations.;;;;;;;;;;;;x
+crossing;交差路;;;;;;;;;;;;x
+total_occupation;占領された自国の州;;;;;;;;;;;;x
+total_blockaded;封鎖された自国の港;;;;;;;;;;;;x
+PW_SLAVE_STATE;奴隷国;;;;;;;;;;;;x
+CURR_REL_TT;我々の現在の関係。;;;;;;;;;;;;x
 great_power;列強;;;;;;;;;;;;x
 second_power;準列強国;;;;;;;;;;;;x
 civ_nation;文明国;;;;;;;;;;;;x
 unciv_nation;非文明国;;;;;;;;;;;;x
 REB_TYPE_SIZE;§Y反乱軍の支援§W;;;;;;;;;;;;x
-REB_TYPE_POWER;§YRebel Power§W;;;;;;;;;;;;x
-PRODUCTION_MUST_PORT_ONLY;Only produced in ports.\n;;;;;;;;;;;;x
-POPULATION_CHANGED_BY;Population changed by;;;;;;;;;;;;x
+REB_TYPE_POWER;§Y反乱勢力§W;;;;;;;;;;;;x
+PRODUCTION_MUST_PORT_ONLY;港でのみ生産されます。\n;;;;;;;;;;;;x
+POPULATION_CHANGED_BY;人口の変更：;;;;;;;;;;;;x
 COMBAT_LEADER_MOD;指揮官;;;;;;;;;;;;x
-POLITICS_CANNOT_SET_RULING_PARTY_IN_ELECTION;It is not possible to switch ruling parties in the middle of an election.;;;;;;;;;;;;x
-IS_NOT_OVERSEAS;Is NOT overseas;;;;;;;;;;;;x
-IS_OVERSEAS;Is overseas;;;;;;;;;;;;x
-SHIP_SUB_NAME;$NUM$$ORDER$ $HOME$ $TYPE$;;;;;;;;;;;;x
-FOLLOWING_HAVE_CLAIMS;The following countries have claims here.;;;;;;;;;;;;x
-COUNTRY_IS_NOT_CULTURE;Primary Culture is NOT;;;;;;;;;;;;x
-COUNTRY_IS_CULTURE;Primary Culture is;;;;;;;;;;;;x
-NO_ASSIM_NOW;No Current Assimilation;;;;;;;;;;;;x
-MODIFIER_LOCAL_REPAIR;Ship Repair Speed;;;;;;;;;;;;x
-BADBOY_DRO_1;Monthly Infamy Change:\n;;;;;;;;;;;;x
-REGIMENT_SIZE;Current Size: §Y$SIZE$§W\n;;;;;;;;;;;;x
-CURRENT_MORALE;Organisation: §Y$SIZE$§W of $MAX$.\n;;;;;;;;;;;;x
-SUPPLY_COST;Supply Costs;;;;;;;;;;;;x
-ALL_CORE_PROVINCE_THAT;For all core provinces ;;;;;;;;;;;;x
-BREAKCOUNTRY_SETUP;When a rebel faction enforces its demands in our nation;;;;;;;;;;;;x
-BREAKCOUNTRY_HEADER;Report from $CAPITAL$;;;;;;;;;;;;x
-BREAKCOUNTRY_1;$FACTION$ Win!;;;;;;;;;;;;x
-BREAKCOUNTRY_2;$MONARCHTITLE$, the $FACTION$ have enforced their demands!;;;;;;;;;;;;x
+POLITICS_CANNOT_SET_RULING_PARTY_IN_ELECTION;選挙期間中は与党を変更することができません。;;;;;;;;;;;;x
+IS_NOT_OVERSEAS;は海外にありません;;;;;;;;;;;;x
+IS_OVERSEAS;は海外にあります;;;;;;;;;;;;x
+SHIP_SUB_NAME;第$NUM$$ORDER$$HOME$$TYPE$;;;;;;;;;;;;x
+FOLLOWING_HAVE_CLAIMS;次の国家がこの地に領有権を主張しています。;;;;;;;;;;;;x
+COUNTRY_IS_NOT_CULTURE;主要文化ではない;;;;;;;;;;;;x
+COUNTRY_IS_CULTURE;主要文化;;;;;;;;;;;;x
+NO_ASSIM_NOW;現在、同化されていない;;;;;;;;;;;;x
+MODIFIER_LOCAL_REPAIR;船舶の修復速度;;;;;;;;;;;;x
+BADBOY_DRO_1;月間の汚名変化：\n;;;;;;;;;;;;x
+REGIMENT_SIZE;現在の規模：§Y$SIZE$§W\n;;;;;;;;;;;;x
+CURRENT_MORALE;組織率：§Y$SIZE$§W/$MAX$\n;;;;;;;;;;;;x
+SUPPLY_COST;補給コスト;;;;;;;;;;;;x
+ALL_CORE_PROVINCE_THAT;全中核州について;;;;;;;;;;;;x
+BREAKCOUNTRY_SETUP;反乱派閥が我々の国家で要求を押し通した場合;;;;;;;;;;;;x
+BREAKCOUNTRY_HEADER;$CAPITAL$からの報告;;;;;;;;;;;;x
+BREAKCOUNTRY_1;$FACTION$の勝利！;;;;;;;;;;;;x
+BREAKCOUNTRY_2;$MONARCHTITLE$、$FACTION$は自分たちの要求を押し通しました！;;;;;;;;;;;;x
 BREAKCOUNTRY_3;*;;;;;;;;;;;;x
 BREAKCOUNTRY_4;$EFFECTS$;;;;;;;;;;;;x
 BREAKCOUNTRY_5;*;;;;;;;;;;;;x
 BREAKCOUNTRY_6;*;;;;;;;;;;;;x
-BREAKCOUNTRY_LOG;$FACTION$ enforce their demands!;;;;;;;;;;;;x
-BREAKCOUNTRY_BTN1;Horror!;;;;;;;;;;;;x
-BREAKCOUNTRY_BTN2;Horror!;;;;;;;;;;;;x
+BREAKCOUNTRY_LOG;$FACTION$は要求を押し通しました！;;;;;;;;;;;;x
+BREAKCOUNTRY_BTN1;恐ろしい！;;;;;;;;;;;;x
+BREAKCOUNTRY_BTN2;恐ろしい！;;;;;;;;;;;;x
 BREAKCOUNTRY_BTN3;移動;;;;;;;;;;;;x
 BREAKCOUNTRY_MAP;*;;;;;;;;;;;;x
-BREAKCOUNTRYOTHER_SETUP;When a rebel faction enforces its demands in another nation;;;;;;;;;;;;x
-BREAKCOUNTRYOTHER_HEADER;Ambassador from;;;;;;;;;;;;x
+BREAKCOUNTRYOTHER_SETUP;反乱派閥が他の国家で要求を押し通した場合、;;;;;;;;;;;;x
+BREAKCOUNTRYOTHER_HEADER;大使より;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_1;$OTHER$;;;;;;;;;;;;x
-BREAKCOUNTRYOTHER_2;$FACTION$ have enforced their demands in;;;;;;;;;;;;x
+BREAKCOUNTRYOTHER_2;$FACTION$が次の地域で自分たちの要求を押し通しました。;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_3;$OTHER$;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_4;$EFFECTS$;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_5;*;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_6;*;;;;;;;;;;;;x
-BREAKCOUNTRYOTHER_LOG;$FACTION$ enforce their demands in $OTHER$!;;;;;;;;;;;;x
+BREAKCOUNTRYOTHER_LOG;$FACTION$は$OTHER$で要求を押し通しました！;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_BTN1;OK;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_BTN2;OK;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_BTN3;移動;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_MAP;*;;;;;;;;;;;;x
-INVENTION_SETUP;When you have gained an invention.;;;;;;;;;;;;x
-INVENTION_HEADER;Reports on;;;;;;;;;;;;x
-INVENTION_1;Major Discovery;;;;;;;;;;;;x
-INVENTION_2;Scientists in our country have discovered;;;;;;;;;;;;x
+INVENTION_SETUP;新発明があったとき;;;;;;;;;;;;x
+INVENTION_HEADER;報告です;;;;;;;;;;;;x
+INVENTION_1;大発見;;;;;;;;;;;;x
+INVENTION_2;我々の国家の科学者が次のことを発見しました：;;;;;;;;;;;;x
 INVENTION_3;$INVENTION$;;;;;;;;;;;;x
 INVENTION_4;$DESC$;;;;;;;;;;;;x
-INVENTION_5;EFFECT:;;;;;;;;;;;;x
+INVENTION_5;効果：;;;;;;;;;;;;x
 INVENTION_6;$EFFECT$;;;;;;;;;;;;x
-INVENTION_LOG;We have discovered how $INVENTION$ works.;;;;;;;;;;;;x
+INVENTION_LOG;我々は$INVENTION$の仕組みを発見しました。;;;;;;;;;;;;x
 INVENTION_BTN1;OK;;;;;;;;;;;;x
 INVENTION_BTN2;OK;;;;;;;;;;;;x
 INVENTION_BTN3;詳細;;;;;;;;;;;;x
 INVENTION_MAP;*;;;;;;;;;;;;x
 revanchism;報復主義;;;;;;;;;;;;x
-plurality;Plurality;;;;;;;;;;;;x
-TOPBAR_LEADERSHIP_GAIN_TOOLTIP;We gain §Y$CURR$§W leadership from our officers each month.;;;;;;;;;;;;x
-UW_AASIGN;Autoassign Leaders;;;;;;;;;;;;x
-ATTR_SAFE_RANGE;A Fleet in range of supply ships, and near a coast will not take any attrition.;;;;;;;;;;;;x
-TECHNOLOGYVIEW_HAVE_NOT_YEAR;It is not possible to start researching this before §Y$YEAR$§W.;;;;;;;;;;;;x
-ENCOURAGEMENT_FOR;Encouragement for ;;;;;;;;;;;;x
-IS_NOT_PRIMARY_CULTURE;§Y$NAME$§W is NOT primary culture.\n;;;;;;;;;;;;x
-IS_PRIMARY_CULTURE;§Y$NAME$§W is primary culture.\n;;;;;;;;;;;;x
-IS_NOT_ACCEPTED_CULTURE2;§Y$NAME$§W is NOT an accepted culture.\n;;;;;;;;;;;;x
-IS_ACCEPTED_CULTURE2;§Y$NAME$§W is an accepted culture.\n;;;;;;;;;;;;x
-ALL_COUNTRIES_EFF;All countries;;;;;;;;;;;;x
-ALL_COUNTRIES_THAT_EFF;All countries that;;;;;;;;;;;;x
-GETTING_ONLY_NEEDS;Getting only $NEED$: §Y$VAL$%§W;;;;;;;;;;;;x
-tutorial_chapter_introduction;End of Introduction.;;;;;;;;;;;;x
-tutorial_end_of_chapter;End of Tutorial Chapter;;;;;;;;;;;;x
-ISSUE_MOVE_EFFECT;§Y$PERCENTAGE$%§W of pops move from §YFROM§W to §YTO§W;;;;;;;;;;;;x
-ADD_WARGOAL_EFFECT;When we add this war goal, we will gain:;;;;;;;;;;;;x
-ADD_WARGOAL_SUCCESS;If we achive this war goal, we will gain:;;;;;;;;;;;;x
-ADD_WARGOAL_FAILURE;If we fail to achive this war goal, we will gain:;;;;;;;;;;;;x
-WARDIALOG_TRUCE;Truce: ;;;;;;;;;;;;x
-WARDIALOG_NOCB;No casus belli: ;;;;;;;;;;;;x
-DIPLOMACY_INFAMY2;Infamy: $VALUE$;;;;;;;;;;;;x
-DIPLOMACY_PRESTIGE2;Prestige: $VALUE$;;;;;;;;;;;;x
-DIPLOMACY_MILITANCY2;Militancy: $VALUE$;;;;;;;;;;;;x
-REMOVE_DIPLOMACY_WARDIALOG_ALLIES;§Y$COUNTRY$§W has the following allies:;;;;;;;;;;;;x
-REMOVE_DIPLOMACY_WARDIALOG_NUM_ALLIES;§Y$COUNTRY$§W has §Y$NUM$§W allies;;;;;;;;;;;;x
-DIPLOMACY_WAR_HASTRUCE;§RWe have a truce with §Y$COUNTRY$§R until §Y$DATE$§R. Declaring war on them cause a significant hit to our international prestige;;;;;;;;;;;;x
-REMOVE_DIPLOMACY_DAILYINFLULENCE_GAIN;We gain §Y$NUM$§W influence in §Y$COUNTRY$§W each day;;;;;;;;;;;;x
-tutorial_chapter_budget_victoria;End of the Intermediary Budget Tutorial;;;;;;;;;;;;x
-NO_RELEASEABLE_NATIONS;We have no nations that we can grant sovereignty;;;;;;;;;;;;x
-DIPLOMACY_CALL_ALLIES_NOT_LEADER;We are not a leader of this war and cannot call our allies into it;;;;;;;;;;;;x
-LEDGER_NEXT;Next;;;;;;;;;;;;x
-LEDGER_PREV;Previous;;;;;;;;;;;;x
+plurality;多元性;;;;;;;;;;;;x
+TOPBAR_LEADERSHIP_GAIN_TOOLTIP;将校から毎月、§Y$CURR$§Wの統率値を取得します。;;;;;;;;;;;;x
+UW_AASIGN;指揮官を自動割当する;;;;;;;;;;;;x
+ATTR_SAFE_RANGE;補給船の範囲内と海岸の近くにある艦隊は損耗することはありません。;;;;;;;;;;;;x
+TECHNOLOGYVIEW_HAVE_NOT_YEAR;この研究は§Y$YEAR$§Wまで開始することはできません。;;;;;;;;;;;;x
+ENCOURAGEMENT_FOR;次を奨励：;;;;;;;;;;;;x
+IS_NOT_PRIMARY_CULTURE;§Y$NAME$§Wは主要文化ではありません。\n;;;;;;;;;;;;x
+IS_PRIMARY_CULTURE;§Y$NAME$§Wは主要文化です。\n;;;;;;;;;;;;x
+IS_NOT_ACCEPTED_CULTURE2;§Y$NAME$§Wは受容文化です。\n;;;;;;;;;;;;x
+IS_ACCEPTED_CULTURE2;§Y$NAME$§Wは受容文化です。\n;;;;;;;;;;;;x
+ALL_COUNTRIES_EFF;すべての国家;;;;;;;;;;;;x
+ALL_COUNTRIES_THAT_EFF;次のすべての国家：;;;;;;;;;;;;x
+GETTING_ONLY_NEEDS;$NEED$を一部獲得：§Y$VAL$%§W;;;;;;;;;;;;x
+tutorial_chapter_introduction;イントロダクションの終了です。;;;;;;;;;;;;x
+tutorial_end_of_chapter;チュートリアル章の終わり;;;;;;;;;;;;x
+ISSUE_MOVE_EFFECT;§Y$PERCENTAGE$%§WのPOPが§YFROM§Wから§YTO§Wへと移動します;;;;;;;;;;;;x
+ADD_WARGOAL_EFFECT;この戦争目的を追加すると、我々は次を獲得します：;;;;;;;;;;;;x
+ADD_WARGOAL_SUCCESS;この戦争目的を達成した場合、我々は次を獲得します：;;;;;;;;;;;;x
+ADD_WARGOAL_FAILURE;この戦争目的の獲得に失敗した場合、我々は次を獲得します：;;;;;;;;;;;;x
+WARDIALOG_TRUCE;停戦：;;;;;;;;;;;;x
+WARDIALOG_NOCB;開戦事由なし：;;;;;;;;;;;;x
+DIPLOMACY_INFAMY2;汚名：$VALUE$;;;;;;;;;;;;x
+DIPLOMACY_PRESTIGE2;威信：$VALUE$;;;;;;;;;;;;x
+DIPLOMACY_MILITANCY2;好戦性：$VALUE$;;;;;;;;;;;;x
+REMOVE_DIPLOMACY_WARDIALOG_ALLIES;§Y$COUNTRY$§Wには次の同盟国が存在します：;;;;;;;;;;;;x
+REMOVE_DIPLOMACY_WARDIALOG_NUM_ALLIES;§Y$COUNTRY$§Wには§Y$NUM$§Wカ国の同盟国が存在します;;;;;;;;;;;;x
+DIPLOMACY_WAR_HASTRUCE;§R我々と§Y$COUNTRY$§Rは§Y$DATE$§Rまでは停戦しています。今彼らに宣戦布告すると、我々の国際的な威信に大きな打撃をもたらします;;;;;;;;;;;;x
+REMOVE_DIPLOMACY_DAILYINFLULENCE_GAIN;我々は毎日§Y$COUNTRY$§Wに対して§Y$NUM$§Wの影響力を得ます;;;;;;;;;;;;x
+tutorial_chapter_budget_victoria;予算チュートリアル中編終了;;;;;;;;;;;;x
+NO_RELEASEABLE_NATIONS;我々は主権を与えることのできる国家を持っていません;;;;;;;;;;;;x
+DIPLOMACY_CALL_ALLIES_NOT_LEADER;我々はこの戦争の指導国ではなく、故に同盟国を呼び出すことはできません;;;;;;;;;;;;x
+LEDGER_NEXT;次;;;;;;;;;;;;x
+LEDGER_PREV;前;;;;;;;;;;;;x
 MEC_544;シュレースヴィヒ＝ホルシュタイン;;;;;;;;;;;;x
-COUNTRYALERT_CanIncreaseOpinion;We can §YIncrease Opinion§W of our nation or add nations to our §YSphere of Influence§W:;;;;;;;;;;;;x
-COUNTRYALERT_NO_CanIncreaseOpinion;We cannot increase the opinion of our nation or add nations to our §YSphere of Influence§W;;;;;;;;;;;;x
-COLONY_SUCCESS_LOG;We successfully colonized $TARGET$.;;;;;;;;;;;;x
-COLONY_FAIL_LOG;$OTHER$ managed to to colonize $TARGET$ before us.;;;;;;;;;;;;x
-american_cultures;American Cultures;;;;;;;;;;;;x
+COUNTRYALERT_CanIncreaseOpinion;国家に対して我々への§Y評価を増加§Wさせたり§Y影響圏§Wに編入したりすることができます;;;;;;;;;;;;x
+COUNTRYALERT_NO_CanIncreaseOpinion;国家に対して我々への評価を増加させたり§Y影響圏§Wに編入したりすることはできません;;;;;;;;;;;;x
+COLONY_SUCCESS_LOG;我々は$TARGET$の植民化を成功させました。;;;;;;;;;;;;x
+COLONY_FAIL_LOG;$OTHER$が我々に先んじて$TARGET$に植民地を設立しました;;;;;;;;;;;;x
+american_cultures;アメリカ文化;;;;;;;;;;;;x
 CANT_USE_LAST_WAR_GOALS;この戦争目的を選択することは戦争を集結させます。そしてそれは戦争指導国との和平交渉でのみ実施できます。;;;;;;;;;;;;x
 tut_6a_13;ベルギーの工業生産を改善するためには、より多くの工場労働者が必要です。このフォーカスを設定するには工員のアイコンをクリックしてください。;;;;;;;;;;;;x
-DEN_251;Iceland & Greenland;;;;;;;;;;;;x
+DEN_251;アイスランドとグリーンランド;;;;;;;;;;;;x
 CANCELALLIANCE_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 CANCELALLIANCE_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 tut_1b_19;ここでは手動で将軍を割り当てます。さぁ、スパで師団を選択してください。;;;;;;;;;;;;x
-TOPBAR_DEC_SPEED;Decrease Speed;;;;;;;;;;;;x
-fort;Fort;;;;;;;;;;;;x
-fort_short;Fort;;;;;;;;;;;;x
-TOPBAR_DEC_SPEED;Decrease Speed;;;;;;;;;;;;x
-IS_GREAT_NATION;Is Great Power;;;;;;;;;;;;x
-NO_DEMOTION;There will be no demotions this month.;;;;;;;;;;;;x
-NO_PROMOTION;There will be no promotions this month.;;;;;;;;;;;;x
-INCREASEOPINION_THEY_ACCEPT_MAP;Opinion increased;;;;;;;;;;;;x
-INCREASEOPINION_WE_ACCEPT_MAP;Opinion increased;;;;;;;;;;;;x
-DECREASEOPINION_THEY_ACCEPT_MAP;Opinion decreased;;;;;;;;;;;;x
-DECREASEOPINION_WE_ACCEPT_MAP;Opinion decreased;;;;;;;;;;;;x
+TOPBAR_DEC_SPEED;ゲーム速度を落とす;;;;;;;;;;;;x
+fort;要塞;;;;;;;;;;;;x
+fort_short;要塞;;;;;;;;;;;;x
+TOPBAR_DEC_SPEED;ゲーム速度を落とす;;;;;;;;;;;;x
+IS_GREAT_NATION;列強である;;;;;;;;;;;;x
+NO_DEMOTION;今月はPOPの降格はありません。;;;;;;;;;;;;x
+NO_PROMOTION;今月はPOPの昇格はありません。;;;;;;;;;;;;x
+INCREASEOPINION_THEY_ACCEPT_MAP;評価が上昇しました;;;;;;;;;;;;x
+INCREASEOPINION_WE_ACCEPT_MAP;評価が上昇しました;;;;;;;;;;;;x
+DECREASEOPINION_THEY_ACCEPT_MAP;評価が減少しました;;;;;;;;;;;;x
+DECREASEOPINION_WE_ACCEPT_MAP;評価が減少しました;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_MAP;影響圏に加えました;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_MAP;影響圏に加えました;;;;;;;;;;;;x
 REMOVEFROMSPHERE_THEY_ACCEPT_MAP;影響圏から排除しました;;;;;;;;;;;;x
 REMOVEFROMSPHERE_WE_ACCEPT_MAP;影響圏から排除しました;;;;;;;;;;;;x
-INCREASERELATION_THEY_ACCEPT_MAP;Relation increased;;;;;;;;;;;;x
-INCREASERELATION_WE_ACCEPT_MAP;Relation increased;;;;;;;;;;;;x
-DECREASERELATION_THEY_ACCEPT_MAP;Relation decreased;;;;;;;;;;;;x
-DECREASERELATION_WE_ACCEPT_MAP;Relation decreased;;;;;;;;;;;;x
-WETARGET_DISCREDIT_MAP;Discredited!;;;;;;;;;;;;x
-WETARGET_EXPELADVISORS_MAP;Advisors expelled!;;;;;;;;;;;;x
-WETARGET_BANEMBASSY_MAP;Embassy banned!;;;;;;;;;;;;x
-WETARGET_DECREASEOPINION_MAP;Opinion decreased!;;;;;;;;;;;;x
-WETARGET_REMOVEFROMSPHERE_MAP;影響圏から排除しました！;;;;;;;;;;;;x
-womens_suffrage_movement;Womens Sufferage Movement;;;;;;;;;;;;x
-WAR_GOOD_RELATION;Good relations(§Y$REL$§W) and average consciousness(§Y$CON$§W): ;;;;;;;;;;;;x
-make_slave;Create Slave State;;;;;;;;;;;;x
-make_free;Create Free State;;;;;;;;;;;;x
-POP_OTHER_CULT;Other;;;;;;;;;;;;x
-BLOCKADED_PEACE;Blockaded;;;;;;;;;;;;x
-PRODUCTION_DESTROY_FACTORY_BECAUSE_TOOLTIP;We are allowed to destroy this factory because:\n;;;;;;;;;;;;x
-PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_TOOLTIP;We are allowed to destroy this factory because:\n;;;;;;;;;;;;x
-RULE_DESTROY_FACTORY;Destroy Factories;;;;;;;;;;;;x
-INCREASE_RELATION_MAX;We cannot get better relations with ;;;;;;;;;;;;x
-DECREASE_RELATION_MAX;We cannot get worse relations with ;;;;;;;;;;;;x
-BANKRUPTCY_SETUP;When we have a bankruptcy;;;;;;;;;;;;x
+INCREASERELATION_THEY_ACCEPT_MAP;関係が改善しました;;;;;;;;;;;;x
+INCREASERELATION_WE_ACCEPT_MAP;関係が改善しました;;;;;;;;;;;;x
+DECREASERELATION_THEY_ACCEPT_MAP;関係が悪化しました;;;;;;;;;;;;x
+DECREASERELATION_WE_ACCEPT_MAP;関係が悪化しました;;;;;;;;;;;;x
+WETARGET_DISCREDIT_MAP;信用が失墜！;;;;;;;;;;;;x
+WETARGET_EXPELADVISORS_MAP;顧問を除名！;;;;;;;;;;;;x
+WETARGET_BANEMBASSY_MAP;大使を追放！;;;;;;;;;;;;x
+WETARGET_DECREASEOPINION_MAP;評価が減少！;;;;;;;;;;;;x
+WETARGET_REMOVEFROMSPHERE_MAP;影響圏から排除！;;;;;;;;;;;;x
+womens_suffrage_movement;女性参政権運動;;;;;;;;;;;;x
+WAR_GOOD_RELATION;良好な関係（§Y$REL$§W）と平均的な政治意識（§Y$CON$§W）：;;;;;;;;;;;;x
+make_slave;奴隷国を作成します;;;;;;;;;;;;x
+make_free;自由国を作成します;;;;;;;;;;;;x
+POP_OTHER_CULT;その他;;;;;;;;;;;;x
+BLOCKADED_PEACE;封鎖;;;;;;;;;;;;x
+PRODUCTION_DESTROY_FACTORY_BECAUSE_TOOLTIP;この工場の取り壊しが可能です。理由は次のとおりです：\n;;;;;;;;;;;;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_TOOLTIP;この工場の取り壊しが可能です。理由は次のとおりです：\n;;;;;;;;;;;;x
+RULE_DESTROY_FACTORY;工場の取り壊し;;;;;;;;;;;;x
+INCREASE_RELATION_MAX;我々は次の国家との関係を、これ以上改善することはできません：;;;;;;;;;;;;x
+DECREASE_RELATION_MAX;我々は次の国家との関係を、これ以上悪化させることはできません：;;;;;;;;;;;;x
+BANKRUPTCY_SETUP;我々が破産したとき;;;;;;;;;;;;x
 BANKRUPTCY_HEADER;$MESSENGER$;;;;;;;;;;;;x
-BANKRUPTCY_1;A sad state of affairs!;;;;;;;;;;;;x
-BANKRUPTCY_2;We have been forced to declare bankrupcy.;;;;;;;;;;;;x
-BANKRUPTCY_3;All our loans have been cleared,;;;;;;;;;;;;x
-BANKRUPTCY_4;but this has caused great concern among our population;;;;;;;;;;;;x
-BANKRUPTCY_5;and we have lost much prestige in the eyes of the world.;;;;;;;;;;;;x
-BANKRUPTCY_6;In the future banks will be more hesitant to loan us money.;;;;;;;;;;;;x
-BANKRUPTCY_LOG;We went bankrupt.;;;;;;;;;;;;x
-BANKRUPTCY_BTN1;This is not good;;;;;;;;;;;;x
-THEY_BANKRUPTCY_SETUP;another country has a bankruptcy;;;;;;;;;;;;x
+BANKRUPTCY_1;嘆かわしい！;;;;;;;;;;;;x
+BANKRUPTCY_2;我々は破産を宣言せざるを得ませんでした;;;;;;;;;;;;x
+BANKRUPTCY_3;我々の全ての借款は清算されましたが、;;;;;;;;;;;;x
+BANKRUPTCY_4;このことは国民の間で大きな懸念を引き起こしました。;;;;;;;;;;;;x
+BANKRUPTCY_5;さらに我々は国際世界における威信を大きく失いました。;;;;;;;;;;;;x
+BANKRUPTCY_6;今後、銀行は今まで以上に我々に融資するのを躊躇することでしょう。;;;;;;;;;;;;x
+BANKRUPTCY_LOG;我々は破産しました。;;;;;;;;;;;;x
+BANKRUPTCY_BTN1;これはまずい;;;;;;;;;;;;x
+THEY_BANKRUPTCY_SETUP;他の国家が破産したとき;;;;;;;;;;;;x
 THEY_BANKRUPTCY_HEADER;$MESSENGER$;;;;;;;;;;;;x
-THEY_BANKRUPTCY_1;Bankruptcy!;;;;;;;;;;;;x
+THEY_BANKRUPTCY_1;破産！;;;;;;;;;;;;x
 THEY_BANKRUPTCY_2;$COUNTRY$;;;;;;;;;;;;x
-THEY_BANKRUPTCY_3;have been forced to declare bankrupcy.;;;;;;;;;;;;x
+THEY_BANKRUPTCY_3;は破産を宣言せざるを得ませんでした。;;;;;;;;;;;;x
 THEY_BANKRUPTCY_4;*;;;;;;;;;;;;x
 THEY_BANKRUPTCY_5;*;;;;;;;;;;;;x
 THEY_BANKRUPTCY_6;*;;;;;;;;;;;;x
-THEY_BANKRUPTCY_LOG;$COUNTRY$ went bankrupt.;;;;;;;;;;;;x
-THEY_BANKRUPTCY_BTN1;Ok;;;;;;;;;;;;x
-LIT_CHANGE;Monthly Change;;;;;;;;;;;;x
-precious_metal_desc;Precious Metals are not sold as normal goods but directly converted to money.;;;;;;;;;;;;x
-DIPLOMACY_CANNOT_SET_PRIO_BANNED;We cannot influence this nation since our embassy is banned;;;;;;;;;;;;x
+THEY_BANKRUPTCY_LOG;$COUNTRY$は破産しました。;;;;;;;;;;;;x
+THEY_BANKRUPTCY_BTN1;OK;;;;;;;;;;;;x
+LIT_CHANGE;月間の変化;;;;;;;;;;;;x
+precious_metal_desc;貴金属は通常の商品としては売買されず、直接換金されます。;;;;;;;;;;;;x
+DIPLOMACY_CANNOT_SET_PRIO_BANNED;大使が追放されているので、我々はこの国家に影響を与えることができません;;;;;;;;;;;;x
 PROV1723;バルボア;;;;;;;;;;;;x
 PROV353;オーゼル;;;;;;;;;;;;x
-MILITARY_MOBILIZE;Mobilize our Armed Forces;;;;;;;;;;;;x
-MILITARY_MOBILIZE_DESC;Apart from our standing army, our country can also, in the event of war, draw upon additional resources in the form of conscript levies. By ordering mobilization, our conscript armies will begin amassing at major population centers, and begin preparations for full out war. While mobilization may be essential to overcoming a sizable enemy invasion, we must always be wary of its impact on the national economy.;;;;;;;;;;;;x
-MILITARY_DEMOBILIZE;Demobilize our Armed Forces;;;;;;;;;;;;x
-MILITARY_DEMOBILIZE_DESC;By giving the order to stand down, our conscript armies will leave the field of battle and return to their homes. While any country ravaged by the tribulations of war certainly longs for a return to normalcy, we would do well to first ensure that the war is won, before sheathing our sword.;;;;;;;;;;;;x
-BE_TECH;Technologies:;;;;;;;;;;;;x
-BE_INVENT;Inventions:;;;;;;;;;;;;x
-TOPBAR_DIPLOPOINTS_GAIN;We gain §Y$VALUE$§W diplomatic points each month;;;;;;;;;;;;x
-TOPBAR_DIPLOPOINTS_BASEGAIN;Base gain: §Y$VALUE$§W diplomatic points;;;;;;;;;;;;x
-MOBILISE;Mobilize;;;;;;;;;;;;x
-DEMOBILISE;Demobilize;;;;;;;;;;;;x
-BE_INVENT;Inventions:;;;;;;;;;;;;x
-THE_WORLD_IN;The World in $YEAR$;;;;;;;;;;;;x
-TECHNOLOGY_ACTIVATION_YEAR;Activation year:;;;;;;;;;;;;x
-TECHNOLOGY_RESEARCH_POINTS;Research points:;;;;;;;;;;;;x
+MILITARY_MOBILIZE;軍を動員する;;;;;;;;;;;;x
+MILITARY_MOBILIZE_DESC;我々は常備軍の他に、戦争の際には徴兵制度に基づいて追加の資源を徴用することもできます。動員を命じることによって、徴兵部隊は主要な人口密集地に集まり始め、全面戦争の準備を始めます。大規模な敵の侵攻を克服するには動員は不可欠かもしれません。しかしそれが国家経済に与える影響には常に気を配る必要があります。;;;;;;;;;;;;x
+MILITARY_DEMOBILIZE;軍の動員を解除する;;;;;;;;;;;;x
+MILITARY_DEMOBILIZE_DESC;動員を解除することによって我々の徴兵軍は戦場を去り、故郷に戻るでしょう。戦争の苦難によって荒廃した国は、確かに正常な状態に戻ることを切望していますが、私たちはまず剣を収める前に、この戦争の勝利を確実なものとすることを第一にしなければなりません。;;;;;;;;;;;;x
+BE_TECH;技術：;;;;;;;;;;;;x
+BE_INVENT;発明：;;;;;;;;;;;;x
+TOPBAR_DIPLOPOINTS_GAIN;我々は毎月、§Y$VALUE$§Wの外交点を得ます;;;;;;;;;;;;x
+TOPBAR_DIPLOPOINTS_BASEGAIN;基礎獲得外交点：§Y$VALUE$§Wポイント;;;;;;;;;;;;x
+MOBILISE;動員開始;;;;;;;;;;;;x
+DEMOBILISE;動員解除;;;;;;;;;;;;x
+BE_INVENT;発明：;;;;;;;;;;;;x
+THE_WORLD_IN;$YEAR$の世界;;;;;;;;;;;;x
+TECHNOLOGY_ACTIVATION_YEAR;解禁年：;;;;;;;;;;;;x
+TECHNOLOGY_RESEARCH_POINTS;研究点：;;;;;;;;;;;;x
 tut_8c_12;ヴィクトリア２では開始するすべての戦争に対して戦争の目的を設定する必要があります。宣戦布告ポップアップの右側に表示される戦争目的のみを選択できます。選んだ戦争目的だけが和平時に要求できる唯一のものであることに注意してください。\n 「戦争を表示」画面をクリックして戦争目的をチェックしてください。;;;;;;;;;;;;x
 tut_6b_14;次へをクリックして進んでください。;;;;;;;;;;;;x
-tut_8a_7;To try to ally with The United Kingdom we need to take a diplomatic action. Diplomatic actions can be anything from requesting an alliance to declaring war. To perform a diplomatic action we need to have diplomatic points, which are accumulated monthly. Looking in the top bar under diplomacy we can see that we have a few points, more than the 1 point that the Form Alliance action costs. Go ahead and press the Form Alliance action and then press the 'Accept' button to suggest an alliance with the UK.;;;;;;;;;;;;x
-TEMP_NEXT;Next;;;;;;;;;;;;x
-BUDGET_EXPORTS;National Stockpile Sales: §Y$VAL$§W;;;;;;;;;;;;x
-BUDGET_IMPORTS;National Stockpile Purchases: §Y$VAL$§W;;;;;;;;;;;;x
-bad_debter;Bad debter;;;;;;;;;;;;x
-bad_debter_desc;Due to your countrys history of flaky economy banks will demand a higher interest on your loans;;;;;;;;;;;;x
+tut_8a_7;英国と同盟を結ぼうとするには、外交行動を行う必要があります。外交行動は同盟の要求から宣戦布告まで色々なものがあります。外交行動を実行するには、毎月蓄積される外交点が必要です。トップバーの外交点を見ると、我々にはいくつか外交点があることがわかります。そしてそれは「同盟を締結する」の行動コストよりも１点上回っています。「同盟を締結する」をクリックし、「承認 」ボタンを押して、英国との同盟を提案します。;;;;;;;;;;;;x
+TEMP_NEXT;次;;;;;;;;;;;;x
+BUDGET_EXPORTS;国家備蓄売却量：§Y$VAL$§W;;;;;;;;;;;;x
+BUDGET_IMPORTS;国家備蓄購入量：§Y$VAL$§W;;;;;;;;;;;;x
+bad_debter;不良債権者;;;;;;;;;;;;x
+bad_debter_desc;銀行はあなたの国の脆弱な経済の遍歴を見て借金に高い金利を要求するでしょう;;;;;;;;;;;;x
 MUST_NEGOTIATE_WITH_WAR_LEADER;我々がこの戦争の指導者出ない場合は敵側の§Y戦争指導国§Wと交渉しなくてはなりません;;;;;;;;;;;;x
 BAD_ADJ;バーデン;;;;;;;;;;;;x
 WAR_LEADER;§Y戦争指導国§W;;;;;;;;;;;;x
 MUST_NEGOTIATE_WITH_WAR_LEADER_NO_LEFTOVER_WARGOALS;§Y$COUNTRY$§Wとの和平はこの戦争を終結させうるために、我々は敵側の§Y戦争指導国§Wと交渉しなければなりません;;;;;;;;;;;;x
-WARGOAL_DEMAND;§Y$COUNTRY$§W demands this from §Y$ENEMY$§W;;;;;;;;;;;;x
-POP_DETAILS_PROMOTIONS;Promotions:;;;;;;;;;;;;x
-POP_DETAILS_DEMOTIONS;Demotions:;;;;;;;;;;;;x
+WARGOAL_DEMAND;§Y$COUNTRY$§Wは§Y$ENEMY$§Wにこれを要求します;;;;;;;;;;;;x
+POP_DETAILS_PROMOTIONS;POPの昇格：;;;;;;;;;;;;x
+POP_DETAILS_DEMOTIONS;POPの降格：;;;;;;;;;;;;x
 NO_WAR_SPHERE_LEADER;影響圏の指導国に対して戦争を行うことはできません。;;;;;;;;;;;;x
 EVTNAME15310;さまよえる大学;;;;;;;;;;;;x
-GO_TO_DIPLOMACY;Go to Diplomacy;;;;;;;;;;;;x
-PROVINCE_CONTROL_DAYS_LATER_THAN;Province control not changed in the last §Y$DAYS$§W days.\n;;;;;;;;;;;;x
-PROVINCE_CONTROL_DAYS;Province control changed in the last §Y$DAYS$§W days.\n;;;;;;;;;;;;x
-ENFORCE_DEMANDS_TRIGGER;These rebels will win if the following is true:;;;;;;;;;;;;x
+GO_TO_DIPLOMACY;外交画面へ移動;;;;;;;;;;;;x
+PROVINCE_CONTROL_DAYS_LATER_THAN;過去§Y$DAYS$§W日の間は州の統治に変化はありませんでした。\n;;;;;;;;;;;;x
+PROVINCE_CONTROL_DAYS;過去§Y$DAYS$§W日の間に州の統治に変化がありました。\n;;;;;;;;;;;;x
+ENFORCE_DEMANDS_TRIGGER;次が真である場合は反乱軍が勝利するでしょう：;;;;;;;;;;;;x
 tut_1a_40;移動矢印が表示されたら、一時停止を解除し、ゲームを再開してください。;;;;;;;;;;;;x
-EVTNAME15060;First Farmer's Bank;;;;;;;;;;;;x
-POLITICS_REFORMS;Reforms;;;;;;;;;;;;x
-POLITICS_RELEASE_NATIONS;Release Nations;;;;;;;;;;;;x
-MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W is in command of §Y$ARMY$§W in §Y$LOCATION$§W;;;;;;;;;;;;x
-hms_government;HM's Government;;;;;;;;;;;;x
+EVTNAME15060;最初の農民銀行;;;;;;;;;;;;x
+POLITICS_REFORMS;改革;;;;;;;;;;;;x
+POLITICS_RELEASE_NATIONS;国家の解放;;;;;;;;;;;;x
+MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§Wは§Y$LOCATION$§Wの§Y$ARMY$§Wを指揮しています;;;;;;;;;;;;x
+hms_government;女王陛下の政府;;;;;;;;;;;;x
 EVTNAME19310;天命;;;;;;;;;;;;x
-EVTDESC19310;「天命」とは西洋の王権神授説に似た中国哲学の概念であり、歴史的に君主の権力を正当化し動機付けるために用いられてきました。最近我が国が列強の地位を得たことによって、我が国の臣民は、我々の政府が天命を享受していると再び確信するようになっています。;;;;;;;;;;;;x
+EVTDESC19310;「天命」とは西洋の王権神授説に似た中国哲学の概念であり、歴史的に君主の権力を正当化し動機付けるために用いられてきました。最近、我々が列強の地位を得たことによって、我々の臣民は、我々の政府が天命を享受していると再び確信するようになっています。;;;;;;;;;;;;x
 EVTOPTA19310;素晴らしい！;;;;;;;;;;;;x
-EVTNAME19320;The Empire of the Sun;;;;;;;;;;;;x
-EVTDESC19320;Japan, land of the rising sun. For many years, since the black ships of the gaijin first appeared on our shores, our nation has been sailing in the wake of powers greater than and beyond our own. With our recent ascension to Great Power status the tides of fortune have turned. From now on let the winds repulse and break any foreign wave that dares wash over the sacred shores of the Great Power of Japan!;;;;;;;;;;;;x
+EVTNAME19320;太陽の帝国;;;;;;;;;;;;x
+EVTDESC19320;日の昇る国、日本。初めて外国人が黒船に乗って我が国の沿岸に現れて以降、長年にわたって、我々は自国よりも強大な国々の後を追って前進してきました。最近の列強への昇格により、潮目は变わりました。これからは、列強たる日本の神聖な領土に打ち寄せる海外からの荒波を撃退し撃破する風となってください！;;;;;;;;;;;;x
 EVTOPTA19320;万歳！;;;;;;;;;;;;x
-form_union_nation_title;Form $CULTURE_GROUP_UNION$;;;;;;;;;;;;x
-form_union_nation_desc;Our dominant position among our cultural brethren puts us in a position to form $CULTURE_GROUP_UNION$.;;;;;;;;;;;;x
-BE_SECOND_RANK;Secondary Power;;;;;;;;;;;;x
-COUNTRYALERT_HasUnemployedWorkers;The following states have unemployed factory workers:;;;;;;;;;;;;x
-REMOVE_TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by approx. $CHANGE$ each month.;;;;;;;;;;;;x
-TOPBAR_POPULATION_VISUAL;Our total population is $CURR$.;;;;;;;;;;;;x
-BUILD_COLONIAL;Non-colonial state;;;;;;;;;;;;x
+form_union_nation_title;$CULTURE_GROUP_UNION$を形成;;;;;;;;;;;;x
+form_union_nation_desc;文化的同胞の間で我々は支配的な地位にいるため、$CULTURE_GROUP_UNION$を形成する事が可能です。;;;;;;;;;;;;x
+BE_SECOND_RANK;準列強国;;;;;;;;;;;;x
+COUNTRYALERT_HasUnemployedWorkers;次の国々には失業中の工場労働者がいます：;;;;;;;;;;;;x
+REMOVE_TOPBAR_POPULATION;我々の成人男子人口は$CURR$です。これは毎月、約$CHANGE$ずつ変化します。;;;;;;;;;;;;x
+TOPBAR_POPULATION_VISUAL;我々の全人口は$CURR$です。;;;;;;;;;;;;x
+BUILD_COLONIAL;非植民国;;;;;;;;;;;;x
 EVTNAME60080;隷属への道;;;;;;;;;;;;x
-EVTDESC60080;Lately an eerie feeling has crept over you that $COUNTRY$ is growing silent. Where before the free exchange of opinion and ideas could be heard, from street corners and bus stops to bars and universities, now only the sounds of silence gives echo. The conclusion that is becoming ever more evident, is that the tradition of $COUNTRY_ADJ$ democracy has been subverted. In $COUNTRY$, at least, the government for, of and by the people, has perished from the earth.;;;;;;;;;;;;x
-EVTOPTA60080;Muahahaha!;;;;;;;;;;;;x
-EVTNAME14210_sub;All They're Saying is 'Give Peace a Chance!';;;;;;;;;;;;x
+EVTDESC60080;最近の$COUNTRY$は沈黙が広がりつつあるという不気味な感覚があなたに忍び寄ってきています。街角やバス停からバーや大学といった以前は自由に意見やアイデアを交換できた場所は、今では静寂の音だけが響きます。$COUNTRY_ADJ$の民主主義の伝統は崩壊したという結論が日に日に明らかになってきています。$COUNTRY$では少なくとも、人民の、人民による、人民のための政府は地上から消滅したのです。;;;;;;;;;;;;x
+EVTOPTA60080;フーハッハッハ！;;;;;;;;;;;;x
+EVTNAME14210_sub;全員が「平和を我等に！」と言っています;;;;;;;;;;;;x
 EVTNAME14040;Love & War;;;;;;;;;;;;x
 REL_SPHERE_OF_INFLUENCE;影響圏化にある;;;;;;;;;;;;x
 status_quo_short;現状維持;;;;;;;;;;;;x
-TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: $COUNT$;;;;;;;;;;;;x
-LESS_AMOUNT_OF_SHIPS;Less amount of ships than: $COUNT$;;;;;;;;;;;;x
-tut_3a_21b;Try to take a loan by pressing the take loan button, pulling the slider till you have an amount you like and press OK.;;;;;;;;;;;;x
-REVANCHISM_EXPLANATION;Revanchism, from the French word for 'revenge', is the yearning for the return of land lost to the nation. In love, war, and peace alike, our people will be willing to make greater sacrifices for the return of our sacred soil.;;;;;;;;;;;;x
-EVTNAME14120_sub;Religious policy debated in local election;;;;;;;;;;;;x
-tut_8c_10;However, should you drop down in position it's not too late, as you will get a warning in time and can then try to fix the problem. One way to avert this disaster is, of course, war. Either a war to increase your own prestige, or to lower someone else's. Let's talk a bit about wars. Find France and declare war. Do this by clicking declare war, selecting a war goal and clicking 'Ok'.;;;;;;;;;;;;x
+TOTAL_AMOUNT_OF_SHIPS;船舶の総数：$COUNT$;;;;;;;;;;;;x
+LESS_AMOUNT_OF_SHIPS;次よりも船舶の総数が少ない：$COUNT$;;;;;;;;;;;;x
+tut_3a_21b;「融資を受ける」ボタンを押して、好きな金額になるまでスライダーを動かしてOKを押してください。;;;;;;;;;;;;x
+REVANCHISM_EXPLANATION;リヴァンチィズムは、フランス語で「復讐 」を意味する言葉に由来し、国家に対して失われた土地の回収を要求する運動です。恋や戦争、平和と同様に、我々の人民は自らの神聖な国土を取り戻すためにはより大きな犠牲もいとわないでしょう。;;;;;;;;;;;;x
+EVTNAME14120_sub;地方選挙で宗教政策が議論されました;;;;;;;;;;;;x
+tut_8c_10;しかし「地位の低下」は、警告後に問題を解消するための行動をとっても遅すぎるということはありません。これを避ける方法の１つは当然、戦争です。自国の威信を高める、他国の威信を下げる、どちらの戦争もです。戦争について少し説明しましょう。フランスに宣戦布告してください。「宣戦布告」をクリックし、戦争目的を設定し、最後に「OK」をクリックしてください。;;;;;;;;;;;;x
 BE_GREAT_POWER;列強;;;;;;;;;;;;x
 DIPLOMACY_GREATNATION_STATUS;列強;;;;;;;;;;;;x
-WE_NO_LONGER_GREAT_POWER_2;and lost its position as a Great Power to;;;;;;;;;;;;x
-THEY_NO_LONGER_GREAT_POWER_3;and lost its position as a Great Power to;;;;;;;;;;;;x
-WE_BECAME_GREAT_POWER_2;and are now considered a Great Power!;;;;;;;;;;;;x
-SERVER_LOST_DESC;The server was lost. You can save the game or choose continue and close this window. To continue the game you must quit and rehost.;;;;;;;;;;;;x
-MODIFIER_GLOBAL_POP_MILITANCY_MODIFIER;Pop Militancy;;;;;;;;;;;;x
-MODIFIER_GLOBAL_POP_CONSCIOUSNESS_MODIFIER;Pop Consciousness;;;;;;;;;;;;x
-global_liberal_agitation;Liberal Agitation;;;;;;;;;;;;x
-desc_global_liberal_agitation;Firebrands are arguing the cause of liberalism and revolution.;;;;;;;;;;;;x
-EDU_DESC;The educational budget is used to pay the clergy and to produce research points.;;;;;;;;;;;;x
-ADM_DESC;Spending on administration allows your bureaucrats to run and maintain a healthy bureaucracy, increasing your tax efficiency.;;;;;;;;;;;;x
-COMBATEND_INITIAL;Initial;;;;;;;;;;;;x
-COMBATEND_CASUALTIES;Casualties;;;;;;;;;;;;x
-COMBATEND_SURVIVORS;Survivors;;;;;;;;;;;;x
+WE_NO_LONGER_GREAT_POWER_2;次の国に列強の地位を明け渡しました：;;;;;;;;;;;;x
+THEY_NO_LONGER_GREAT_POWER_3;次の国に列強の地位を明け渡しました：;;;;;;;;;;;;x
+WE_BECAME_GREAT_POWER_2;今や列強とみなされています！;;;;;;;;;;;;x
+SERVER_LOST_DESC;サーバーがロストしました。ゲームを保存するか、 「続行」を選択してこのウィンドウを閉じてください。ゲームを続行するにはゲームを終了して再ホストする必要があります。;;;;;;;;;;;;x
+MODIFIER_GLOBAL_POP_MILITANCY_MODIFIER;POPの好戦性;;;;;;;;;;;;x
+MODIFIER_GLOBAL_POP_CONSCIOUSNESS_MODIFIER;POPの政治意識;;;;;;;;;;;;x
+global_liberal_agitation;自由主義の扇動;;;;;;;;;;;;x
+desc_global_liberal_agitation;煽動者が自由主義と革命についての運動を主張しています。;;;;;;;;;;;;x
+EDU_DESC;教育予算は聖職者と研究点の生産に使われます。;;;;;;;;;;;;x
+ADM_DESC;行政への支出は官僚が健全な官僚機関を運営し、維持することを可能にし、徴税効率を高めます。;;;;;;;;;;;;x
+COMBATEND_INITIAL;最初;;;;;;;;;;;;x
+COMBATEND_CASUALTIES;死傷者;;;;;;;;;;;;x
+COMBATEND_SURVIVORS;生存者;;;;;;;;;;;;x
 cavours_diplomacy_title;カヴール外交;;;;;;;;;;;;x
-cavours_diplomacy_desc;Camillo Paolo Filippo Giulio Benso, Count of Cavour, Prime Minister of The Kingdom of Sardinia, was a leading figure in the movement for Italian Unification, and his personal efforts at diplomacy are often credited with securing the support of Napoleon III's France against Austria in the Second Italian War of Independence.;;;;;;;;;;;;x
+cavours_diplomacy_desc;サルデーニャ王国首相であるカヴール伯爵カミッロ・パオロ・フィリッポ・ジュリオ・ベンソはイタリア統一運動の中心人物であり、第二次イタリア独立戦争においてオーストリアに対抗してナポレオン3世のフランスの支持を取り付けることができたのは彼の個人的な外交努力によるところが大きいと評価されています。;;;;;;;;;;;;x
 EVTNAME36898;ヴィクトリア女王の戴冠式;;;;;;;;;;;;x
-EVTDESC36898;On the 28th of June, 1838, princess Alexandrina Victoria of House Hanover ascended to the throne of The United Kingdom of Great Britain and Ireland as 'Queen Victoria'. Her reign, which would last even a few years into the 20th century, would later be remembered as the absolute zenith of the British Empire, upon which the sun never set. The last British Monarch of the House of Hanover, her ascension also marked the end of the personal union between Britain and Hanover. Today a jubilant crowd in London has escorted the young Queen Victoria to her residence in the newly built Buckingham Palace.;;;;;;;;;;;;x
-EVTOPTA36898;Victoria Regina!;;;;;;;;;;;;x
+EVTDESC36898;1838年6月28日、ハノーヴァー家のアレクサンドリナ・ヴィクトリア王女は「ヴィクトリア女王」としてグレートブリテン及びアイルランド連合王国の王位に就きました。20世紀に入ってからも数年続くこととなる彼女の治世は、太陽の沈まぬ大英帝国の全盛期として後世まで記憶されることとなります。ハノーヴァー家の最後の英国君主である彼女の即位は、同時にイギリスとハノーファーの同君連合の解消を意味しました。本日、若きヴィクトリア女王は歓喜に満ちた群衆に伴われ、新たに建設されたバッキンガム宮殿にある住居へと向かいました。;;;;;;;;;;;;x
+EVTOPTA36898;ヴィクトリアレジーナ！;;;;;;;;;;;;x
 RELEASE_VASSAL_EFFECT;§Y$TARGET$§Wを解放\n;;;;;;;;;;;;x
 EVTDESC15310;彼女は、まるで影が$COUNTRY_ADJ$兵であるかのように、影を避けながら街中を急いでいます。そんな彼女をにらんでいるかのような教会の時計塔は、照明に照らされ、病人の黄色い目のように見えます。彼女はすでに遅刻しています。しかし授業はまだ続いています。\n\n$PROVINCENAME$で地下大学が設立されました。ここでは学界で少数派言語が禁止されたにもかかわらず、高等教育が提供されています。;;;;;;;;;;;;x
 EVTNAME11100;$FROMCOUNTRY_ADJ$議会;;;;;;;;;;;;x
@@ -331,9 +331,9 @@ EVTDESC11102;$COUNTRY$の至る所で、歓喜する群衆が、$COUNTRY_ADJ$旗
 EVTOPTA11102;万歳！;;;;;;;;;;;;x
 NAVALATTACKTHEM_HEADER;海軍総長の報告;;;;;;;;;;;;x
 NAVALATTACKUS_HEADER;海軍総長の報告;;;;;;;;;;;;x
-SIEGEUS_SETUP;敵が我が国の州を占領し始めた場合、;;;;;;;;;;;;x
+SIEGEUS_SETUP;敵が我々の州を占領し始めた場合、;;;;;;;;;;;;x
 SIEGEUS_HEADER;$MESSENGER$;;;;;;;;;;;;x
-SIEGEUS_1;我が国の州の占領が始まりました;;;;;;;;;;;;x
+SIEGEUS_1;我々の州の占領が始まりました;;;;;;;;;;;;x
 SIEGEUS_2;$MONARCHTITLE$、;;;;;;;;;;;;x
 SIEGEUS_3;$PROV$;;;;;;;;;;;;x
 SIEGEUS_4;の占領が始まっています。ですが心配ご無用！;;;;;;;;;;;;x
@@ -347,12 +347,12 @@ SIEGEUS_MAP;*;;;;;;;;;;;;x
 SIEGETHEM_SETUP;我々が敵の州の一つを占領し始めた場合、;;;;;;;;;;;;x
 SIEGETHEM_HEADER;$MESSENGER$;;;;;;;;;;;;x
 SIEGETHEM_1;彼らの州の占領が開始されました;;;;;;;;;;;;x
-SIEGETHEM_2;$MONARCHTITLE$、我が国は次の占領を開始済みです：;;;;;;;;;;;;x
+SIEGETHEM_2;$MONARCHTITLE$、我々は次の占領を開始済みです：;;;;;;;;;;;;x
 SIEGETHEM_3;$PROV$;;;;;;;;;;;;x
 SIEGETHEM_4;我々の軍隊がそれを次の手中からもぎ取るのはそう長くはかからないでしょう：;;;;;;;;;;;;x
 SIEGETHEM_5;$DEFENDER$;;;;;;;;;;;;x
 SIEGETHEM_6;かの地の住民も、我々の寛大な統治を心待ちにしています。;;;;;;;;;;;;x
-SIEGETHEM_LOG;我が国は$PROV$の占領を開始しています。;;;;;;;;;;;;x
+SIEGETHEM_LOG;我々は$PROV$の占領を開始しています。;;;;;;;;;;;;x
 SIEGETHEM_BTN1;OK;;;;;;;;;;;;x
 SIEGETHEM_BTN2;OK;;;;;;;;;;;;x
 SIEGETHEM_BTN3;移動;;;;;;;;;;;;x
@@ -367,29 +367,29 @@ CHAT_NONE_TIP;チャットフィルタをクリア;;;;;;;;;;;;x
 CHAT_ALLIES_TIP;同盟国とのみチャットする;;;;;;;;;;;;x
 CHAT_ENEMIES_TIP;敵側とのみチャットする;;;;;;;;;;;;x
 CHAT_ALL_TIP;全員とチャットする;;;;;;;;;;;;x
-CHAT_FILTER;Click to change if the user gets messages or not;;;;;;;;;;;;x
-UV_NO_MORALE;Cannot move due to poor organisation. Current organisation is §Y$ORG$§W out of §Y$NEED$§W needed.;;;;;;;;;;;;x
-UV_NO_STRENGHT;Cannot move due to poor strenght. Current strenght is §Y$STR$§W out of §Y$NEED$§W needed.;;;;;;;;;;;;x
-tut_7a_6b;Below is a check box called Automate.\nAutomate will automatically set your trade order to buy what your armies need.;;;;;;;;;;;;x
+CHAT_FILTER;ユーザーがメッセージを受信するかどうかを変更するときにクリックします;;;;;;;;;;;;x
+UV_NO_MORALE;組織率が低すぎるため移動不可能です。現在の組織率は§Y$ORG$§Wで、§Y$NEED$§Wが必要です。;;;;;;;;;;;;x
+UV_NO_STRENGHT;兵員数が低すぎるため移動不可能です。現在の兵員数は§Y$STR$§Wで、§Y$NEED$§Wが必要です。;;;;;;;;;;;;x
+tut_7a_6b;その下は 「自動化」というチェックボックスです。\n自動化はあなたの軍隊が必要とするものを購入するために貿易を自動的に設定します。;;;;;;;;;;;;x
 tut_1a_4;オランダ軍が我々の国境沿いに集結しています。我々は連中を撃退しなければなりません。我々がしなければならない最初のことは、そのために軍を選択することです。\n軍を選択するには、ブリュッセルの軍をクリックしてください。;;;;;;;;;;;;x
-CONT_AI;Replace w. AI;;;;;;;;;;;;x
-CONT_CONTINUE;Continue (no AI);;;;;;;;;;;;x
-ASKMILITARYACCESS_THEY_ACCEPT_6;We can move our troops freely across their territory while this treaty is in effect.;;;;;;;;;;;;x
-ASKMILITARYACCESS_THEY_DECLINE_6;How they fail to see the benefits of having our troops on the streets of their capital is one of life's little mysteries.;;;;;;;;;;;;x
-DISBAND_UNIT_DRO;Disbanding a brigade will remove it from the game, and thus reduce the amount of supplies your nation has to spend on maintenance.;;;;;;;;;;;;x
-residency_desc;Only people of your nation's primary culture are allowed the vote.;;;;;;;;;;;;x
-limited_citizenship_desc;Only people of your nation's primary and accepted cultures are allowed the vote.;;;;;;;;;;;;x
-small_arms_production_desc;With the inventions of breech loaded rifles, mechanized rifle drilling, semi-automatics, and other technical improvements in weapons design, the industrial output of small arms was vastly increased during the 19th century.;;;;;;;;;;;;x
-ammunition_production_desc;The design and production of basic munitions saw much improvement over the course of the 19th century. Advances in weapons design -- from muzzle to breech loads to semi-automatics and machine guns -- naturally meant that the design and production of ammunition also had to follow suit.;;;;;;;;;;;;x
-explosives_production_desc;The Victorian era witnessed tremendous advances in man's capacity for blowing things up. An era that had started with little more advanced than simple black powder would, at the end of it, have seen the advent of both plastic explosives and nitroglycerin.;;;;;;;;;;;;x
-artillery_production_desc;The Industrial Revolution of the 19th century affected practically all areas of human endeavour, and the production of artillery was no exception. What had previously been a lengthy process of cast molding bronze cannons would -- in the hands of luminaries of the industry, such as Alfred Krupp or Hiram Maxim -- become an industrialized and exact sience.;;;;;;;;;;;;x
-PO_PD_70;You have won a devastating victory, and can expect the fulfillment of several war goals in a peace settlement.;;;;;;;;;;;;x
-PO_PD_40;You have won a total victory, and should demand the fulfillment of at least one major war goal in a peace settlement.;;;;;;;;;;;;x
-PO_PD_10;You have won a victory. The enemy would most likely accept a white peace, or the fulfillment of at least a limited war goal in a peace settlement.;;;;;;;;;;;;x
-PO_PD_NEG_25;The enemy has won, and we should consider offering the fulfillment of at least a limited war goal of theirs in exchange for peace.;;;;;;;;;;;;x
-PO_PD_NEG_60;The enemy has won a total victory, and we should consider offering them the fulfillment of at least one of their major war goals.;;;;;;;;;;;;x
-PO_PD_NEG_99;The enemy has won a devastating victory, and we can expect them to demand the fulfillment of several war goals in the peace negotiations.;;;;;;;;;;;;x
-TOPBAR_AT_WAR_WITH;At war with §Y$COUNTRY$§W;;;;;;;;;;;;x
-tut_7a_8a;Notice the icon with the text BUY under it, and the slider next to it. This means that if you pull the slider to a certain stockpile value, the game will attempt to buy the the trade goods until you have that amount.;;;;;;;;;;;;x
-EVTOPTA17000;There will be no suffrage at this junction;;;;;;;;;;;;x
-EVTOPTB17000;If only there were popular support for this idea...;;;;;;;;;;;;x
+CONT_AI;AIと交代;;;;;;;;;;;;x
+CONT_CONTINUE;続ける（AIなし）;;;;;;;;;;;;x
+ASKMILITARYACCESS_THEY_ACCEPT_6;この条約が有効の間は、我々は自由に軍隊を彼らの領土を移動させることができます。;;;;;;;;;;;;x
+ASKMILITARYACCESS_THEY_DECLINE_6;自らの首都の大通りに我々の軍隊が駐留する、彼らがこれに利益を見いだせないというのは、人生のささやかな謎の一つです。;;;;;;;;;;;;x
+DISBAND_UNIT_DRO;旅団を解体すると、ゲームからそれが取り除かれ、国が維持に費やす必要のある物資の量が減ります。;;;;;;;;;;;;x
+residency_desc;あなたの国の主要文化の人々だけが投票を許されます。;;;;;;;;;;;;x
+limited_citizenship_desc;あなたの国の主要文化と受容文化の人々だけが投票を許されます。;;;;;;;;;;;;x
+small_arms_production_desc;19世紀には、後装式ライフルの発明、機械によるライフル穿孔、半自動化、その他の武器設計の技術的改良により、小型武器の工業生産量は大幅に増加しました。;;;;;;;;;;;;x
+ammunition_production_desc;基本的な軍需品の設計と製造は、19世紀を通じて大幅に改善されました。前装式から後装式、半自動式、機関銃といった兵器の進化は、当然のことながら弾薬の設計と製造を追従させました。;;;;;;;;;;;;x
+explosives_production_desc;ビクトリア朝時代には、物を爆破する人間の能力が飛躍的に向上しました。時代の始まりには黒色火薬に毛の生えたようなものが、その終わりにはプラスチック爆薬とニトログリセリンの両方となりました。;;;;;;;;;;;;x
+artillery_production_desc;19世紀の産業革命は人間の努力のほとんどすべての領域に影響を与え、それは大砲の生産も例外ではありませんでした。以前は長い工程をへて鋳造された青銅製の大砲が、アルフレート・クルップやハイラム・マキシムのような産業界の著名人の手によって工業化されて正確な寸法になりました。;;;;;;;;;;;;x
+PO_PD_70;あなたは圧倒的な勝利を収めました。和平交渉において、いくつかの戦争目標の達成を期待することができます。;;;;;;;;;;;;x
+PO_PD_40;あなたは完全な勝利を収めました。和平交渉において、少なくとも一つの主要な戦争目標の達成を要求すべきです。;;;;;;;;;;;;x
+PO_PD_10;あなたの勝利を収めました。敵はおそらく白紙和平を受け入れます。もしくは和平交渉において、少なくとも限定的な戦争目標の達成を受け入れるでしょう。;;;;;;;;;;;;x
+PO_PD_NEG_25;敵は勝利を収めました。平和と引き換えに、少なくとも彼らの限定的な戦争目標の達成を提示することを考えるべきです。;;;;;;;;;;;;x
+PO_PD_NEG_60;敵は完全な勝利を収めました。我々は彼らの主要な戦争目標の少なくとも一つを達成させることを考えるべきです。;;;;;;;;;;;;x
+PO_PD_NEG_99;敵は圧倒的な勝利を収めました。我々は和平交渉において、彼らの戦争目標のいくつかの達成を要求されることを覚悟する必要があります。;;;;;;;;;;;;x
+TOPBAR_AT_WAR_WITH;§Y$COUNTRY$§Wと戦争中;;;;;;;;;;;;x
+tut_7a_8a;アイコンの下に「購入」というテキストがあり、その横にスライダーがあることに注目してください。これは、スライダーを特定の備蓄量まで引き上げると、ゲームはその量になるまで商品を購入しようとすることを意味します。;;;;;;;;;;;;x
+EVTOPTA17000;今の段階では参政権は不要だ;;;;;;;;;;;;x
+EVTOPTB17000;この考えを支持する人がいればあるいは…;;;;;;;;;;;;x

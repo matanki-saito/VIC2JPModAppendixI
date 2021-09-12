@@ -8,7 +8,7 @@ EVTNAME31102;イスタンブールからの逃亡;;;;;;;;;;;;x
 EVTDESC31102;イスタンブールにおける我々の立場はもはや安泰とは言えません。もっと安全な場所に政府を移すべきです。;;;;;;;;;;;;x
 EVTOPTA31102;ついにヨーロッパから追い出されてしまった…;;;;;;;;;;;;x
 OL_REBEL_OCCUPATIONS;反乱軍による占領;;;;;;;;;;;;x
-OL_REBEL_OCCUPATIONS_TOOLTIP;我が国の§Y$PROVINCE$§W州が反乱軍に占領されました！;;;;;;;;;;;;x
+OL_REBEL_OCCUPATIONS_TOOLTIP;我々の§Y$PROVINCE$§W州が反乱軍に占領されました！;;;;;;;;;;;;x
 OL_VIEW_REBEL_OCCUPATIONS;§Y反乱軍による占領§Wの表示と非表示を切り换え;;;;;;;;;;;;x
 POP_MIL_CHANGE_REBEL;このPOPは§Y$PROV$§Wに住んでいて、一帯は§R反乱軍§Wに支配されています。\n急進性の変化を予測できません。;;;;;;;;;;;;x
 POP_CON_CHANGE_REBEL;このPOPは§Y$PROV$§Wに住んでいて、一帯は§R反乱軍§Wに支配されています。\n政治意識の変化を予測できません。;;;;;;;;;;;;x

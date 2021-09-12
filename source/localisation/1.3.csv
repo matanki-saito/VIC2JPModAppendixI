@@ -68,7 +68,7 @@ PARTY_UNAVAIL_BTN2;OK;;;;;;;;;;;;x
 PARTY_UNAVAIL_BTN3;移動;;;;;;;;;;;;x
 PARTY_UNAVAIL_LOG;利用できない政党;;;;;;;;;;;;x
 PRODUCTION_FACTORY_DAYSRED_TOOLTIP;債務超過日：§R$DAYS$§W;;;;;;;;;;;;x
-EXPENSE_NO_AFFORD;我が国が支出可能なのは§R$VAL$§W¤までです！;;;;;;;;;;;;x
+EXPENSE_NO_AFFORD;我々が支出可能なのは§R$VAL$§W¤までです！;;;;;;;;;;;;x
 PRODUCTION_FACTORY_DAYSRED_TOOLTIP;債務超過日：§R$DAYS$§W;;;;;;;;;;;;x
 ENG_presidential_dictatorship;グレートブリテン;;;;;;;;;;;;x
 EVTNAME16451;守備隊の襲撃;;;;;;;;;;;;x
@@ -79,7 +79,7 @@ IS_IN_DEFAULT_TO;次に対して債務不履行である：;;;;;;;;;;;;x
 IS_NOT_IN_DEFAULT_TO;次に対して債務不履行ではない：;;;;;;;;;;;;x
 gunboat;借款の返済;;;;;;;;;;;;x
 gunboat_desc;彼らに再度借款の返済を強要します。;;;;;;;;;;;;x
-gunboat_setup;彼らに我が国からの借款の返済を強要します。;;;;;;;;;;;;x
+gunboat_setup;彼らに我々からの借款の返済を強要します。;;;;;;;;;;;;x
 gunboat_short;借款の返済;;;;;;;;;;;;x
 EVTNAME70002;$FROMCOUNTRY$が破産しました！;;;;;;;;;;;;x
 EVTDESC70002;$FROMCOUNTRY$は破産し、返済の無効を宣言しています！我々は投資家を保護するために軍事力を行使しなくてはなりません。;;;;;;;;;;;;x

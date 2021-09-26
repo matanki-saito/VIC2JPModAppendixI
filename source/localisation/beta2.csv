@@ -50,33 +50,33 @@ CULTURE_IS_NOT;次の文化に属さない：;;;;;;;;;;;;x
 CULTURE_IS;次の文化に属する：;;;;;;;;;;;;x
 INVALID_WARTARGET_TROOPS_IN_THEM;我々の軍隊が彼らの国内に存在しています。;;;;;;;;;;;;x
 WEX_EFFECTS;現在の効果;;;;;;;;;;;;x
-NOBODY_CAN_VOTE_HERE;Nobody is allowed the vote.;;;;;;;;;;;;x
-NOT_ABLE_TO_REINFORCE;This pop is now too small to reinforce this brigade.;;;;;;;;;;;;x
-POP_SIZE_UNITVIEW;This pop has §Y$VAL$§W people and can support §Y$ALLOWED$§W brigades. Currently it has §Y$CURRENT$§W brigades..;;;;;;;;;;;;x
-MAX_REINF_UNITVIEW;Reinforcing at §G100%§W speed.;;;;;;;;;;;;x
-POP_IMPACT_UNITVIEW;Due to losses in the reserves, this unit reinforces at §Y$VAL$%§W speed.;;;;;;;;;;;;x
-MOB_IS_REINFORCE;Mobilized units reinforce at §Y50%§W speed.;;;;;;;;;;;;x
-EVTNAME60120;Increasing Federalism;;;;;;;;;;;;x
-EVTDESC60120;A sentiment of cultural nationalism is sweeping $COUNTRY$, as people begin to clamor for unification with our cultural brethren in $CULTURE_GROUP_UNION$. We have little reason to doubt that they would object to a petition of annexation.;;;;;;;;;;;;x
-EVTOPTA60120;Let's do it;;;;;;;;;;;;x
-EVTNAME60130;$FROMCOUNTRY$ Petitions for Annexation;;;;;;;;;;;;x
-EVTDESC60130;Following a surge in popular nationalist sentiments, the $FROMCOUNTRY_ADJ$ government has placed a formal request with our authorities in $CAPITAL$ that they be allowed to join $COUNTRY$ in perpetual union. There seems to be little reason to oppose this move.;;;;;;;;;;;;x
-EVTOPTA60130;Let's do it;;;;;;;;;;;;x
-EVTOPTB60130;By god no, $FROMCOUNTRY_ADJ$ scum;;;;;;;;;;;;x
-ATPEACE;At Peace;;;;;;;;;;;;x
-NORMAL_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ War of $SECOND$ Containment;;;;;;;;;;;;x
-AGRESSION_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ War of $SECOND$ Containment;;;;;;;;;;;;x
-rude_boy;Containment;;;;;;;;;;;;x
-rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of civilized conduct in the realm of international affairs, to vastly reduce its ambitions.;;;;;;;;;;;;x
-rude_boy_setup;Contain $RECIPIENT$ by reducing their territory, prestige and military.;;;;;;;;;;;;x
-rude_boy_short;Contain $RECIPIENT$;;;;;;;;;;;;x
-POP_DETAILS_EXPENSES;Expenses:;;;;;;;;;;;;x
-CONFIRM_CREATE_VASSAL;Release Nation;;;;;;;;;;;;x
-CONFIRM_CREATE_VASSAL_DESC;Do you want to release §Y$COUNTRY$§W as a §Y$TYPE$§W?\n §Y$COUNTRY$§W will receive the following §Y$NUM$§W province(s): §Y$PROVINCES$§W.;;;;;;;;;;;;x
-egyptian_excavations;Egyptian Excavations;;;;;;;;;;;;x
-egyptian_excavations_desc;Our country is spearheading archeological excavations in The Valley of the Kings.;;;;;;;;;;;;x
-POP_DETAILS_EXPENSES;Expenses:;;;;;;;;;;;;x
-red_shirts_title;Camiciee Rosse;;;;;;;;;;;;x
+NOBODY_CAN_VOTE_HERE;誰も投票権を有していません。;;;;;;;;;;;;x
+NOT_ABLE_TO_REINFORCE;このPOPはこの旅団を回復させるには規模が小さすぎます。;;;;;;;;;;;;x
+POP_SIZE_UNITVIEW;このPOPは§Y$VAL$§Wの人口を有し、§Y$ALLOWED$§W個の旅団を編制可能です。現在、§Y$CURRENT$§W個の旅団が存在しています。;;;;;;;;;;;;x
+MAX_REINF_UNITVIEW;§G100%§Wの速度で回復中です。;;;;;;;;;;;;x
+POP_IMPACT_UNITVIEW;予備役の損耗のため、このユニットは§Y$VAL$%§Wの速度で回復中です。;;;;;;;;;;;;x
+MOB_IS_REINFORCE;動員されたユニットは、§Y50%§Wの速度で回復します。;;;;;;;;;;;;x
+EVTNAME60120;連邦主義の高まり;;;;;;;;;;;;x
+EVTDESC60120;人々が$CULTURE_GROUP_UNION$の同胞の統一を訴えるようになり、文化ナショナリズムが$COUNTRY$で吹き荒れています。併合の嘆願を行ったとしても、彼らがそれに反対することはほとんどありえないでしょう。;;;;;;;;;;;;x
+EVTOPTA60120;よし、やろう;;;;;;;;;;;;x
+EVTNAME60130;$FROMCOUNTRY$が併合を嘆願する;;;;;;;;;;;;x
+EVTDESC60130;昨今の民族主義感情の高まりを受けて、$FROMCOUNTRY_ADJ$政府は$CAPITAL$にある我々の政府当局に対して$COUNTRY$永久連合に加入する意思を正式に出しました。この動きに反対する動きは殆ど見られません。;;;;;;;;;;;;x
+EVTOPTA60130;よし、やろう;;;;;;;;;;;;x
+EVTOPTB60130;謹んでお断り申し上げます、$FROMCOUNTRY_ADJ$のクソ野郎;;;;;;;;;;;;x
+ATPEACE;平時;;;;;;;;;;;;x
+NORMAL_WAR_RUDEBOI_NAME;$SECOND$を封じ込める$ORDER$$FIRST$戦争;;;;;;;;;;;;x
+AGRESSION_WAR_RUDEBOI_NAME;$SECOND$を封じ込める$ORDER$$FIRST$戦争;;;;;;;;;;;;x
+rude_boy;封じ込め;;;;;;;;;;;;x
+rude_boy_desc;あの§Y国家§Wを屈服させ、国際社会の場で装っている文明人の仮面を全て剥ぎ取ってやり、抱いている野心をがっつり削ぎ落としてやりましょう。;;;;;;;;;;;;x
+rude_boy_setup;$RECIPIENT$を封じ込めるために、かの国の領土、威信、軍事力を削ぎ落としてください。;;;;;;;;;;;;x
+rude_boy_short;$RECIPIENT$の封じ込め;;;;;;;;;;;;x
+POP_DETAILS_EXPENSES;支出：;;;;;;;;;;;;x
+CONFIRM_CREATE_VASSAL;国家の解放;;;;;;;;;;;;x
+CONFIRM_CREATE_VASSAL_DESC;§Y$COUNTRY$§Wが§Y$TYPE$§Wとして解放されるように要求しますか？\n §Y$COUNTRY$§Wは以下の§Y$NUM$§W個の州を受け取ります：§Y$PROVINCES$§W;;;;;;;;;;;;x
+egyptian_excavations;エジプトの出土品;;;;;;;;;;;;x
+egyptian_excavations_desc;我々の国家は王家の谷における考古学発掘調査で先導的な立場にあります。;;;;;;;;;;;;x
+POP_DETAILS_EXPENSES;支出：;;;;;;;;;;;;x
+red_shirts_title;赤シャツ隊;;;;;;;;;;;;x
 red_shirts_name;ガリバルディの赤シャツ隊;;;;;;;;;;;;x
 red_shirts_desc;The Redshirts (Camicie rosse) was the name given to the volunteers who served under Giuseppe Garibaldi during his struggles to forge a nation state out of the many splintered Italian states, thus aptly named on account of the red shirts that Garibaldi and his men had taken to wearing. The charismatic Garibaldi, vastly popular both at home and abroad, and generally seen as a freedom fighter, was instrumental in securing Italian Unification under the Sardinian Crown. These Italian Pan-Nationalists fight for the Unification of Italy.;;;;;;;;;;;;x
 red_shirts_army;赤シャツ千人隊;;;;;;;;;;;;x
@@ -85,8 +85,8 @@ EVTDESC11103;$MONARCHTITLE$! News have just reached us that renowned Italian fre
 EVTOPTA11103;リソルジメント万歳！;;;;;;;;;;;;x
 EVTOPTB11103;Who is this man, and what does he want from me?;;;;;;;;;;;;x
 CB_DESC_HEAD;This Casus Belli allows us to demand: ;;;;;;;;;;;;x
-CB_ALLOWED_DISARMAMENT;Forced Disarmament;;;;;;;;;;;;x
-CB_ALLOWED_REPARATIONS;War Reparations;;;;;;;;;;;;x
+CB_ALLOWED_DISARMAMENT;軍拡制限の強制;;;;;;;;;;;;x
+CB_ALLOWED_REPARATIONS;戦争賠償;;;;;;;;;;;;x
 CB_ALLOWED_STATES;Secession of Territory;;;;;;;;;;;;x
 TRADE_DISABLED_AUTOMATE;Trade for this goods type is automated. turn off automation to change setting;;;;;;;;;;;;x
 AUTOMATE_TRADE_CHECK;Automate the trade for this goods type;;;;;;;;;;;;x

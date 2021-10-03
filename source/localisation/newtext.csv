@@ -17,9 +17,9 @@ NO_RAIL_YET;We can not encourage rail road building when we do not know how to b
 NOT_DISC_THESE_YET;We can not encourage industries that have not yet been invented.;;;;;;;;;;;;x
 WAR_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WAR_WE_ACCEPT_1;戦争だ！;;;;;;;;;;;;x
-WAR_WE_ACCEPT_2;$MONARCHTITLE$, $BADWORD$ in;;;;;;;;;;;;x
-WAR_WE_ACCEPT_3;$AGRESSOR$ declared war;;;;;;;;;;;;x
-WAR_WE_ACCEPT_4;upon us! Prepare for battle...;;;;;;;;;;;;x
+WAR_WE_ACCEPT_2;$MONARCHTITLE$、$BADWORD$な;;;;;;;;;;;;x
+WAR_WE_ACCEPT_3;$AGRESSOR$は我々に宣戦布告しました！;;;;;;;;;;;;x
+WAR_WE_ACCEPT_4;戦いに備えなければ…;;;;;;;;;;;;x
 WAR_WE_ACCEPT_5;*;;;;;;;;;;;;x
 WAR_WE_ACCEPT_6;*;;;;;;;;;;;;x
 WAR_WE_ACCEPT_LOG;$AGRESSOR$ declared war on us!;;;;;;;;;;;;x
@@ -171,7 +171,7 @@ PRODUCTION_COST_BUILD;Build Cost: §Y$VAL$§W;;;;;;;;;;;;x
 PRODUCTION_COST_INPUT;Input Cost: §Y$VAL$§W;;;;;;;;;;;;x
 PRODUCTION_NO_PROJECT;No Project;;;;;;;;;;;;x
 PRODUCTION_PROJECT_MONEY;Project has §Y$MONEY$§W¤ out of §Y$NEED$§W¤ needed.;;;;;;;;;;;;x
-WAR_HAS_COMPLETE_VICTORY;Complete Victory;;;;;;;;;;;;x
+WAR_HAS_COMPLETE_VICTORY;完全勝利;;;;;;;;;;;;x
 DIPLOMACY_CAN_INTERVENE;Intervene in War;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_INTERVENE;Intervene in War\nWe cannot join this side because:;;;;;;;;;;;;x
 DIPLOMACY_OPINION_INFLUENCE;Opinion of §Y$GP$§W: §Y$OPINION$§W;;;;;;;;;;;;x
@@ -182,15 +182,15 @@ DIPLOMACY_ACCEPTEDCULTURE_DESC;Our accepted culture(s) are people that are toler
 PROJECT_BUILD;Build;;;;;;;;;;;;x
 PROJECT_REOPEN;Reopen;;;;;;;;;;;;x
 PROJECT_EXPAND;Expand;;;;;;;;;;;;x
-EVTNAME22500;Stock Market Crash!;;;;;;;;;;;;x
+EVTNAME22500;株価大暴落！;;;;;;;;;;;;x
 EVTDESC22500;A bleak day today for $COUNTRY$, as $CAPITAL$'s financial district reels from the shock of a burst speculation bubble. Real estate prices have been soaring for the past year and a half, and while some analysts have warned for quite some time that the prices have been artificially high due to the effects of inflationary over consumption, the matadors of the bull market have left any such warnings unheeded. In government circles, cries for increased bank and currency regulations are being heard, calling for an end to what is referred to as 'the failures of dog-eat-dog capitalism'.;;;;;;;;;;;;x
 EVTOPTA22500;Regulate! Tax! Ban! Panic!;;;;;;;;;;;;x
 EVTOPTB22500;Balanced government budget, deregulation and sound money.;;;;;;;;;;;;x
-stock_market_crash;Stock Market Crash;;;;;;;;;;;;x
+stock_market_crash;株価大暴落;;;;;;;;;;;;x
 stock_market_crash_desc;Our country is feeling the effects of a stock market crash.;;;;;;;;;;;;x
-great_depression;Great Depression;;;;;;;;;;;;x
+great_depression;大恐慌;;;;;;;;;;;;x
 great_depression;A stock market crash in one of the Great Powers has caused a great depression, the effects of which are being felt all around the civilized world.;;;;;;;;;;;;x
-EVTNAME22510;The Great Depression;;;;;;;;;;;;x
+EVTNAME22510;大恐慌;;;;;;;;;;;;x
 EVTDESC22510;A major crash on the $CAPITAL$ stock market has devolved into something much worse entirely, following massive bank runs triggered by plummeting saver's confidence in the banking sector. As people scramble to secure their life savings, more and more banks and credit institutions fail, triggering domino effects affecting the entire $COUNTRY_ADJ$ financial sector. The ripples from the crash soon spread to other sectors of private industry, as loans are defaulted and savings vanish seemingly into thin air. Widespread unemployment, caused by entire sectors of industry failing almost overnight, soon follow. With the intertwining of the economies of the western world, the crisis quickly spreads to other countries, and the effects of the crash now reverberate around the world, in what will be known to posterity as: The $YEAR$ Great Depression.;;;;;;;;;;;;x
 EVTOPTA22510;It's only a temporary crisis, no one can be blamed;;;;;;;;;;;;x
 EVTNAME22520;Free Banking;;;;;;;;;;;;x
@@ -201,7 +201,7 @@ EVTNAME22530;Local Railway Shares;;;;;;;;;;;;x
 EVTDESC22530;A newly formed railway company in one of our states has issued shares in the company to help finance the burgeoning firm, and are now seeking buyers and investors in the state. The CEO of the company has approached local politicians, asking them if they could, perhaps, lend a bit of a hand in the marketing of these shares to the general public, arguing that an extension of the railway networks in the state can only be beneficial and should be promoted. Some feel that this might infringe on the principles of official neutrality with regards to private ventures, while other see only opportunities.;;;;;;;;;;;;x
 EVTOPTA22530;Of course we must aid and help promote this beautiful private initiative;;;;;;;;;;;;x
 EVTOPTB22530;I think that the government that governs the least governs the best;;;;;;;;;;;;x
-institute_central_bank_title;National Banking Act;;;;;;;;;;;;x
+institute_central_bank_title;国立銀行法;;;;;;;;;;;;x
 institute_central_bank_desc;While our government has for some time maintained a central bank, some voices within the economic debate have begun arguing in favor of monopolizing the issuing of currency to a strict government prerogative. Proponents argue that this will lead to an increase in economic stability, while opponents see it as a fundamental breach of the freedom of trade.;;;;;;;;;;;;x
 central_bank_established;中央銀行;;;;;;;;;;;;x
 central_bank_established_desc;Our government's central bank maintains a strict monopoly on the issuance of currency.;;;;;;;;;;;;x
@@ -214,11 +214,11 @@ EVTNAME22550;Wildcat Bills;;;;;;;;;;;;x
 EVTDESC22550;A bank run has ensued in one of our states today, following news that a local bank has been issuing currency to a value far exceeding its liquid assets. The situation has been raised to the national level and parliament, where opponents of free banking use the case to argue against the system of free banking as such, calling on the government to move toward a tighter regulation of the banking sector, which is opposed by powerful interests within industrialist circles and the free trade lobby.;;;;;;;;;;;;x
 EVTOPTA22550;The institution of free banking is a fundamental pillar of free trade;;;;;;;;;;;;x
 EVTOPTB22550;We must not let the whims of profiteers dictate the national economic policy;;;;;;;;;;;;x
-EVTNAME22560;Economic Boom;;;;;;;;;;;;x
+EVTNAME22560;好景気;;;;;;;;;;;;x
 EVTDESC22560;Our country's economy has been booming of late, following a long period of relatively low unemployment and a well fed populace. High savings and a productive population, combined with advances in the field of economic instruments and the establishment of investment banks, means that we now are better poised than ever before to develop our national industries, and bring our country's economy to new heights.;;;;;;;;;;;;x
-EVTOPTA22560;Excellent!;;;;;;;;;;;;x
+EVTOPTA22560;素晴らしい！;;;;;;;;;;;;x
 EVTOPTB22560;We should leverage this affluence;;;;;;;;;;;;x
-economic_boom;Economic Boom;;;;;;;;;;;;x
+economic_boom;好景気;;;;;;;;;;;;x
 economic_boom_desc;Our economy is booming thanks to our investment banks and a long period of low unemployment.;;;;;;;;;;;;x
 EVTNAME22570;Flagship Company Bankrupt;;;;;;;;;;;;x
 EVTDESC22570;One of the major companies in one of our states has gone bankrupt recently, following a long period of running at a deficit. Local politicians have petitioned the government to step in in support of the company, claiming that the downturn is only temporary, and that the company can get back on its feet if allowed some time to reconstruct and consolidate. While we could support the business, vocal members of parliament have lambasted the idea, calling it an absurd abridgment of the fundamental freedoms of trade and government non-interventionism.;;;;;;;;;;;;x

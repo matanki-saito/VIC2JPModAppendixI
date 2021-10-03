@@ -5777,7 +5777,7 @@ EVTOPTB36939;Don't stir up the hornet's nest.;;;;;;;;;;;;x
 EVTNAME36940;ワイタンギ条約;;;;;;;;;;;;x
 EVTDESC36940;A treaty formalizing the nation of New Zealand was signed, wherein the Maori Chiefs recognized the sovereignty of Her Majesty Queen Victoria, and in turn she guaranteed the chiefs their lands, estates, forests and fisheries.;;;;;;;;;;;;x
 EVTOPTA36940;Hooray!;;;;;;;;;;;;x
-EVTNAME36941;The Flagstaff War;;;;;;;;;;;;x
+EVTNAME36941;フラッグスタッフ戦争;;;;;;;;;;;;x
 EVTDESC36941;Disenchanted with British attitudes, Maori Chief Hone Heke had the flagstaff in Kororareka repeatedly chopped down in protest.;;;;;;;;;;;;x
 EVTOPTA36941;We must catch this chief in the act.;;;;;;;;;;;;x
 EVTOPTB36941;What can we do to solve this situation?;;;;;;;;;;;;x
@@ -6862,10 +6862,10 @@ ICON_TRADE;A §YTrade Offer§W;;;;;;;;;;;;x
 MESSAGE_HEAD_GOV;The Minister of Security reports;;;;;;;;;;;;x
 MESSAGE_HEAD_MARS;The General Staff reports;;;;;;;;;;;;x
 MESSAGE_HEAD_CHAN;The Foreign Office reports;;;;;;;;;;;;x
-MESS_BADWORDS1;the fools;;;;;;;;;;;;x
+MESS_BADWORDS1;愚か;;;;;;;;;;;;x
 MESS_BADWORDS2;the traitors;;;;;;;;;;;;x
 MESS_BADWORDS3;the warmongers;;;;;;;;;;;;x
-MESS_BADWORDS4;the imbeciles;;;;;;;;;;;;x
+MESS_BADWORDS4;間抜け;;;;;;;;;;;;x
 DECLWAR_GUARACANCELNTEE;You cannot declare war on a nation you guarantee;;;;;;;;;;;;x
 CODE;ENGLISH;;;;;;;;;;;;x
 AND_TRIGGER_STARTS;All of the below;;;;;;;;;;;;x
@@ -6997,7 +6997,7 @@ CV_NORELATION;We currently have no diplomatic relations with this country.;;;;;;
 CV_GOVTTYPE;$COUNTRY$ is a $GOVT$;;;;;;;;;;;;x
 BASE;Base:;;;;;;;;;;;;x
 NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;x
-AGRESSION_WAR_NAME;$ORDER$War of $FIRST$ Aggression;;;;;;;;;;;;x
+AGRESSION_WAR_NAME;$ORDER$$FIRST$の侵略戦争;;;;;;;;;;;;x
 COUNTRY_MORALE_TECH;From technology:;;;;;;;;;;;;x
 DAYS;Days;;;;;;;;;;;;x
 NOMONEY;You don't have enough money.;;;;;;;;;;;;x
@@ -13003,26 +13003,26 @@ PROV3120;Orsova Bank;;;;;;;;;;;;x
 PROV3121;Novarsk Plain;;;;;;;;;;;;x
 PROV3122;Sorvskiya Plains;;;;;;;;;;;;x
 PROV3123;Yamara Gulch;;;;;;;;;;;;x
-PROV3124;Northwest Pacific Basin;;;;;;;;;;;;x
+PROV3124;北西太平洋海盆;;;;;;;;;;;;x
 PROV3125;Sevrance Shoals;;;;;;;;;;;;x
 PROV3126;Coast of Marcus Island;;;;;;;;;;;;x
-PROV3127;Coast of the Mariana Islands;;;;;;;;;;;;x
+PROV3127;マリアナ諸島沿岸;;;;;;;;;;;;x
 PROV3128;Maysdale Flats;;;;;;;;;;;;x
 PROV3129;Izamo Drop;;;;;;;;;;;;x
-PROV3130;North Bering Sea;;;;;;;;;;;;x
-PROV3131;South Bering Sea;;;;;;;;;;;;x
-PROV3132;Western Aleutian Islands;;;;;;;;;;;;x
-PROV3133;Pribilof Islands;;;;;;;;;;;;x
-PROV3134;Eastern Aleutian Islands;;;;;;;;;;;;x
+PROV3130;北ベーリング海;;;;;;;;;;;;x
+PROV3131;南ベーリング海;;;;;;;;;;;;x
+PROV3132;アリューシャン列島西部;;;;;;;;;;;;x
+PROV3133;プリビロフ諸島;;;;;;;;;;;;x
+PROV3134;アリューシャン列島東部;;;;;;;;;;;;x
 PROV3135;Uminak Pass;;;;;;;;;;;;x
-PROV3136;Western Aleutian Sea;;;;;;;;;;;;x
+PROV3136;西アリューシャン海;;;;;;;;;;;;x
 PROV3137;Baker Seamount;;;;;;;;;;;;x
 PROV3138;Alaska Plain;;;;;;;;;;;;x
-PROV3139;Eastern Aleutian Sea;;;;;;;;;;;;x
+PROV3139;東アリューシャン海;;;;;;;;;;;;x
 PROV3140;Explorer Trench;;;;;;;;;;;;x
 PROV3141;Moonless Seamounts;;;;;;;;;;;;x
-PROV3142;Chinook Basin;;;;;;;;;;;;x
-PROV3143;Ulchi Basin;;;;;;;;;;;;x
+PROV3142;チヌーク海盆;;;;;;;;;;;;x
+PROV3143;ウリチ海盆;;;;;;;;;;;;x
 PROV3144;Jingu Basin;;;;;;;;;;;;x
 PROV3145;Chinook Trough;;;;;;;;;;;;x
 PROV3146;Stanley Seamount;;;;;;;;;;;;x

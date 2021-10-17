@@ -841,7 +841,7 @@ WAL;ワラキア;;;;;;;;;;;;x
 SWI;スイス;;;;;;;;;;;;x
 SLO;スロベニア;;;;;;;;;;;;x
 AUS;オーストリア;;;;;;;;;;;;x
-BOH;Bohemia-Moravia;;;;;;;;;;;;x
+BOH;ボヘミア＝モラヴィア;;;;;;;;;;;;x
 DZG;ダンツィヒ;;;;;;;;;;;;x
 KRA;クラクフ;;;;;;;;;;;;x
 CRI;クリミア;;;;;;;;;;;;x
@@ -928,10 +928,10 @@ JAI;ジャイプル;;;;;;;;;;;;x
 MEW;メーワール;;;;;;;;;;;;x
 JOD;ジョードプル;;;;;;;;;;;;x
 BER;Beroda;;;;;;;;;;;;x
-KUT;Kutch;;;;;;;;;;;;x
+KUT;カッチ;;;;;;;;;;;;x
 SIN;シンド;;;;;;;;;;;;x
-MAK;Makran;;;;;;;;;;;;x
-KAL;Kalat;;;;;;;;;;;;x
+MAK;マクラン;;;;;;;;;;;;x
+KAL;カラート;;;;;;;;;;;;x
 JAS;ジャイサルメール;;;;;;;;;;;;x
 BIK;ビーカーネール;;;;;;;;;;;;x
 PAN;パンジャーブ;;;;;;;;;;;;x
@@ -957,7 +957,7 @@ TIB;チベット;;;;;;;;;;;;x
 SIA;シャム;;;;;;;;;;;;x
 CAM;カンボジア;;;;;;;;;;;;x
 BUR;ビルマ;;;;;;;;;;;;x
-DAI;Dai Nam;;;;;;;;;;;;x
+DAI;大南;;;;;;;;;;;;x
 BRU;ブルネイ;;;;;;;;;;;;x
 BAL;バリ;;;;;;;;;;;;x
 JOH;ジョホール;;;;;;;;;;;;x
@@ -976,7 +976,7 @@ MEX;メキシコ;;;;;;;;;;;;x
 CUB;キューバ;;;;;;;;;;;;x
 DOM;ドミニカ共和国;;;;;;;;;;;;x
 HAI;ハイチ;;;;;;;;;;;;x
-UCA;United States of Central America;;;;;;;;;;;;x
+UCA;中央アメリカ合衆国;;;;;;;;;;;;x
 PNM;パナマ;;;;;;;;;;;;x
 HON;ホンジュラス;;;;;;;;;;;;x
 ELS;エルサルバドル;;;;;;;;;;;;x
@@ -1010,12 +1010,12 @@ NAS;ナッサウ;;;;;;;;;;;;x
 ANH;アンハルト;;;;;;;;;;;;x
 WEI;ザクセン＝ヴァイマル;;;;;;;;;;;;x
 MEI;ザクセン＝マイニンゲン;;;;;;;;;;;;x
-MAN;Manhattan Commune;;;;;;;;;;;;x
+MAN;マンハッタン・コミューン;;;;;;;;;;;;x
 CRE;クレタ;;;;;;;;;;;;x
 ION;イオニア諸島;;;;;;;;;;;;x
 TRE;トリエステ;;;;;;;;;;;;x
 ARM;アルメニア;;;;;;;;;;;;x
-GEO;Georgia;;;;;;;;;;;;x
+GEO;グルジア;;;;;;;;;;;;x
 CHE;チェロキー;;;;;;;;;;;;x
 MUG;Mughalistan;;;;;;;;;;;;x
 LUC;ルッカ;;;;;;;;;;;;x
@@ -1064,7 +1064,7 @@ SIE_ADJ;トランシルヴァニア;;;;;;;;;;;;x
 UKR_ADJ;ウクライナ;;;;;;;;;;;;x
 AFG_ADJ;アフガニスタン;;;;;;;;;;;;x
 ARM_ADJ;アルメニア;;;;;;;;;;;;x
-GEO_ADJ;Georgian;;;;;;;;;;;;x
+GEO_ADJ;グルジア;;;;;;;;;;;;x
 OMA_ADJ;オマーン;;;;;;;;;;;;x
 TUR_ADJ;オスマン;;;;;;;;;;;;x
 PER_ADJ;ペルシア;;;;;;;;;;;;x
@@ -1143,7 +1143,7 @@ COB_ADJ;ザクセン＝コーブルク＝ゴータ;;;;;;;;;;;;x
 MEI_ADJ;ザクセン＝マイニンゲン;;;;;;;;;;;;x
 WEI_ADJ;ザクセン＝ヴァイマル;;;;;;;;;;;;x
 SAX_ADJ;ザクセン;;;;;;;;;;;;x
-BOH_ADJ;Bohemian;;;;;;;;;;;;x
+BOH_ADJ;ボヘミア;;;;;;;;;;;;x
 VEN_ADJ;ヴェネツィア;;;;;;;;;;;;x
 LOM_ADJ;ロンバルディア;;;;;;;;;;;;x
 HEK_ADJ;ヘッセン＝カッセル;;;;;;;;;;;;x
@@ -1175,19 +1175,19 @@ JAI_ADJ;ジャイプル;;;;;;;;;;;;x
 JAS_ADJ;ジャイサルメール;;;;;;;;;;;;x
 JOD_ADJ;ジョードプル;;;;;;;;;;;;x
 JOH_ADJ;ジョホール;;;;;;;;;;;;x
-KAL_ADJ;Kalati;;;;;;;;;;;;x
+KAL_ADJ;カラート;;;;;;;;;;;;x
 KAS_ADJ;カシミール;;;;;;;;;;;;x
 KHI_ADJ;ヒヴァ;;;;;;;;;;;;x
 KOK_ADJ;コーカンド;;;;;;;;;;;;x
 KRA_ADJ;クラクフ;;;;;;;;;;;;x
-KUT_ADJ;Kutchi;;;;;;;;;;;;x
+KUT_ADJ;カッチ;;;;;;;;;;;;x
 LAD_ADJ;ラダック;;;;;;;;;;;;x
 LIP_ADJ;リッペ＝デトモルト;;;;;;;;;;;;x
 LUA_ADJ;ルアンパバーン;;;;;;;;;;;;x
 LUB_ADJ;リューベック;;;;;;;;;;;;x
 LUC_ADJ;ルッカ;;;;;;;;;;;;x
-MAK_ADJ;Makran;;;;;;;;;;;;x
-MAN_ADJ;Manhattanite;;;;;;;;;;;;x
+MAK_ADJ;マクラン;;;;;;;;;;;;x
+MAN_ADJ;マンハッタン;;;;;;;;;;;;x
 MEW_ADJ;メーワール;;;;;;;;;;;;x
 MTC_ADJ;Metis;;;;;;;;;;;;x
 MYS_ADJ;マイソール;;;;;;;;;;;;x
@@ -1215,7 +1215,7 @@ TRN_ADJ;トランスヴァール;;;;;;;;;;;;x
 TUS_ADJ;トスカーナ;;;;;;;;;;;;x
 germanic;ゲルマン;;;;;;;;;;;;x
 dutch;オランダ;;;;;;;;;;;;x
-flemish;Flemish;;;;;;;;;;;;x
+flemish;フラマン;;;;;;;;;;;;x
 north_german;北ドイツ;;;;;;;;;;;;x
 south_german;南ドイツ;;;;;;;;;;;;x
 swiss;スイス;;;;;;;;;;;;x
@@ -1240,7 +1240,7 @@ spanish;スペイン;;;;;;;;;;;;x
 catalan;カタルーニャ;;;;;;;;;;;;x
 portuguese;ポルトガル;;;;;;;;;;;;x
 french;フランス;;;;;;;;;;;;x
-wallonian;Wallonian;;;;;;;;;;;;x
+wallonian;ワロン;;;;;;;;;;;;x
 south_slavic;南スラヴ;;;;;;;;;;;;x
 croat;クロアチア;;;;;;;;;;;;x
 serb;セルビア;;;;;;;;;;;;x
@@ -6996,7 +6996,7 @@ NO_REBELS;You are always at war with rebels.;;;;;;;;;;;;x
 CV_NORELATION;We currently have no diplomatic relations with this country.;;;;;;;;;;;;x
 CV_GOVTTYPE;$COUNTRY$ is a $GOVT$;;;;;;;;;;;;x
 BASE;Base:;;;;;;;;;;;;x
-NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;x
+NORMAL_WAR_NAME;$ORDER$$FIRST$＝$SECOND$戦争;;;;;;;;;;;;x
 AGRESSION_WAR_NAME;$ORDER$$FIRST$の侵略戦争;;;;;;;;;;;;x
 COUNTRY_MORALE_TECH;From technology:;;;;;;;;;;;;x
 DAYS;Days;;;;;;;;;;;;x

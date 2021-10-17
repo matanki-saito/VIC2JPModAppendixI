@@ -4,7 +4,7 @@ HAVE_MILITARY_SCORE_LESS_THAN;軍事点が次の値よりも低い：;;;;;;;;;;;
 STRATA_NEED_LESS_THAN;需要を満たせている者が次の割合より少ない：;;;;;;;;;;;;x
 STRATA_NEED_MORE_THAN;需要を満たせている者が次の割合より多い：;;;;;;;;;;;;x
 HAVE_LESS_POPS_WANTING_POLITICAL_REFORM_THAN;政治改革を望んでいる者が$VAL$未満です。;;;;;;;;;;;;x
-HAVE_MORE_POPS_WANTING_POLITICAL_REFORM_THAN;政治改革を望んでいるものが$VAL$以上です。;;;;;;;;;;;;x
+HAVE_MORE_POPS_WANTING_POLITICAL_REFORM_THAN;政治改革を望んでいる者が$VAL$以上です。;;;;;;;;;;;;x
 HAVE_LESS_POPS_WANTING_SOCIAL_REFORM_THAN;社会改革を望んでいる者が$VAL$未満です。;;;;;;;;;;;;x
 HAVE_MORE_POPS_WANTING_SOCIAL_REFORM_THAN;社会改革を望んでいる者が$VAL$以上です。;;;;;;;;;;;;x
 CSA_proletarian_dictatorship;CSA;;;;;;;;;;;;x

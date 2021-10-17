@@ -261,7 +261,7 @@ HND_ADJ;インド;;;;;;;;;;;;x
 ALD;アルジェリア;;;;;;;;;;;;x
 REMOVED_BUDGET_CANT_LOAN_DESC;Banks will only loan you money if you have been meeting your interest payments and are not hostile. Foreign banks will also never loan you more than $MAXLOAN$% of their total available funds for security reasons.;;;;;;;;;;;;x
 WE_ARE_DISCREDITED;We are discredited;;;;;;;;;;;;x
-INFLUENCE_NEIGHBOUR;Neighbouring nation;;;;;;;;;;;;x
+INFLUENCE_NEIGHBOUR;隣国;;;;;;;;;;;;x
 INFLUENCE_OTHER_CONTINENT;Nation is on another continent;;;;;;;;;;;;x
 INFLUENCE_RELATIVE;Total score of nation relative to our total score;;;;;;;;;;;;x
 INFLUENCE_AT_MAX;We cannot have more than §Y$MAX$§W influence in a single nation;;;;;;;;;;;;x

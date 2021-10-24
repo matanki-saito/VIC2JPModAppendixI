@@ -39,7 +39,7 @@ TENSION_FROM_GP_DISARMED;Disarmed Great Powers: §Y$VAL$§!;;;;;;;;;;;;x
 TENSION_FROM_GP_RANK;Great Power Ranking: §Y$VAL$§!;;;;;;;;;;;;x
 HAS_NOT_CULTURAL_SPHERE;文化影響圏が存在しません;;;;;;;;;;;;x
 HAS_CULTURAL_SPHERE;文化影響圏が存在します;;;;;;;;;;;;x
-UCA;The USCA;;;;;;;;;;;;x
+UCA;中央アメリカ連邦;;;;;;;;;;;;x
 LOAD_SAVEGAME_FAIL;Failed to load the savegame.;;;;;;;;;;;;x
 NEWS_TOOLTIP_UNREAD;You have §G$NUM$§! unread newspapers out of §G$MAX$§! printed.;;;;;;;;;;;;x
 NEWS_TOOLTIP_NO_NEW;There are no unread newspapers.;;;;;;;;;;;;x

@@ -917,10 +917,10 @@ TRA;トラヴァンコール;;;;;;;;;;;;x
 MYS;マイソール;;;;;;;;;;;;x
 HYD;ハイデラバード;;;;;;;;;;;;x
 NAG;ナーグプル;;;;;;;;;;;;x
-BAS;Bastar;;;;;;;;;;;;x
+BAS;バスタール;;;;;;;;;;;;x
 ORI;オリッサ;;;;;;;;;;;;x
 BUN;ブンデールカンド;;;;;;;;;;;;x
-AWA;Awadh;;;;;;;;;;;;x
+AWA;アワド;;;;;;;;;;;;x
 GWA;グワーリヤル;;;;;;;;;;;;x
 BHO;ボーパール;;;;;;;;;;;;x
 IND;インドール;;;;;;;;;;;;x
@@ -950,7 +950,7 @@ SOK;ソコト;;;;;;;;;;;;x
 ZUL;ズールー;;;;;;;;;;;;x
 SAF;南アフリカ;;;;;;;;;;;;x
 MAD;マダガスカル;;;;;;;;;;;;x
-CHI;China;;;;;;;;;;;;x
+CHI;中国;;;;;;;;;;;;x
 JAP;日本;;;;;;;;;;;;x
 KOR;朝鮮;;;;;;;;;;;;x
 TIB;チベット;;;;;;;;;;;;x
@@ -985,7 +985,7 @@ NIC;ニカラグア;;;;;;;;;;;;x
 COS;コスタリカ;;;;;;;;;;;;x
 DES;デザレット;;;;;;;;;;;;x
 QUE;ケベック;;;;;;;;;;;;x
-MTC;Metis Confederacy;;;;;;;;;;;;x
+MTC;メティ連邦;;;;;;;;;;;;x
 VNZ;ベネズエラ;;;;;;;;;;;;x
 BRZ;ブラジル;;;;;;;;;;;;x
 URU;ウルグアイ;;;;;;;;;;;;x
@@ -1069,7 +1069,7 @@ OMA_ADJ;オマーン;;;;;;;;;;;;x
 TUR_ADJ;オスマン;;;;;;;;;;;;x
 PER_ADJ;ペルシア;;;;;;;;;;;;x
 YEM_ADJ;イエメン;;;;;;;;;;;;x
-CHI_ADJ;Chinese;;;;;;;;;;;;x
+CHI_ADJ;中国;;;;;;;;;;;;x
 KOR_ADJ;朝鮮;;;;;;;;;;;;x
 TIB_ADJ;チベット;;;;;;;;;;;;x
 BRU_ADJ;ブルネイ;;;;;;;;;;;;x
@@ -1153,8 +1153,8 @@ WUR_ADJ;ヴュルテンベルク;;;;;;;;;;;;x
 ABU_ADJ;アブダビ;;;;;;;;;;;;x
 ANH_ADJ;アンハルト;;;;;;;;;;;;x
 ATJ_ADJ;アチェ;;;;;;;;;;;;x
-AWA_ADJ;Awadhi;;;;;;;;;;;;x
-BAS_ADJ;Bastar;;;;;;;;;;;;x
+AWA_ADJ;アワド;;;;;;;;;;;;x
+BAS_ADJ;バスタール;;;;;;;;;;;;x
 BER_ADJ;Berodan;;;;;;;;;;;;x
 BHO_ADJ;ボーパール;;;;;;;;;;;;x
 BIK_ADJ;ビーカーネール;;;;;;;;;;;;x
@@ -1189,7 +1189,7 @@ LUC_ADJ;ルッカ;;;;;;;;;;;;x
 MAK_ADJ;マクラン;;;;;;;;;;;;x
 MAN_ADJ;マンハッタン;;;;;;;;;;;;x
 MEW_ADJ;メーワール;;;;;;;;;;;;x
-MTC_ADJ;Metis;;;;;;;;;;;;x
+MTC_ADJ;メティ;;;;;;;;;;;;x
 MYS_ADJ;マイソール;;;;;;;;;;;;x
 NAG_ADJ;ナーグプル;;;;;;;;;;;;x
 NAL_ADJ;ナタール;;;;;;;;;;;;x
@@ -1592,9 +1592,9 @@ DIPLOMACY_FRIENDLY_LABEL;Friendly:;;;;;;;;;;;;x
 DIPLOMACY_CORDIAL_LABEL;Cordial:;;;;;;;;;;;;x
 DIPLOMACY_SPHERE_LABEL;影響圏：;;;;;;;;;;;;x
 REMOVE_DIPLOMACY_GREATNATION_STATUS;Great Nation;;;;;;;;;;;;x
-DIPLOMACY_COLONIALNATION_STATUS;Secondary Power;;;;;;;;;;;;x
-DIPLOMACY_CIVILIZEDNATION_STATUS;Civilized Nation;;;;;;;;;;;;x
-DIPLOMACY_UNCIVILIZEDNATION_STATUS;Uncivilized Nation;;;;;;;;;;;;x
+DIPLOMACY_COLONIALNATION_STATUS;準列強国;;;;;;;;;;;;x
+DIPLOMACY_CIVILIZEDNATION_STATUS;文明国;;;;;;;;;;;;x
+DIPLOMACY_UNCIVILIZEDNATION_STATUS;非文明国;;;;;;;;;;;;x
 NEED_POSITIVE_WARSCORE;The War is not going well enough;;;;;;;;;;;;x
 WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our country, but have only $VALUE$;;;;;;;;;;;;x
 DIPLOMACY_UNCIVILIZEDNATION_APPEND;(Uncivilized);;;;;;;;;;;;x
@@ -14172,51 +14172,51 @@ market_functionality;Market Functionality;;;;;;;;;;;;x
 market_functionality_desc;This area centres around the functionality of the market. It concerns both the number of actors on the market and the level of regulations to guide its performance.;;;;;;;;;;;;x
 freedom_of_trade;Freedom of Trade;;;;;;;;;;;;x
 freedom_of_trade_desc;Freedom of Trade;;;;;;;;;;;;x
-market_structure;Market structure;;;;;;;;;;;;x
-market_structure_desc;Market structure;;;;;;;;;;;;x
-polypoly_structure;Polypoly Structure;;;;;;;;;;;;x
+market_structure;市場構造;;;;;;;;;;;;x
+market_structure_desc;市場構造;;;;;;;;;;;;x
+polypoly_structure;多占;;;;;;;;;;;;x
 polypoly_structure_desc;This mean that the legislation of your country has structured the market in such way that each line of business is composed of numerous firms, most of which are of the same size.;;;;;;;;;;;;x
-oligopoly_structure;Oligopoly Structure;;;;;;;;;;;;x
+oligopoly_structure;寡占;;;;;;;;;;;;x
 oligopoly_structure_desc;This mean that the legislation of your country has structured the market in such way that each line of business is composed of a few firms, all of which are of large size.;;;;;;;;;;;;x
-monopoly_structure;Monopoly Structure;;;;;;;;;;;;x
+monopoly_structure;独占;;;;;;;;;;;;x
 monopoly_structure_desc;The legislation of your country has structured the market in such a way that each line of business is dominated by one very large company. ;;;;;;;;;;;;x
-business_regulations;Business Regulations;;;;;;;;;;;;x
-business_regulations_desc;Business Regulations;;;;;;;;;;;;x
+business_regulations;事業規制;;;;;;;;;;;;x
+business_regulations_desc;事業規制;;;;;;;;;;;;x
 limited_partnership_company;Limited Partnership Company;;;;;;;;;;;;x
 limited_partnership_company_desc;This was the first legislation enacting the possibilities for ownership in a firm without direct responsibility. This was the first step to ensure infusion of capital from private citizens.;;;;;;;;;;;;x
-joint_stock_company;Joint-Stock Company;;;;;;;;;;;;x
+joint_stock_company;合本会社;;;;;;;;;;;;x
 joint_stock_company_desc;This legislation increased the possibilities for firms to get infusions of capital in an effective way. It also gave private investors the highest possible return on investment at a certain risk.;;;;;;;;;;;;x
-patent;Patent;;;;;;;;;;;;x
+patent;特許;;;;;;;;;;;;x
 patent_desc;This legislation ensured the time-set ownership of the intellectual property of inventions, vastly encouraging inventors to produce their ideas and sell it to firms that could manufacture them.;;;;;;;;;;;;x
-trademark;Trademark;;;;;;;;;;;;x
+trademark;商標;;;;;;;;;;;;x
 trademark_desc;This legislation meant security for a firm with a special product. The product often had a strong market position because of certain psychological attributes as it was associated with security, quality etc.;;;;;;;;;;;;x
-market_regulations;Market Regulations;;;;;;;;;;;;x
-market_regulations_desc;Market Regulations;;;;;;;;;;;;x
-anti_trust_laws;Anti-Trust Laws;;;;;;;;;;;;x
+market_regulations;市場規制;;;;;;;;;;;;x
+market_regulations_desc;市場規制;;;;;;;;;;;;x
+anti_trust_laws;反トラスト法;;;;;;;;;;;;x
 anti_trust_laws_desc;This legislation stopped concentration of power on the market. Sometimes an actor became too big and competition diminished on the market, which meant that prices were raised unproportionally.;;;;;;;;;;;;x
-financial_regulations;Financial Regulations;;;;;;;;;;;;x
+financial_regulations;金融規制;;;;;;;;;;;;x
 financial_regulations_desc;At this point regulations were introduced to check the activity of individual firms on the financial market.;;;;;;;;;;;;x
-banking_regulations;Banking Regulations;;;;;;;;;;;;x
+banking_regulations;銀行規制;;;;;;;;;;;;x
 banking_regulations_desc;At this point regulations were introduced to check the activity of individual banks.;;;;;;;;;;;;x
 economic_responsibility;Economic Responsibility;;;;;;;;;;;;x
 economic_responsibility_desc;Economic Responsibility;;;;;;;;;;;;x
 working_board_of_directors;Working Board of Directors;;;;;;;;;;;;x
 working_board_of_directors_desc;The business culture of having a working board of directors meant that those who made the long-run strategic decisions for the company also worked with its daily practices, which paved the way for good decisions.;;;;;;;;;;;;x
-bankruptcy_proceedings;Bankruptcy Proceedings;;;;;;;;;;;;x
+bankruptcy_proceedings;破産手続;;;;;;;;;;;;x
 bankruptcy_proceedings_desc;By instituting rules for the proceeding of bankruptcies these not only became simpler and faster, but uncertainty of  creditors also decreased.;;;;;;;;;;;;x
-annual_report_proceedings;Annual Report Proceedings;;;;;;;;;;;;x
+annual_report_proceedings;年次報告手続;;;;;;;;;;;;x
 annual_report_proceedings_desc;By instituting rules for the proceeding of annual reports for the firm the transparency of the market increased to the joy of both investors and owners. It was also easier to monitor firms that had problems.;;;;;;;;;;;;x
 government_interventionism;Government Interventionism;;;;;;;;;;;;x
 government_interventionism_desc;Government Interventionism;;;;;;;;;;;;x
 priming_the_pump_;Priming The Pump ;;;;;;;;;;;;x
 priming_the_pump__desc;In wake of a series of economic shocks that shook the world in the first part of the twentieth century some politicians would become influenced by new economic theories regarding supply and demand and their interplay in times of economic crisis. Based upon the concept that money spent in the economy has a multiplier effect that increases economic activity by generating income that can contribute to new demand, some politicians made appeals in wake of economic declines for ‘priming the pump” to reinflate demand and thus resume economic growth. Not all politicians and economist accepted this argument, and to some such state intervention appeared as an introduction of socialist principles into the economy, but the political impact of having the State appear to be actively trying to improve economic conditions made such political promises very appealing to those negatively impacted by economic downturns.;;;;;;;;;;;;x
-mixed_economy;Mixed Economy;;;;;;;;;;;;x
+mixed_economy;混合経済;;;;;;;;;;;;x
 mixed_economy_desc;As the twentieth century developed and the influence of alternative models of economic development outside the capitalist framework began to be implemented in certain societies, some politicians began to consider the possibility that merging what were considered the best elements from both capitalism and command economies could produce benefits for their society as a whole. As a result in some nations moves were made by the State to introduce elements of state direction into certain areas of economic activity while preserving the basic capitalist elements at the root of the economic system. While many more ideologically-driven critics of such policies argued the policies either went too far or not far enough in their transformations of the economy, the results of creating a mixed economic system in terms of both restoring economic production and reducing social tensions were often quite impressive.;;;;;;;;;;;;x
 centralized_economic_planning;Centralized Economic Planning;;;;;;;;;;;;x
 centralized_economic_planning_desc;As more radical ideological alternatives to liberal democracy gained power in the early twentieth century, the opportunity to reconstruct economic organization based on State direction of economic activity that could be compared to the relative success or failure of traditional market-based economic structures arose. Such programs of centralized economic planning, employed by both communist and fascist regimes, often achieved dramatic initial results in reducing unemployment, increasing output of industrial goods, and removing the problem of conflict between laborer and employer in society, which the regimes would trumpet as proof of the superiority of their systems over free market systems. The social and economic costs to these societies, however, were often very high, and the resistance to State control created the potential for brutal repression. However, to the outside world that new little of the negative consequences of these plans, they seemed to suggest a viable alternative to the free-market systems that had been the hallmark of nineteenth century economic theory.;;;;;;;;;;;;x
-autarky;Autarky;;;;;;;;;;;;x
+autarky;閉鎖経済;;;;;;;;;;;;x
 autarky_desc;Derived from the Ancient Greek for self-sufficiency, in the early twentieth century autarky was the goal for many States that felt further dependence upon the global economy was a threat to their national independence or the ideological basis of their regimes. In order to achieve autarky, such states would impose huge tariff barriers to imports from overseas, encourage the development of local industries to produce goods previously imported, strictly regulate foreign trade to preserve national income, and investigate the development of alternative substitutes to critical raw materials that were not available to the nation except from the world market. As an economic policy autarky could be called a twentieth-century revision of mercantilism, and while most often used by Communist and Fascist regimes that rejected all or part the capitalist model of economic production, even capitalist nations would resort to elements of autarky in times of economic instability, especially if they controlled large overseas empires that could provide key raw materials.;;;;;;;;;;;;x
-import_substitution_industrialization;Import-Substitution Industrialization;;;;;;;;;;;;x
+import_substitution_industrialization;輸入代替;;;;;;;;;;;;x
 import_substitution_industrialization_desc;The growth of the global economy in the nineteenth and early twentieth century resulted in increased demand for industrial goods by non-Western societies. However, the realities of war in the industrial age and increasing economic instability of periods of expansion and contraction resulted in non-Western societies at times being unable to meet their needs for industrial goods from the traditional producers of such goods in the West. As a result, an opening for producers in non-Western societies to meet the demand for those industrial goods that could not be acquired easily from the West arose, and industrialization in the non-Western world began to grow. Eventually pressure to protect these new industries from competition from overseas would lead some nations which had maintained political independence to adopt policies of import substitution industrialization to encourage their societies to break their dependence upon the West for industrial goods and, by extension, strengthen their own societies in the global economic system. Import substitution industrialization would gain in influence during the course of the twentieth century as the resources of the West were dedicated more towards resolving problems in the West.;;;;;;;;;;;;x
 tech_organization;Organization;;;;;;;;;;;;x
 tech_organization_desc;This area concerns the internal development of the firms. Internal production procedures and business styles changed over time and cooperated with the changes in economic science.;;;;;;;;;;;;x
@@ -14578,9 +14578,9 @@ industrialized_armament_industry;Industrialized Armament Industry;;;;;;;;;;;;x
 industrialized_armament_industry_desc;Soon the armament industry, forced onwards by a fierce international competition, industrialized and implemented every efficiency-improving measure that was available to increase sales.;;;;;;;;;;;;x
 refrigerator_technology;Refrigerator Technology;;;;;;;;;;;;x
 refrigerator_technology_desc;The introduction of refrigerator technology revolutionized food industry, but also distillery industry which had always been limited by temperature.;;;;;;;;;;;;x
-shift_work;Shift Work;;;;;;;;;;;;x
-shift_work_desc;Shift Work;;;;;;;;;;;;x
-metallurgy;Metallurgy;;;;;;;;;;;;x
+shift_work;交替制労働;;;;;;;;;;;;x
+shift_work_desc;交替制労働;;;;;;;;;;;;x
+metallurgy;冶金;;;;;;;;;;;;x
 metallurgy_desc;This area involves the development and refinement of metal and minerals. Different techniques of cleaning, roasting, grinding and smelting decreased the losses of resources that had often occurred earlier.;;;;;;;;;;;;x
 mechanized_mining;Mechanized Mining;;;;;;;;;;;;x
 mechanized_mining_desc;Mechanized Mining;;;;;;;;;;;;x
@@ -14592,11 +14592,11 @@ explosives_production;Explosives Production;;;;;;;;;;;;x
 REMOVE_explosives_production_desc;TODO;;;;;;;;;;;;x
 artillery_production;Artillery Production;;;;;;;;;;;;x
 REMOVE_artillery_production_desc;TODO;;;;;;;;;;;;x
-clean_coal;Clean Coal;;;;;;;;;;;;x
-clean_coal_desc;Clean Coal;;;;;;;;;;;;x
+clean_coal;精炭;;;;;;;;;;;;x
+clean_coal_desc;精炭;;;;;;;;;;;;x
 pit_coal;Pit Coal;;;;;;;;;;;;x
 pit_coal_desc;Pit Coal was much more high graded than Brown Coal and at this point new techniques made refining Pit Coal much simpler.;;;;;;;;;;;;x
-coke;Coke;;;;;;;;;;;;x
+coke;コークス;;;;;;;;;;;;x
 coke_desc;Coke was coal that had been enriched by a special process. By treating the coal more energy could be turned into power and it could also clean iron and other metals more effectively.;;;;;;;;;;;;x
 cheap_iron;Cheap Iron;;;;;;;;;;;;x
 cheap_iron_desc;Cheap Iron;;;;;;;;;;;;x
@@ -14606,25 +14606,25 @@ advanced_ore_grinding_processes;Advanced Ore Grinding Processes;;;;;;;;;;;;x
 advanced_ore_grinding_processes_desc;This process cleaned the ore from by products that tended to defect the latter finished metal. By using this technique the finished metal would have higher quality, durability and because of the large quantity turnover lower price.;;;;;;;;;;;;x
 advanced_ore_smelting_processes;Advanced Ore Smelting Processes;;;;;;;;;;;;x
 advanced_ore_smelting_processes_desc;This process cleaned the ore from by products that tended to defect the latter finished metal. By using this technique the finished metal would have higher quality, durability and because of the large quantity turnover lower price.;;;;;;;;;;;;x
-bessemer_steel;Bessemer Steel;;;;;;;;;;;;x
+bessemer_steel;ベッセマー鋼;;;;;;;;;;;;x
 bessemer_steel_desc;This method not only clean iron during the process of making it into steel, but it also allowed for the use of iron that earlier had been unusable because its low grade.;;;;;;;;;;;;x
 cheap_steel;Cheap Steel;;;;;;;;;;;;x
 cheap_steel_desc;Cheap Steel;;;;;;;;;;;;x
-martin_steel;Martin Steel;;;;;;;;;;;;x
+martin_steel;マルタン鋼;;;;;;;;;;;;x
 martin_steel_desc;This method not only clean iron during the process of making it into steel, but it also allowed for the use of iron that earlier had been unusable because its low grade.;;;;;;;;;;;;x
 thomas_steel;Thomas Steel;;;;;;;;;;;;x
 thomas_steel_desc;This method not only clean iron during the process of making it into steel, but it also allowed for the use of iron that earlier had been unusable because its low grade.;;;;;;;;;;;;x
-advanced_metallurgy;Advanced Metallurgy;;;;;;;;;;;;x
-advanced_metallurgy_desc;Advanced Metallurgy;;;;;;;;;;;;x
+advanced_metallurgy;発展型冶金;;;;;;;;;;;;x
+advanced_metallurgy_desc;発展型冶金;;;;;;;;;;;;x
 electric_rolling_techniques;Electric Rolling Techniques;;;;;;;;;;;;x
 electric_rolling_techniques_desc;This was a new technique to turn steel bars into steel plates. The time and labor saved by using the machines instead of a number of smiths with hammers was considerable.;;;;;;;;;;;;x
 steel_alloys;Steel Alloys;;;;;;;;;;;;x
 steel_alloys_desc;This meant adding small amounts of other metals to the iron during the steel-making process. The effect was that it was now possible to tailor the attributes of the metal and make different kind of steel for different kinds of uses.;;;;;;;;;;;;x
-electric_furnace;Electric Furnace;;;;;;;;;;;;x
-electric_furnace_desc;Electric Furnace;;;;;;;;;;;;x
-stainless_steel;Stainless Steel;;;;;;;;;;;;x
+electric_furnace;電気炉;;;;;;;;;;;;x
+electric_furnace_desc;電気炉;;;;;;;;;;;;x
+stainless_steel;ステンレス鋼;;;;;;;;;;;;x
 stainless_steel_desc;The new metals discovered by using electric furnace included chromium. Chromium mixed in steel forms a protective layer of chromium oxide on the surface of the steel protecting it from corrosion. A lot more scratching was required to enable rusting compared to painted normal steel. Stainless steel was soon used in most tools, pieces of equipment and weaponry. ;;;;;;;;;;;;x
-tech_infrastructure;Infrastructure;;;;;;;;;;;;x
+tech_infrastructure;インフラ;;;;;;;;;;;;x
 tech_infrastructure_desc;This area involves the development of railroad from early 19th century horse-and-wagon to the integral rail systems of the early 1920s.;;;;;;;;;;;;x
 experimental_railroad;Experimental Railroad;;;;;;;;;;;;x
 experimental_railroad_desc;Experimental Railroad;;;;;;;;;;;;x
@@ -14686,7 +14686,7 @@ electricity;電気学;;;;;;;;;;;;x
 electricity_desc;電気学;;;;;;;;;;;;x
 x_rays;X線;;;;;;;;;;;;x
 x_rays_desc;With X-rays it was now possible to perfectly view any shattered bones within a body without cutting it up. This of course made operations and rehabilitation much easier.;;;;;;;;;;;;x
-edison_light_bulb;Edison Light Bulb;;;;;;;;;;;;x
+edison_light_bulb;エジソン電球;;;;;;;;;;;;x
 edison_light_bulb_desc;The introduction of the light bulb meant that predefined areas like small rooms or big factory floors could be enlightened. This meant that people were no longer limited by sunrise and sunset.;;;;;;;;;;;;x
 bell_n_greys_telephones;Bell & Grey's Telephones;;;;;;;;;;;;x
 bell_n_greys_telephones_desc;Through the invention of the telephone every household could afford communicating directly with relatives and other. It also revolutionized communication between firms and organizations.;;;;;;;;;;;;x

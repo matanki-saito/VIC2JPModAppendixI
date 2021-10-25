@@ -1,35 +1,35 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-RALLY_POINT_NAVY_MERGE_INFO;Enable or Disable navies merging at destination.\n(Ships will merge with largest unit here.);;;;;;;;;;;;x
-RALLY_POINT_NAVY_PROVINCE_MERGE_INFO;All naval units will merge with largest unit when arrive here.;;;;;;;;;;;;x
-BUDGET_INTERNALLY_SOLD_STOCKPILE;Stockpile sold to construction projects: §Y$VAL$§!;;;;;;;;;;;;x
-OL_VIEW_RALLYPOINTS_NAVY_TOOLTIP;All nearby constructed ships will head towards §Y$PROV$§!;;;;;;;;;;;;x
-OL_VIEW_RALLYPOINTS_NAVY_MERGE_TOOLTIP; and will try to merge with largest unit when arrive here.;;;;;;;;;;;;x
-ARMY_SPLIT_AND_LOAD_DESC_1;§Y$UNIT$§! will be split between §G$NUM$§! ship(s):;;;;;;;;;;;;x
-ARMY_SPLIT_AND_LOAD_DESC_2; - §Y$NAVY$§! ($NUM$ weight);;;;;;;;;;;;x
-ARMY_SPLIT_AND_LOAD_DESC_3;§RThe remaining army of total weight ($NUM$) will not be loaded.§!;;;;;;;;;;;;x
-UW_NOT_POSSIBLE_TO_ATTACH;There are no friendly units here to attach to.;;;;;;;;;;;;x
-UW_UNITS_ATTACHED;The following units are attached.;;;;;;;;;;;;x
-UW_ATTACH_TO;Attach to always follow $NAME$.;;;;;;;;;;;;x
-UW_DETACH_FROM;Detach from following $NAME$.;;;;;;;;;;;;x
-IW_SUPPLY_COST;You need §Y$VAL$§W¤ every day to pay for supplies of this unit.;;;;;;;;;;;;x
-HAS_NOT_CULTURE_CORE;$CUL$ is NOT a core-culture of $WHERE$.\n;;;;;;;;;;;;x
-HAS_CULTURE_CORE;$CUL$ is a core-culture of $WHERE$.\n;;;;;;;;;;;;x
-PROMOTION_EFFECT_FROM_ADMIN;Admin. efficiency effect on promotion speed: §Y$PERCENTAGE$§!;;;;;;;;;;;;x
-OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;Local factories employment: $PERC$;;;;;;;;;;;;x
-REVOLTALLIANCE_LOG;A revolution! Our alliance is broken!;;;;;;;;;;;;x
-tut_5b_12b;Click on the decisions tab to continue.;;;;;;;;;;;;x
-tut_5b_14b;Click on the movements tab to continue.;;;;;;;;;;;;x
-Workforce;Workforce;;;;;;;;;;;;x
-Ideology;Ideology;;;;;;;;;;;;x
-SELL;SELL;;;;;;;;;;;;x
-BUY;BUY;;;;;;;;;;;;x
-Start Research;Start Research;;;;;;;;;;;;x
-Maneuver;Maneuver;;;;;;;;;;;;x
-LEDGER;LEDGER;;;;;;;;;;;;x
+RALLY_POINT_NAVY_MERGE_INFO;目的地への到着時に海軍ユニットを合流させるかどうか。\n（一番大きいユニットに合流）;;;;;;;;;;;;x
+RALLY_POINT_NAVY_PROVINCE_MERGE_INFO;ここに到着した海軍ユニットはすべて一番大きいユニットに合流する。;;;;;;;;;;;;x
+BUDGET_INTERNALLY_SOLD_STOCKPILE;備蓄を建設計画に売却：§Y$VAL$§W;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_NAVY_TOOLTIP;付近で建造された船はすべて§Y$PROV$§Wへ向かいます。;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_NAVY_MERGE_TOOLTIP;到着時にそこにいる一番大きいユニットと合流します。;;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_1;§Y$UNIT$§Wを§G$NUM$§W隻の船に分割：;;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_2; - §Y$NAVY$§W（重量$NUM$）;;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_3;§R輸送可能な重量（$NUM$）を越える陸軍は乗ることができません。§W;;;;;;;;;;;;x
+UW_NOT_POSSIBLE_TO_ATTACH;ここには付属させることのできる味方ユニットがいません;;;;;;;;;;;;x
+UW_UNITS_ATTACHED;次のユニットが付属しています：;;;;;;;;;;;;x
+UW_ATTACH_TO;$NAME$に付属させる。;;;;;;;;;;;;x
+UW_DETACH_FROM;$NAME$への付属を解除。;;;;;;;;;;;;x
+IW_SUPPLY_COST;このユニットへの補給に1日§Y$VAL$§W¤かかります。;;;;;;;;;;;;x
+HAS_NOT_CULTURE_CORE;$CUL$は$WHERE$の主流文化でない\n;;;;;;;;;;;;x
+HAS_CULTURE_CORE;$CUL$は$WHERE$の主流文化である\n;;;;;;;;;;;;x
+PROMOTION_EFFECT_FROM_ADMIN;行政効率が昇格速度に与える影響：§Y$PERCENTAGE$§W;;;;;;;;;;;;x
+OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;この地域の工場の雇用状況：$PERC$;;;;;;;;;;;;x
+REVOLTALLIANCE_LOG;革命です！　同盟関係が崩壊しました！;;;;;;;;;;;;x
+tut_5b_12b;施政方針タブをクリックして継続。;;;;;;;;;;;;x
+tut_5b_14b;運動タブをクリックして継続。;;;;;;;;;;;;x
+Workforce;労働力;;;;;;;;;;;;x
+Ideology;イデオロギー;;;;;;;;;;;;x
+SELL;売却;;;;;;;;;;;;x
+BUY;購入;;;;;;;;;;;;x
+Start Research;研究開始;;;;;;;;;;;;x
+Maneuver;機動;;;;;;;;;;;;x
+LEDGER;国勢台帳;;;;;;;;;;;;x
 OK;OK;;;;;;;;;;;;x
-TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in last §Y$DAYS$§! days.;;;;;;;;;;;;x
-DIG_IN_TOOLTIP_1;Current dig-in level: $LEV$/$MAX$.;;;;;;;;;;;;x
-DIG_IN_TOOLTIP_2;It takes §Y$DAYS$§! days to increase dig-in level by §G+$VAL$§!.;;;;;;;;;;;;x
-in_bankrupcy;In bankruptcy;;;;;;;;;;;;x
-in_bankrupcy_desc;We are bankrupt!;;;;;;;;;;;;x
+TOPBAR_POPULATION;成人男子の人口は$CURR$人です。§Y$DAYS$§W日間の変化は$CHANGE$人です。;;;;;;;;;;;;x
+DIG_IN_TOOLTIP_1;現在の塹壕レベル：$LEV$/$MAX$。;;;;;;;;;;;;x
+DIG_IN_TOOLTIP_2;塹壕レベルは§Y$DAYS$§W日で§G+$VAL$§W上がります。;;;;;;;;;;;;x
+in_bankrupcy;財政破綻;;;;;;;;;;;;x
+in_bankrupcy_desc;財政が破綻しました！;;;;;;;;;;;;x

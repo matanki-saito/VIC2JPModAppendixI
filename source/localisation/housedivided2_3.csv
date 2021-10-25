@@ -1,78 +1,78 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-GREAT_WARS_ENABLED_DESC;Great wars are discovered.;;;;;;;;;;;;x
-GREAT_WARS_DISABLED_DESC;Great wars are undiscovered yet.;;;;;;;;;;;;x
-GREAT_WARS_ENABLE_DESC;Wars can get the status of The Great Wars!;;;;;;;;;;;;x
-GREAT_WAR_NAME;The $ORDER$Great War;;;;;;;;;;;;x
-GW_DISCOVERED_SETUP;When the Great Wars are discovered.;;;;;;;;;;;;x
-GW_DISCOVERED_HEADER;Great Wars discovered!;;;;;;;;;;;;x
-GW_DISCOVERED_1;Great Wars discovered!;;;;;;;;;;;;x
-GW_DISCOVERED_2;From now, each war that includes;;;;;;;;;;;;x
-GW_DISCOVERED_3;at least two great countries;;;;;;;;;;;;x
-GW_DISCOVERED_4;on each side, will get the status of;;;;;;;;;;;;x
-GW_DISCOVERED_5;§YThe Great War§!.;;;;;;;;;;;;x
+GREAT_WARS_ENABLED_DESC;大戦が「発見」された。;;;;;;;;;;;;x
+GREAT_WARS_DISABLED_DESC;大戦はまだ「発見」されていない。;;;;;;;;;;;;x
+GREAT_WARS_ENABLE_DESC;戦争は「大戦」になる場合があります！;;;;;;;;;;;;x
+GREAT_WAR_NAME;$ORDER$大戦;;;;;;;;;;;;x
+GW_DISCOVERED_SETUP;大戦が「発見」されたとき;;;;;;;;;;;;x
+GW_DISCOVERED_HEADER;大戦が「発見」された！;;;;;;;;;;;;x
+GW_DISCOVERED_1;大戦が「発見」された！;;;;;;;;;;;;x
+GW_DISCOVERED_2;今後、列強が;;;;;;;;;;;;x
+GW_DISCOVERED_3;2ヵ国以上;;;;;;;;;;;;x
+GW_DISCOVERED_4;加わっている戦争は;;;;;;;;;;;;x
+GW_DISCOVERED_5;§Y大戦§Wと呼ばれます。;;;;;;;;;;;;x
 GW_DISCOVERED_6;*;;;;;;;;;;;;x
 GW_DISCOVERED_BTN1;OK;;;;;;;;;;;;x
 GW_DISCOVERED_BTN2;OK;;;;;;;;;;;;x
 GW_DISCOVERED_BTN3;移動;;;;;;;;;;;;x
-GW_DISCOVERED_LOG;Great Wars discovered;;;;;;;;;;;;x
-WAR_GAIN_GW_STATUS_SETUP;When our war gains the Great war status.;;;;;;;;;;;;x
-WAR_GAIN_GW_STATUS_HEADER;Great War!;;;;;;;;;;;;x
-WAR_GAIN_GW_STATUS_1;$WAR$;;;;;;;;;;;;x
-WAR_GAIN_GW_STATUS_2;becomes;;;;;;;;;;;;x
-WAR_GAIN_GW_STATUS_3;§YThe Great War§!.;;;;;;;;;;;;x
+GW_DISCOVERED_LOG;大戦が「発見」された;;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_SETUP;戦争が「大戦」になったとき;;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_HEADER;大戦だ！;;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_1;$WAR$が;;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_2;§Y大戦§Wになった。;;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_3;*;;;;;;;;;;;;x
 WAR_GAIN_GW_STATUS_4;*;;;;;;;;;;;;x
 WAR_GAIN_GW_STATUS_5;*;;;;;;;;;;;;x
 WAR_GAIN_GW_STATUS_6;*;;;;;;;;;;;;x
 WAR_GAIN_GW_STATUS_BTN1;OK;;;;;;;;;;;;x
 WAR_GAIN_GW_STATUS_BTN2;OK;;;;;;;;;;;;x
 WAR_GAIN_GW_STATUS_BTN3;移動;;;;;;;;;;;;x
-WAR_GAIN_GW_STATUS_LOG;$WAR$ becomes §YThe Great War§!;;;;;;;;;;;;x
-WAR_LOST_GW_STATUS_SETUP;When our war lost the Great war status.;;;;;;;;;;;;x
-WAR_LOST_GW_STATUS_HEADER;No longer a Great War!;;;;;;;;;;;;x
-WAR_LOST_GW_STATUS_1;$WAR$;;;;;;;;;;;;x
-WAR_LOST_GW_STATUS_2;is no longer;;;;;;;;;;;;x
-WAR_LOST_GW_STATUS_3;The Great War.;;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_LOG;$WAR$が§Y大戦§Wとなった;;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_SETUP;戦争が「大戦」でなくなったとき;;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_HEADER;もう大戦ではない！;;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_1;$WAR$は;;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_2;もはや大戦ではない。;;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_3;*;;;;;;;;;;;;x
 WAR_LOST_GW_STATUS_4;*;;;;;;;;;;;;x
 WAR_LOST_GW_STATUS_5;*;;;;;;;;;;;;x
 WAR_LOST_GW_STATUS_6;*;;;;;;;;;;;;x
 WAR_LOST_GW_STATUS_BTN1;OK;;;;;;;;;;;;x
 WAR_LOST_GW_STATUS_BTN2;OK;;;;;;;;;;;;x
 WAR_LOST_GW_STATUS_BTN3;移動;;;;;;;;;;;;x
-WAR_LOST_GW_STATUS_LOG;$WAR$ is no longer §YThe Great War§!;;;;;;;;;;;;x
-GW_INTERVENE_MIN_RELATIONS;Our relations with §Y$TARGET$§! must be at least §G$MIN$§!. Currently it is §Y$VAL$§!.;;;;;;;;;;;;x
-GW_INTERVENE_MAX_EXHAUSTION;Our war exhaustion cannot be greater than §G$MAX$§!. Currently it is §Y$VAL$§!.;;;;;;;;;;;;x
-great_war_penalty_cb;Great War Capitulation;;;;;;;;;;;;x
-great_war_penalty_cb_desc;Force another §Ycountry§! to disarm and pay reparations to us.;;;;;;;;;;;;x
-great_war_penalty_cb_setup;Disarm $RECIPIENT$ and let them pay for reparations.;;;;;;;;;;;;x
-great_war_penalty_cb_short;Great War Capitulation;;;;;;;;;;;;x
-GREAT_WAR_OBLIGATORY_CB_DESC;Obligatory Great War Casus Belli against all enemies:;;;;;;;;;;;;x
-GREAT_WAR_CB_JUSTIFY_COST_DESC;Infamy cost deducted to §G$PERC$%§! of original cost due to §YGreat War§! status.;;;;;;;;;;;;x
-GREAT_WAR_CB_CONSTRUCTION_SPEED_DESC;At Great War with §Y$TARGET$§!;;;;;;;;;;;;x
-fascist_focus_short;§YFascist§! loyalty;;;;;;;;;;;;x
-reactionary_focus_short;§YReactionary§! loyalty;;;;;;;;;;;;x
-conservative_focus_short;§YConservative§! loyalty;;;;;;;;;;;;x
-socialist_focus_short;§YSocialist§! loyalty;;;;;;;;;;;;x
-communist_focus_short;§YCommunists§! loyalty;;;;;;;;;;;;x
-liberal_focus_short;§YLiberal§! loyalty;;;;;;;;;;;;x
-anarcho_liberal_focus_short;§YAnarcho-liberal§! loyalty;;;;;;;;;;;;x
-automation_focus_short;Automotive Industry;;;;;;;;;;;;x
-electrical_focus_short;Electrical Industry;;;;;;;;;;;;x
-chemical_focus_short;Chemical Industry;;;;;;;;;;;;x
-shipping_focus_short;Shipping Industry;;;;;;;;;;;;x
-textile_focus_short;Textile Industry;;;;;;;;;;;;x
-wood_focus_short;Wood Industry;;;;;;;;;;;;x
-basic_industry_focus_short;Basic Industry;;;;;;;;;;;;x
-armaments_focus_short;Armaments Industry;;;;;;;;;;;;x
-consumer_focus_short;Consumer Goods;;;;;;;;;;;;x
-WAR_GOAL_SUCCESS_PRESTIGE_CHANGE;If we complete this wargoal, we will gain $PRES$ prestige.;;;;;;;;;;;;x
-WAR_GOAL_FAILURE_PRESTIGE_CHANGE;If we fail to achieve this wargoal, we will lose $PRES$ prestige.;;;;;;;;;;;;x
-POP_INTERNAL_MIGRATION;§Y$NUM$§! people intend to move to other national provinces.;;;;;;;;;;;;x
-POP_EXTERNAL_MIGRATION;§Y$NUM$§! people intend to move to another country.;;;;;;;;;;;;x
-POP_COLONIAL_MIGRATION;§Y$NUM$§! people intend to move to the colonies.;;;;;;;;;;;;x
-INVESTED_IN_US_SETUP;When a country invests in us;;;;;;;;;;;;x
-INVESTED_IN_US_HEADER;Foreign Investment;;;;;;;;;;;;x
-INVESTED_IN_US_1;$ICOUNTRY$ has invested in us!;;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_LOG;$WAR$はもはや§Y大戦§Wではない;;;;;;;;;;;;x
+GW_INTERVENE_MIN_RELATIONS;我が国と§Y$TARGET$§Wの関係が§G$MIN$§W以上でなければなりません。（現在は§Y$VAL$§W）;;;;;;;;;;;;x
+GW_INTERVENE_MAX_EXHAUSTION;我が国の厭戦感情が§G$MAX$§W以下でなくてはなりません。（現在は§Y$VAL$§W）;;;;;;;;;;;;x
+great_war_penalty_cb;大戦条約;;;;;;;;;;;;x
+great_war_penalty_cb_desc;他の§Y国§Wを武装解除させ、敗戦国に賠償金を支払わせる。;;;;;;;;;;;;x
+great_war_penalty_cb_setup;$RECIPIENT$を武装解除させ、賠償金を支払わせる。;;;;;;;;;;;;x
+great_war_penalty_cb_short;大戦条約;;;;;;;;;;;;x
+GREAT_WAR_OBLIGATORY_CB_DESC;大戦における全ての敵に対する開戦事由：;;;;;;;;;;;;x
+GREAT_WAR_CB_JUSTIFY_COST_DESC;悪評が§G$PERC$%§W軽減される。（§Y大戦§Wであるため）;;;;;;;;;;;;x
+GREAT_WAR_CB_CONSTRUCTION_SPEED_DESC;§Y$TARGET$§Wと大戦を行っています;;;;;;;;;;;;x
+fascist_focus_short;§Yファシズム§Wへの連帯感;;;;;;;;;;;;x
+reactionary_focus_short;§Y反動主義§Wへの連帯感;;;;;;;;;;;;x
+conservative_focus_short;§Y保守主義§Wへの連帯感;;;;;;;;;;;;x
+socialist_focus_short;§Y社会主義§Wへの連帯感;;;;;;;;;;;;x
+communist_focus_short;§Y共産主義§Wへの連帯感;;;;;;;;;;;;x
+liberal_focus_short;§Y自由主義§Wへの連帯感;;;;;;;;;;;;x
+anarcho_liberal_focus_short;§Y無政府-自由主義§Wへの連帯感;;;;;;;;;;;;x
+automation_focus_short;自動車産業;;;;;;;;;;;;x
+electrical_focus_short;電気産業;;;;;;;;;;;;x
+chemical_focus_short;化学産業;;;;;;;;;;;;x
+shipping_focus_short;運輸産業;;;;;;;;;;;;x
+textile_focus_short;紡績産業;;;;;;;;;;;;x
+wood_focus_short;木材産業;;;;;;;;;;;;x
+basic_industry_focus_short;基本産業;;;;;;;;;;;;x
+armaments_focus_short;軍需産業;;;;;;;;;;;;x
+consumer_focus_short;消費財;;;;;;;;;;;;x
+WAR_GOAL_SUCCESS_PRESTIGE_CHANGE;この戦争目標を達成すると威信が$PRES$上昇;;;;;;;;;;;;x
+WAR_GOAL_FAILURE_PRESTIGE_CHANGE;この戦争目標の達成に失敗すると威信が$PRES$低下;;;;;;;;;;;;x
+POP_INTERNAL_MIGRATION;§Y$NUM$§W人が他の国内プロヴィンスに移住しようとしています。;;;;;;;;;;;;x
+POP_EXTERNAL_MIGRATION;§Y$NUM$§W人が他国に移住しようとしています。;;;;;;;;;;;;x
+POP_COLONIAL_MIGRATION;§Y$NUM$§W人が植民地に移住しようとしています。;;;;;;;;;;;;x
+INVESTED_IN_US_SETUP;他国が我が国に投資したとき;;;;;;;;;;;;x
+INVESTED_IN_US_HEADER;外国の投資;;;;;;;;;;;;x
+INVESTED_IN_US_1;$ICOUNTRY$が我が国に投資！;;;;;;;;;;;;x
 INVESTED_IN_US_2;$INVESTED_IN_US_MESSAGE$;;;;;;;;;;;;x
 INVESTED_IN_US_3;*;;;;;;;;;;;;x
 INVESTED_IN_US_4;*;;;;;;;;;;;;x
@@ -81,73 +81,73 @@ INVESTED_IN_US_6;*;;;;;;;;;;;;x
 INVESTED_IN_US_BTN1;OK;;;;;;;;;;;;x
 INVESTED_IN_US_BTN2;OK;;;;;;;;;;;;x
 INVESTED_IN_US_BTN3;移動;;;;;;;;;;;;x
-INVESTED_IN_US_LOG;§Y$ICOUNTRY$§! invested in us: $INVESTED_IN_US_MESSAGE$;;;;;;;;;;;;x
-INVESTED_IN_US_BUILD;$INAME$ built in $ILOCATION$ for $IAMOUNT$¤;;;;;;;;;;;;x
-INVESTED_IN_US_OPEN;$INAME$ opened in $ILOCATION$ for $IAMOUNT$¤;;;;;;;;;;;;x
-INVESTED_IN_US_UPGRADE;Upgraded $INAME$ in $ILOCATION$ for $IAMOUNT$¤;;;;;;;;;;;;x
-INVESTED_IN_US_UNKNOWN;Invested $IAMOUNT$¤ in us.;;;;;;;;;;;;x
-MODIFY_RELATION_EFFECT;§Y$SOURCE$§!'s relation with §Y$TARGET$§! changed with a value of $VALUE$.;;;;;;;;;;;;x
-PRODUCTION_EXPAND_FACTORY_SHORTCUT_TOOLTIP;§GCtrl+Click§! upgrades all factories of this type which are near their employee limit (§Y$NUMSPECIALFACTORIES$§!).\n§GShift+Click§! upgrades all factories which are near their employee limit (§Y$NUMFACTORIES$§!).;;;;;;;;;;;;x
-EVTNAME19355;Great wars;;;;;;;;;;;;x
-EVTDESC19355;Growing nationial pride in countries around the world has reached the point where people will not accept anything less than total victory when Great powers clash. From now on, any conflict with at least two Great powers on each side will be regarded as a Great War!;;;;;;;;;;;;x
-EVTOPTA19355;God help us all;;;;;;;;;;;;x
-AGRESSION_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ War of Independence;;;;;;;;;;;;x
-BYE;Belarus;;;;;;;;;;;;x
-BYE_ADJ;Byelorussian;;;;;;;;;;;;x
-UBD;United Baltic Provinces;;;;;;;;;;;;x
-UBD_ADJ;Baltic;;;;;;;;;;;;x
+INVESTED_IN_US_LOG;§Y$ICOUNTRY$§Wが我が国に投資：$INVESTED_IN_US_MESSAGE$;;;;;;;;;;;;x
+INVESTED_IN_US_BUILD;$INAME$が$ILOCATION$に$IAMOUNT$¤で建設された;;;;;;;;;;;;x
+INVESTED_IN_US_OPEN;$ILOCATION$で$IAMOUNT$¤かけて$INAME$が開設;;;;;;;;;;;;x
+INVESTED_IN_US_UPGRADE;$ILOCATION$の$INAME$が$IAMOUNT$¤かけて拡張された;;;;;;;;;;;;x
+INVESTED_IN_US_UNKNOWN;他国が我が国に$IAMOUNT$¤投資;;;;;;;;;;;;x
+MODIFY_RELATION_EFFECT;§Y$SOURCE$§Wの§Y$TARGET$§Wとの関係が$VALUE$変化;;;;;;;;;;;;x
+PRODUCTION_EXPAND_FACTORY_SHORTCUT_TOOLTIP;§GCtrlキー+クリック§Wで、雇用限界に近づいているこのタイプの工場を全て拡張できます（§Y$NUMSPECIALFACTORIES$§W）。\n§GShiftキー+クリック§Wで、雇用限界に近づいている全ての工場を拡張できます（§Y$NUMFACTORIES$§W）。;;;;;;;;;;;;x
+EVTNAME19355;大戦;;;;;;;;;;;;x
+EVTDESC19355;世界中の国々の国家としての誇りが高まり、列強同士が争う際、もはや人々は完全なる勝利以外の結果を受け入れなくなりました。今後、列強が2国以上参加して行われる戦争は“大戦”と呼ばれます！;;;;;;;;;;;;x
+EVTOPTA19355;我らに神の御加護を;;;;;;;;;;;;x
+AGRESSION_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST_COUNTRY$独立戦争;;;;;;;;;;;;x
+BYE;ベラルーシ;;;;;;;;;;;;x
+BYE_ADJ;ベラルーシ;;;;;;;;;;;;x
+UBD;バルト連合;;;;;;;;;;;;x
+UBD_ADJ;バルト;;;;;;;;;;;;x
 UBD_conservative;保守主義者;;;;;;;;;;;;x
-UBD_liberal;Liberals;;;;;;;;;;;;x
+UBD_liberal;自由党;;;;;;;;;;;;x
 UBD_reactionary;反動主義者;;;;;;;;;;;;x
-UBD_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;;x
-UBD_socialist;Socialists;;;;;;;;;;;;x
+UBD_anarcho_liberals;無政府-自由主義派;;;;;;;;;;;;x
+UBD_socialist;社会党;;;;;;;;;;;;x
 UBD_communist;ボリシェヴィキ;;;;;;;;;;;;x
-UBD_fascist;National Socialist Party;;;;;;;;;;;;x
+UBD_fascist;国家社会主義党;;;;;;;;;;;;x
 BYE_conservative;保守主義者;;;;;;;;;;;;x
-BYE_liberal;Liberals;;;;;;;;;;;;x
+BYE_liberal;自由党;;;;;;;;;;;;x
 BYE_reactionary;反動主義者;;;;;;;;;;;;x
-BYE_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;;x
-BYE_socialist;Belarusian Socialist Assembly;;;;;;;;;;;;x
+BYE_anarcho_liberals;無政府-自由主義派;;;;;;;;;;;;x
+BYE_socialist;ベラルーシ社会主義連合;;;;;;;;;;;;x
 BYE_communist;ボリシェヴィキ;;;;;;;;;;;;x
-BYE_fascist;National Socialist Party;;;;;;;;;;;;x
+BYE_fascist;国家社会主義党;;;;;;;;;;;;x
 PLC;ポーランド＝リトアニア;;;;;;;;;;;;x
 PLC_ADJ;ポーランド＝リトアニア;;;;;;;;;;;;x
-PLC_conservative;Str. Narodowo-Demokratyczne;;;;;;;;;;;;x
-PLC_liberal;Stronnictwo Patriotyczne;;;;;;;;;;;;x
-PLC_reactionary;Konfederacja Targowicka;;;;;;;;;;;;x
-PLC_anarcho_liberal;Stronnictwo Radykalny;;;;;;;;;;;;x
-PLC_socialist;Partia Socjalistyczna;;;;;;;;;;;;x
-PLC_communist;Partia Socjaldemokracja;;;;;;;;;;;;x
-PLC_fascist;Stronnictwo Narodowe;;;;;;;;;;;;x
-ARA;Arabia;;;;;;;;;;;;x
-ARA_ADJ;Arab;;;;;;;;;;;;x
+PLC_conservative;国家社会主義党;;;;;;;;;;;;x
+PLC_liberal;愛国党;;;;;;;;;;;;x
+PLC_reactionary;タルゴヴィツァ連盟;;;;;;;;;;;;x
+PLC_anarcho_liberal;急進派;;;;;;;;;;;;x
+PLC_socialist;社会党;;;;;;;;;;;;x
+PLC_communist;社会民主党;;;;;;;;;;;;x
+PLC_fascist;国民党;;;;;;;;;;;;x
+ARA;アラビア;;;;;;;;;;;;x
+ARA_ADJ;アラビア;;;;;;;;;;;;x
 ARA_conservative;保守主義者;;;;;;;;;;;;x
-ARA_liberal;Liberals;;;;;;;;;;;;x
+ARA_liberal;自由党;;;;;;;;;;;;x
 ARA_reactionary;反動主義者;;;;;;;;;;;;x
-ARA_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;;x
-ARA_socialist;Socialists;;;;;;;;;;;;x
-ARA_communist;Communists;;;;;;;;;;;;x
+ARA_anarcho_liberals;無政府-自由主義派;;;;;;;;;;;;x
+ARA_socialist;社会党;;;;;;;;;;;;x
+ARA_communist;共産党;;;;;;;;;;;;x
 ARA_fascist;国家社会主義党;;;;;;;;;;;;x
 GCO;大コロンビア;;;;;;;;;;;;x
 GCO_ADJ;大コロンビア;;;;;;;;;;;;x
-form_gran_colombia_title;Form Gran Colombia;;;;;;;;;;;;x
-form_gran_colombia_desc;Gran Colombia was a political federation established in South America in the wake of Simon Bolivar's successful liberation of the territories of Colombia, Venezuela, and Ecuador from Spanish rule. The federation broke apart in 1831. We are in a position to re-unite the North Andean peoples once more if we proclaim a new Gran Colombia.;;;;;;;;;;;;x
-GCO_conservative;Partido Centralista;;;;;;;;;;;;x
-GCO_conservative_2;Nuevo Partido Centralista;;;;;;;;;;;;x
+form_gran_colombia_title;グランコロンビアを建国;;;;;;;;;;;;x
+form_gran_colombia_desc;グランコロンビアは、シモン・ボリーバルがコロンビア、ベネズエラ、エクアドルをスペイン人の支配から解放した後、南アメリカで結成された政治連合である。1831年にこの連合は分裂したが、我々が新しいグランコロンビアの建国を宣言すれば、もう一度北アンデスの民を一つにすることができるだろう。;;;;;;;;;;;;x
+GCO_conservative;中央党;;;;;;;;;;;;x
+GCO_conservative_2;新中央党;;;;;;;;;;;;x
 GCO_liberal;連邦党;;;;;;;;;;;;x
 GCO_liberal_2;新連邦党;;;;;;;;;;;;x
-GCO_liberal_3;Partido Autonomista;;;;;;;;;;;;x
+GCO_liberal_3;自治党;;;;;;;;;;;;x
 GCO_anarcho_liberal;急進党;;;;;;;;;;;;x
-GCO_reactionary;Partido Traditionalista;;;;;;;;;;;;x
+GCO_reactionary;伝統主義党;;;;;;;;;;;;x
 GCO_socialist;社会革命党;;;;;;;;;;;;x
 GCO_communist;共産党;;;;;;;;;;;;x
 GCO_fascist;ファシスト党;;;;;;;;;;;;x
-arab;Arab;;;;;;;;;;;;x
-form_arabia_title;Form Arabia;;;;;;;;;;;;x
-form_arabia_desc;Brothers, freedom is here, we have won the battle for our destiny. Now the Arab people are on the way to resurrection!;;;;;;;;;;;;x
-IS_EMPTY; has no owner;;;;;;;;;;;;x
-IS_NOT_EMPTY; has an owner;;;;;;;;;;;;x
-EVTNAME111011928;Form Arabia;;;;;;;;;;;;x
-EVTDESC111011928;Through warfare and diplomacy an Arabian union has been created. Shall we join it?;;;;;;;;;;;;x
-EVTOPTA111011928;Of course!;;;;;;;;;;;;x
+arab;アラビア;;;;;;;;;;;;x
+form_arabia_title;アラビアを建国;;;;;;;;;;;;x
+form_arabia_desc;同胞たちよ、自由がここにある。我々は運命を賭けた戦いに勝利した。アラブの民は復興への道を歩み始めたのだ！;;;;;;;;;;;;x
+IS_EMPTY;所有者なし;;;;;;;;;;;;x
+IS_NOT_EMPTY;所有者あり;;;;;;;;;;;;x
+EVTNAME111011928;アラビアを建国;;;;;;;;;;;;x
+EVTDESC111011928;戦争と外交によってアラビア連合が結成されました。我らもその仲間入りをするべきでしょうか？;;;;;;;;;;;;x
+EVTOPTA111011928;もちろんだ！;;;;;;;;;;;;x
 EVTOPTB111011928;ありえない！;;;;;;;;;;;;x

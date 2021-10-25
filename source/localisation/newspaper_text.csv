@@ -1,319 +1,319 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 KEYNAME;テキスト;;;;;;;;;;;;x
-news1;The government of $TAG_2_0$ offered the peace with the following terms: $STRING_0_1$;;;;;;;;;;;;x
-battle_we_win_title_large;GLORIOUS VICTORY IN $STRING_0_3$!;;;;;;;;;;;;x
-battle_we_win_large;On $DATE_LONG_0$ our unrivalled army was, once again, victorious in the battle of $STRING_0_3$! $VALUE_INT_0_1$ of our men bravely gave $VALUE_INT_0_3$ $TAG_0_3_ADJ$ troops a sound seeing to, and while $VALUE_INT_0_2$ of our fearless troops lost their lives, over $VALUE_INT_0_4$ $TAG_0_3_ADJ$ scoundrels were killed and the field was left in our hands. After a defeat like this, $TAG_0_3$ surely must soon seek peace terms!;;;;;;;;;;;;x
-battle_we_win_title_medium;Victory in $STRING_0_3$!;;;;;;;;;;;;x
+news1;$TAG_2_0$政府、「$STRING_0_1$」の条件で和平を提案;;;;;;;;;;;;x
+battle_we_win_title_large;$STRING_0_3$で栄光の勝利！;;;;;;;;;;;;x
+battle_we_win_large;$DATE_LONG_0$年、比類なき我が軍は、$STRING_0_3$の戦いで、またも勝利した！勇猛なる我らが$VALUE_INT_0_1$人は$VALUE_INT_0_3$名の$TAG_0_3$軍に損害を与えた。大胆不敵な我らが部隊は$VALUE_INT_0_2$人を失うも、$TAG_0_3$の悪党$VALUE_INT_0_4$名以上を戦死させ、当地は我が国の手に委ねられた。無様に敗北した$TAG_0_3$は、すぐに和平条件を模索せねばならないだろう！;;;;;;;;;;;;x
+battle_we_win_title_medium;$STRING_0_3$で勝利！;;;;;;;;;;;;x
 battle_we_win_medium;$DATE_LONG_0$年、我々は$STRING_0_3$で$VALUE_INT_0_3$$TAG_0_3_ADJ$軍を撃破した。代償として$VALUE_INT_0_2$人の人命が失われた。;;;;;;;;;;;;x
 battle_we_win_title_small;勝利！;;;;;;;;;;;;x
 battle_we_win_small;$DATE_LONG_0$年、我々は$STRING_0_3$で$VALUE_INT_0_3$$TAG_0_3_ADJ$軍を撃破した。;;;;;;;;;;;;x
-battle_we_lose_title_large;MILITARY BLUNDER LEADS TO DISASTER IN $STRING_0_3$!;;;;;;;;;;;;x
-battle_we_lose_large;On $DATE_LONG_0$ our incompetent high command shockingly sent $VALUE_INT_0_4$ of our brave soldiers to their deaths in $STRING_0_3$ against the forces of  $TAG_0_2$. Our $VALUE_INT_0_3$ fine troops faced $VALUE_INT1$ $TAG_0_2_ADJ$ soldiers, and despite poor leadership and the enemy's underhanded tactics managed to inflict $VALUE_INT_0_2$ casualties upon them. This paper expresses grave concerns over the direction the high command is taking this war, and strongly urges the Government to take steps to correct it before it is too late!;;;;;;;;;;;;x
-battle_we_lose_title_medium;Defeat in $STRING_0_3$;;;;;;;;;;;;x
-battle_we_lose_medium;On $DATE_LONG_0$ we lost the battle of $STRING_0_3$, losing $VALUE_INT_0_4$ men and leaving $TAG_0_2$ in control of the field.;;;;;;;;;;;;x
-battle_we_lose_title_small;Disaster in $STRING_0_3$;;;;;;;;;;;;x
-battle_we_lose_small;On $DATE_LONG_0$ we lost the battle of $STRING_0_3$, losing $VALUE_INT_0_4$ men and leaving $TAG_0_2$ in control of the field.;;;;;;;;;;;;x
-gwar_we_win_large_title;$TAG_3_0_UPPER$ SURRENDERS!;;;;;;;;;;;;x
-gwar_we_win_large_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;;;;;;;;;;;;x
-gwar_we_win_medium_title;ARMISTICE SIGNED!\n VICTORY!;;;;;;;;;;;;x
-gwar_we_win_medium_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;;;;;;;;;;;;x
-gwar_we_win_small_title;Victory over $TAG_3_0$!;;;;;;;;;;;;x
-gwar_we_win_small_desc;$STRING_0_0$ has ended with the defeat of $TAG_3_0$.;;;;;;;;;;;;x
-gwar_we_lose_large_title;A SHAMEFUL DAY.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;;;;;;;;;;;;x
-gwar_we_lose_large_desc;On $DATE_LONG_1$ the Great war against $TAG_2_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;;;;;;;;;;;;x
-gwar_we_lose_medium_title;PEACE WITH $TAG_2_0_UPPER$!;;;;;;;;;;;;x
-gwar_we_lose_medium_desc;On $DATE_LONG_1$ the Great War between $TAG_0_0$ and $TAG_1_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;;;;;;;;;;;;x
-gwar_we_lose_small_title;Peace with $TAG_2_0$;;;;;;;;;;;;x
-gwar_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $TAG_2_0$;;;;;;;;;;;;x
-war_we_win_large_title;ARMISTICE SIGNED!\n $TAG_3_0_UPPER$ SURRENDERS;;;;;;;;;;;;x
-war_we_win_large_desc;On $DATE_LONG_1$ the War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;;;;;;;;;;;;x
-war_we_win_medium_title;ARMISTICE SIGNED!\n VICTORY!;;;;;;;;;;;;x
-war_we_win_medium_desc;On $DATE_LONG_1$ the War between $TAG_0_0$ and $TAG_1_0$ ended in our glorious victory. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$.;;;;;;;;;;;;x
-war_we_win_small_title;Victory over $TAG_3_0$!;;;;;;;;;;;;x
-war_we_win_small_desc;$STRING_0_0$ has ended with the defeat of $TAG_3_0$.;;;;;;;;;;;;x
-war_we_lose_large_title;A SHAMEFUL DAY.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;;;;;;;;;;;;x
-war_we_lose_large_desc;On $DATE_LONG_1$ the war against $TAG_2_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end the result was $STRINGS_LIST_4$.;;;;;;;;;;;;x
-war_we_lose_medium_title;SHAMEFUL PEACE SIGNED!;;;;;;;;;;;;x
-war_we_lose_medium_desc;On $DATE_LONG_1$, the War between $TAG_0_0$ and $TAG_1_0$ ended in our shameful defeat. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and in the end $TAG_2_0$ was the victor.;;;;;;;;;;;;x
-war_we_lose_small_title;Peace with $TAG_2_0$;;;;;;;;;;;;x
-war_we_lose_small_desc;$STRING_0_0$ has ended with our defeat at the hands of $TAG_2_0$;;;;;;;;;;;;x
+battle_we_lose_title_large;軍事的不手際が$STRING_0_3$の惨事に！;;;;;;;;;;;;x
+battle_we_lose_large;$DATE_LONG_0$年、驚くことに我が国の無能な最高司令部によって、$VALUE_INT_0_4$人もの勇敢な兵士が$STRING_0_3$で$TAG_0_2$軍に全滅させられてしまった。$VALUE_INT_0_3$人の優秀なる部隊は$VALUE_INT1$名からなる$TAG_0_2$軍に遭遇した。劣悪な命令や敵による手に負えない戦術にもかかわらず、どうにか敵軍に$VALUE_INT_0_2$名の犠牲を負わせることはできた。当新聞社は、最高司令部がこの戦争で取っている方針に対する重大な懸念を表明し、政府に対し手遅れになる前に修正のための措置を講じるよう強く要請する！;;;;;;;;;;;;x
+battle_we_lose_title_medium;$STRING_0_3$で敗北;;;;;;;;;;;;x
+battle_we_lose_medium;$DATE_LONG_0$年、我が国は$STRING_0_3$の戦いに敗北、$VALUE_INT_0_4$人を失い、当地は$TAG_0_2$の支配下に置かれた。;;;;;;;;;;;;x
+battle_we_lose_title_small;$STRING_0_3$の惨事;;;;;;;;;;;;x
+battle_we_lose_small;$DATE_LONG_0$年、我が国は$STRING_0_3$の戦いに敗北、$VALUE_INT_0_4$人を失い、当地は$TAG_0_2$の支配下に置かれた。;;;;;;;;;;;;x
+gwar_we_win_large_title;$TAG_3_0$が降伏！;;;;;;;;;;;;x
+gwar_we_win_large_desc;$DATE_LONG_1$年、$TAG_0_0$・$TAG_1_0$間の大戦は栄光の勝利に終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化し、「$STRINGS_LIST_4$」で終結した。;;;;;;;;;;;;x
+gwar_we_win_medium_title;勝利！ 停戦合意！;;;;;;;;;;;;x
+gwar_we_win_medium_desc;$DATE_LONG_1$年、$TAG_0_0$・$TAG_1_0$間の大戦は栄光の勝利に終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化した。;;;;;;;;;;;;x
+gwar_we_win_small_title;$TAG_3_0$に勝利！;;;;;;;;;;;;x
+gwar_we_win_small_desc;$STRING_0_0$は$TAG_3_0$の敗北によって終結。;;;;;;;;;;;;x
+gwar_we_lose_large_title;屈辱の日。 $TAG_2_0$と和平合意！;;;;;;;;;;;;x
+gwar_we_lose_large_desc;$DATE_LONG_1$年、$TAG_2_0$との大戦は我が国の屈辱的敗北で終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化し、「$STRINGS_LIST_4$」で終結した。;;;;;;;;;;;;x
+gwar_we_lose_medium_title;$TAG_2_0$との和平！;;;;;;;;;;;;x
+gwar_we_lose_medium_desc;$DATE_LONG_1$年、$TAG_0_0$・$TAG_1_0$間の大戦は、我が国の屈辱的敗北で終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化した。;;;;;;;;;;;;x
+gwar_we_lose_small_title;$TAG_2_0$との和平！;;;;;;;;;;;;x
+gwar_we_lose_small_desc;$STRING_0_0$は$TAG_2_0$の手により我が国の敗北で終わった。;;;;;;;;;;;;x
+war_we_win_large_title;$TAG_3_0$が降伏！ 停戦合意;;;;;;;;;;;;x
+war_we_win_large_desc;$DATE_LONG_1$年、$TAG_0_0$・$TAG_1_0$間の戦争は栄光の勝利に終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化し、「$STRINGS_LIST_4$」で終結した。;;;;;;;;;;;;x
+war_we_win_medium_title;勝利！ 停戦合意！;;;;;;;;;;;;x
+war_we_win_medium_desc;$DATE_LONG_1$年、$TAG_0_0$・$TAG_1_0$間の戦争は栄光の勝利に終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化した。;;;;;;;;;;;;x
+war_we_win_small_title;$TAG_3_0$に勝利！;;;;;;;;;;;;x
+war_we_win_small_desc;$STRING_0_0$は$TAG_3_0$の敗北によって終結。;;;;;;;;;;;;x
+war_we_lose_large_title;屈辱の日。 $TAG_2_0$と和平合意！;;;;;;;;;;;;x
+war_we_lose_large_desc;$DATE_LONG_1$年、$TAG_2_0$との戦争は我が国の屈辱的敗北で終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化し、「$STRINGS_LIST_4$」で終結した。;;;;;;;;;;;;x
+war_we_lose_medium_title;屈辱の和平合意！;;;;;;;;;;;;x
+war_we_lose_medium_desc;$DATE_LONG_1$年、$TAG_0_0$・$TAG_1_0$間の戦争は、我が国の屈辱的敗北で終わった。$STRING_0_0$として知られるこの戦争は、「$STRING_9_0$」をめぐって$DATE_SHORT_0$日から激化した。;;;;;;;;;;;;x
+war_we_lose_small_title;$TAG_2_0$との和平;;;;;;;;;;;;x
+war_we_lose_small_desc;$STRING_0_0$は$TAG_2_0$の手により我が国の敗北で終わった。;;;;;;;;;;;;x
 rebels_win_small_title;革命！;;;;;;;;;;;;x
-rebels_win_small_desc;$STRING_0_0$ have defeated $TAG_0_0$ and broken the country, what will the $STRING_0_3$ $STRING_0_4$ do now?;;;;;;;;;;;;x
+rebels_win_small_desc;$STRING_0_0$は$TAG_0_0$を打倒し、国を転覆させた。現在$STRING_0_3$・$STRING_0_4$は何をしているのであろうか？;;;;;;;;;;;;x
 KEYNAME;テキスト;;;;;;;;;;;;x
-some_fake_1836_title_1;Opiate update!;;;;;;;;;;;;x
-some_fake_1836_1;Opium craze sweeps China, traders state it’s long journey, but worth the trip.;;;;;;;;;;;;x
-some_fake_1836_title_2;Ether craze;;;;;;;;;;;;x
-some_fake_1836_2;Popularity of ether frolics on the rise, pundits claim “It’s a gas!”.;;;;;;;;;;;;x
-some_fake_1836_title_3;Sweet Dreams;;;;;;;;;;;;x
-some_fake_1836_3;First use of general anaesthesia in an operation, surgeon in USA puts patient to sleep for tumour removal.;;;;;;;;;;;;x
-some_fake_1836_title_4;Code words;;;;;;;;;;;;x
-some_fake_1836_4;World’s first electrical telegraph message sent in USA by Samuel Morse in the USA.;;;;;;;;;;;;x
-some_fake_1836_title_5;Philatelists rejoice!;;;;;;;;;;;;x
-some_fake_1836_5;Postage stamp introduced in the United kingdom, known as “Penny Black” it features a picture of the young Queen, Victoria.;;;;;;;;;;;;x
-some_fake_1836_title_6;Out now!;;;;;;;;;;;;x
-some_fake_1836_6;“Dead souls” released in Russia, critics claim it is too difficult.;;;;;;;;;;;;x
+some_fake_1836_title_1;アヘンが更新！;;;;;;;;;;;;x
+some_fake_1836_1;アヘンの大流行が中国を席巻している。商人たちは「長い旅」にはそれだけの価値があると言っている。;;;;;;;;;;;;x
+some_fake_1836_title_2;エーテル狂騒曲;;;;;;;;;;;;x
+some_fake_1836_2;エーテルによる浮かれ騒ぎが増加している。専門家たちは「それは楽しそう(gas)だ！」と主張する。;;;;;;;;;;;;x
+some_fake_1836_title_3;甘い夢;;;;;;;;;;;;x
+some_fake_1836_3;米国の外科医が、手術で全身麻酔を初めて使用、腫瘍除去のため患者を眠らせた。;;;;;;;;;;;;x
+some_fake_1836_title_4;コード名;;;;;;;;;;;;x
+some_fake_1836_4;アメリカのサミュエル・モース氏が、世界初の電信メッセージをアメリカに送信した。;;;;;;;;;;;;x
+some_fake_1836_title_5;切手収集家、歓喜！;;;;;;;;;;;;x
+some_fake_1836_5;イギリスで導入された切手は「ペニーブラック」として知られ、若きヴィクトリア女王の肖像が描かれている。;;;;;;;;;;;;x
+some_fake_1836_title_6;発売！;;;;;;;;;;;;x
+some_fake_1836_6;ロシアで出版された「死せる魂」が、批評家からは難解すぎるとの意見も。;;;;;;;;;;;;x
 some_fake_1836_title_7;Woodwind or Brass?;;;;;;;;;;;;x
 some_fake_1836_title_8;ゴールドラッシュ！;;;;;;;;;;;;x
-some_fake_1836_8;Gold discovered in California, massive rush of prospectors to the area!;;;;;;;;;;;;x
-some_fake_1836_title_9;The Raven' published;;;;;;;;;;;;x
-some_fake_1836_9;A grim tour-de-force, Poe’s latest short story is sure to raise the hairs on the back of your neck.;;;;;;;;;;;;x
-some_fake_1836_title_10;The bountiful female form;;;;;;;;;;;;x
-some_fake_1836_10;(reader discretion is advised) Female waist and hip sizes are apparently at an all-time minimum and maximum respectively. Continued on page 5;;;;;;;;;;;;x
-some_fake_1836_title_11;Editorial;;;;;;;;;;;;x
-some_fake_1836_11;This liberalism will destroy the western civilisation. Without strong government, people are going to starve and revert to barbarism to survive and feed their children. (see pg. 10);;;;;;;;;;;;x
+some_fake_1836_8;カリフォルニアで黄金発見、鉱夫がこの地域へ急増！;;;;;;;;;;;;x
+some_fake_1836_title_9;『大鴉』出版;;;;;;;;;;;;x
+some_fake_1836_9;恐ろしい力作、ポー氏の最新作は読者の背筋を凍らせるに違いない。;;;;;;;;;;;;x
+some_fake_1836_title_10;豊かな女性の姿;;;;;;;;;;;;x
+some_fake_1836_10;(読者の裁量にお任せします）女性のウエスト・ヒップのサイズは、明らかに史上最小・最大である。5面に続く;;;;;;;;;;;;x
+some_fake_1836_title_11;社説:;;;;;;;;;;;;x
+some_fake_1836_11;自由主義は西洋文明を破壊するだろう。強力な政府がなければ人々は飢えてしまい、生き延びるため、子供らを養うために、野蛮人に戻ってしまうに違いない。(10面参照);;;;;;;;;;;;x
 some_fake_1850_title_1;我々の祖先？;;;;;;;;;;;;x
-some_fake_1850_1;Scientists amazed by "Neanderthal man" fossil discovery in Germany.;;;;;;;;;;;;x
-some_fake_1850_title_2;Editorial:;;;;;;;;;;;;x
-some_fake_1850_2;It is the assured opinion of this newspaper that animal-fat is the perfect substance for greasing bullet-cartridges. See how we reached this unshakable conclusion inside (see pg 10);;;;;;;;;;;;x
-some_fake_1850_title_3;Canals in decline;;;;;;;;;;;;x
-some_fake_1850_3;The once-proud canal system of our nation is seen to be in precipitous decline. What can be done? Continued on page 4;;;;;;;;;;;;x
+some_fake_1850_1;科学者たちはドイツにおける「ネアンデルタール人」の化石発見に驚いた。;;;;;;;;;;;;x
+some_fake_1850_title_2;社説:;;;;;;;;;;;;x
+some_fake_1850_2;この新聞は、動物性脂肪が弾丸カートリッジに油をさすのに最適な物質であると確信している。内部でこの揺るぎない結論に達した方法をご覧ください（10面を参照）;;;;;;;;;;;;x
+some_fake_1850_title_3;運河が衰退;;;;;;;;;;;;x
+some_fake_1850_3;かつては誇らしかった我が国の運河システムは急激に衰退している模様。できることはあるのか？4面に続く;;;;;;;;;;;;x
 some_fake_1860_title_1;リンカーン暗殺される;;;;;;;;;;;;x
 some_fake_1860_1;エイブラハム・リンカーンはフォード劇場でジョン・ウィルクス・ブースに至近距離から銃撃され暗殺された。;;;;;;;;;;;;x
-some_fake_1860_title_2;Lincoln fine;;;;;;;;;;;;x
-some_fake_1860_2;Failed assassination attempt of Abraham Lincoln by John Wilkes Booth, President throws assailant from balcony of Ford’s theatre.;;;;;;;;;;;;x
-some_fake_1860_title_3;Unsporting;;;;;;;;;;;;x
-some_fake_1860_3;Military Submarine invented, globally agreed to be “unfair” and banned for all time.;;;;;;;;;;;;x
-some_fake_1860_title_4;Healthcare;;;;;;;;;;;;x
-some_fake_1860_4;Florence Nightingale founds school for nurses in St Thomas' Hospital, London.;;;;;;;;;;;;x
-some_fake_1860_title_5;Elements organised;;;;;;;;;;;;x
-some_fake_1860_5;Dmitri Mendeleev invents periodic table, listing all 56 known elements.;;;;;;;;;;;;x
-some_fake_1860_title_6;Cycle fad spreads;;;;;;;;;;;;x
-some_fake_1860_6;Bicycle craze sweeps western world, Velocipedes are must haves!;;;;;;;;;;;;x
-some_fake_1860_title_7;Sombrero width at an all-time high;;;;;;;;;;;;x
-some_fake_1860_7;It is reported that the width of an average bandito’s sombrero has risen to an astounding 57 inches in Mexico.;;;;;;;;;;;;x
-some_fake_1860_title_8;Fire-brigade' established;;;;;;;;;;;;x
-some_fake_1860_8;They're new, but they're good. ;;;;;;;;;;;;x
+some_fake_1860_title_2;リンカーンお見事;;;;;;;;;;;;x
+some_fake_1860_2;ジョン・ウィルクス・ブースによるエイブラハム・リンカーン暗殺未遂、大統領はフォードの劇場のバルコニーから加害者を投げた。;;;;;;;;;;;;x
+some_fake_1860_title_3;不公平;;;;;;;;;;;;x
+some_fake_1860_3;軍用潜水艦が発明されたが「不公平」とする意見が世界的に受け入れられ、永久に禁止された。;;;;;;;;;;;;x
+some_fake_1860_title_4;健康管理;;;;;;;;;;;;x
+some_fake_1860_4;フローレンス・ナイチンゲール氏、ロンドンの聖トマス病院に看護師のための学校を設立;;;;;;;;;;;;x
+some_fake_1860_title_5;整理された元素;;;;;;;;;;;;x
+some_fake_1860_5;ドミトリ・メンデレーエフ氏、既知の56元素全てをリストしている周期表を発明;;;;;;;;;;;;x
+some_fake_1860_title_6;サイクル流行の広がり;;;;;;;;;;;;x
+some_fake_1860_6;自転車の流行が西洋世界を席巻しており、ヴェロシペード(足蹴り自転車)は必需品である！;;;;;;;;;;;;x
+some_fake_1860_title_7;ソンブレロの幅が史上最長に;;;;;;;;;;;;x
+some_fake_1860_7;メキシコでは平均的な強盗のソンブレロの幅が驚異の57インチにまで広がったと報告されている。;;;;;;;;;;;;x
+some_fake_1860_title_8;消防隊設立;;;;;;;;;;;;x
+some_fake_1860_8;新人ではあるが、良い感じである。;;;;;;;;;;;;x
 some_fake_1860_title_9;サッカーの人気が高まる;;;;;;;;;;;;x
-some_fake_1860_9;Attendances at association football matches have risen recently, with the spectacle proving especially popular amongst members of the labouring and destitute classes. ;;;;;;;;;;;;x
-some_fake_1860_title_10;Editorial:;;;;;;;;;;;;x
-some_fake_1860_10;Beware the female bicycleatrix. Women astride machines, petticoats fluttering carelessly in the breeze, ankles exposed for all to see, will send men into a deranged frenzy ( pg. 10);;;;;;;;;;;;x
-some_fake_1860_title_11;Pompeii and Herculaneum back to light;;;;;;;;;;;;x
-some_fake_1860_11;New methods of excavation return to the world the cities destroyed by Vesuvius in 79 AD.;;;;;;;;;;;;x
-some_fake_1870_title_1;Editorial:;;;;;;;;;;;;x
-some_fake_1870_1;The backward African peoples long for our benevolent governance. Much as the Irish graciously welcomed British overlordship, the black race crave the guiding hand of whites (pg. 10);;;;;;;;;;;;x
-some_fake_1870_title_2;Literature:;;;;;;;;;;;;x
-some_fake_1870_2;Around the World in 80 days, reviewed for the reader's pleasure and education.;;;;;;;;;;;;x
-some_fake_1870_title_3;Corset-related fainting;;;;;;;;;;;;x
-some_fake_1870_3;Is at an all-time high! Yet again our nation’s spas, hospitals and chaise-longues are inundated with victims of corset overtightening.;;;;;;;;;;;;x
-some_fake_1880_title_1;Airborn Success!;;;;;;;;;;;;x
-some_fake_1880_1;La France, a French military airship, becomes first powered airship to make a successful round trip.;;;;;;;;;;;;x
+some_fake_1860_9;サッカー協会の試合への参加者数が最近増加しており、その光景は労働者や貧困層メンバーの間で特に人気があることが証明されている。;;;;;;;;;;;;x
+some_fake_1860_title_10;社説:;;;;;;;;;;;;x
+some_fake_1860_10;女性の自転車置き場にご注意。機械にまたがる女性・不意に風になびくペチコート・全ての人に見えるように足首が露出すれば、男性は狂乱に陥ることになる（10面）;;;;;;;;;;;;x
+some_fake_1860_title_11;ポンペイとヘルクラネウムに光が戻る;;;;;;;;;;;;x
+some_fake_1860_11;新しい発掘方法によって、西暦79年にヴェスヴィオ火山によって破壊された都市は現世に蘇った。;;;;;;;;;;;;x
+some_fake_1870_title_1;社説:;;;;;;;;;;;;x
+some_fake_1870_1;後進国アフリカの人々は、我々の慈悲深い統治を待ち望んでいる。アイルランド人が英国の支配を快く歓迎したように、黒人種は白人の導きの手を切望しているのだ（10面）;;;;;;;;;;;;x
+some_fake_1870_title_2;文芸;;;;;;;;;;;;x
+some_fake_1870_2;『八十日間世界一周』における、読者の喜びと教養についてレビューした。;;;;;;;;;;;;x
+some_fake_1870_title_3;コルセット関連の失神;;;;;;;;;;;;x
+some_fake_1870_3;史上最高！ しかしまたしても我が国の温泉・病院・長椅子はコルセット締め過ぎの犠牲者であふれている。;;;;;;;;;;;;x
+some_fake_1880_title_1;飛行成功！;;;;;;;;;;;;x
+some_fake_1880_1;フランスの軍用飛行船ラ・フランスは、往復飛行に成功した最初の動力飛行船となった。;;;;;;;;;;;;x
 some_fake_1880_title_2;高層建築物;;;;;;;;;;;;x
-some_fake_1880_2;“Sky-Scrapers” built in America, these massive steel-framed buildings tower over their surroundings.;;;;;;;;;;;;x
-some_fake_1880_title_3;Mint juleps saved!;;;;;;;;;;;;x
+some_fake_1880_2;アメリカに建設された「摩天楼」、これら巨大な鉄骨造の建物は、周囲にそびえ立っている。;;;;;;;;;;;;x
+some_fake_1880_title_3;ミント・ジュレップは救われた！;;;;;;;;;;;;x
 some_fake_1880_3;アメリカのマーヴィン・C・ストーンが「飲用藁（ストロー）」を発明した。;;;;;;;;;;;;x
-some_fake_1880_title_4;Nothing can go wrong here;;;;;;;;;;;;x
-some_fake_1880_4;Cure for morphine addiction discovered in USA: Coca-wine!;;;;;;;;;;;;x
+some_fake_1880_title_4;ここでは何もうまくいかない;;;;;;;;;;;;x
+some_fake_1880_4;米国で発見されたモルヒネ中毒の治療法「コカワイン！」;;;;;;;;;;;;x
 some_fake_1880_title_5;ビスマルクが辞職;;;;;;;;;;;;x
-some_fake_1880_5;Bismarck resigns as Chancellor of Germany, ship of state loses her pilot.;;;;;;;;;;;;x
-some_fake_1880_title_6;Editorial:;;;;;;;;;;;;x
-some_fake_1880_6;This socialism will destroy western civilisation. Why, it will empower the working classes, allowing them to believe they are as good and worthy as the rich. Pish & fipsy! (pg 10) ;;;;;;;;;;;;x
-some_fake_1880_title_7;Should the American government act?;;;;;;;;;;;;x
-some_fake_1880_7;Lynchings of members of the negro race have become commonplace across the heartlands of America. The editorial board of this publication asks: Should the state intervene to stop this practise? ;;;;;;;;;;;;x
-some_fake_1890_title_1;Lift off!;;;;;;;;;;;;x
-some_fake_1890_1;The Ader Eole, a steam powered heavier than air craft, makes a short powered flight near Paris.;;;;;;;;;;;;x
-some_fake_1890_title_2;Successful Flight!;;;;;;;;;;;;x
-some_fake_1890_2;Derwitzer Glider becomes the first successful manned aircraft in the world, covering flight distances of up to about 80 feet near Derwitz in Brandenburg.;;;;;;;;;;;;x
-some_fake_1890_title_3;Moving Pictures!;;;;;;;;;;;;x
-some_fake_1890_3;The Kinetoscope astounds viewers by displaying moving pictures at the Brooklyn Institute of Arts and Sciences.;;;;;;;;;;;;x
-some_fake_1890_title_4;Hurrah! Tis the gay 90s;;;;;;;;;;;;x
-some_fake_1890_4;As a gayer time than now has surely never been and never again will be, the editorial board respectfully suggests that the phrase ‘the gay 90s’ should make its way into the lexicon of our daily discourse.;;;;;;;;;;;;x
-some_fake_1890_title_5;Could man one day soar?;;;;;;;;;;;;x
-some_fake_1890_5;Across our nation, dreamers are speculating that man could one day take to the heavens using mechanical contraptions.;;;;;;;;;;;;x
-some_fake_1890_title_6;Editorial:;;;;;;;;;;;;x
-some_fake_1890_6;If He had wished man to fly, He would have granted us wings - a guest commentary written by the ship magnate and major shareholder of this newspaper Charles O'Ligarch. (see pg. 10);;;;;;;;;;;;x
-some_fake_1890_title_7;Wrong End Foremost;;;;;;;;;;;;x
-some_fake_1890_7;Reputed paleontologist O.C Marsh revealed today that the famed Elasmosaurus assembled by Professor Cope has in fact its head attached to its tail end. The professor was not available for comment.;;;;;;;;;;;;x
-some_fake_1900_title_1;Lighter than air;;;;;;;;;;;;x
-some_fake_1900_1;The first zeppelin flight occurs over Lake Constance near Friedrichshafen, Germany.;;;;;;;;;;;;x
-some_fake_1900_title_2;Disaster!;;;;;;;;;;;;x
+some_fake_1880_5;ビスマルク氏がドイツ首相を辞任、国家という船は操縦士を失った。;;;;;;;;;;;;x
+some_fake_1880_title_6;社説:;;;;;;;;;;;;x
+some_fake_1880_6;社会主義は西洋文明を破壊するだろう。なぜなら、労働者階級に力を与え、彼らが金持ちと同じくらいの価値があると信じることを可能にするからだ。(10面参照);;;;;;;;;;;;x
+some_fake_1880_title_7;アメリカ政府は行動すべきか？;;;;;;;;;;;;x
+some_fake_1880_7;黒人人種のリンチが、アメリカ中央部に渡って当たり前のようになっている。本紙の編集委員会は次のように問いかける。このような行為を止めるために国家は介入すべきなのか？;;;;;;;;;;;;x
+some_fake_1890_title_1;飛び立つ！;;;;;;;;;;;;x
+some_fake_1890_1;航空機よりも重い蒸気駆動のアデール・エオールは、短時間パリ近郊を飛行した。;;;;;;;;;;;;x
+some_fake_1890_title_2;飛行に成功！;;;;;;;;;;;;x
+some_fake_1890_2;ダーヴィッツァー・グライダーは、ブランデンブルクのダーヴィッツ近郊で最大約80フィートの飛行距離を走破することに成功した、世界で最初の有人航空機となった。;;;;;;;;;;;;x
+some_fake_1890_title_3;活動写真！;;;;;;;;;;;;x
+some_fake_1890_3;キネトスコープはブルックリン芸術科学大学で動く画を映し出し、見る者を驚かせた。;;;;;;;;;;;;x
+some_fake_1890_title_4;万歳！陽気な90年代;;;;;;;;;;;;x
+some_fake_1890_4;楽観主義的な時代が今までになく、また二度とないだろうから、編集委員会は「陽気な90年代」というフレーズが日常の用語集に入るべきだと敬意を込めて提案する。;;;;;;;;;;;;x
+some_fake_1890_title_5;いつか人間は飛翔できるのだろうか?;;;;;;;;;;;;x
+some_fake_1890_5;国中の夢想家たちは、いつの日か人間が機械装置を使い空を征する日が来るだろう、と思いを巡らしている。;;;;;;;;;;;;x
+some_fake_1890_title_6;社説:;;;;;;;;;;;;x
+some_fake_1890_6;もし、人が空を飛ぶことを神が望んでいたならば、神は我々に翼を授けたであろう - 海運王であり本紙の大株主チャールズ・オリガーキ氏によって執筆された特別解説（10ページ参照）;;;;;;;;;;;;x
+some_fake_1890_title_7;間違った前後;;;;;;;;;;;;x
+some_fake_1890_7;本日、著名な古生物学者O・C・マーシュ氏は、コープ教授によって集められた有名なエラスモサウルスが実際には頭が末尾に取り付けられていたことを明らかにした。教授のコメントは得られず;;;;;;;;;;;;x
+some_fake_1900_title_1;空気より軽い;;;;;;;;;;;;x
+some_fake_1900_1;最初のツェッペリンの飛行が、ドイツのフリードリヒスハーフェン近郊、ボーデン湖で行われる。;;;;;;;;;;;;x
+some_fake_1900_title_2;災害！;;;;;;;;;;;;x
 some_fake_1900_2;米国テキサスのガルベストンを強烈なハリケーンが襲い、およそ8,000人が犠牲となった。;;;;;;;;;;;;x
-some_fake_1900_title_3;Disaster!;;;;;;;;;;;;x
+some_fake_1900_title_3;災害！;;;;;;;;;;;;x
 some_fake_1900_3;マルティニーク島のプレー山が噴火したことにより、サン・ピエールの街は破壊され30,000人以上の人々が犠牲となった。;;;;;;;;;;;;x
-some_fake_1900_title_4;Disaster!;;;;;;;;;;;;x
+some_fake_1900_title_4;災害！;;;;;;;;;;;;x
 some_fake_1900_4;ヴェスヴィオ山が噴火し、ナポリは壊滅的被害を受けた。;;;;;;;;;;;;x
-some_fake_1900_title_6;Disaster!;;;;;;;;;;;;x
+some_fake_1900_title_6;災害！;;;;;;;;;;;;x
 some_fake_1900_6;シチリアのメッシーナとカラブリアを地震と津波が襲い、70,000人以上の人々が犠牲になった。;;;;;;;;;;;;x
-some_fake_1900_title_7;The Captain of Köpenick;;;;;;;;;;;;x
-some_fake_1900_7;An impostor masquerading as a German military officer managed to fool soldiers in Berlin and steal over 4000 marks due to so-called suspicions of crooked bookkeeping. He gave a receipt. ;;;;;;;;;;;;x
-some_fake_1910_title_1;Disaster!;;;;;;;;;;;;x
-some_fake_1910_1;The RMS Titanic, the largest ship ever built, has sunk after striking an iceberg in the North Atlantic during her maiden voyage, over 1,500 people are believed to have perished in the disaster.;;;;;;;;;;;;x
-some_fake_1910_title_2;Disaster!;;;;;;;;;;;;x
-some_fake_1910_2;North Sea storm hits the Netherlands, flooding the lowlands. 10,000 people believed dead.;;;;;;;;;;;;x
-some_fake_1910_title_3;Discovery!;;;;;;;;;;;;x
-some_fake_1910_3;Hiram Bingham rediscovers Machu Picchu, a previously unknown Incan city.;;;;;;;;;;;;x
-some_fake_1910_title_4;Smokers rejoice!;;;;;;;;;;;;x
-some_fake_1910_4;Zipper invented by Gideon Sundback.;;;;;;;;;;;;x
-some_fake_1910_title_5;Breakfast is saved;;;;;;;;;;;;x
-some_fake_1910_5;Charles Strite invents the  pop-up bread toaster.;;;;;;;;;;;;x
-some_fake_1910_title_6;Continental drift' postulated;;;;;;;;;;;;x
-some_fake_1910_6;Alfred Wegener, a prominent German scientist, has put forth the theory that the very continents upon which we stand could be moving about on the Earth's surface.;;;;;;;;;;;;x
-some_fake_1910_title_7;General relativity;;;;;;;;;;;;x
-some_fake_1910_7;Albert Einstein has published his theory of general relativity, a confusing and complicated set of formulae which seeks to explain the relationship between space, time, gravity and a myriad of other forces.;;;;;;;;;;;;x
-some_fake_1910_title_8;Editorial:;;;;;;;;;;;;x
-some_fake_1910_8;This feminism will destroy western civilisation. Equality of the sexes is a depravity which no civilised people would contemplate. Why, feminism could lead to women drivers (pg. 10);;;;;;;;;;;;x
-some_fake_1910_title_9;Free inside:;;;;;;;;;;;;x
-some_fake_1910_9;A 'cross-word puzzle', a whimsical pastime which will nonetheless allow the reader to demonstrate the fortitude of their perspicacity. ;;;;;;;;;;;;x
-some_fake_1910_title_10;Sherlock Holmes' ending controversy;;;;;;;;;;;;x
-some_fake_1910_10;After a massive fan outcry due to the bittersweet death of the famous detective, author Sir Arthur Conan Doyle decides to bring him back from the dead, providing clarification and closure.;;;;;;;;;;;;x
-some_fake_1920_title_1;Flight record;;;;;;;;;;;;x
-some_fake_1920_1;Charles Lindbergh becomes the first person to fly solo across the Atlantic Ocean (May 20–21, 1927), nonstop from New York to Paris.;;;;;;;;;;;;x
-some_fake_1920_title_2;To the stars!;;;;;;;;;;;;x
-some_fake_1920_2;World’s first flight of a liquid-fueled rocket by Robert Goddard.;;;;;;;;;;;;x
-some_fake_1920_title_3;An end to beards?;;;;;;;;;;;;x
-some_fake_1920_3;First electric razor patented by the American manufacturer Col. Jacob Schick.;;;;;;;;;;;;x
-some_fake_1920_title_4;The future of music;;;;;;;;;;;;x
-some_fake_1920_4;The first selective Jukeboxes introduced by the Automated Musical Instrument Company.;;;;;;;;;;;;x
-some_fake_1920_title_5;We don't know why;;;;;;;;;;;;x
-some_fake_1920_5;Pole-sitting fad sweeps western world.;;;;;;;;;;;;x
-some_fake_1920_title_6;Editorial:;;;;;;;;;;;;x
-some_fake_1920_6;This 'television' genuinely will destroy western civilisation. Today, horrendous wooden puppets, tomorrow, horrendous drunken and lascivious twenty-somethings? (see page 10);;;;;;;;;;;;x
-some_fake_1920_title_7;Editorial:;;;;;;;;;;;;x
-some_fake_1920_7;This 'jazz' will destroy western civilisation. Never in the history of music has such a corrupting rhythm been heard. The jungle beat has no place in our repressed society (pg. 10) ;;;;;;;;;;;;x
-some_fake_1920_title_8;The jazz craze!;;;;;;;;;;;;x
-some_fake_1920_8;A new fad has awakened the passions of the nation's music-listeners. Frenetic dancing, unchaperoned licentiousness and race-mixing are natural byproducts of this far out and wrong musical form.;;;;;;;;;;;;x
-some_fake_1920_title_9;Literary digest: Ulysees;;;;;;;;;;;;x
-some_fake_1920_9;Penned by Irish-man of some repute, James Joyce, Ulysees describes one day in the life of a Dublin protagonist merely living his life in a normal fashion, struggling... (continued on page 19);;;;;;;;;;;;x
-some_fake_1920_title_10;To Egypt!;;;;;;;;;;;;x
-some_fake_1920_10;More astounding archaeological discoveries occured today in the Nile region, furthering the international fascination with all things Oriental... (continued on page 2);;;;;;;;;;;;x
-some_fake_1920_title_11;Bauhaus architecture;;;;;;;;;;;;x
-some_fake_1920_11;A futuristic new artistic archetectural style, known as Bauhaus, has risen to prominence in the cities of Weimar, Berlin and Dessau.;;;;;;;;;;;;x
-some_fake_1920_title_12;Oddball duo cause chaos;;;;;;;;;;;;x
-some_fake_1920_12;Two men, one fat and one thin, have appeared in court accused of mischief-making and general buffoonery. Due to the severity of the crime, which involved the demolition of a house and theft of an ass, prosecuters are expected to seek the death penalty.;;;;;;;;;;;;x
-some_fake_ANY_title_1;Dog bites a child.;;;;;;;;;;;;x
-some_fake_ANY_1;Vicious animal attack leaves community in shock, parents concerned with safety of their children demand action. ;;;;;;;;;;;;x
-some_fake_ANY_title_2;Global cooling.;;;;;;;;;;;;x
-some_fake_ANY_2;Scientists warn another ice age might be starting as recorded temperatures drop from year to year.;;;;;;;;;;;;x
-some_fake_ANY_title_3;Missing child found;;;;;;;;;;;;x
-some_fake_ANY_3;He was hiding in a barn! The missing child case resolved after extensive search by local volunteers discovers the child hiding in the nearby abandoned building.;;;;;;;;;;;;x
-some_fake_ANY_title_5;Damsel brutally murdered;;;;;;;;;;;;x
-some_fake_ANY_5;The horrifically-mutilated corpse of a damsel was discovered yesterday tied to a train track. The public is advised to be on the lookout for a man with a large moustache, a top hat and a black opera cloak.;;;;;;;;;;;;x
-some_fake_ANY_title_6;Rabbit emerges from hat;;;;;;;;;;;;x
-some_fake_ANY_6;A man, who claimed to possess mystic powers, was seen to produce a rabbit from a top hat yesterday. He is currently being investigated on suspicion of unnatural practises.;;;;;;;;;;;;x
-some_fake_ANY_title_7;A glimpse into the year 2000;;;;;;;;;;;;x
-some_fake_ANY_7;A prominent futurologist has granted an insight into the distant year 2000 A.D. Speaking to our futurology correspondent, he said "By 2000 each landed gentleman will own at least 5 hot-air balloons".;;;;;;;;;;;;x
-some_fake_ANY_title_8;News counterfeiting!;;;;;;;;;;;;x
-some_fake_ANY_8;An Irish-man, a Pole, and a Prussian were arrested yesterday as part of an ongoing investigation into a shadowy cabal which concocted news stories and presented them as if they were factual.;;;;;;;;;;;;x
-some_fake_ANY_title_9;12 Gored!;;;;;;;;;;;;x
-some_fake_ANY_9;An enraged gentleman cow gored 5 men and 7 women to death yesterday. The gentleman cow, who had previously been of a gentle nature, was beheaded by a passing chimney-sweep.;;;;;;;;;;;;x
-some_fake_ANY_title_10;Bridge collapse!;;;;;;;;;;;;x
-some_fake_ANY_10;Claims the life of a butcher just outside our nation's capital. The bucther, who was a character of some repute in the locality in question, is survived by his brother, a baker, and a son who manufactures and sells candlesticks.;;;;;;;;;;;;x
-some_fake_ANY_title_11;Balkans quiet;;;;;;;;;;;;x
-some_fake_ANY_11;Serbs, Croats, Bosnians, Turks, Bulgarians, Romanians, Albanians and Greeks came together last Sunday to celebrate the great peace in which the Balkan peninsula presently bathes.;;;;;;;;;;;;x
-some_fake_ANY_title_12;Letter to the editor;;;;;;;;;;;;x
-some_fake_ANY_12;A reader calls attention to careless ferry pilots putting lives of passengers at risk with their reckless full speed driving and risky manoeuvres. ;;;;;;;;;;;;x
-some_fake_ANY_title_13;The weather;;;;;;;;;;;;x
-some_fake_ANY_13;Probabilities for the next week: Cloudy and rainy, with north and north-east winds and lowering temperatures. ;;;;;;;;;;;;x
-some_fake_ANY_title_14;Tragic city fire;;;;;;;;;;;;x
-some_fake_ANY_14;Fire Department blamed for demonstrating a lack of discipline and efficiency allowing fire to spread across multiple blocks leading to the biggest and most tragic city fire to date. ;;;;;;;;;;;;x
-some_fake_ANY_title_15;Fishhook robbery!;;;;;;;;;;;;x
-some_fake_ANY_15;Police inform us that a robber managed to steal a substantial amount of money from a  teller's desk at a local bank using a fishhook and a stick while the teller was being distracted by an accomplice.;;;;;;;;;;;;x
-some_fake_ANY_title_16;Let them jump!;;;;;;;;;;;;x
-some_fake_ANY_16;If children have to be still it's a torture for them, scientists claim. Rapid movement of body being the correct expression of joy at very young age should be encouraged not frowned upon. ;;;;;;;;;;;;x
-some_fake_ANY_title_17;Wooden pavements;;;;;;;;;;;;x
-some_fake_ANY_17;A new describes chemical processes of hardening wood to increase its endurance beyond that of traditional building materials. Should city boards begin paving streets with wooden panels?;;;;;;;;;;;;x
-some_fake_ANY_title_18;Life without food?;;;;;;;;;;;;x
-some_fake_ANY_18;A man claiming he can abstain from food for at least 30 days and retain full physical and mental fitness challenges physicians to subject his abilities to a test. ;;;;;;;;;;;;x
-some_fake_ANY_title_19;Deadly fever;;;;;;;;;;;;x
-some_fake_ANY_19;Two sailors from a brig returning from tropical areas are reported to have died of an unknown fever. They experienced severe chills followed by extreme thirst and delusions until both eventually perished.;;;;;;;;;;;;x
-some_fake_ANY_title_20;Artificial diamonds;;;;;;;;;;;;x
-some_fake_ANY_20;A European chemist claims by the process known only to himself he managed to coat an ordinary crystal with a surface resembling in every respect that of a real diamond. ;;;;;;;;;;;;x
-some_fake_ANY_title_22;Letter from God;;;;;;;;;;;;x
-some_fake_ANY_22;One of the poor members of our society receiving a charity letter marked as "from God" responded by giving thanks for the money received, but warns the deity against tax levy and post office theft.;;;;;;;;;;;;x
-some_fake_ANY_title_23;Medical news;;;;;;;;;;;;x
-some_fake_ANY_23;Top European doctors have speculated that smoke from factory stacks could be responsible for the increased level of respiratory problems seen amongst children.;;;;;;;;;;;;x
-some_fake_ANY_title_24;Vampyre hysteria;;;;;;;;;;;;x
-some_fake_ANY_24;Another outbreak of vampyre hysteria has occurred in Romanian lands. Superstitious peasants have taken to daubing their necks with garlic in a bid to ward off the nefarious ghouls.;;;;;;;;;;;;x
-some_fake_ANY_title_25;Wolves kill four;;;;;;;;;;;;x
-some_fake_ANY_25;A pack of wolves raided a town in Siberia last week and killed four of the inhabitants. Armed policemen have been dispatched to the area to hunt down the lupine beasts.;;;;;;;;;;;;x
-some_fake_ANY_title_26;Horrific puppets;;;;;;;;;;;;x
-some_fake_ANY_26;Ghastly puppets have become a generally accepted part of daily life. The latest terrifying abomination to make its presence felt is a smiling wooden boy with a fixed grin, styled “Bimbo”.;;;;;;;;;;;;x
-some_fake_ANY_title_27;Drinking contest;;;;;;;;;;;;x
-some_fake_ANY_27;Irish-man Bill Whelan bested rivals from Russia and Scotland in an alcohol-consuming contest in New York last week. He attributed his victory to ‘sheer love of booze’ from his hospital bed.;;;;;;;;;;;;x
-some_fake_ANY_title_28;Oldest man;;;;;;;;;;;;x
-some_fake_ANY_28;Respected gentleman Jimmy Williams has been named oldest man alive. Williams, from American’s deep south, politely entreated reporters from this news-paper to remove themselves from his lawn.;;;;;;;;;;;;x
-some_fake_ANY_title_29;BANK ROBBERY!;;;;;;;;;;;;x
-some_fake_ANY_29;Local bank in $ANYPROVINCE$ has been invaded by a masked gang of ne'er-do-wells. The police are searching for the criminals and is granting a reward for any information leading to their capture.;;;;;;;;;;;;x
-some_fake_ANY_title_30;Piano Cat on tour;;;;;;;;;;;;x
-some_fake_ANY_30;The famous feline pianist known simply as the Piano Cat is scheduled to arrive in $OURCAPITAL$ this week. The cat artist is expected to play a series of classical pieces.;;;;;;;;;;;;x
-some_fake_ANY_title_31;Special Lectures;;;;;;;;;;;;x
-some_fake_ANY_31;The Council of Science of $OURCAPITAL$ is to present a series of special lectures on the origins of civilisation in the Fertile Crescent. Special presentations of pottery shards from Tyre are planned.;;;;;;;;;;;;x
-some_fake_ANY_title_32;HEED! HEED!;;;;;;;;;;;;x
-some_fake_ANY_32;A storm of gigantic proportions is incoming. Instructions from Public Safety officials are: Do not sweep any chimneys during the storm. Accidents may occur if this warning is not heeded.;;;;;;;;;;;;x
-some_fake_ANY_title_34;Trade Summit;;;;;;;;;;;;x
-some_fake_ANY_34;Current European and International Tariffs as well as protectionist practices will be discussed next Thursday in $OURCAPITAL$.;;;;;;;;;;;;x
-some_fake_ANY_title_35;Postal Convention;;;;;;;;;;;;x
-some_fake_ANY_35;Today $OURCOUNTRY_ADJ$ and foreign authorities are assembled to discuss postage fees for all letters sent overseas.;;;;;;;;;;;;x
-some_fake_ANY_title_36;Modern Coal Trade;;;;;;;;;;;;x
-some_fake_ANY_36;The free trade of coal for railway locomotives and eventually seafaring ships in the western world is being discussed today at the local Chamber of Commerce.;;;;;;;;;;;;x
-some_fake_ANY_title_37;Unlikely to become Cardinal;;;;;;;;;;;;x
-some_fake_ANY_37;Unofficial comments from Pope's inner circle in Vatican denounce the rumors of the coming elevation of Archbishop as premature.;;;;;;;;;;;;x
-some_fake_ANY_title_38;General's funeral.;;;;;;;;;;;;x
-some_fake_ANY_38;A former general and banker who died at his house last week to be buried today. Only his intimate friends will be present at the ceremony.;;;;;;;;;;;;x
-some_fake_ANY_title_39;Mountain top birth;;;;;;;;;;;;x
-some_fake_ANY_39;A woman who fell ill during ascension to the mountain top was taken by her two companions to a shelter 4000 feet above sea level to give birth to a healthy boy.;;;;;;;;;;;;x
-some_fake_ANY_title_40;Moral expansion?;;;;;;;;;;;;x
-some_fake_ANY_40;Can we allow history to record that we crushed foreign peoples' dreams of freedom by subjugating them to our government? Can we govern them without their consent?;;;;;;;;;;;;x
-some_fake_ANY_title_41;Blackmailer arrested.;;;;;;;;;;;;x
-some_fake_ANY_41;A former actor and an alleged deserter from the army was today jailed for annoying a famous actress with requests for money.;;;;;;;;;;;;x
-some_fake_ANY_title_42;Skirting evil;;;;;;;;;;;;x
-some_fake_ANY_42;Fashion cannot dictate the dust of the sidewalks to be dragged into homes, a physician claims, and demands women abandon the new trend of wearing trailing skirts for health reasons.;;;;;;;;;;;;x
-some_fake_ANY_title_43;Faith cure kills child;;;;;;;;;;;;x
-some_fake_ANY_43;A 12 yearsold girl sick with dysentery died at a local hospital after parents replaced the family physician with a faith doctor.;;;;;;;;;;;;x
-some_fake_ANY_title_44;Respect of Yardies gained!;;;;;;;;;;;;x
-some_fake_ANY_44;A local man from $ANYPROVINCE$ reports having beat down many men armed with rifles in a local pub. The man claimd the assailants put themselves at a disadvantage by using weapons.;;;;;;;;;;;;x
-some_fake_ANY_title_45;Article review;;;;;;;;;;;;x
-some_fake_ANY_45;All newspaper articles to be subjected to a review by a special board to confirm their accuracy and truthfulness. In unrelated news: The journalist writing about wooden pavements has vanished.;;;;;;;;;;;;x
-some_fake_ANY_title_46;Law discussed;;;;;;;;;;;;x
-some_fake_ANY_46;Lawyers from all over the country convened today in $OURCAPITAL$ to discuss eventual updates to the country's judiciary system in matters of civil and criminal law.;;;;;;;;;;;;x
-some_fake_ANY_title_48;The history of $OURCOUNTRY$;;;;;;;;;;;;x
-some_fake_ANY_48;A definitive multivolume work on the history of the $OURCOUNTRY_ADJ$ civilization has finally been completed. Leading historians proclaim it the greatest reference yet, true to our heroic deeds.;;;;;;;;;;;;x
+some_fake_1900_title_7;ケーペニックの大尉;;;;;;;;;;;;x
+some_fake_1900_7;ドイツ軍将校を装った詐欺師がベルリンで兵士らを動かし簿記の不正資金疑惑と称して役所から4000マルク以上を盗んだ。男は受領証も渡していた。;;;;;;;;;;;;x
+some_fake_1910_title_1;災害！;;;;;;;;;;;;x
+some_fake_1910_1;これまで建造された中で最大の船であるRMSタイタニック号が、処女航海中に北大西洋で氷山に激突した後に沈没、1500以上の人々が死亡したと思われる。;;;;;;;;;;;;x
+some_fake_1910_title_2;災害！;;;;;;;;;;;;x
+some_fake_1910_2;北海の嵐がオランダを襲い、低地が氾濫している。1万もの人が死亡したと思われる。;;;;;;;;;;;;x
+some_fake_1910_title_3;発見！;;;;;;;;;;;;x
+some_fake_1910_3;ハイラム・ビンガム氏が、以前には知られていなかったインカの都市マチュピチュを再発見した。;;;;;;;;;;;;x
+some_fake_1910_title_4;喫煙者、歓喜！;;;;;;;;;;;;x
+some_fake_1910_4;ギデオン・サンドバック氏が、ジッパーを発明した。;;;;;;;;;;;;x
+some_fake_1910_title_5;朝食が助かる;;;;;;;;;;;;x
+some_fake_1910_5;チャールズ・ストライト氏が、ポップアップ式パントースターを発明した。;;;;;;;;;;;;x
+some_fake_1910_title_6;大陸移動説;;;;;;;;;;;;x
+some_fake_1910_6;ドイツの著名な科学者アルフレート・ヴェーゲナー氏は、我々が立っているこの大陸は地球の表面上を動いているという理論を提示した。;;;;;;;;;;;;x
+some_fake_1910_title_7;一般相対性理論;;;;;;;;;;;;x
+some_fake_1910_7;アルベルト・アインシュタイン氏、空間・時間・重力・その他無数の力の関係を説明しようとする複雑な数式の一般相対性理論を発表。;;;;;;;;;;;;x
+some_fake_1910_title_8;社説:;;;;;;;;;;;;x
+some_fake_1910_8;フェミニズムは西洋文明を破壊するだろう。男女平等は堕落であり、文明化された人々なら誰も考えることはない。なぜ、フェミニズムが女性ドライバーにつながる可能性があるのか（10面参照）;;;;;;;;;;;;x
+some_fake_1910_title_9;自由の中で;;;;;;;;;;;;x
+some_fake_1910_9;「クロスワードパズル」は気まぐれな娯楽であるが、それでも読者は自らの直視力の強さを示すことができる。;;;;;;;;;;;;x
+some_fake_1910_title_10;「シャーロック・ホームズ」の結末論争;;;;;;;;;;;;x
+some_fake_1910_10;名探偵のほろ苦い死によるファンの大抗議の後、著者アーサー・コナン・ドイル卿は、説明と幕引きと共に、死者の列から彼を呼び戻すことを決定した。;;;;;;;;;;;;x
+some_fake_1920_title_1;記録的な飛行;;;;;;;;;;;;x
+some_fake_1920_1;チャールズ・リンドバーグ氏、ニューヨークからパリまで無休単独飛行で大西洋を横断(1927年5月20日～21日)した初めての人となった。;;;;;;;;;;;;x
+some_fake_1920_title_2;星々へ！;;;;;;;;;;;;x
+some_fake_1920_2;ロバート・ゴダードによる世界初の液体燃料ロケットの飛行である。;;;;;;;;;;;;x
+some_fake_1920_title_3;髭の終わりか？;;;;;;;;;;;;x
+some_fake_1920_3;アメリカの製造者、ジェイコブ・シック大佐が特許を取得した初の電気かみそりである。;;;;;;;;;;;;x
+some_fake_1920_title_4;音楽の未来;;;;;;;;;;;;x
+some_fake_1920_4;自動楽器会社によって導入された初の選択式ジュークボックスである。;;;;;;;;;;;;x
+some_fake_1920_title_5;なぜかはわからない;;;;;;;;;;;;x
+some_fake_1920_5;ポールシッティングの流行が西洋世界を風靡している;;;;;;;;;;;;x
+some_fake_1920_title_6;社説:;;;;;;;;;;;;x
+some_fake_1920_6;「テレビ」は真に西洋文明を破壊するだろう。今日は「恐怖の木製操り人形」、明日は「恐怖の酔っぱらいとスケベな二十代」？(10面参照);;;;;;;;;;;;x
+some_fake_1920_title_7;社説:;;;;;;;;;;;;x
+some_fake_1920_7;「ジャズ」は西洋文明を破壊するだろう。音楽史上、このような腐敗したリズムは聞いたことがない。ジャングルビートなど我々の抑制された社会には存在意義がない。(10面参照);;;;;;;;;;;;x
+some_fake_1920_title_8;ジャズ流行！;;;;;;;;;;;;x
+some_fake_1920_8;新しい流行は、全国の音楽リスナーの情熱を目覚めさせた。熱狂的ダンス・無防備な常識・人種の混ざり合いは、この遠く離れた間違った音楽形式による自然な副産物である。;;;;;;;;;;;;x
+some_fake_1920_title_9;文芸概要『ユリシーズ』;;;;;;;;;;;;x
+some_fake_1920_9;評判のアイルランド人、ジェームズ・ジョイス氏が執筆した『ユリシーズ』は、ダブリン在住の主人公がただ普段通りに人生を謳歌する、とある一日を描いている。悪戦苦闘しながら...（19面に続く）;;;;;;;;;;;;x
+some_fake_1920_title_10;エジプトへ！;;;;;;;;;;;;x
+some_fake_1920_10;本日、ナイル地方で驚くべき考古学的発見があり、全てのオリエンタルな物の国際的な魅力がさらに高まった...（2面に続く）;;;;;;;;;;;;x
+some_fake_1920_title_11;バウハウスの建築;;;;;;;;;;;;x
+some_fake_1920_11;バウハウスとして知られる未来的で新しい芸術的建築様式は、ワイマール・ベルリン・デッサウの各都市で際立っている。;;;;;;;;;;;;x
+some_fake_1920_title_12;風変わりな2人組、混乱を引き起こす;;;;;;;;;;;;x
+some_fake_1920_12;太っちょと痩せっぽちの2人組が中傷や様々な冗談の罪で出廷した。家屋の破壊やロバの窃盗など犯行の重大さから、検察官が死刑を求刑すると予想される。;;;;;;;;;;;;x
+some_fake_ANY_title_1;犬、子供を噛む。;;;;;;;;;;;;x
+some_fake_ANY_1;悪意ある動物の攻撃により、地域社会は衝撃を受け、子供たちの安全に関心のある親は行動を求めている。;;;;;;;;;;;;x
+some_fake_ANY_title_2;地球規模の冷却;;;;;;;;;;;;x
+some_fake_ANY_2;観測された年々低下する気温について、科学者たちは別の氷河期が始まっているかもしれないと警告している。;;;;;;;;;;;;x
+some_fake_ANY_title_3;行方不明の子供が見つかる;;;;;;;;;;;;x
+some_fake_ANY_3;彼は納屋に隠れていた！地元ボランティアによる大規模な捜索の結果、近くの廃屋に隠れている子供を発見し、子供行方不明事件は解決した。;;;;;;;;;;;;x
+some_fake_ANY_title_5;乙女、残酷に殺害される;;;;;;;;;;;;x
+some_fake_ANY_5;昨日、残忍に傷つけられた女性の死体が線路に縛られた状態で発見された。大きな口ひげを生やし、シルクハットと黒いオペラマントを身に着けた男に警戒するように。;;;;;;;;;;;;x
+some_fake_ANY_title_6;ウサギ、帽子から出現;;;;;;;;;;;;x
+some_fake_ANY_6;神秘的な力を持っていると主張していた男が昨日、シルクハットからウサギを出している所を目撃された。彼は現在、不自然な行為の疑いで調査されている。;;;;;;;;;;;;x
+some_fake_ANY_title_7;2000年を垣間見る;;;;;;;;;;;;x
+some_fake_ANY_7;我が国の著名な未来学者は、未来学派への西暦2000年の洞察を与えた。「2000年までに、地主階級はそれぞれ少なくとも5つの熱気球を所持しているだろう」と述べた。;;;;;;;;;;;;x
+some_fake_ANY_title_8;ニュース偽造！;;;;;;;;;;;;x
+some_fake_ANY_8;昨日、アイルランド・ポーランド・プロイセンの3人の容疑者が逮捕された。ニュース記事をでっち上げ、あたかも事実であるかのように見せかけた影の陰謀組織への進行中の調査の一環であった。;;;;;;;;;;;;x
+some_fake_ANY_title_9;12人が突き殺される!;;;;;;;;;;;;x
+some_fake_ANY_9;昨日、雄牛が暴れ、男性5人、女性7人を死亡させた。これまで穏やかな性質だったという牛は、通りかかった煙突掃除人に首をはねられた。;;;;;;;;;;;;x
+some_fake_ANY_title_10;橋の崩壊！;;;;;;;;;;;;x
+some_fake_ANY_10;我が国の首都郊外の肉屋が命を奪われた。その肉屋は地元で評判の人物であった。兄はパン屋、息子は燭台を製造・販売している。;;;;;;;;;;;;x
+some_fake_ANY_title_11;バルカンの平静;;;;;;;;;;;;x
+some_fake_ANY_11;先週の日曜、セルビア・クロアチア・ボスニア・トルコ・ブルガリア・ルーマニア・アルバニア・ギリシアの人々が集まり、バルカン半島が現在浸っている大いなる平和を祝った。;;;;;;;;;;;;x
+some_fake_ANY_title_12;投書;;;;;;;;;;;;x
+some_fake_ANY_12;ある読者は、無謀な全速運転と危ない操縦で乗客の命を危険にさらす不注意なフェリーパイロットに注意を促している。;;;;;;;;;;;;x
+some_fake_ANY_title_13;天候;;;;;;;;;;;;x
+some_fake_ANY_13;来週の予報：にわか雨、北風・北東の風で気温は下がるだろう。;;;;;;;;;;;;x
+some_fake_ANY_title_14;悲劇的な都市火災;;;;;;;;;;;;x
+some_fake_ANY_14;消防署は、規律と効率性の欠如を示し、火災が複数ブロックにまたがって延焼、これまでで最大かつ最も悲惨な都市火災につながったと非難された。;;;;;;;;;;;;x
+some_fake_ANY_title_15;釣り針強盗！;;;;;;;;;;;;x
+some_fake_ANY_15;警察によると、強盗は共犯者に注意が向いている間に、釣り針と棒を使い、地元の銀行の窓口から多額の現金を盗み出したとのことだ。;;;;;;;;;;;;x
+some_fake_ANY_title_16;飛び跳ねさせて！;;;;;;;;;;;;x
+some_fake_ANY_16;じっとしなければならないのは、子供にとって拷問だと科学者は主張する。急速な体の動きは、非常に若い年齢の喜びの正しい表現だと奨励すべきであり、眉をひそめるべきでない。;;;;;;;;;;;;x
+some_fake_ANY_title_17;木製舗装;;;;;;;;;;;;x
+some_fake_ANY_17;新たに発見された化学的プロセスでは木材を硬化させ従来の建材よりも耐久性を高められるという。市委員会は木の板で道路を舗装し始めるべきであろうか？;;;;;;;;;;;;x
+some_fake_ANY_title_18;食べ物のない生活？;;;;;;;;;;;;x
+some_fake_ANY_18;少なくとも30日間食事を控えることができ、肉体的・精神的な健康を完全に維持できると主張している男性が、医師に自分の能力をテストするよう求めている。;;;;;;;;;;;;x
+some_fake_ANY_title_19;死の熱病;;;;;;;;;;;;x
+some_fake_ANY_19;熱帯から帰港した船員2名が、未知の熱病で死亡した模様。酷い寒気に続いて極端な渇きと妄想が起こり、最終的に息をひきとった。;;;;;;;;;;;;x
+some_fake_ANY_title_20;人工ダイヤモンド;;;;;;;;;;;;x
+some_fake_ANY_20;あるヨーロッパの化学者は、自分のみが知る方法で、普通の結晶を、あらゆる点で本物のダイヤモンドに似た表面でコーティングすることに成功したと主張している。;;;;;;;;;;;;x
+some_fake_ANY_title_22;神からの手紙;;;;;;;;;;;;x
+some_fake_ANY_22;「神から」と記された慈善の手紙をもらった我が国の下層階級の一人は、受け取ったお金に感謝したが、課税や郵便局での盗難に対して神に警告を発している。;;;;;;;;;;;;x
+some_fake_ANY_title_23;医療ニュース;;;;;;;;;;;;x
+some_fake_ANY_23;ヨーロッパの一流医師達は、工場の煙突からの煙が、子供達の間で見られる呼吸器問題の増加原因である可能性があると推測している。;;;;;;;;;;;;x
+some_fake_ANY_title_24;吸血鬼ヒステリー;;;;;;;;;;;;x
+some_fake_ANY_24;ルーマニアの地方で別の吸血鬼ヒステリーが発生した。迷信深い小作人たちは、邪悪なグールを追い払うため、ニンニクで首を軽く叩いている。;;;;;;;;;;;;x
+some_fake_ANY_title_25;オオカミ、4人殺害;;;;;;;;;;;;x
+some_fake_ANY_25;先週、シベリアでは、オオカミの群れが町を襲い住民4名を殺害した。ルピナス(貪欲)の獣を狩るため、武装警察が派遣された。;;;;;;;;;;;;x
+some_fake_ANY_title_26;恐ろしい人形;;;;;;;;;;;;x
+some_fake_ANY_26;不気味な人形が日常生活の一部として広く受け入れられるようになった。最近、その存在を注目される恐るべき嫌われ者は、こわばった笑みを浮かべる「ビンボ」と呼ばれる木製の笑う少年だ。;;;;;;;;;;;;x
+some_fake_ANY_title_27;飲酒コンテスト;;;;;;;;;;;;x
+some_fake_ANY_27;先週NYの飲酒大会でアイルランドのビル・ウィーラン氏がロシア人やスコットランド人のライバルを破り優勝した。彼は病院のベッドで勝利の理由を「純粋に酒を愛してる」と答えた。;;;;;;;;;;;;x
+some_fake_ANY_title_28;最古の男;;;;;;;;;;;;x
+some_fake_ANY_28;尊敬すべき紳士ジミー・ウィリアムズ氏が最高齢の男性に選ばれた。ウィリアムズ氏はアメリカ最南部出身で新聞社の記者たちに 彼の芝生から出て行くよう懇切丁寧に言った。;;;;;;;;;;;;x
+some_fake_ANY_title_29;銀行強盗！;;;;;;;;;;;;x
+some_fake_ANY_29;$ANYPROVINCE$の地方銀行が、覆面をしたならず者のギャングに襲撃された。警察は犯人を探しており、逮捕につながる情報に対して懸賞金を出している。;;;;;;;;;;;;x
+some_fake_ANY_title_30;ツアー中のピアノ猫;;;;;;;;;;;;x
+some_fake_ANY_30;「ピアノ猫」として知られる有名な猫ピアニストが、今週$OURCAPITAL$にやってくる。猫アーティストは、クラシック作品のシリーズを披露する予定だ。;;;;;;;;;;;;x
+some_fake_ANY_title_31;特別講演;;;;;;;;;;;;x
+some_fake_ANY_31;$OURCAPITAL$の科学評議会は、肥沃な三日月地帯における文明の起源をテーマにした特別講演会を開催する。テュロスの陶器片の特別展示も予定されている。;;;;;;;;;;;;x
+some_fake_ANY_title_32;注意！注意！;;;;;;;;;;;;x
+some_fake_ANY_32;巨大な嵐が襲来している。公安当局からの指示は次のとおり。「嵐の間は煙突を掃除しないで下さい。この警告に従わないと事故につながる可能性があります。」;;;;;;;;;;;;x
+some_fake_ANY_title_34;貿易サミット;;;;;;;;;;;;x
+some_fake_ANY_34;来週の木曜、$OURCAPITAL$で、現在のヨーロッパや世界の関税・保護主義的慣行について議論される模様。;;;;;;;;;;;;x
+some_fake_ANY_title_35;郵便会議;;;;;;;;;;;;x
+some_fake_ANY_35;本日、$OURCOUNTRY$と外国の当局は、海外に送られた全ての手紙の郵便料金について話し合うために集まっている。;;;;;;;;;;;;x
+some_fake_ANY_title_36;現代の石炭貿易;;;;;;;;;;;;x
+some_fake_ANY_36;本日、地元の商工会議所で、西洋の鉄道機関車や船舶用石炭の自由貿易が議論されている。;;;;;;;;;;;;x
+some_fake_ANY_title_37;枢機卿になる可能性は低い;;;;;;;;;;;;x
+some_fake_ANY_37;バチカンの教皇側近による非公式コメントでは、大司教の昇格の噂を時期尚早であると否定している。;;;;;;;;;;;;x
+some_fake_ANY_title_38;将軍の葬儀;;;;;;;;;;;;x
+some_fake_ANY_38;先週自宅で亡くなった元将軍の銀行家が今日埋葬される。彼の親しい友人だけが式典に出席するだろう。;;;;;;;;;;;;x
+some_fake_ANY_title_39;山頂出産;;;;;;;;;;;;x
+some_fake_ANY_39;山頂へ登山中に病気になった女性が、健康な男子を産むため、海抜4000フィートのシェルターまで2人の仲間によって連れて行かれた。;;;;;;;;;;;;x
+some_fake_ANY_title_40;道徳の拡大？;;;;;;;;;;;;x
+some_fake_ANY_40;外国人を我々の政府の支配下に置くことにより、自由の夢を踏みにじった、と歴史に記録されることを我々は許容できるだろうか？同意なしに彼らを統治してもよいのだろうか？;;;;;;;;;;;;x
+some_fake_ANY_title_41;恐喝で逮捕;;;;;;;;;;;;x
+some_fake_ANY_41;元俳優で軍隊からの脱走者とされる人物が、今日、有名女優に金銭の要求をして迷惑をかけたとして投獄された。;;;;;;;;;;;;x
+some_fake_ANY_title_42;有害な裾;;;;;;;;;;;;x
+some_fake_ANY_42;流行の服装では家の中に引きずり込まれる歩道の埃を止められない、と医師は主張、健康上の理由から、裾を引くスカートを穿く新流行をやめるよう女性に要求している。;;;;;;;;;;;;x
+some_fake_ANY_title_43;信仰療法で子供死亡;;;;;;;;;;;;x
+some_fake_ANY_43;両親が、かかりつけの医師を信仰療法士に替えた後、赤痢にかかった12歳の少女は病院で死亡した。;;;;;;;;;;;;x
+some_fake_ANY_title_44;ヤーディ(ジャマイカ出身者)の尊敬を得る！;;;;;;;;;;;;x
+some_fake_ANY_44;$ANYPROVINCE$の男性が、地元のパブで銃を所持した多数の男らを叩きのめしたという報告があった。男性は、加害者らが武器の使ったことで自ら形勢不利になったのだと主張している。;;;;;;;;;;;;x
+some_fake_ANY_title_45;記事審査;;;;;;;;;;;;x
+some_fake_ANY_45;全ての新聞記事は、正確性と真実性を確認するため特別委員会による審査の対象となる。関連のないニュース：記者が木製の舗道について書いた記事は姿を消した。;;;;;;;;;;;;x
+some_fake_ANY_title_46;法律の議論;;;;;;;;;;;;x
+some_fake_ANY_46;本日、全国各地の法律家が$OURCAPITAL$に召集され、民法および刑法に関する国内の司法制度の最終的な改定について議論した。;;;;;;;;;;;;x
+some_fake_ANY_title_48;$OURCOUNTRY$の歴史;;;;;;;;;;;;x
+some_fake_ANY_48;$OURCOUNTRY$文明の歴史に関する最終的な大作業がついに完了した。主要な歴史家は、我々の英雄的な行為に忠実な、これまでで最大の参考文献であると宣言している。;;;;;;;;;;;;x
 some_fake_ANY_title_49;バッハの演奏会;;;;;;;;;;;;x
-some_fake_ANY_49;A dash of nostalgia for all enthusiasts of music. A collection of Bach's most famous pieces will be played by the $OURCOUNTRY_ADJ$ National Orchestra next week in the Grand Concert Hall of $OURCAPITAL$. ;;;;;;;;;;;;x
-some_fake_ANY_title_50;Stone delivered;;;;;;;;;;;;x
-some_fake_ANY_50;Inhabitants of $ANYPROVINCE$ puzzled by the delivery of gigantic pieces of marble from abroad. Rumour has it that a new grandiose monument will be built in the capital's main square.;;;;;;;;;;;;x
-some_fake_ANY_title_51;Mechanical contraptions;;;;;;;;;;;;x
-some_fake_ANY_51;Gadgets of various sorts will play an increasingly large part in everyday life, according to a top boffin who heads the engineering department at $OURCAPITAL$ university.;;;;;;;;;;;;x
-some_fake_ANY_title_52;Blacksmith dead;;;;;;;;;;;;x
-some_fake_ANY_52;A blacksmith was kicked to death by a horse he was attempting to shoe in $ANYPROVINCE$ yesterday.;;;;;;;;;;;;x
-some_fake_ANY_title_53;Solar eclipse;;;;;;;;;;;;x
-some_fake_ANY_53;Readers are politely reminded that a solar eclipse is due to occur this coming Friday. The temporary phenomenon is no cause for panic or work stoppages.;;;;;;;;;;;;x
-some_fake_ANY_title_54;Monocle sales plateau;;;;;;;;;;;;x
-some_fake_ANY_54;Monocle sales, which have been rising for decades, appear to have levelled out. Orders have held steady through the last quarter.;;;;;;;;;;;;x
-some_fake_ANY_title_55;Time travel;;;;;;;;;;;;x
-some_fake_ANY_55;A prominent author of penny dreadfuls has put forth the idea that man could move backwards and forwards through time, appearing at various dates in the past and present.;;;;;;;;;;;;x
-some_fake_ANY_title_56;Literacy;;;;;;;;;;;;x
-some_fake_ANY_56;Literacy is at an all-time high across the globe, new figures show. Previously the preserve of the clergy and noble classes, it is now seen even amongst the common labourer and fairer sex.;;;;;;;;;;;;x
-some_fake_ANY_title_57;Public ‘science’ lecture;;;;;;;;;;;;x
-some_fake_ANY_57;Aspiring natural philosophers are advised that a lecture on geology, or the study of rock formations, will take place in the $OURCAPITAL$ auditorium on Tuesday next. Admission is £1.;;;;;;;;;;;;x
-some_fake_ANY_title_58;Meeting interrupted;;;;;;;;;;;;x
-some_fake_ANY_58;A political club was invaded by campaigners for equality of the sexes yesterday. The womens' husbands have been reprimanded by the constabulary for neglecting to control their wives.;;;;;;;;;;;;x
-some_fake_ANY_title_59;The English Man;;;;;;;;;;;;x
-some_fake_ANY_59;The Englishman maintains a stiff upper lip, has a strong sense of fair play and is an advocate of liberty. Inventive, graceful and witty, he cuts a striking figure amongst the nationalities.;;;;;;;;;;;;x
-some_fake_ANY_title_60;Wave of Influenza;;;;;;;;;;;;x
-some_fake_ANY_60;Flu sweeps $OURCOUNTRY$. There are already many reported infections throughout the land. Laymen fear a pandemic might be coming, while experts assure it's just a seasonal occurrence.;;;;;;;;;;;;x
-some_fake_ANY_title_61;Hoarde uncovered;;;;;;;;;;;;x
-some_fake_ANY_61;The remnants of an old coin hoard were found in $ANYPROVINCE$ this week. Authorities mention many pieces of golden coinage discovered by a farmer plowing a field after heavy rain.;;;;;;;;;;;;x
-some_fake_ANY_title_62;Metric Nonsense;;;;;;;;;;;;x
-some_fake_ANY_62;According to a British statesman, the Imperial System is the way of the future: 'This French Metric nonsense is bound to never catch on' he claims.;;;;;;;;;;;;x
+some_fake_ANY_49;全ての音楽愛好家にとって懐かしの一幕。バッハの最も有名な作品群は、来週$OURCAPITAL$のグランドコンサートホールで$OURCOUNTRY$ナショナルオーケストラによって演奏される。;;;;;;;;;;;;x
+some_fake_ANY_title_50;石が配送される;;;;;;;;;;;;x
+some_fake_ANY_50;$ANYPROVINCE$の住民は、海外から配送されてきた巨大な大理石に困惑した。首都のメイン広場に新しい壮大な記念碑が建設されるという噂がある。;;;;;;;;;;;;x
+some_fake_ANY_title_51;機械仕掛け;;;;;;;;;;;;x
+some_fake_ANY_51;$OURCAPITAL$大学工学部を率いる首席科学者によれば、様々な種類の装置が日常生活においてますます大きな役割を果たすということである。;;;;;;;;;;;;x
+some_fake_ANY_title_52;鍛冶屋の死;;;;;;;;;;;;x
+some_fake_ANY_52;昨日、$ANYPROVINCE$で鍛冶屋が、蹄鉄をされようとしていた馬に蹴られ死亡した。;;;;;;;;;;;;x
+some_fake_ANY_title_53;日食;;;;;;;;;;;;x
+some_fake_ANY_53;読者の皆様、今週金曜日に日食があるので、ご注意。一時的な現象であり、パニックになったり、仕事が止まったりすることはないのである。;;;;;;;;;;;;x
+some_fake_ANY_title_54;単眼販売数;;;;;;;;;;;;x
+some_fake_ANY_54;何十年にもわたって上昇していた単眼の売上高は、平準化が見られる。;;;;;;;;;;;;x
+some_fake_ANY_title_55;タイム・トラベル;;;;;;;;;;;;x
+some_fake_ANY_55;ペニー・ドレッドフル(安っぽい犯罪小説)の著名な作家が、人間が過去と現在の様々な日付に登場し、時間の中を前後に移動できるという考えを提示した。;;;;;;;;;;;;x
+some_fake_ANY_title_56;識字率;;;;;;;;;;;;x
+some_fake_ANY_56;識字率が世界の中で史上最高水準にあると、新しい数字が示している。以前は聖職者や上流階級のみであったが、今では普通の労働者や女性の間でも、その高さが見受けられる。;;;;;;;;;;;;x
+some_fake_ANY_title_57;公開「科学」講演;;;;;;;;;;;;x
+some_fake_ANY_57;意欲的な自然哲学者たちが、来週火曜日に$OURCAPITAL$の講堂で、地質学の講義や岩石層の勉強会を開催すると通知している。入場料は1ポンドだ。;;;;;;;;;;;;x
+some_fake_ANY_title_58;会議の中断;;;;;;;;;;;;x
+some_fake_ANY_58;昨日、政治クラブに男女平等を求める運動家が侵入した。この女性の夫は妻の管理を怠ったとして 警察から叱責された。;;;;;;;;;;;;x
+some_fake_ANY_title_59;ある英国人;;;;;;;;;;;;x
+some_fake_ANY_59;この英国人は口が堅く、フェアプレーの感覚が強く、自由の擁護者でもある。創造性があり、優雅で機知に富んだ彼は、各国の人々の間で印象的な存在となっている。;;;;;;;;;;;;x
+some_fake_ANY_title_60;インフルエンザの流行;;;;;;;;;;;;x
+some_fake_ANY_60;インフルエンザが$OURCOUNTRY$を席巻。既に全国各地で感染が多数報告されている。専門家は単なる季節的な出来事であると断言する一方、素人はパンデミックが来るかもしれないと恐れている。;;;;;;;;;;;;x
+some_fake_ANY_title_61;あらわになった宝の山;;;;;;;;;;;;x
+some_fake_ANY_61;今週、貯蔵された古いコインの遺物が$ANYPROVINCE$で発見された。当局は、大雨の後に畑を耕していた農夫が発見した金貨の数々を報告している。;;;;;;;;;;;;x
+some_fake_ANY_title_62;メートル法は馬鹿げている;;;;;;;;;;;;x
+some_fake_ANY_62;英国のある政治家は、ヤードポンド法こそ永続の単位だ、として「フランスのメートル法のような馬鹿げた単位は決して広まらない」と主張している。;;;;;;;;;;;;x
 GOODS_PRICE_UP_TITLE_LARGE;価格の上昇！;;;;;;;;;;;;x
 GOODS_PRICE_UP_LARGE;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は順調に増加！世界中の資本家と職人が増え続ける市場の需要に応えるためにより多くの$STRING_0_1$を生産しようと躍起になっている。;;;;;;;;;;;;x
 GOODS_PRICE_UP_TITLE_MEDIUM;価格の上昇！;;;;;;;;;;;;x
 GOODS_PRICE_UP_MEDIUM;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は順調に増加！世界中の資本家と職人が増え続ける市場の需要に応えるためにより多くの$STRING_0_1$を生産しようと躍起になっている。;;;;;;;;;;;;x
 GOODS_PRICE_UP_TITLE_SMALL;価格の上昇！;;;;;;;;;;;;x
 GOODS_PRICE_UP_SMALL;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は順調に増加！;;;;;;;;;;;;x
-GOODS_PRICE_DOWN_TITLE_LARGE;PRICES COLLAPSE!;;;;;;;;;;;;x
+GOODS_PRICE_DOWN_TITLE_LARGE;価格暴落！;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_LARGE;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！世界の$STRING_0_1$生産者は損失を埋め合わせるために必死に他の製品に軸足を移そうとしている。;;;;;;;;;;;;x
-GOODS_PRICE_DOWN_TITLE_MEDIUM;PRICES COLLAPSE!;;;;;;;;;;;;x
+GOODS_PRICE_DOWN_TITLE_MEDIUM;価格暴落！;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_MEDIUM;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！世界の$STRING_0_1$生産者は損失を埋め合わせるために必死に他の製品に軸足を移そうとしている。;;;;;;;;;;;;x
-GOODS_PRICE_DOWN_TITLE_SMALL;PRICES COLLAPSE!;;;;;;;;;;;;x
+GOODS_PRICE_DOWN_TITLE_SMALL;価格暴落！;;;;;;;;;;;;x
 GOODS_PRICE_DOWN_SMALL;ここ$VALUE_INT_0_0$ヵ月で$STRING_0_1$の価格は急落！;;;;;;;;;;;;x
 REVOLUTION_NEWS_TITLE_LARGE;$TAG_0_0_UPPER$で革命！;;;;;;;;;;;;x
-REVOLUTION_NEWS_LARGE;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country. $TAG_0_0$ is now under the control of the $STRING_0_4$. 'As we take over the government, citizens can expect immediate reforms reflecting our $STRING_0_3$ values', they announced. 'We are not a rogue state, we only plan to pursue more equal relations with our international partners', a government official commented, challenged about new ruling party's intentions to back down on the agreements and assurances issued by the previous administration.;;;;;;;;;;;;x
+REVOLUTION_NEWS_LARGE;$TAG_0_0$で革命勃発！$STRING_0_3$革命軍は政府軍を破り、国家体制を転覆させた。$TAG_0_0$は現在$STRING_0_4$の管理下にある。「市民は我ら$STRING_0_3$の価値に基づいた改革が速やかに行われることを期待してほしい」と新政権は宣言した。ある政府当局者は、「我々は不正な国家ではなく、国際的なパートナーとより平等な関係を築くことを計画している」と述べ、前政権による合意や保証を撤回するという与党の意向に異議を申し立てた。;;;;;;;;;;;;x
 REVOLUTION_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$で革命！;;;;;;;;;;;;x
-REVOLUTION_NEWS_MEDIUM;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country. $TAG_0_0$ is now under the control of the $STRING_0_4$. 'Citizens can expect immediate reforms reflecting our $STRING_0_3$ values', they announced.;;;;;;;;;;;;x
+REVOLUTION_NEWS_MEDIUM;$TAG_0_0$で革命勃発！$STRING_0_3$革命軍は政府軍を破り、国家体制を転覆させた。$TAG_0_0$は現在$STRING_0_4$の管理下にある。「市民は我ら$STRING_0_3$の価値に基づいた改革が速やかに行われることを期待してほしい」と新政権は宣言した。;;;;;;;;;;;;x
 REVOLUTION_NEWS_TITLE_SMALL;革命！;;;;;;;;;;;;x
-REVOLUTION_NEWS_SMALL;A revolution has taken place in $TAG_0_0$! $STRING_0_0$ have defeated the government's forces and broken the country.;;;;;;;;;;;;x
+REVOLUTION_NEWS_SMALL;$TAG_0_0$で革命勃発！$STRING_0_3$革命軍は政府軍を破り、国家体制を転覆させた。;;;;;;;;;;;;x
 INVENTION_NEWS_TITLE_LARGE;発明！;;;;;;;;;;;;x
 INVENTION_NEWS_LARGE;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明したとの報告があった。;;;;;;;;;;;;x
 INVENTION_NEWS_TITLE_MEDIUM;発明！;;;;;;;;;;;;x
@@ -321,21 +321,21 @@ INVENTION_NEWS_MEDIUM;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明�
 INVENTION_NEWS_TITLE_SMALL;発明！;;;;;;;;;;;;x
 INVENTION_NEWS_SMALL;$TAG_0_0$の科学者と技術者が$STRING_0_1$を発明したとの報告があった。;;;;;;;;;;;;x
 INVENTION_SUFFIX1;進歩はこれからも続く！;;;;;;;;;;;;x
-INVENTION_SUFFIX2;Truely the light of the future!;;;;;;;;;;;;x
-INVENTION_SUFFIX3;This may doom us all!;;;;;;;;;;;;x
-INVENTION_SUFFIX4;Good news, everyone!;;;;;;;;;;;;x
-INVENTION_SUFFIX5;This is the dawn of a new age!;;;;;;;;;;;;x
+INVENTION_SUFFIX2;まさに未来の光！;;;;;;;;;;;;x
+INVENTION_SUFFIX3;これは我々全員にとって凶事かもしれない！;;;;;;;;;;;;x
+INVENTION_SUFFIX4;朗報だ、皆！;;;;;;;;;;;;x
+INVENTION_SUFFIX5;これは新時代の夜明けだ！;;;;;;;;;;;;x
 INVENTION_SUFFIX6;今日の進歩は昨日の計画。;;;;;;;;;;;;x
-INVENTION_SUFFIX7;Let us hope they use it for good.;;;;;;;;;;;;x
-INVENTION_SUFFIX8;Science never sleeps!;;;;;;;;;;;;x
-INVENTION_SUFFIX_LONG1; But at what cost?;;;;;;;;;;;;x
-INVENTION_SUFFIX_LONG2; Whatever will they think of next?;;;;;;;;;;;;x
-INVENTION_SUFFIX_LONG3; It will never catch on.;;;;;;;;;;;;x
-INVENTION_SUFFIX_LONG4; They clearly stole the idea from us.;;;;;;;;;;;;x
+INVENTION_SUFFIX7;かの国がそれをうまく使うよう願おう。;;;;;;;;;;;;x
+INVENTION_SUFFIX8;科学は眠ることなど出来ない！;;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG1;しかし、いかほどの費用だったのか？;;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG2;かの国は次に何を考えるだろうか？;;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG3;追い付くことはないだろう。;;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG4;かの国は明らかに我が国からアイデアを盗んだのだ。;;;;;;;;;;;;x
 PARTY_NEWS_TITLE_LARGE;$TAG_0_0_UPPER$で新政党;;;;;;;;;;;;x
-PARTY_NEWS_LARGE;A new $STRING_0_2$ political party, the $STRING_0_0$, has been formed in $TAG_0_0$. 'We're currently in the process of recruiting new members and organizing the support structure every modern political unit requires', a party official commented. Uniting disgruntled activists and disillusioned members of other outfits, the new party announced to have scheduled a national convention, where they plan to elect their representatives and agree on the platform. They claim to remain optimistic about ever coming to power despite all odds.;;;;;;;;;;;;x
+PARTY_NEWS_LARGE;$TAG_0_0$で新たな$STRING_0_2$の政党、$STRING_0_0$が結成された。「我々は現在、新党員を募集しており、現代のあらゆる政治団体が必要とする支援体制を構築する過程にある」と党関係者は述べ、新党は不満を持った活動家や他団体に幻滅したメンバーを結集し、全国大会を予定していると発表した。そこで代表を選出して討論の場において合意をする予定である。彼らは、不利な状況であっても、政権を握ることについて前向きであり続けると主張している。;;;;;;;;;;;;x
 PARTY_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$で新政党;;;;;;;;;;;;x
-PARTY_NEWS_MEDIUM;A new $STRING_0_2$ political party, the $STRING_0_0$, has been formed in $TAG_0_0$. Uniting disgruntled activists and disillusioned members of other outfits, the new party announced to have scheduled a national convention.;;;;;;;;;;;;x
+PARTY_NEWS_MEDIUM;$TAG_0_0$で新たな$STRING_0_2$の政党、$STRING_0_0$が結成された。新党は不満を持った活動家や他団体に幻滅したメンバーを結集し、全国大会を予定していると発表した。;;;;;;;;;;;;x
 PARTY_NEWS_TITLE_SMALL;新党;;;;;;;;;;;;x
 PARTY_NEWS_SMALL;新しい$STRING_0_2$政党$STRING_0_0$が$TAG_0_0$に結成された。彼らはあらゆる困難にもかかわらず、政権を握ることについて依然として楽観的な主張をしている。;;;;;;;;;;;;x
 PROVINCE_NEWS_TITLE_LARGE;$TAG_0_1_UPPER$の拡大;;;;;;;;;;;;x
@@ -344,16 +344,16 @@ PROVINCE_NEWS_TITLE_MEDIUM;$TAG_0_1_UPPER$の拡大;;;;;;;;;;;;x
 PROVINCE_NEWS_MEDIUM;今や$STRING_0_0$州は$TAG_0_1$の一部である。$TAG_0_1$の外務大臣は「$STRING_0_0$は$TAG_0_1$の固有の領土 」と述べた。;;;;;;;;;;;;x
 PROVINCE_NEWS_TITLE_SMALL;$TAG_0_1$の拡大！;;;;;;;;;;;;x
 PROVINCE_NEWS_SMALL;今や$STRING_0_0$州は$TAG_0_1$の一部である。$TAG_0_1$の外務大臣は直近の取材で満足げな表情を見せた。;;;;;;;;;;;;x
-RESEARCH_NEWS_TITLE_LARGE;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
+RESEARCH_NEWS_TITLE_LARGE;$TAG_0_0$の研究が完了！;;;;;;;;;;;;x
 RESEARCH_NEWS_LARGE;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおける画期的な研究を完了させた。この新発見はこの分野でさらなる発明が行われるにつれ、$TAG_0_0$に多くの利益をもたらすのは確実である。;;;;;;;;;;;;x
-RESEARCH_NEWS_TITLE_MEDIUM;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
+RESEARCH_NEWS_TITLE_MEDIUM;$TAG_0_0$の研究が完了！;;;;;;;;;;;;x
 RESEARCH_NEWS_MEDIUM;このほど$TAG_0_0$の科学者達が$STRING_0_1$のおける画期的な研究を完了させた。この新発見はこの分野でさらなる発明が行われるにつれ、$TAG_0_0$に多くの利益をもたらすのは確実である。;;;;;;;;;;;;x
-RESEARCH_NEWS_TITLE_SMALL;$TAG_0_0_ADJ$ research complete!;;;;;;;;;;;;x
+RESEARCH_NEWS_TITLE_SMALL;$TAG_0_0$の研究が完了！;;;;;;;;;;;;x
 RESEARCH_NEWS_SMALL;このほど$TAG_0_0$の科学者達が$STRING_0_1$における画期的な研究を完了させた。;;;;;;;;;;;;x
-WAR_NEWS_TITLE_LARGE;WAR BETWEEN $TAG_0_0_UPPER$ AND $TAG_0_1_UPPER$!;;;;;;;;;;;;x
-WAR_NEWS_LARGE;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists between them and $TAG_0_1$. The foreign minister of $TAG_0_0$, when asked for the reasons war had been declared stated the need to '$STRING_0_1$'. 'We only intend to reclaim what was unjustly claimed before and restore peace and order to the region', he added. 'This unlawful aggression will not stand' his counterpart in $TAG_0_1$ responded, demanding international community to condemn the aggressor. May God have mercy on them all.;;;;;;;;;;;;x
-WAR_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$ GOES TO WAR!;;;;;;;;;;;;x
-WAR_NEWS_MEDIUM;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists with $TAG_0_1$. The stated reason for this declaration is to '$STRING_0_1$'. 'This unlawful aggression will not stand' the foreign minister of $TAG_0_1$ commented.;;;;;;;;;;;;x
-WAR_NEWS_TITLE_SMALL;$TAG_0_0_$ at War!;;;;;;;;;;;;x
-WAR_NEWS_SMALL;On $DATE_LONG_0$ $TAG_0_0$ announced that a state of war now exists with $TAG_0_1$.;;;;;;;;;;;;x
+WAR_NEWS_TITLE_LARGE;$TAG_0_0$と$TAG_0_1$が開戦！;;;;;;;;;;;;x
+WAR_NEWS_LARGE;$DATE_LONG_0$年、$TAG_0_0$が$TAG_0_1$間との交戦状態に突入したことを宣言した。開戦の理由を尋ねられた$TAG_0_0$の外相は、「$STRING_0_1$」の必要性を述べ、「我が国は、かつて不当に奪われていたものを取り戻し、地域の平和と秩序回復をしたいだけだ」と付け加えた。これに対し$TAG_0_1$の外相は「国際法に違反するこの侵略は継続しはしない」と応じて、国際社会にも侵略者を非難するよう求めた。神よ、彼らの国に慈悲のあらんことを。;;;;;;;;;;;;x
+WAR_NEWS_TITLE_MEDIUM;$TAG_0_0$、開戦へ！;;;;;;;;;;;;x
+WAR_NEWS_MEDIUM;$DATE_LONG_0$年、$TAG_0_0$が$TAG_0_1$と交戦状態に突入したことを宣言した。この開戦の理由は「$STRING_0_1$」にある。$TAG_0_1$の外相は「国際法に違反するこの侵略は継続しはしない」とコメントした。;;;;;;;;;;;;x
+WAR_NEWS_TITLE_SMALL;$TAG_0_0_$、開戦へ！;;;;;;;;;;;;x
+WAR_NEWS_SMALL;$DATE_LONG_0$年、$TAG_0_0$が$TAG_0_1$と交戦状態に突入したことを宣言した。;;;;;;;;;;;;x
 KEYNAME;TEXT;;;;;;;;;;;;x

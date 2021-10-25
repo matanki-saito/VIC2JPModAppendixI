@@ -78,227 +78,227 @@ egyptian_excavations_desc;我々の国家は王家の谷における考古学発
 POP_DETAILS_EXPENSES;支出：;;;;;;;;;;;;x
 red_shirts_title;赤シャツ隊;;;;;;;;;;;;x
 red_shirts_name;ガリバルディの赤シャツ隊;;;;;;;;;;;;x
-red_shirts_desc;The Redshirts (Camicie rosse) was the name given to the volunteers who served under Giuseppe Garibaldi during his struggles to forge a nation state out of the many splintered Italian states, thus aptly named on account of the red shirts that Garibaldi and his men had taken to wearing. The charismatic Garibaldi, vastly popular both at home and abroad, and generally seen as a freedom fighter, was instrumental in securing Italian Unification under the Sardinian Crown. These Italian Pan-Nationalists fight for the Unification of Italy.;;;;;;;;;;;;x
+red_shirts_desc;赤シャツ隊（Camicie rosse）は、多数の領邦に分断されていたイタリアをひとつの国民国家にまとめ上げようと戦った、ジョゼッペ?ガリバルディに率いられた義勇兵部隊に与えられた名前です。その名は、ガリバルディと彼の部下が、赤シャツを着ていたことに由来します。国の内外で非常に人気があり、一般には革命家として見られていた、カリスマ的指導者であるガリバルディは、サルデーニャ王家の下でイタリアが統一されるべく、尽力しました。彼らイタリア人ナショナリストは、イタリア統一のために戦います。;;;;;;;;;;;;x
 red_shirts_army;赤シャツ千人隊;;;;;;;;;;;;x
 EVTNAME11103;千人隊！;;;;;;;;;;;;x
-EVTDESC11103;$MONARCHTITLE$! News have just reached us that renowned Italian freedom fighter Giuseppe Garibaldi and his 'Expedition of The Thousand' have broken and taken control of the government in $FROMCOUNTRY$. Everywhere this rugged freedom fighter goes jubilant crowds of Italians turn out to greet him -- waving the tricolor of the Italian nation -- as the liberator of all of Italy. On account of our dominant position on the peninsula, the newly formed government in $FROMCOUNTRY$ sends word that they accept $COUNTRY$'s natural position as the foremost among equals of the newly formed Italy.;;;;;;;;;;;;x
+EVTDESC11103;$MONARCHTITLE$！著名なイタリア人革命家ジョゼッペ・ガリバルディと、彼が率いる千人隊が、$FROMCOUNTRY$の政府を打倒し、その地を支配下に置いたとの知らせが、たった今、我々のもとに届きました。この無骨な革命家は、イタリア全土の解放者として、イタリアの三色旗を振りながら歓喜するイタリア人の群集から、至る所で歓迎されています。我が国が半島において支配的地位を築いていることから、$FROMCOUNTRY$新政府は、新生イタリアが誕生するにあたっては、諸勢力の筆頭として$COUNTRY$が然るべき地位を占めることを認めると伝えてきています。;;;;;;;;;;;;x
 EVTOPTA11103;リソルジメント万歳！;;;;;;;;;;;;x
-EVTOPTB11103;Who is this man, and what does he want from me?;;;;;;;;;;;;x
-CB_DESC_HEAD;This Casus Belli allows us to demand: ;;;;;;;;;;;;x
+EVTOPTB11103;この男は誰だ？私に何をして欲しいのだ？;;;;;;;;;;;;x
+CB_DESC_HEAD;この開戦事由だと、我が国は以下の要求が行えます: ;;;;;;;;;;;;x
 CB_ALLOWED_DISARMAMENT;軍拡制限の強制;;;;;;;;;;;;x
 CB_ALLOWED_REPARATIONS;戦争賠償;;;;;;;;;;;;x
-CB_ALLOWED_STATES;Secession of Territory;;;;;;;;;;;;x
-TRADE_DISABLED_AUTOMATE;Trade for this goods type is automated. turn off automation to change setting;;;;;;;;;;;;x
-AUTOMATE_TRADE_CHECK;Automate the trade for this goods type;;;;;;;;;;;;x
-TECHNOLOGYVIEW_RESEARCH_TOOLTIP;We are currently researching §Y$TECH$§W.\nAt the present pace, the project should be completed on §Y$DATE$§W.;;;;;;;;;;;;x
-INCREASERELATION_THEY_ACCEPT_4;Our relation increased by §G$CHANGE$§W to §Y$RELATION$§W.;;;;;;;;;;;;x
-INCREASERELATION_WE_ACCEPT_4;Our relation increased by §G$CHANGE$§W to §Y$RELATION$§W.;;;;;;;;;;;;x
-DECREASERELATION_WE_ACCEPT_5;Our relation changed by §R$CHANGE$§W to §Y$RELATION$§W.;;;;;;;;;;;;x
-DECREASERELATION_THEY_ACCEPT_6;Our relation changed by §R$CHANGE$§W to §Y$RELATION$§W.;;;;;;;;;;;;x
+CB_ALLOWED_STATES;領土分離;;;;;;;;;;;;x
+TRADE_DISABLED_AUTOMATE;この種類の産品については、取引が自動化されています。設定を変更し、自動取引を中止しましょう。;;;;;;;;;;;;x
+AUTOMATE_TRADE_CHECK;この種類の産品については、取引を自動化する;;;;;;;;;;;;x
+TECHNOLOGYVIEW_RESEARCH_TOOLTIP;我が国は現在、§Y$TECH$§Wの研究を行っています。\n現在の進捗具合だと、研究は§Y$DATE$年§Wに完了するでしょう。;;;;;;;;;;;;x
+INCREASERELATION_THEY_ACCEPT_4;我々の関係は、§G$CHANGE$§W増加、§Y$RELATION$§Wに改善しました。;;;;;;;;;;;;x
+INCREASERELATION_WE_ACCEPT_4;我々の関係は、§G$CHANGE$§W増加、§Y$RELATION$§Wに改善しました。;;;;;;;;;;;;x
+DECREASERELATION_WE_ACCEPT_5;我々の関係は、§R$CHANGE$§W減少、§Y$RELATION$§Wになりました。;;;;;;;;;;;;x
+DECREASERELATION_THEY_ACCEPT_6;我々の関係は、§R$CHANGE$§W減少、§Y$RELATION$§Wになりました。;;;;;;;;;;;;x
 TRI_1743;トリポリ;;;;;;;;;;;;x
-NORMAL_WAR_CONCESSION_NAME;$ORDER$ War of The $STATE$ Concession;;;;;;;;;;;;x
-AGRESSION_WAR_CONCESSION_NAME;$ORDER$ War of The $STATE$ Concession;;;;;;;;;;;;x
-demand_concession_casus_belli;Demand Concession;;;;;;;;;;;;x
-demand_concession_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;;;;;;;;;;;;x
-demand_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;;;;;;;;;x
-demand_concession_casus_belli_short;Demand $STATE$;;;;;;;;;;;;x
-NORMAL_WAR_PROTECTORATE_NAME;$ORDER$ Acquisition of $FIRST$ $SECOND_COUNTRY$;;;;;;;;;;;;x
-AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$ Acquisition of $FIRST$ $SECOND_COUNTRY$;;;;;;;;;;;;x
-establish_protectorate_casus_belli;Establish Protectorate;;;;;;;;;;;;x
-establish_protectorate_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;;;;;;;;;x
-establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;;;;;;;;x
-establish_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;;;;;;;;;x
-NORMAL_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$ Liberation of $STATE$;;;;;;;;;;;;x
-AGRESSION_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$ Liberation of $STATE$;;;;;;;;;;;;x
+NORMAL_WAR_CONCESSION_NAME;$ORDER$$STATE$租界獲得戦争;;;;;;;;;;;;x
+AGRESSION_WAR_CONCESSION_NAME;$ORDER$$STATE$租界獲得戦争;;;;;;;;;;;;x
+demand_concession_casus_belli;租界割譲要求;;;;;;;;;;;;x
+demand_concession_casus_belli_desc;租界建設のため、§Y非文明国§Wに領土の割譲を強制しましょう。;;;;;;;;;;;;x
+demand_concession_casus_belli_setup;租界建設のため、$RECIPIENT$に領土の割譲を強制しましょう。;;;;;;;;;;;;x
+demand_concession_casus_belli_short;$STATE$割譲要求;;;;;;;;;;;;x
+NORMAL_WAR_PROTECTORATE_NAME;$ORDER$$FIRST_COUNTRY$$SECOND_COUNTRY$獲得戦争;;;;;;;;;;;;x
+AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$$FIRST_COUNTRY$$SECOND_COUNTRY$獲得戦争;;;;;;;;;;;;x
+establish_protectorate_casus_belli;保護国設立;;;;;;;;;;;;x
+establish_protectorate_casus_belli_desc;我が国の保護国にするべく、この§Y非文明国§Wを併合しましょう。;;;;;;;;;;;;x
+establish_protectorate_casus_belli_setup;我が国の保護国にするべく、$RECIPIENT$を併合しましょう。;;;;;;;;;;;;x
+establish_protectorate_casus_belli_short;$RECIPIENT$併合;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME;$STATE$解放目的の$ORDER$$FIRST_COUNTRY$戦争;;;;;;;;;;;;x
+AGRESSION_WAR_UNIFICATION_NAME;$STATE$解放目的の$ORDER$$FIRST_COUNTRY$戦争;;;;;;;;;;;;x
 unification_casus_belli;統一戦争;;;;;;;;;;;;x
-unification_casus_belli_desc;Liberate core territory of our §YCultural Union§W;;;;;;;;;;;;x
-unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;;;;;;;;;x
-unification_casus_belli_short;Liberate $STATE$ ;;;;;;;;;;;;x
-POP_PROMOTE_INFO_ON_SEL;$VAL$ have signed up to be $WHO$ in $WHERE$ recently.;;;;;;;;;;;;x
-POP_LEAVE_INFO_ON_SEL;$VAL$ have stopped being $WHO$ in $WHERE$ recently.;;;;;;;;;;;;x
+unification_casus_belli_desc;我々の§Y文化連合§Wにとって中核的地域にあたる地域を解放しましょう。;;;;;;;;;;;;x
+unification_casus_belli_setup;我々の§Y文化連合§Wにとって中核的地域にあたる地域を解放しましょう。;;;;;;;;;;;;x
+unification_casus_belli_short;$STATE$解放;;;;;;;;;;;;x
+POP_PROMOTE_INFO_ON_SEL;今日、$WHERE$では$VAL$人が$WHO$の誓約をしました。;;;;;;;;;;;;x
+POP_LEAVE_INFO_ON_SEL;今日、$WHERE$では$VAL$人が$WHO$を辞退しました。;;;;;;;;;;;;x
 DOMINION;自治領;;;;;;;;;;;;x
 SATELLITE;衛星国;;;;;;;;;;;;x
-DOMINION_OF_NOCOLOR;Dominion of;;;;;;;;;;;;x
-SATELLITE_OF_NOCOLOR;Satellite of;;;;;;;;;;;;x
+DOMINION_OF_NOCOLOR;次の国の自治領;;;;;;;;;;;;x
+SATELLITE_OF_NOCOLOR;次の国の衛星国;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_SET_PRIO_MYVASSAL;彼らは我々の§Y$TYPE$§Wであり、すでにその§Y影響圏§W化にあります。;;;;;;;;;;;;x
-DIPLOMACY_TRUCE_WITH;Truce with:;;;;;;;;;;;;x
-DIPLOMACY_CASUSBELLIS;Casus bellis:;;;;;;;;;;;;x
+DIPLOMACY_TRUCE_WITH;和平条約締結国：;;;;;;;;;;;;x
+DIPLOMACY_CASUSBELLIS;開戦事由：;;;;;;;;;;;;x
 tut_1c_9;以前に述べたように、兵士POPが反乱を起こした場合、そのPOP出身者によって編成された旅団も反乱に加わります。もし旅団の人口アイコンの隣に反乱派閥アイコンが表示されている場合、それは旅団の出身POPが反乱に参加していることを表します。これは非常に危険です。このPOPの状態や、何がPOPの関心事なのかなどをチェックする方法の一つは、ユニット画面のPOPアイコンをクリックして、人口画面を開くことです。とりあえず、チュートリアルを続けるため、「次へ」をクリックしてください。;;;;;;;;;;;;x
-BUDGET_VIEW_CRIME_FIGHT;Crime Fighting Effect:;;;;;;;;;;;;x
-POP_CURRENT_PROD;Current Production:;;;;;;;;;;;;x
-ALREADY_ASSIMILATED;Primary or Accepted Culture;;;;;;;;;;;;x
-TCP_SERVER_LOST;Server lost while transfering save!;;;;;;;;;;;;x
-tut_7b_6;The prices are set globally each day on the World Market as a function of supply and demand. The current supply and demand will set a target price which the actual price will gradually close in on, you should keep an eye on the development of prices on goods that are important to you. Are Small Arms going up, perhaps its time to build a new factory. The arrow next to the price indicates whether prices are rising (green), remaining steady (yellow) or falling (red). Click 'Next' to continue;;;;;;;;;;;;x
-tut_7b_8;The image below illustrates the world market entry for clipper convoys. The icons in the bottom row indicate whether we are currently selling or buying the good, and whether trading is currently set to AI automation or not. The government (the player or the AI) can buy and sell on the market in two ways, either by setting trade orders or by automatic trades generated through other actions in the game. Click the Icon for Clipper Convoys to see an automatic Trade.;;;;;;;;;;;;x
-DIPLO_CALL_ALLIES;Call Allies;;;;;;;;;;;;x
-RULE_OPEN_FACTORY;Open/Close Factory;;;;;;;;;;;;x
-PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_TOOLTIP;We are §RNOT§W allowed to destroy this factory because:\n;;;;;;;;;;;;x
-BE_ANNEXED;Annexed;;;;;;;;;;;;x
-PW_COLONY_NO_STATE;At least §Y$NUM$§W% of the population need to be Bureaucrats of an accepted Culture in order to convert this colonial possession into a full national state. Current ratio is §Y$CURR$§W%;;;;;;;;;;;;x
-REMOVE_PW_COLONY_NO_STATE;At least §Y$NUM$§W% of the population need to be Bureaucrats of an accepted Culture. Current ratio is §Y$CURR$§W%;;;;;;;;;;;;x
-BAD_SAVE;Error: Bad save.;;;;;;;;;;;;x
-tut_4c_12b;Let's continue to Army.;;;;;;;;;;;;x
+BUDGET_VIEW_CRIME_FIGHT;犯罪対策効果：;;;;;;;;;;;;x
+POP_CURRENT_PROD;現在の生産品：;;;;;;;;;;;;x
+ALREADY_ASSIMILATED;中核もしくは主要文化;;;;;;;;;;;;x
+TCP_SERVER_LOST;セーブデータ転送中にサーバーがロストしました！;;;;;;;;;;;;x
+tut_7b_6;価格は、需要と供給に応じて、世界市場において毎日変動します。現在の需要と供給は、実際の価格に徐々に近づくように、目標価格を変動させます。あなたは、あなたにとって重要な産品の価格変動について、注意し続けなければなりません。小火器の価格が高騰しているのであれば、新しい工場を建設すべきなのかもしれません。価格の隣に表示されている矢印は、価格が上昇しているか(緑)、安定しているか(黄)、下落しているか(赤)を示しています。続けるには、「次へ」をクリックしてください。;;;;;;;;;;;;x
+tut_7b_8;下の画像は、帆走輸送船団による世界市場参加を表しています。最下段のアイコンは、現在我が国が産品の売買を行っているか、また現在取引がAIにより自動的に行われているよう設定されているか否かを示しています。プレイヤー国にしろ、AI国にしろ、政府は二つの方法で、市場において売買を行えます。一つは、取引命令を設定する方法です。もう一つは、ゲーム中の様々な行動を通して自動的に決定される、自動取引の方法です。自動取引について見るため、帆走輸送船団のアイコンをクリックしてください。;;;;;;;;;;;;x
+DIPLO_CALL_ALLIES;同盟の呼びかけ;;;;;;;;;;;;x
+RULE_OPEN_FACTORY;操業中／休止中 の工場;;;;;;;;;;;;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_TOOLTIP;以下の理由で、我々はこの工場を閉鎖することが§Rできません§W：:\n;;;;;;;;;;;;x
+BE_ANNEXED;併合;;;;;;;;;;;;x
+PW_COLONY_NO_STATE;この植民地を完全に我が国の領土にするためには、少なくとも、人口の§Y$NUM$§W%が、主要文化に属する官僚である必要があります。現在の割合は、§Y$CURR$§W%です。;;;;;;;;;;;;x
+REMOVE_PW_COLONY_NO_STATE;少なくとも、人口の§Y$NUM$§W%が、主要文化に属する官僚である必要があります。現在の割合は、§Y$CURR$§W%です。;;;;;;;;;;;;x
+BAD_SAVE;エラー：バッド・セーブ;;;;;;;;;;;;x
+tut_4c_12b;陸軍に関するチュートリアルを続けましょう。;;;;;;;;;;;;x
 USA_reactionary;南部民主党;;;;;;;;;;;;x
-MILITARY_DIG_IN_CAP;Dig-in cap;;;;;;;;;;;;x
-MILITARY_MILITARY_TACTICS;Military tactics;;;;;;;;;;;;x
-COUNTRYALERT_NO_CanDoDecisions;There are no decisions that presently demand our attention.;;;;;;;;;;;;x
-POP_OTHER_LABEL;Other;;;;;;;;;;;;x
+MILITARY_DIG_IN_CAP;塹壕値上限;;;;;;;;;;;;x
+MILITARY_MILITARY_TACTICS;軍事戦術;;;;;;;;;;;;x
+COUNTRYALERT_NO_CanDoDecisions;我々が注意せねばならないような施政方針は、現在ありません。;;;;;;;;;;;;x
+POP_OTHER_LABEL;その他;;;;;;;;;;;;x
 annex_hawaii_title;ニューランズ決議;;;;;;;;;;;;x
 annex_hawaii_desc;ニューランズ決議はフランシス・G・ニューランズ議員にちなんで名付けられたアメリカ合衆国議会が1898年に可決した共同決議であり、ハワイ共和国を合衆国に併合しハワイ準州を設立するというものでした。;;;;;;;;;;;;x
 ionian_islands_question_title;ロンドン条約（1864）;;;;;;;;;;;;x
 ionian_islands_question_desc;イオニア諸島はナポレオン戦争の終結以降、イギリスの友好的な保護国でした。1862年、保護国の維持には費用がかかると判断され、2年に渡る交渉の末、諸島はギリシャに引き渡されました。;;;;;;;;;;;;x
-WARSUBSIDIES_DESC;Offer §Y$MONEY$§W¤ each day to help this nation;;;;;;;;;;;;x
-release_puppet;Release Puppet;;;;;;;;;;;;x
-release_puppet_short;$THIRD$ is released;;;;;;;;;;;;x
-release_puppet_setup;Release $THIRD$ from $RECIPIENT$;;;;;;;;;;;;x
-release_puppet_desc;Release a §Ycountry§W from its sovereign nation;;;;;;;;;;;;x
-IS_NOT_OUR_VASSAL; is NOT our Puppet;;;;;;;;;;;;x
-IS_OUR_VASSAL; is our Puppet;;;;;;;;;;;;x
-COUNTRYALERT_HaveOrganizingRebels;Rebel Factions are organizing in our country!;;;;;;;;;;;;x
-TOTAL_REBEL_POP;Rebel Faction Members;;;;;;;;;;;;x
+WARSUBSIDIES_DESC;この国を支援するため、毎日、§Y$MONEY$§W¤提供します;;;;;;;;;;;;x
+release_puppet;属国解放;;;;;;;;;;;;x
+release_puppet_short;$THIRD$を解放します;;;;;;;;;;;;x
+release_puppet_setup;$THIRD$を$RECIPIENT$から解放します;;;;;;;;;;;;x
+release_puppet_desc;宗主国から§Yこの国§Wを解放します;;;;;;;;;;;;x
+IS_NOT_OUR_VASSAL;は我が国の属国ではありません;;;;;;;;;;;;x
+IS_OUR_VASSAL;は我が国の属国です;;;;;;;;;;;;x
+COUNTRYALERT_HaveOrganizingRebels;我が国の国内で、反乱勢力が組織されつつあります！;;;;;;;;;;;;x
+TOTAL_REBEL_POP;反乱勢力の一員;;;;;;;;;;;;x
 PROV2918;ベニン湾;;;;;;;;;;;;x
 PROV2921;ギニア沿岸;;;;;;;;;;;;x
 PROV2922;セネガンビア海岸;;;;;;;;;;;;x
-NUMBER_OF_EMIREES;§Y$NUM$§W have left our nation for other countries this month;;;;;;;;;;;;x
-NUMBER_OF_IMMIGREES;§Y$NUM$§W have arrived our nation from other countries this month;;;;;;;;;;;;x
+NUMBER_OF_EMIREES;今月、§Y$NUM$§W人が我が国から他国へ移住しました;;;;;;;;;;;;x
+NUMBER_OF_IMMIGREES;今月、§Y$NUM$§W人が他国から我が国へ移住しました;;;;;;;;;;;;x
 alaskan_purchase_title;スワードの冷蔵庫;;;;;;;;;;;;x
-alaskan_purchase_desc;After the events of the Crimean War Russia had begun believing that it could not hope to protect its North American possessions in the event of another war with Britain, and had begun considering a sale of what was to become the U.S. state of Alaska. The territory was bought by the United States in 1867 at the price of 2.3 cents per acre. The Alaska purchase was widely derided in the American press of the day as 'Seward's Icebox' after then Secretary of State William H. Seward, at whose initiative the purchase was made.;;;;;;;;;;;;x
+alaskan_purchase_desc;クリミア戦争の後、ロシアは、イギリスとの次の戦争の際には、北アメリカにある植民地を防衛することは、ほとんど不可能だと考え始めました。そこで、後にアメリカ領アラスカ州となる地域の売却を検討し始めました。そして、1867年、この地域は、一エーカーあたり2.3セントで、アメリカに買収されました。アラスカ購入は、購入に関して中心的役割を果たした国務長官ウィリアム・H・スワードにちなんで“スワードの冷蔵庫”と呼ばれるなど、当時のアメリカの報道機関から大いに馬鹿にされました。;;;;;;;;;;;;x
 EVTNAME32509;アラスカ購入？;;;;;;;;;;;;x
-EVTDESC32509;The feelers put out by Eduard Andreevich Stoeckl, chargé d'affaires at our embassy in Washington, have had results, as The United States has today offered to enter into negotiations over a proposed sale of our territories in North America. The Americans are offering us a price of 2.3 cents per acre for the Alaskan territories, and that price seems relatively fair. The colonies could become hard to defend in the event of war with the United Kingdom, so getting rid of them for a price now might not be such a bad idea. What say you, $MONARCHTITLE$?;;;;;;;;;;;;x
-EVTOPTA32509;We have more bad climate than we need anyway;;;;;;;;;;;;x
-EVTOPTB32509;No, I don't think so. Maybe we could build a bridge there someday?;;;;;;;;;;;;x
+EVTDESC32509;北アメリカにある我が国の領土の売却に関する提案に関して、ワシントンの大使館の代理公使Eduard Andreevich Stoeckl によって行われた打診に対して、今日、アメリカ合衆国は交渉に入るとの返答がありました。アメリカ政府は、我々に対して、アラスカ地域を一エーカーあたり2.3セントの価格で購入すると申し出ています。この価格は、比較的公正なものだと思います。アラスカ植民地は、イギリスと戦争になった場合、防衛が困難になっています。そのため、ここでアラスカを売却することは、それほど悪い考えではないと思われます。どうしますか、$MONARCHTITLE$？;;;;;;;;;;;;x
+EVTOPTA32509;売却する方が良いな;;;;;;;;;;;;x
+EVTOPTB32509;私はそう思わない。将来、アラスカまで橋をかけられるかもしれないじゃないか？;;;;;;;;;;;;x
 EVTNAME32510;ロシアが受諾！;;;;;;;;;;;;x
-EVTDESC32510;$MONARCHTITLE$, Russia has agreed to sell Alaska to us!;;;;;;;;;;;;x
+EVTDESC32510;$MONARCHTITLE$、ロシアは、我が国へのアラスカ売却に同意しました！;;;;;;;;;;;;x
 EVTOPTA32510;素晴らしい！;;;;;;;;;;;;x
 EVTNAME32511;ロシアが拒否！;;;;;;;;;;;;x
-EVTDESC32511;$MONARCHTITLE$, negotiations with Russia over a sale of the Alaska territory have stranded, and Russia has declined to sell us the territory.;;;;;;;;;;;;x
-EVTOPTA32511;Blast!;;;;;;;;;;;;x
-IS_DISARMED;is disarmed;;;;;;;;;;;;x
-IS_NOT_DISARMED;is not disarmed;;;;;;;;;;;;x
-TRUCE_LASTS_UNTIL;Truce lasts until §Y$DATE$§W;;;;;;;;;;;;x
-LOBBY_HOST_ONLY;Only the host may start the game;;;;;;;;;;;;x
-LOBBY_WAITING;You must wait for all players to start, or kick the ones who are missing.;;;;;;;;;;;;x
-NO_UNIT_TECH;We must discover §Y$TECH$§W to build §Y$UNIT$§W;;;;;;;;;;;;x
-NO_UNIT_REGIMENTS;We cannot build §Y$UNIT$§W anywhere. Get more §YSoldiers§W.;;;;;;;;;;;;x
-NO_UNIT_PORTS;We cannot build §Y$UNIT$§W anywhere. Get a §YCoastal§W province.;;;;;;;;;;;;x
-DIPLOMACY_WARDIALOG_ALLIES;§Y$COUNTRY$§W is protected by the following nation(s):;;;;;;;;;;;;x
-DIPLOMACY_WARDIALOG_NUM_ALLIES;§Y$COUNTRY$§W is protected by §Y$NUM$§W nation(s);;;;;;;;;;;;x
-DIPLOMACY_WARDIALOG_ALLY;Ally;;;;;;;;;;;;x
+EVTDESC32511;$MONARCHTITLE$、ロシアとのアラスカ地域売却に関する交渉は暗礁に乗り上げ、ロシアはこの交渉を打ち切りました。;;;;;;;;;;;;x
+EVTOPTA32511;畜生！;;;;;;;;;;;;x
+IS_DISARMED;は軍備を制限されています;;;;;;;;;;;;x
+IS_NOT_DISARMED;は軍備を制限されていません;;;;;;;;;;;;x
+TRUCE_LASTS_UNTIL;停戦は、§Y$DATE$年§Wまで続きます。;;;;;;;;;;;;x
+LOBBY_HOST_ONLY;ゲームを開始できるのは、ホストだけです;;;;;;;;;;;;x
+LOBBY_WAITING;全プレイヤーが開始するのを待つか、見当たらないプレイヤーをキックしなければなりません。;;;;;;;;;;;;x
+NO_UNIT_TECH;§Y$UNIT$§Wを作成するためには、§Y$TECH$§Wを発見していなければなりません。;;;;;;;;;;;;x
+NO_UNIT_REGIMENTS;§Y$UNIT$§Wを作成できるプロヴィンスはありません。§Y兵士§Wが足りません。;;;;;;;;;;;;x
+NO_UNIT_PORTS;§Y$UNIT$§Wを作成できるプロヴィンスはありません。§Y沿岸§Wプロヴィンスが必要です。;;;;;;;;;;;;x
+DIPLOMACY_WARDIALOG_ALLIES;§Y$COUNTRY$§Wは、以下の国家に守られています:;;;;;;;;;;;;x
+DIPLOMACY_WARDIALOG_NUM_ALLIES;§Y$COUNTRY$§Wは、§Y$NUM$§Wヵ国に守られています;;;;;;;;;;;;x
+DIPLOMACY_WARDIALOG_ALLY;同盟国;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_2;$ACTOR$ has decided to expand our current war by demanding;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_3;$WARGOAL$;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_4;The fools think we will somehow cave into them.;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_5;*;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_6;We will punish them for their insolence.;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_1;$MONARCHTITLE$、;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_2;$ACTOR$は、我が国との現在の戦争において、;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_3;「$WARGOAL$」を要求して;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_4;戦争を拡大すると決定した模様です。;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_5;愚かなことに、かの国は、我が国が降伏を考えていると思っているようです。;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_6;我々は、奴らの驕りに対して、報いを与えるでしょう。;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 WARGOAL_WE_ACCEPT_BTN3;移動;;;;;;;;;;;;x
-WARGOAL_WE_ACCEPT_LOG;$ACTOR$ expanded their war with us to include $WARGOAL$.;;;;;;;;;;;;x
+WARGOAL_WE_ACCEPT_LOG;$ACTOR$が「$WARGOAL$」の戦争目的を追加して、我が国との戦争を拡大しました;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_2;We have decided to expand our war by demanding;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_3;$WARGOAL$;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_4;We had tried to be reasonable with $RECIPIENT$;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_5;*;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_6;Now they will pay the price for their lack of vision.;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_1;$MONARCHTITLE$、;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_2;我々は、現在の戦争において、;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_3;「$WARGOAL$」を要求して;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_4;戦争を拡大すると決定しました。;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_5;我が国は、$RECIPIENT$に対して理性ある態度で接するよう努めてきました。;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_6;今や、彼らは将来の展望を欠いていたことの代償を支払おうとしています。;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 WARGOAL_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
-WARGOAL_THEY_ACCEPT_LOG;We expanded our war with $RECIPIENT$ to include $WARGOAL$.;;;;;;;;;;;;x
+WARGOAL_THEY_ACCEPT_LOG;我が国は$RECIPIENT$との戦争で「$WARGOAL$」の戦争目的を追加し、戦争を拡大しました;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_2;We have heard rumours from distant lands;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_3;It seems that $ACTOR$;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_4;has decided to expand its war with $RECIPIENT$;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_5;by adding $WARGOAL$;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_6;Like we care.;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_1;$MONARCHTITLE$、;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_2;我々は遠い土地からの噂を耳にしました。;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_3;それによると、$ACTOR$は、;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_4;$RECIPIENT$との戦争において、;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_5;「$WARGOAL$」を要求して戦争を拡大すると;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_6;決定したそうです。注意する必要があります。;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_BTN1;OK;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
-WARGOAL_OTHER_ACCEPT_LOG;$ACTOR$ expanded their war with $RECIPIENT$ to include $WARGOAL$.;;;;;;;;;;;;x
-NO_GP_ACTION_ON_SELF;It would be foolish to target ourselves;;;;;;;;;;;;x
-OL_VIEW_SIEGES;Toggles §YOccupation§W view;;;;;;;;;;;;x
-BADBOY_EFFECT;$DIRECTION$ $VALUE$ infamy.\n;;;;;;;;;;;;x
+WARGOAL_OTHER_ACCEPT_LOG;$ACTOR$が$RECIPIENT$との戦争で「$WARGOAL$」の戦争目的を追加し、戦争を拡大しました;;;;;;;;;;;;x
+NO_GP_ACTION_ON_SELF;自国を標的にするなど、愚か者のやることです;;;;;;;;;;;;x
+OL_VIEW_SIEGES;§Y占領§W表示切替;;;;;;;;;;;;x
+BADBOY_EFFECT;悪評が$VALUE$$DIRECTION$\n;;;;;;;;;;;;x
 unification_annex_casus_belli;統一戦争;;;;;;;;;;;;x
-unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;;;;;;;;;;;;x
-unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;;;;;;;;;x
-unification_annex_casus_belli_short;Annexation;;;;;;;;;;;;x
+unification_annex_casus_belli_desc;我々の§Y文化連合§Wにとって中核領域にあたる地域を解放しましょう。;;;;;;;;;;;;x
+unification_annex_casus_belli_setup;我々の§Y文化連合§Wにとって中核領域にあたる地域を解放しましょう。;;;;;;;;;;;;x
+unification_annex_casus_belli_short;併合;;;;;;;;;;;;x
 enlightenment_thought;人間の権利;;;;;;;;;;;;x
 enlightenment_thought_desc;人間の権利;;;;;;;;;;;;x
-NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Liberation of $SECOND_COUNTRY$;;;;;;;;;;;;x
-AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Liberation of $SECOND_COUNTRY$;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST_COUNTRY$$SECOND_COUNTRY$解放戦争;;;;;;;;;;;;x
+AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST_COUNTRY$$SECOND_COUNTRY$解放戦争;;;;;;;;;;;;x
 springtime_of_nations;諸国民の春！;;;;;;;;;;;;x
-springtime_of_nations_desc;The slumbering nations of Europe awake to throw of the spectres of despotism and tyranny;;;;;;;;;;;;x
+springtime_of_nations_desc;ヨーロッパの眠れる国々は、専制政治と暴政といった幽霊を振り払うことで、目を覚まします;;;;;;;;;;;;x
 HND_conservative;国民会議党;;;;;;;;;;;;x
-HND_liberal;Independence Party;;;;;;;;;;;;x
-HND_reactionary;National Front;;;;;;;;;;;;x
-HND_anarcho_liberal;Freedom Party;;;;;;;;;;;;x
+HND_liberal;独立党;;;;;;;;;;;;x
+HND_reactionary;国民戦線;;;;;;;;;;;;x
+HND_anarcho_liberal;自由党;;;;;;;;;;;;x
 HND_socialist;インド国民会議;;;;;;;;;;;;x
 HND_communist;共産党;;;;;;;;;;;;x
-HND_fascist;Unity Party;;;;;;;;;;;;x
+HND_fascist;統一党;;;;;;;;;;;;x
 HND;インド;;;;;;;;;;;;x
-WEDID_ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We are behind this.;;;;;;;;;;;;x
-WEDID_ISBANNEDEMBASSY_DESC;Banned embassy until §Y$UNTIL$§W. We are behind this.;;;;;;;;;;;;x
+WEDID_ISDISCREDITED_DESC;§Y$UNTIL$年§Wまで信用は失墜したままです。今はどうしようもありません。;;;;;;;;;;;;x
+WEDID_ISBANNEDEMBASSY_DESC;§Y$UNTIL$年§Wまで大使の追放は解除されません。今はどうしようもありません。;;;;;;;;;;;;x
 OTHER_MUST_NEGOTIATE_WITH_WAR_LEADER;この戦争を終結させうるために、我々は敵側の§Y戦争指導国§Wと交渉することを許されていません。和平条約は§Y$ENEMY$§Wと§Y$COUNTRY$§Wの間でのみ調印することができます。;;;;;;;;;;;;x
-unification_humiliate_cb;Assert Hegemony;;;;;;;;;;;;x
-REMOVE_unification_humiliate_cb_desc;Humiliate another Great Power to assert leadership over your common cultural union.;;;;;;;;;;;;x
-REMOVE_unification_humiliate_cb_setup;Humiliate another Great Power to assert leadership over your common cultural union.;;;;;;;;;;;;x
-unification_humiliate_cb_short;Admit Hegemony;;;;;;;;;;;;x
-NORMAL_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;;;;;;;;;;;;x
-AGRESSION_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;;;;;;;;;;;;x
-PRODUCTION_REQUIRED_DAILY_INPUTS;Required daily inputs:;;;;;;;;;;;;x
-PRODUCTION_DAILY_OUTPUT;Daily output:;;;;;;;;;;;;x
-COUNTRYALERT_NO_HasClosedFactories;There are no bankrupt factories in our nation;;;;;;;;;;;;x
-COUNTRYALERT_HasClosedFactories;There are bankrupt factories in the following states:;;;;;;;;;;;;x
+unification_humiliate_cb;覇権の確立;;;;;;;;;;;;x
+REMOVE_unification_humiliate_cb_desc;共通する文化を有する連合において、我が国が主導的な立場を確立するため、他の列強国に屈辱を与えてください。;;;;;;;;;;;;x
+REMOVE_unification_humiliate_cb_setup;共通する文化を有する連合において、我が国が主導的な立場を確立するため、他の列強国に屈辱を与えてください。;;;;;;;;;;;;x
+unification_humiliate_cb_short;覇権の認容;;;;;;;;;;;;x
+NORMAL_UNIFICATION_HUMILIATE_NAME;$FIRST_COUNTRY$-$SECOND_COUNTRY$同胞戦争;;;;;;;;;;;;x
+AGRESSION_UNIFICATION_HUMILIATE_NAME;$FIRST_COUNTRY$-$SECOND_COUNTRY$同胞戦争;;;;;;;;;;;;x
+PRODUCTION_REQUIRED_DAILY_INPUTS;日々の必要な資材量:;;;;;;;;;;;;x
+PRODUCTION_DAILY_OUTPUT;日々の生産量:;;;;;;;;;;;;x
+COUNTRYALERT_NO_HasClosedFactories;我が国に、破産した工場はありません;;;;;;;;;;;;x
+COUNTRYALERT_HasClosedFactories;以下のステートに、破産した工場があります:;;;;;;;;;;;;x
 CHI_1496;香港・マカオ;;;;;;;;;;;;x
-ANY_STATE_STARTS;Any State;;;;;;;;;;;;x
+ANY_STATE_STARTS;いずれかのステート;;;;;;;;;;;;x
 indian_sepoys_title;セポイの反乱;;;;;;;;;;;;x
-indian_sepoys_name;Indian Sepoys;;;;;;;;;;;;x
-indian_sepoys_desc;A Sepoy, from the Persian 'Siphai', meaning soldier, was a term generally applied to indian soldiers in the service of a European Power. In 1857 a number of Sepoys employed by the British East India Company rose in rebellion against British rule in what has been called both 'The Sepoy Rebellion' and 'India's First War of Independence'. Rebelling Sepoys fight for Indian Freedom from colonial rule.;;;;;;;;;;;;x
+indian_sepoys_name;インド人セポイ;;;;;;;;;;;;x
+indian_sepoys_desc;セポイは、ペルシャ語の『シパーヒー』に由来する言葉で、兵士のことを意味しています。一般に、ヨーロッパの国々に雇われたインド人兵士に対して、この言葉は使われました。1857年、イギリス東インド会社に雇われていたセポイの多くが、イギリスの支配に対して蜂起しました。この出来事は、『セポイの乱』や『インドの第一次独立戦争』と呼ばれています。反乱を起したセポイは、インドを植民地支配から解放するために戦います。;;;;;;;;;;;;x
 indian_sepoys_army;セポイの反乱;;;;;;;;;;;;x
 HND_ADJ;インド;;;;;;;;;;;;x
 ALD;アルジェリア;;;;;;;;;;;;x
-REMOVED_BUDGET_CANT_LOAN_DESC;Banks will only loan you money if you have been meeting your interest payments and are not hostile. Foreign banks will also never loan you more than $MAXLOAN$% of their total available funds for security reasons.;;;;;;;;;;;;x
-WE_ARE_DISCREDITED;We are discredited;;;;;;;;;;;;x
+REMOVED_BUDGET_CANT_LOAN_DESC;我が国がちゃんと利子を払っていて、態度も敵対的でないのなら、銀行は資金を貸してくれるでしょう。外国銀行は、安全上の理由から、我が国の総利用可能額の$MAXLOAN$%しか、資金を貸してくれないでしょう。;;;;;;;;;;;;x
+WE_ARE_DISCREDITED;我が国の信用が失墜しました;;;;;;;;;;;;x
 INFLUENCE_NEIGHBOUR;隣国;;;;;;;;;;;;x
-INFLUENCE_OTHER_CONTINENT;Nation is on another continent;;;;;;;;;;;;x
-INFLUENCE_RELATIVE;Total score of nation relative to our total score;;;;;;;;;;;;x
-INFLUENCE_AT_MAX;We cannot have more than §Y$MAX$§W influence in a single nation;;;;;;;;;;;;x
-DIPLOMACY_DAILYINFLULENCE_GAIN;We gain §Y$NUM$§W influence in §Y$COUNTRY$§W each day. Our base influence gain is §Y$BASE$§W;;;;;;;;;;;;x
-DECL_WAR_NO_VASSAL;We are not allowed to declare war against §Ysatellites§W or §Ydominions§W;;;;;;;;;;;;x
-austrian_form_south_german_confederation_title;The South German Confederation;;;;;;;;;;;;x
-austrian_form_south_german_confederation_desc;While Germany was not united until the proclamation of the German Empire, following the Franco-Prussian war, rising nationalism in the 19th century had meant that unification had been on the cards long before that, with the Frankfurt assembly of 1848 being an important forerunner. By achieving a dominant position among the South German states, we can form the South German Confederation.;;;;;;;;;;;;x
-OL_HOSTILE_SIEGES;Hostile occupation;;;;;;;;;;;;x
-OL_VIEW_HOSTILE_SIEGES;Toggles §YHostile Occupation§W view.;;;;;;;;;;;;x
-civil_war_setup;End the war by reuniting our nation under a common banner again.;;;;;;;;;;;;x
-POOR_MILITANCY_MORE_THAN;Poor strata militancy more than ;;;;;;;;;;;;x
-MIDDLE_MILITANCY_MORE_THAN;Middle strata militancy more than ;;;;;;;;;;;;x
-RICH_MILITANCY_MORE_THAN;Rich strata militancy more than ;;;;;;;;;;;;x
-POOR_MILITANCY_LESS_THAN;Poor strata militancy less than ;;;;;;;;;;;;x
-MIDDLE_MILITANCY_LESS_THAN;Middle strata militancy less than ;;;;;;;;;;;;x
-RICH_MILITANCY_LESS_THAN;Rich strata militancy less than ;;;;;;;;;;;;x
-PRODUCTION_SORT_BY_AVAILABLE_WORKFORCE_TOOLTIP;Sort by unemployed §Y$TYPE$§W;;;;;;;;;;;;x
-PRODUCTION_SORT_BY_AVG_INVESTORS_TOOLTIP;Sort by average §Y$TYPE$§W in state;;;;;;;;;;;;x
-PRODUCED_DETAIL;$VAL$ available for our country;;;;;;;;;;;;x
-TRADE_AVAILABLE;Available;;;;;;;;;;;;x
+INFLUENCE_OTHER_CONTINENT;別の大陸に属する国;;;;;;;;;;;;x
+INFLUENCE_RELATIVE;我が国の合計点との比較;;;;;;;;;;;;x
+INFLUENCE_AT_MAX;我が国は、一ヵ国に対して、§Y$MAX$§W以上の影響力を持つことはできません;;;;;;;;;;;;x
+DIPLOMACY_DAILYINFLULENCE_GAIN;我が国は、毎日、§Y$NUM$§Wの影響力を§Y$COUNTRY$§Wに対して獲得しています。我が国の獲得する基礎的影響力は§Y$BASE$§Wです;;;;;;;;;;;;x
+DECL_WAR_NO_VASSAL;我々は、§Y衛星国§Wや§Y自治領§Wに対して、宣戦を布告することはできません;;;;;;;;;;;;x
+austrian_form_south_german_confederation_title;南ドイツ連邦;;;;;;;;;;;;x
+austrian_form_south_german_confederation_desc;普仏戦争の後に、ドイツ帝国の成立宣言が行われるまで、ドイツが統一されることはありませんでした。しかし、19世紀のナショナリズムの高揚は、そのずっと以前から、統一への動きを模索させていました。中でも、1848年のフランクフルト国民議会は、重要な先駆的試みでした。南ドイツの領邦の間で支配的な地位をかち取ったことで、我が国は南ドイツ連邦を形成することができます。;;;;;;;;;;;;x
+OL_HOSTILE_SIEGES;占領;;;;;;;;;;;;x
+OL_VIEW_HOSTILE_SIEGES;§Y占領状況§W画面へ切替え;;;;;;;;;;;;x
+civil_war_setup;再び同じ旗の下に我が国を再統一することで、戦争を終わせます。;;;;;;;;;;;;x
+POOR_MILITANCY_MORE_THAN;低所得層の闘争性が以下よりも高い;;;;;;;;;;;;x
+MIDDLE_MILITANCY_MORE_THAN;中間層の闘争性が以下よりも高い;;;;;;;;;;;;x
+RICH_MILITANCY_MORE_THAN;富裕層の闘争性が以下よりも高い;;;;;;;;;;;;x
+POOR_MILITANCY_LESS_THAN;低所得層の闘争性が以下よりも低い;;;;;;;;;;;;x
+MIDDLE_MILITANCY_LESS_THAN;中間層の闘争性が以下よりも低い;;;;;;;;;;;;x
+RICH_MILITANCY_LESS_THAN;富裕層の闘争性が以下よりも低い;;;;;;;;;;;;x
+PRODUCTION_SORT_BY_AVAILABLE_WORKFORCE_TOOLTIP;失業中の§Y$TYPE$§Wで並び替え;;;;;;;;;;;;x
+PRODUCTION_SORT_BY_AVG_INVESTORS_TOOLTIP;ステートの平均§Y$TYPE$§Wで並び替え;;;;;;;;;;;;x
+PRODUCED_DETAIL;我が国の利用可能数は$VAL$です;;;;;;;;;;;;x
+TRADE_AVAILABLE;供給;;;;;;;;;;;;x
 SPA_2517;ミクロネシア;;;;;;;;;;;;x
 hungarian_culture_group;ハンガリー;;;;;;;;;;;;x
 polish_culture_group;ポーランド;;;;;;;;;;;;x
 czecho_slovak_culture_group;チェコスロバキア;;;;;;;;;;;;x
 DZG_ADJ;ダンツィヒ;;;;;;;;;;;;x
-EVTNAME13201;Diplomatic Mission under Siege!;;;;;;;;;;;;x
-EVTDESC13201;News reaches us from $FROMCOUNTRY$ that the local ruling elites have thrown our ambassador out of the country, and that their troops are laying siege to our embassy with apparent intent to enforce that decision. This affair is developing into an enormous loss of international face, one which can only be avoided through a formal declaration of war against $FROMCOUNTRY$. Sire, how should we respond?;;;;;;;;;;;;x
-EVTOPTA13201;By Jingo!;;;;;;;;;;;;x
-EVTOPTB13201;Perhaps we should let the $FROMCOUNTRY_ADJ$ Dragon sleep.;;;;;;;;;;;;x
-annex_core_country;Restore Order;;;;;;;;;;;;x
-annex_core_country_short;Annex $RECIPIENT$;;;;;;;;;;;;x
-annex_core_country_setup;Annex $RECIPIENT$;;;;;;;;;;;;x
-annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;;;;;;;;;;;;x
-liberal_rebels_title;Jacobin Rebels;;;;;;;;;;;;x
-liberal_rebels_name;Jacobin Rebels;;;;;;;;;;;;x
-liberal_rebels_desc;Liberal Jacobin Rebels strive for the inclusion of broader stratas of the population in the government of the nation. In an absolute monarchy they will rise to impose a constitutional monarchy, whereas they in all other cases seek to establish a democracy.;;;;;;;;;;;;x
-liberal_rebels_army;Republican Guard;;;;;;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;;;;;;;;;;x
-AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;;;;;;;;;;x
-NOT_ENOUGH_FOR_BRIGADE;There is not enough currently to mobilize a brigade;;;;;;;;;;;;x
+EVTNAME13201;外交団が包囲される！;;;;;;;;;;;;x
+EVTDESC13201;$FROMCOUNTRY$から届いたニュースによると、現地の支配階層が我が国の大使を国外に追放したとのことです。また、その決定を実現する目的で、かの国の軍隊が、我が国の大使館を包囲しているとのことです。この出来事は、我が国の国際的な印象に、非常に大きな打撃を与える事態になりつつあります。$FROMCOUNTRY$に対して、正式な宣戦布告を行うことのみが、威信への打撃を避ける方法です。陛下、いかがしますか？;;;;;;;;;;;;x
+EVTOPTA13201;誓って！;;;;;;;;;;;;x
+EVTOPTB13201;我々は、眠れる竜である$FROMCOUNTRY$を目覚めさせてはならない。;;;;;;;;;;;;x
+annex_core_country;秩序回復;;;;;;;;;;;;x
+annex_core_country_short;$RECIPIENT$併合;;;;;;;;;;;;x
+annex_core_country_setup;$RECIPIENT$併合;;;;;;;;;;;;x
+annex_core_country_desc;全ての領土が我が国の中核プロヴィンスでもある§Y他国§Wを併合しましょう。;;;;;;;;;;;;x
+liberal_rebels_title;ジャコバン派反乱軍;;;;;;;;;;;;x
+liberal_rebels_name;ジャコバン派反乱軍;;;;;;;;;;;;x
+liberal_rebels_desc;自由主義者の集まりであるジャコバン派反乱軍は、幅広い階層が政治参加できるようになることを要求しています。絶対君主制の下では、彼らは立憲君主制を実現するため蜂起するでしょう。そして、それ以外の統治形態の場合には、彼らは民主制を実現しようと試みます。;;;;;;;;;;;;x
+liberal_rebels_army;共和国防衛隊;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME;$SECOND_COUNTRY$に対する$ORDER$$FIRST_COUNTRY$秩序回復戦争;;;;;;;;;;;;x
+AGRESSION_WAR_RESTORE_ORDER_NAME;$SECOND_COUNTRY$に対する$ORDER$$FIRST_COUNTRY$秩序回復戦争;;;;;;;;;;;;x
+NOT_ENOUGH_FOR_BRIGADE;現在、旅団を動員するには充分ではありません;;;;;;;;;;;;x

@@ -1,289 +1,289 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-DIPLOMACY_AI_ACCEPTANCE;§Y$COUNTRY$§W's response: §Y$ODDS$§W;;;;;;;;;;;;x
-TOO_SOON_FOR_REFORM;We have to wait until §Y$DATE$§W until we can enact another reform.;;;;;;;;;;;;x
-SIEGE_EXTRA_ATTR;§R+$VAL$%§W attrition from resistance to the occupation;;;;;;;;;;;;x
-NO_SEPARATE_PEACE_CRISIS;We cannot negotiate separate peace in a crisis war;;;;;;;;;;;;x
-CRISIS_RESOLUTION_EFFECTS;Resolving the crisis in this way will give you $VAL$ prestige.;;;;;;;;;;;;x
-CRISIS_RESOLUTION_RELATIONS;Relations with the following countries will change:;;;;;;;;;;;;x
-flintlock_rifle_armament;Flintlock Rifle Armament;;;;;;;;;;;;x
-flintlock_rifle_armament_desc;Introduced at the beginning of the 17th century, the flintlock rapidly replaced earlier firearm-ignition technologies, such as the doglock, matchlock, and wheellock mechanisms. It continued to be in common use for over two centuries, replaced by percussion cap and, later, cartridge-based systems in the early-to-mid 19th century. Although long superseded by modern firearms, flintlock weapons enjoy continuing popularity with black-powder shooting enthusiasts.;;;;;;;;;;;;x
-post_napoleonic_army_doctrine;Post Napoleonic Army Doctrine;;;;;;;;;;;;x
-post_napoleonic_army_doctrine_desc;'The French Revolution and the Napoleonic Wars that followed revolutionized military strategy. The impact of this period was still to be felt in the American Civil War and the early phases of World War I. With the advent of cheap small arms and the rise of the drafted citizen soldier, armies grew rapidly in size to become massed formations. This necessitated dividing the army first into divisions and later into corps. Along with divisions came divisional artillery;;;;;;;;;;;;x
-muzzle_loaded_rifle_armament;Muzzle-loaded Rifle Armament;;;;;;;;;;;;x
-muzzle_loaded_rifle_armament_desc;A muzzle-loading rifle is a gun in which the projectile and propelling charge is loaded through the front-end of the gun, in contrast to a breech loading rifle. Hand held rifles were well-developed by the 1740s. A recognizable form of the 'muzzleloader' is the Kentucky Rifle, which was actually developed in Pennsylvania. The American Longrifle evolved from the German 'Jäger' rifle.;;;;;;;;;;;;x
-breech_loaded_rifle_armament;Breech-loaded Rifle Armament;;;;;;;;;;;;x
-breech_loaded_rifle_armament_desc;A breech-loading weapon is a firearm in which the cartridge or shell is inserted or loaded into a chamber integral to the rear portion of a barrel. Although breech-loading weapons were developed as far back as the late 14th century, breech-loading became more successful with improvements in precision engineering and machining in the 19th century.;;;;;;;;;;;;x
-bolt_action_rifle_armament;Bolt-action Rifle Armament;;;;;;;;;;;;x
-bolt_action_rifle_armament_desc;Bolt action is a type of firearm action in which the weapon's bolt is operated manually by the opening and closing of the breech (barrel) with a small handle. he first bolt-action rifle was produced in 1824 by Johann Nikolaus von Dreyse, following work on breechloading rifles. European armies continued to develop bolt-action rifles through the latter half of the Nineteenth Century and World War I marked the height of the bolt-action rifle's use, with all of the nations in that war fielding troops armed with various bolt-action designs.;;;;;;;;;;;;x
-machine_gun_armament;Machine Gun Armament;;;;;;;;;;;;x
-machine_gun_armament_desc;The Gatling gun, patented in 1861 by Richard Jordan Gatling, was the first to offer controlled, sequential fire with automatic loading. It first saw very limited action in the American Civil War;;;;;;;;;;;;x
+DIPLOMACY_AI_ACCEPTANCE;§Y$COUNTRY$§Wの応答： §Y$ODDS$§W;;;;;;;;;;;;x
+TOO_SOON_FOR_REFORM;別の改革を制定できるようになるまで、§Y$DATE$年§W待たなければなりません。;;;;;;;;;;;;x
+SIEGE_EXTRA_ATTR;占領への抵抗によって§R+$VAL$%§Wの損害;;;;;;;;;;;;x
+NO_SEPARATE_PEACE_CRISIS;我が国は、危機の戦争中に別々の和平交渉することはできません;;;;;;;;;;;;x
+CRISIS_RESOLUTION_EFFECTS;この方法で危機を解決すれば、$VAL$の威信を得られます。;;;;;;;;;;;;x
+CRISIS_RESOLUTION_RELATIONS;次の国との関係が変化：;;;;;;;;;;;;x
+flintlock_rifle_armament;フリントロック式小銃;;;;;;;;;;;;x
+flintlock_rifle_armament_desc;17世紀初頭に導入されたフリントロックは、ドッグロック式・マッチロック式・ホイールロック式などの初期の銃器点火技術から急速に取って代わりました。2世紀以上にわたり一般的に使用され続け、雷管に、その後、19世紀初頭から半ばにかけて薬莢の仕組みに置き換えられました。現代的な銃器に長く取って代わられていますが、フリントロックは黒色火薬の射撃愛好家に人気があります。;;;;;;;;;;;;x
+post_napoleonic_army_doctrine;ナポレオン戦争後の軍事理論;;;;;;;;;;;;x
+post_napoleonic_army_doctrine_desc;「フランス革命とナポレオン戦争は戦略に革命をもたらしました。その影響は、南北戦争および第一次世界大戦の初期にもまだ残っていました。安価な小火器の登場と徴兵制度の普及により、軍隊は急速に拡大しました。そのため、軍を師団に、後に軍団に分けることが必要となりました。師団とともに軽量で移動可能な強力な射程と威力の大砲も出現しました。密集陣形のパイク兵やマスケット銃兵による集中攻撃は、散開して戦線を形成する軽歩兵に取って代わられました。」;;;;;;;;;;;;x
+muzzle_loaded_rifle_armament;前装式小銃;;;;;;;;;;;;x
+muzzle_loaded_rifle_armament_desc;前装式小銃は、後装式小銃とは対照的に、発射体と推進装薬を銃の先端部から装填する銃です。軽くて扱いやすいライフルは1740年代には十分に発展していました。認識できる形の「前装銃」は、ケンタッキーライフルですが、実際にはペンシルヴェニア州で開発されました。アメリカのロングライフルは、ドイツの「イェーガー」ライフルから発展しました。;;;;;;;;;;;;x
+breech_loaded_rifle_armament;後装式小銃;;;;;;;;;;;;x
+breech_loaded_rifle_armament_desc;後装式小銃は、銃身の後方から薬室に弾薬筒・薬莢を挿入・装填する銃器です。後装式兵器は14世紀後半にかけて開発されていたものの、19世紀の精密工学と機械加工の改良により成功を収めました。;;;;;;;;;;;;x
+bolt_action_rifle_armament;ボルトアクション式小銃;;;;;;;;;;;;x
+bolt_action_rifle_armament_desc;ボルトアクション式小銃は、ボルトを小さな取っ手で銃尾(銃身)の開閉によって手動で操作する銃器の一種です。1824年、ヨハン・ニコラウス・フォン・ドライゼによって初めて生産されました。ヨーロッパの陸軍は19世紀後半からボルトアクション式小銃の開発を続け、第一次世界大戦ではボルトアクション式小銃の使用度の高さを示しました、その戦時中のすべての国々は、様々な設計のボルトアクション式で武装していました。;;;;;;;;;;;;x
+machine_gun_armament;機関銃;;;;;;;;;;;;x
+machine_gun_armament_desc;1861年にリチャード・ジョーダン・ガトリングが特許を取得したガトリングガンは、自動装填で制御された連続射撃を提供した最初の銃です。アメリカ南北戦争で最初に非常に限定的な運用が行われました。その後、改良され、普仏戦争やノースウェストの反乱で使用されています。多くは19世紀後半に他の軍に売却され、20世紀初頭まで使用され続けました。最初の自走式機関銃は1885年にサー・ヒラム・マキシムによって発明されました。「マキシムガン」は、手動で発射するのではなく、以前に発射した弾丸の反動力を使用して再装填し、ノルデンフェルトやガトリングの武器などの以前の設計を使用した場合よりもはるかに高い発射速度を可能にしました。;;;;;;;;;;;;x
 cuirassier_activation;胸甲騎兵;;;;;;;;;;;;x
-cuirassier_activation_desc;Cuirassiers were mounted cavalry soldiers equipped with armour and firearms, first appearing in late 15th-century Europe. The first cuirassiers were produced as a result of armoured cavalry, such as the man-at-arms and demi-lancer, discarding their lances and adopting the use of pistols as their primary weapon. They achieved increased prominence during the Napoleonic Wars and were last fielded in the opening stages of World War I. Cuirassiers continue to be employed as ceremonial troops by a number of countries.;;;;;;;;;;;;x
+cuirassier_activation_desc;胸甲騎兵は鎧と火器を装備した騎兵で、15世紀後半のヨーロッパに初めて登場しました。最初の胸甲騎兵は、重騎兵や準槍騎兵が武器としていた槍を捨て、拳銃を主要武器として採用しました。ナポレオン戦争で重要な役割を果たし、第一次世界大戦の開戦期を最後に姿を消しました。胸甲騎兵は多くの国で儀式軍として使用され続けています。;;;;;;;;;;;;x
 dragoon_activation;竜騎兵;;;;;;;;;;;;x
-dragoon_activation_desc;The word dragoon originally meant mounted infantry, who were trained in horse riding as well as infantry fighting skills. However, usage altered over time and during the 18th century, dragoons evolved into conventional light cavalry units and personnel. Dragoon regiments were established in most European armies during the late 17th and early 18th centuries. During the Napoleonic Wars, dragoons generally assumed a cavalry role, though remaining a lighter class of mounted troops than the armored cuirassiers.;;;;;;;;;;;;x
-hussar_activation;Hussars;;;;;;;;;;;;x
-hussar_activation_desc;Hussar refers to a number of types of light cavalry which originated in Hungary during the 15th century. The title and distinctive dress of these horsemen was subsequently widely adopted by light cavalry regiments in European and other armies. The hussars played a prominent role as cavalry in the Napoleonic Wars. As light cavalrymen mounted on fast horses, they would be used to fight skirmish battles and for scouting. ;;;;;;;;;;;;x
-military_aviation;Military Aviation;;;;;;;;;;;;x
-military_aviation_desc;Military aviation is the use of aircraft and other flying machines for the purposes of conducting or enabling warfare. Heavier-than-air aircraft were recognized as having military applications early on. A Wright Model A was purchased in 1909 by the U.S. Army Signal Corps, and in 1911 the Italians used a variety of aircraft types in reconnaissance, photo-reconnaissance, and bombing roles as part of the Italo-Turkish War. World War I saw military aviation rapidly embrace many specialized types, such as scouts, artillery observers, fighters or bombers.;;;;;;;;;;;;x
-SIEGE;Siege;;;;;;;;;;;;x
-TRANSFER_SUB_ALL;§GShift + LMB§! to transfer all of the same type.;;;;;;;;;;;;x
-OBSOLETE_UNIT_TECH;§Y$UNIT$§W was made obsolete by §Y$TECH$§W;;;;;;;;;;;;x
-ARMY_RECON_TOOLTIP;Recon Efficiency: §Y$VAL$§!%;;;;;;;;;;;;x
-ARMY_RECON_DELAYED_TOOLTIP;Recon Efficiency is the ability of this army's scouts to reduce the dig-in bonus of enemy armies and speed up sieges.\n\nThis army contains §Y$RECONUNITS$§! recon brigades out of a needed §Y$RECONMAXUNITS$§!, giving it a Recon Efficiency of §Y$VAL$%§!.;;;;;;;;;;;;x
-ARMY_ENGINEER_TOOLTIP;Siege Efficiency: §Y$VAL$§!%;;;;;;;;;;;;x
-ARMY_ENGINEER_DELAYED_TOOLTIP;Siege Efficiency is the ability of this army's engineers and tanks to reduce the effectiveness of enemy forts when attacking and sieging.\n\nThis army contains §Y$ENGINEERUNITS$§! engineer and tank brigades out of a needed §Y$ENGINEERMAXUNITS$§!, giving it a Siege Efficiency of §Y$VAL$%§!.;;;;;;;;;;;;x
-TENSION_DECAY;Base Decay: §Y$VAL$§!;;;;;;;;;;;;x
-TENSION_FROM_GP_WARS;Great Powers at War: §Y$VAL$§!;;;;;;;;;;;;x
-TENSION_FROM_GP_DISARMED;Disarmed Great Powers: §Y$VAL$§!;;;;;;;;;;;;x
-TENSION_FROM_GP_RANK;Great Power Ranking: §Y$VAL$§!;;;;;;;;;;;;x
+dragoon_activation_desc;竜騎兵という言葉は、もともと乗馬や歩兵の戦闘技術訓練を受けていた馬に乗った歩兵を意味していました。しかし運用法は時とともに変化し、18世紀には通常の軽騎兵部隊と人員に進化しました。竜騎兵連隊は17世紀後半から18世紀初頭にかけてヨーロッパのほとんどの軍で設立されました。ナポレオン戦争中、竜騎兵は一般的に騎兵の役割を引き受けましたが、装甲の胸甲騎兵よりも軽い部隊の騎兵として残りました。;;;;;;;;;;;;x
+hussar_activation;驃騎兵;;;;;;;;;;;;x
+hussar_activation_desc;驃騎兵とは、15世紀にハンガリーで生まれた多くのタイプの軽騎兵のことです。これらの騎手の称号と特徴的な服装はその後ヨーロッパや他の軍の軽騎兵連隊によって広く採用されました。驃騎兵はナポレオン戦争で騎兵として重要な役割を果たしました。軽騎兵として速い馬に乗り、小戦闘や偵察のために使用されます。;;;;;;;;;;;;x
+military_aviation;軍用航空;;;;;;;;;;;;x
+military_aviation_desc;軍用航空とは、戦闘を実施・可能にする目的で航空機や他の飛行機械を使用することです。突き進む空気よりも重い比重を持った航空機は、早期に軍事用途があると認識されていました。ライトモデルAは、1909年には米国陸軍信号隊によって購入され、1911年にはイタリア人が伊土戦争の一環として、偵察・写真偵察・爆撃の役割で様々な航空機タイプを使用しました。第一次世界大戦では、偵察・砲兵観察・戦闘機・爆撃機など、多くの特殊なタイプの軍用機が急速に採用されました。;;;;;;;;;;;;x
+SIEGE;包囲;;;;;;;;;;;;x
+TRANSFER_SUB_ALL;§GShift + 左クリック§Wで同じ兵科ユニットを全て転属させられます。;;;;;;;;;;;;x
+OBSOLETE_UNIT_TECH;§Y$UNIT$§Wは§Y$TECH$§Wによって廃止されました;;;;;;;;;;;;x
+ARMY_RECON_TOOLTIP;偵察効率：§Y$VAL$%§W;;;;;;;;;;;;x
+ARMY_RECON_DELAYED_TOOLTIP;偵察効率は、軍隊の斥候が敵軍の塹壕ボーナスを減らし、包囲を加速させます。\n\nこの軍隊には、必要な§Y$RECONMAXUNITS$§Wの§Y$RECONUNITS$§W偵察連隊が含まれており、§Y$VAL$%§Wの偵察効率が得られます。;;;;;;;;;;;;x
+ARMY_ENGINEER_TOOLTIP;包囲効率：§Y$VAL$%§W;;;;;;;;;;;;x
+ARMY_ENGINEER_DELAYED_TOOLTIP;包囲効率は、この軍の工兵や戦車が攻撃・砲撃の際に敵要塞の効果を減少させる能力です。\n\nこの軍隊には必要な§Y$ENGINEERMAXUNITS$§Wから§Y$ENGINEERUNITS$§W工兵や戦車連隊が含まれ、§Y$VAL$%§Wの包囲効率が得られます。;;;;;;;;;;;;x
+TENSION_DECAY;基礎的減少度：§Y$VAL$§W;;;;;;;;;;;;x
+TENSION_FROM_GP_WARS;戦争している列強：§Y$VAL$§W;;;;;;;;;;;;x
+TENSION_FROM_GP_DISARMED;武装解除された列強：§Y$VAL$§W;;;;;;;;;;;;x
+TENSION_FROM_GP_RANK;列強の順位：§Y$VAL$§W;;;;;;;;;;;;x
 HAS_NOT_CULTURAL_SPHERE;文化影響圏が存在しません;;;;;;;;;;;;x
 HAS_CULTURAL_SPHERE;文化影響圏が存在します;;;;;;;;;;;;x
 UCA;中央アメリカ連邦;;;;;;;;;;;;x
-LOAD_SAVEGAME_FAIL;Failed to load the savegame.;;;;;;;;;;;;x
-NEWS_TOOLTIP_UNREAD;You have §G$NUM$§! unread newspapers out of §G$MAX$§! printed.;;;;;;;;;;;;x
-NEWS_TOOLTIP_NO_NEW;There are no unread newspapers.;;;;;;;;;;;;x
-become_independent_desc;Declare independence from your overlord through force of arms;;;;;;;;;;;;x
-CRISIS_DAYS_UNTIL_WAR;War will break out in §Y$DAYS$§! days if a diplomatic solution is not found.;;;;;;;;;;;;x
-REMOVEFROMSPHERE_COST_NO_INFAMY;This will cost §R$PRESTIGE$§! prestige;;;;;;;;;;;;x
-REMOVEFROMSPHERE_COST;This will cost §R$PRESTIGE$§! prestige and give you §R$INFAMY$§! infamy;;;;;;;;;;;;x
+LOAD_SAVEGAME_FAIL;セーブゲームをロードできませんでした。;;;;;;;;;;;;x
+NEWS_TOOLTIP_UNREAD;印刷された§G$MAX$§W通のうち§G$NUM$§W通の未読新聞があります。;;;;;;;;;;;;x
+NEWS_TOOLTIP_NO_NEW;未読の新聞はありません。;;;;;;;;;;;;x
+become_independent_desc;武力によって、宗主国からの独立を宣言します;;;;;;;;;;;;x
+CRISIS_DAYS_UNTIL_WAR;外交的解決策が見つからない場合、戦争が§Y$DAYS$§W日中に勃発するでしょう。;;;;;;;;;;;;x
+REMOVEFROMSPHERE_COST_NO_INFAMY;これを行うためには、威信が§R$PRESTIGE$§W必要です。;;;;;;;;;;;;x
+REMOVEFROMSPHERE_COST;これを行うためには、威信が§R$PRESTIGE$§W必要であり、悪評§R$INFAMY$§Wを被ります;;;;;;;;;;;;x
 REMOVEFROMSPHERE_DESC;§Y列強§Wの影響圏から国家を削除します。;;;;;;;;;;;;x
-CRISIS_INTEREST;Their interest: §Y$VAL$§!;;;;;;;;;;;;x
-CRISIS_MAKE_OFFER_INVALID;You must offer them something!;;;;;;;;;;;;x
-CRISIS_MAKE_OFFER_NOT_LEADER;You must be a leader in the crisis to make offers.;;;;;;;;;;;;x
-CRISIS_MAKE_OFFER;Make an offer to §Y$COUNTRY$§! to entice them to back your side.;;;;;;;;;;;;x
-CRISIS_AI_WANTS_TO_BACK_1;has not decided who to support.;;;;;;;;;;;;x
-CRISIS_AI_WANTS_TO_BACK_2;is leaning towards supporting;;;;;;;;;;;;x
-CRISIS_AI_WANTS_TO_BACK_3;is strongly inclined to support;;;;;;;;;;;;x
-CRISIS_AI_INTEREST;Their interest in supporting;;;;;;;;;;;;x
+CRISIS_INTEREST;彼らの興味：§Y$VAL$§W;;;;;;;;;;;;x
+CRISIS_MAKE_OFFER_INVALID;我が国は何か提案する必要があります！;;;;;;;;;;;;x
+CRISIS_MAKE_OFFER_NOT_LEADER;提案するには、危機の主導国でなければなりません。;;;;;;;;;;;;x
+CRISIS_MAKE_OFFER;提案をすることによって§Y$COUNTRY$§Wに、我々の側を支持するよう促します。;;;;;;;;;;;;x
+CRISIS_AI_WANTS_TO_BACK_1;は誰を支持するか決めていません。;;;;;;;;;;;;x
+CRISIS_AI_WANTS_TO_BACK_2;はこの国を支持する方向へ傾いています：;;;;;;;;;;;;x
+CRISIS_AI_WANTS_TO_BACK_3;はこの国を強く支持しています：;;;;;;;;;;;;x
+CRISIS_AI_INTEREST;以下の国を支持することの関心度;;;;;;;;;;;;x
 unification_release_puppet_cb_setup;$RECIPIENT$から$THIRD$を開放し、あなたの影響圏へ彼らを編入します;;;;;;;;;;;;x
-unification_release_puppet_cb_desc;Release our cultural kin from the control of foreigners and add them to your sphere of influence;;;;;;;;;;;;x
-unification_release_puppet_cb;Free Cultural Kin;;;;;;;;;;;;x
-unification_release_puppet_cb_short;$THIRD$ is released;;;;;;;;;;;;x
-AIREASON_STRATEGIC_INTERESTS;Strategic Interests;;;;;;;;;;;;x
-AIREASON_BACKED_BY_ALLY;Backed by Ally;;;;;;;;;;;;x
-AIREASON_ALLY;Ally;;;;;;;;;;;;x
-AIREASON_TOO_EARLY_IN_CRISIS;Early in Crisis;;;;;;;;;;;;x
+unification_release_puppet_cb_desc;我が国と同じ文化を持つ人々を外国人の支配から解放し、我が国の勢力圏に加えてください;;;;;;;;;;;;x
+unification_release_puppet_cb;文化的な同胞の自由;;;;;;;;;;;;x
+unification_release_puppet_cb_short;$THIRD$が解放された;;;;;;;;;;;;x
+AIREASON_STRATEGIC_INTERESTS;戦略的関心;;;;;;;;;;;;x
+AIREASON_BACKED_BY_ALLY;同盟国による支援;;;;;;;;;;;;x
+AIREASON_ALLY;同盟国;;;;;;;;;;;;x
+AIREASON_TOO_EARLY_IN_CRISIS;危機の初期;;;;;;;;;;;;x
 AIREASON_CRISIS_OFFER;$WARGOAL$:;;;;;;;;;;;;x
-AIREASON_ATTACKING_ALLY;Attacking Ally;;;;;;;;;;;;x
-AIREASON_ATTACKING_FRIENDS;Attacking Friends;;;;;;;;;;;;x
-AIREASON_ATTACKING_ENEMIES;Attacking Enemies;;;;;;;;;;;;x
-AIREASON_COMMON_FOE;Common Foe;;;;;;;;;;;;x
+AIREASON_ATTACKING_ALLY;同盟国を攻撃している;;;;;;;;;;;;x
+AIREASON_ATTACKING_FRIENDS;味方を攻撃している;;;;;;;;;;;;x
+AIREASON_ATTACKING_ENEMIES;敵を攻撃している;;;;;;;;;;;;x
+AIREASON_COMMON_FOE;共通の敵;;;;;;;;;;;;x
 AIREASON_WAR_WITH_SPHERE_LEADER;影響圏の指導国との戦争;;;;;;;;;;;;x
-AIREASON_CONSTRUCTING_CB;Strategic Interests;;;;;;;;;;;;x
-AIREASON_HELD_CORES;Owns Core Provinces;;;;;;;;;;;;x
-AIREASON_NEGATIVE_RELATIONS;Negative Relations;;;;;;;;;;;;x
-AIREASON_THREATS;Threats;;;;;;;;;;;;x
-AIREASON_TOO_MANY_GP_ALLIES;Too many Great Power allies;;;;;;;;;;;;x
-AIREASON_DESIRES_GP_ALLY;Wants a Great Power ally;;;;;;;;;;;;x
-AIREASON_ALLY_OF_ALLY;Ally of Ally;;;;;;;;;;;;x
-AIREASON_TOO_MANY_ALLIANCES;Too Many Alliances;;;;;;;;;;;;x
-AIREASON_RELATIVE_ARMY_STRENGTH;Army Strength;;;;;;;;;;;;x
-AIREASON_RELATIVE_NAVY_STRENGTH;Navy Strength;;;;;;;;;;;;x
-AIREASON_CURRENT_WARS;Current Wars;;;;;;;;;;;;x
-AIREASON_OUR_CASUS_BELLI;Our Casus Belli;;;;;;;;;;;;x
-AIREASON_YOUR_CASUS_BELLI;Your Casus Belli;;;;;;;;;;;;x
-AIREASON_CIV_VS_UNCIV;Civilized vs Uncivilized;;;;;;;;;;;;x
-AIREASON_DIPLOMATIC_GOALS;Political Considerations;;;;;;;;;;;;x
-AIREASON_DISTANCE;Distance;;;;;;;;;;;;x
-AIREASON_DIFFERENT_GOVTYPES;Government Type;;;;;;;;;;;;x
+AIREASON_CONSTRUCTING_CB;戦略的関心;;;;;;;;;;;;x
+AIREASON_HELD_CORES;中核プロヴィンスを所有;;;;;;;;;;;;x
+AIREASON_NEGATIVE_RELATIONS;否定的な関係;;;;;;;;;;;;x
+AIREASON_THREATS;脅威;;;;;;;;;;;;x
+AIREASON_TOO_MANY_GP_ALLIES;列強の同盟国が多すぎる;;;;;;;;;;;;x
+AIREASON_DESIRES_GP_ALLY;列強の同盟国が欲しい;;;;;;;;;;;;x
+AIREASON_ALLY_OF_ALLY;同盟国の同盟国;;;;;;;;;;;;x
+AIREASON_TOO_MANY_ALLIANCES;同盟国が多すぎる;;;;;;;;;;;;x
+AIREASON_RELATIVE_ARMY_STRENGTH;陸軍兵力;;;;;;;;;;;;x
+AIREASON_RELATIVE_NAVY_STRENGTH;海軍兵力;;;;;;;;;;;;x
+AIREASON_CURRENT_WARS;現在の戦争;;;;;;;;;;;;x
+AIREASON_OUR_CASUS_BELLI;この国の開戦事由;;;;;;;;;;;;x
+AIREASON_YOUR_CASUS_BELLI;我が国の開戦事由;;;;;;;;;;;;x
+AIREASON_CIV_VS_UNCIV;文明国 対 非文明国;;;;;;;;;;;;x
+AIREASON_DIPLOMATIC_GOALS;政治的考慮;;;;;;;;;;;;x
+AIREASON_DISTANCE;距離;;;;;;;;;;;;x
+AIREASON_DIFFERENT_GOVTYPES;政府のタイプ;;;;;;;;;;;;x
 AIREASON_OUR_SPHERE;我々の影響圏;;;;;;;;;;;;x
 AIREASON_OTHER_SPHERE_LEADER;他の影響圏の指導国;;;;;;;;;;;;x
 AIREASON_OTHER_SPHERE;他の影響圏;;;;;;;;;;;;x
-AIREASON_OVERLORD;Overlord;;;;;;;;;;;;x
+AIREASON_OVERLORD;宗主国;;;;;;;;;;;;x
 AIREASON_BADBOY;汚名;;;;;;;;;;;;x
-AIREASON_RELATIONS;Relations;;;;;;;;;;;;x
-AIREASON_GP_RELATIONS;Opinion;;;;;;;;;;;;x
-AIREASON_BASE_RELUCTANCE;Base Reluctance;;;;;;;;;;;;x
-AI_DIPLOMATIC_VALUE;Diplomatic Value;;;;;;;;;;;;x
-AI_DIPLO_NO;They will not accept;;;;;;;;;;;;x
-AI_DIPLO_YES;They will accept;;;;;;;;;;;;x
-SHIP_BUILD_MIN_BASE_LEVEL_WARNING;§RCannot be built in this naval port. Requires level §Y$LVL$§R or greater.§!;;;;;;;;;;;;x
-NAVAL_BASE_OVERSEAS_LIMIT;§RCapital ships cannot be built in overseas provinces.§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_TITLE;The estimated fire power is §G$POWER$§!:;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_BASE;§Y$UNIT$§! base attack: §G$VAL$§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_TORP;Torpedo attack: §G$VAL$§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_LUCK;Luck and decisions: §Y$VAL$%§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_HULL;Reduced by opponent hull (§R$HULL$§!): §R$VAL$%§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_EXP;Reduced by opponent experience (§R$EXP$%§!): §R$VAL$%§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_NOORG;Opponent has no organization: §Y$VAL$%§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_STR;Reduced by our strength: §R$VAL$%§!;;;;;;;;;;;;x
-NAVAL_COMBAT_HIT_CHANCE_DESC;Hitting chance: §Y$VAL$%§!;;;;;;;;;;;;x
-NAVAL_COMBAT_HIT_CHANCE_DESC_EVA;(reduced by opponent evasion §R$VAL$%§!);;;;;;;;;;;;x
-MOBILIZATION_PROGRESS_PAUSED;Mobilization recruitment in §Y$PROV$§! will soon begin.;;;;;;;;;;;;x
-MOBILIZATION_PROGRESS_PENDING;Current mobilization progress is §Y$PROG$%§!;;;;;;;;;;;;x
-MOBILIZATION_PROGRESS_NOT_MOBILIZED;Mobilization will take some time, but an advanced railway network will speed up the process.;;;;;;;;;;;;x
-COLONY_ADD_INFLUENCE;Add colonial influence;;;;;;;;;;;;x
-EVTNAME20100;Tensions in $STATE$;;;;;;;;;;;;x
-EVTDESC20100;Recently the international community has become increasingly aware of the so-called 'plight of the poor oppressed people in $STATE$. It is claimed we have long oppressed them, and that they long to be free from our benevolent rule. We will, of course, brook no interference in our rule of $STATE$.;;;;;;;;;;;;x
-EVTOPTA20100;Of course not!;;;;;;;;;;;;x
-EVTOPTB20100;Maybe we should talk about this...;;;;;;;;;;;;x
-EVTNAME20101;Tensions in $STATE$;;;;;;;;;;;;x
-EVTDESC20101;Recently the international community has become increasingly aware of the so-called 'plight of the poor oppressed people in $STATE$. It is claimed we have no legitimate right to rule the area, and nearby Great Powers are starting to take an interest in the claims;;;;;;;;;;;;x
-EVTOPTA20101;Insist $STATE$ is ours!;;;;;;;;;;;;x
-EVTOPTB20101;Concede their point.;;;;;;;;;;;;x
-EVTNAME20102;The $CRISISAREA$ Crisis;;;;;;;;;;;;x
-EVTDESC20102;Dispute over $CRISISAREA$ has now escalated into an international crisis. $CRISISTAKER$ claims the area as an integral part of their nation, while $CRISISTARGET$ denies they have any claim to it and insists the state should remain under their control. At a recent conference on the matter our ambassador made several rather militant remarks that greatly raised the tempers of all present.\nShould we endorse his position, or issue an apology for his actions and disavow his remarks?;;;;;;;;;;;;x
-EVTOPTA20102;He's quite right, only war will solve this!;;;;;;;;;;;;x
-EVTOPTB20102;Don't listen to him!;;;;;;;;;;;;x
-EVTNAME20103;The destiny of $CRISISTAKER$;;;;;;;;;;;;x
-EVTDESC20103;The fate of the $CRISISTAKER_ADJ$ people has become a major international crisis recently. While $CRISISTARGET$ currently controls the area, $CRISISTAKER_ADJ$ rebels and patriots are making a major effort to free themselves from $CRISISTARGET_ADJ$ rule. As a Great Power we have of course sent an ambassador to discuss the fate of $CRISISTAKER$, unfortunately he appeared at the latest summit meeting more drunk than usual and proclaimed that we were prepared to settle the issue by giving all other participants a sound thrashing if they don't follow our lead. Naturally this has escalated the situation, although we can still back down by disavowing his actions, but doing so would be most embarrassing.;;;;;;;;;;;;x
-EVTOPTA20103;Rattle our sabre!;;;;;;;;;;;;x
-EVTOPTB20103;Fire the fool!;;;;;;;;;;;;x
-EVTNAME20104;The $CRISISAREA$ Crisis;;;;;;;;;;;;x
-EVTDESC20104;Dispute over $CRISISAREA$ has now escalated into an international crisis. With Great Powers taking sides on the matter the stakes are suddenly a lot higher, should we attempt to press our claims strongly or try to calm the situation?;;;;;;;;;;;;x
-EVTOPTA20104;It's ours!;;;;;;;;;;;;x
-EVTOPTB20104;We are open to discussion.;;;;;;;;;;;;x
-EVTNAME20105;The $CRISISAREA$ Crisis;;;;;;;;;;;;x
-EVTDESC20105;With the $CRISISTAKER_ADJ$ rebels struggling to break free from our nation and $CRISISATTACKER$ supporting them, we must hope that the arms of $CRISISDEFENDER$ will be able to support our cause. Should our Ambassador to $CRISISDEFENDER$ ask them to press our case strongly, or hint that we are open to a negotiated settlement?;;;;;;;;;;;;x
-EVTOPTA20105;Press our Claim!;;;;;;;;;;;;x
-EVTOPTB20105;Let's not fight over this.;;;;;;;;;;;;x
-COLONIZE_PHASE_INTEREST;Establishing interest;;;;;;;;;;;;x
-COLONIZE_PHASE_INTEREST_DESC;Compete with investment of colonial power. The top two countries when someone gets $LEVELS$ levels ahead go on to next state of competition;;;;;;;;;;;;x
-COLONIZE_PHASE_INFLUENCE;Colonial competition;;;;;;;;;;;;x
-COLONIZE_PHASE_INFLUENCE_DESC;Two countries battle with colonial power until one side can not match influence. Every time investment is made tension in state will increase and if it gets too hot turns into a crisis.;;;;;;;;;;;;x
-COLONIZE_PHASE_COLONIZATION;Colonization;;;;;;;;;;;;x
-COLONIZE_PHASE_COLONIZATION_DESC;Winner of previous phases has $MONTHS$ months to convert to a colony or lose investments.;;;;;;;;;;;;x
-TICKING_WARSCORE_DESC_GRACE;$VAL$ (§Y$DAY$§! days left).;;;;;;;;;;;;x
-TICKING_WARSCORE_DESC_GRACE_EXPLAIN;Territorial war goals that are at least §G$MIN$%§! fulfilled will gradually add war score to the claimant.\nIf a war goal is not fulfilled after §Ygrace period of $DAYS$ days§! it will instead add war score to the owner. A goal occupied by the claimant and retaken by the owner will gradually revert to §Y0§! score to either side.;;;;;;;;;;;;x
-TICKING_WARSCORE_FULFILL_TERRITORY_WG;§GFulfilled when occupying at least $MIN$% provinces of the targeted state(s) of this war goal.§!;;;;;;;;;;;;x
-TICKING_WARSCORE_FULFILL_TERRITORY_ANY;§GFulfilled when occupying at least $MIN$% provinces belonging to the targeted nation.§!;;;;;;;;;;;;x
-TICKING_WARSCORE_FULFILL_BATTLE;§GFulfilled when we have a greater war score from battles, once at least §G$BAT$§! have been fought.§!;;;;;;;;;;;;x
-CREATE_PROTECTORATE;Create Protectorate;;;;;;;;;;;;x
+AIREASON_RELATIONS;関係;;;;;;;;;;;;x
+AIREASON_GP_RELATIONS;影響力;;;;;;;;;;;;x
+AIREASON_BASE_RELUCTANCE;基本的な不満;;;;;;;;;;;;x
+AI_DIPLOMATIC_VALUE;外交的価値;;;;;;;;;;;;x
+AI_DIPLO_NO;彼らは受け入れないでしょう;;;;;;;;;;;;x
+AI_DIPLO_YES;彼らは受け入れるでしょう;;;;;;;;;;;;x
+SHIP_BUILD_MIN_BASE_LEVEL_WARNING;§Rこの軍港には建造できません。レベル§Y$LVL$§R以上が必要です。§W;;;;;;;;;;;;x
+NAVAL_BASE_OVERSEAS_LIMIT;§R海外プロヴィンスでは主力艦を建造できません。§R;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_TITLE;§R推定火力は§G$POWER$§R：;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_BASE;§Y$UNIT$§Wの基礎攻撃力：§G$VAL$§W;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_TORP;魚雷攻撃：§G$VAL$§R;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_LUCK;運と意思決定：§Y$VAL$%§W;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_HULL;交戦相手の船体(§R$HULL$§W)によって減少：§R$VAL$%§W;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_EXP;交戦相手の経験(§R$EXP$%§W)によって減少：§R$VAL$%§W;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_NOORG;交戦相手の組織率がない：§Y$VAL$%§W;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_STR;こちら側の耐久力によって減少：§R$VAL$%§W;;;;;;;;;;;;x
+NAVAL_COMBAT_HIT_CHANCE_DESC;命中のチャンス：§Y$VAL$%§W;;;;;;;;;;;;x
+NAVAL_COMBAT_HIT_CHANCE_DESC_EVA;(交戦相手の回避率§R$VAL$%§Wによって減少);;;;;;;;;;;;x
+MOBILIZATION_PROGRESS_PAUSED;§Y$PROV$§Wの動員募集はすぐに開始します。;;;;;;;;;;;;x
+MOBILIZATION_PROGRESS_PENDING;現在の動員の進行は§Y$PROG$%§Wです;;;;;;;;;;;;x
+MOBILIZATION_PROGRESS_NOT_MOBILIZED;動員には時間がかかりますが、先進的な鉄道網は行程を加速させます。;;;;;;;;;;;;x
+COLONY_ADD_INFLUENCE;植民地の影響力を増加;;;;;;;;;;;;x
+EVTNAME20100;$STATE$の緊張;;;;;;;;;;;;x
+EVTDESC20100;最近、国際社会では、いわゆる「$STATE$の貧しい抑圧された人々の苦悩」が注目されつつあります。国際社会において、我が国が長い間彼らを抑圧しており、彼らは我々の慈悲深い支配から解放されることを切望しているとの主張がなされているのです。もちろん、我が国は$STATE$の規則に外野が口出しすることなど望みません。;;;;;;;;;;;;x
+EVTOPTA20100;ありえない！;;;;;;;;;;;;x
+EVTOPTB20100;このことについて話し合うべきかもしれない...;;;;;;;;;;;;x
+EVTNAME20101;$STATE$の緊張;;;;;;;;;;;;x
+EVTDESC20101;最近、国際社会では、いわゆる「$STATE$の貧しい抑圧された人々の苦悩」が注目されつつあります。我が国には、その地域を支配する正当な権利がないとの主張がなされており、近くの列強は関心を持ち始めています。;;;;;;;;;;;;x
+EVTOPTA20101;$STATE$は我が国のものだ！;;;;;;;;;;;;x
+EVTOPTB20101;彼らの主張を認めよう。;;;;;;;;;;;;x
+EVTNAME20102;$CRISISAREA$危機;;;;;;;;;;;;x
+EVTDESC20102;$CRISISAREA$に対する紛争は現在、国際的な危機に発展しています。$CRISISTAKER$は自国の不可欠な地域と主張しているが、$CRISISTARGET$は彼らのいかなる主張も否定し、ステートは自国の支配下に置かれねばならないと主張しています。最近の会議上、我が国の大使がいくつもの好戦的発言をして、全出席者を激怒させました。\n我が国は彼の立場を支持するか、或いは彼の言動について謝罪し、発言を否認すべきでしょうか？;;;;;;;;;;;;x
+EVTOPTA20102;彼の言う通り、戦争のみがこれを解決するだろう！;;;;;;;;;;;;x
+EVTOPTB20102;彼の話に耳を傾けないで下さい！;;;;;;;;;;;;x
+EVTNAME20103;$CRISISTAKER$の命運;;;;;;;;;;;;x
+EVTDESC20103;$CRISISTAKER$の人々の行く末について、最近大きな国際的危機となっています。現在、$CRISISTARGET$がこの地域を支配していますが、$CRISISTAKER$の反乱軍や愛国者は、解放のために多大な努力を払っています。もちろん列強として我が国も大使を派遣し$CRISISTAKER$の行く末について協議してきましたが、残念ながら大使は通常よりも酔っぱらって直近の会議に現れ「我々に従わない参加国には、叩きのめして問題解決する用意がある」と宣言してしまいました。当然のことながら状況はエスカレートしており、大使の言動を否定することで引き下がることは可能ですが、それは国家として最も恥ずべきことです。;;;;;;;;;;;;x
+EVTOPTA20103;我が国の剣をちらつかせろ！;;;;;;;;;;;;x
+EVTOPTB20103;その莫迦をクビにしろ！;;;;;;;;;;;;x
+EVTNAME20104;$CRISISAREA$危機;;;;;;;;;;;;x
+EVTDESC20104;$CRISISAREA$をめぐる紛争は現在、国際的な危機へと拡大しています。列強が問題に加担しているので、利害関係は突然変化する可能性があります。引き続き強く主張するべきか、状況を落ち着かせようとするべきか…判断は我々に委ねられています。;;;;;;;;;;;;x
+EVTOPTA20104;それは我々のものだ！;;;;;;;;;;;;x
+EVTOPTB20104;我々には議論の余地がある。;;;;;;;;;;;;x
+EVTNAME20105;$CRISISAREA$危機;;;;;;;;;;;;x
+EVTDESC20105;$CRISISTAKER$の反乱勢力が、我が国からの離脱を目指してあがいており、彼らを支援している$CRISISATTACKER$に対しては、$CRISISDEFENDER$が軍事力によって我々の大義を支援してくれることに期待するしかありません。駐留大使には、当方の主張を強く訴えるように求めるべきか、それとも、交渉による和解に応じるようにほのめかすべきでしょうか？;;;;;;;;;;;;x
+EVTOPTA20105;我が国の主張を押し通せ！;;;;;;;;;;;;x
+EVTOPTB20105;これを巡っては争わないでおこう。;;;;;;;;;;;;x
+COLONIZE_PHASE_INTEREST;所有権を確立;;;;;;;;;;;;x
+COLONIZE_PHASE_INTEREST_DESC;植民地能力の投資で競争します。いずれかの国がレベル$LEVELS$を先取したときに、上位2ヵ国は次の競争状態に進みます。;;;;;;;;;;;;x
+COLONIZE_PHASE_INFLUENCE;植民地競争;;;;;;;;;;;;x
+COLONIZE_PHASE_INFLUENCE_DESC;一方が影響を与えることができなくなるまで、2国は植民地支配を争います。投資が行われるたびに国家の緊張は高まり、加熱しすぎると危機に陥ります。;;;;;;;;;;;;x
+COLONIZE_PHASE_COLONIZATION;植民地化;;;;;;;;;;;;x
+COLONIZE_PHASE_COLONIZATION_DESC;前フェーズの勝者が、植民地に転換するか、投資を失うまで$MONTHS$ヵ月あります。;;;;;;;;;;;;x
+TICKING_WARSCORE_DESC_GRACE;$VAL$ (残り§Y$DAY$§W日);;;;;;;;;;;;x
+TICKING_WARSCORE_DESC_GRACE_EXPLAIN;領土請求国の戦争目的§G$MIN$%§W以上が達成されると、徐々に戦勝点が増加します。\n戦争目的が§Y$DAYS$日の猶予期間§W以内に達成されなければ、代わりに領有国の戦勝点が増加します。領土請求国が占領し、領有国が奪還した場合、双方の戦勝点が徐々に§Y0§Wに戻っていきます。;;;;;;;;;;;;x
+TICKING_WARSCORE_FULFILL_TERRITORY_WG;§Gこの戦争目的の対象ステートのプロヴィンス$MIN$%以上を占領したときに達成されます。§W;;;;;;;;;;;;x
+TICKING_WARSCORE_FULFILL_TERRITORY_ANY;§G対象国に属するプロヴィンス$MIN$%以上を占領したときに達成されます。§W;;;;;;;;;;;;x
+TICKING_WARSCORE_FULFILL_BATTLE;§G一度戦ったことがあり§G$BAT$§G以上、我が国が戦闘によって、より多くの戦勝点を得たときに達成されます。§W;;;;;;;;;;;;x
+CREATE_PROTECTORATE;保護領を建設;;;;;;;;;;;;x
 JAN;ヤン・マイエン;;;;;;;;;;;;x
 JAN_ADJ;ヤン・マイエン;;;;;;;;;;;;x
 JAN_liberal;ヴェンスタ;;;;;;;;;;;;x
 JAN_conservative;保守党;;;;;;;;;;;;x
 JAN_socialist;労働党;;;;;;;;;;;;x
-JAN_anarcho_liberal;Radicals;;;;;;;;;;;;x
-JAN_communist;Communists;;;;;;;;;;;;x
+JAN_anarcho_liberal;急進党;;;;;;;;;;;;x
+JAN_communist;共産党;;;;;;;;;;;;x
 JAN_fascist;国民連合;;;;;;;;;;;;x
-COUNTRYALERT_NO_Colonial;Nothing in our colonies needs attention.;;;;;;;;;;;;x
-COUNTRYALERT_NO_Crisis;No current crisis.;;;;;;;;;;;;x
-COUNTRYALERT_Crisis;Current crisis is at a temperature of §Y$TEMPERATURE$§!;;;;;;;;;;;;x
-HAS_GOODS_IN_STATE;Producing $GOODS$ in state.;;;;;;;;;;;;x
-HAS_NO_GOODS_IN_STATE;Is not producing $GOODS$ in state.;;;;;;;;;;;;x
-MILITARY_MOBILIZE_CRISIS_IMPACT;§RMobilizing while on a side in a crisis will increase temperature and lead to war!§!;;;;;;;;;;;;x
-NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;;;;;;;;;;;;x
-AGRESSION_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Liberation;;;;;;;;;;;;x
-CANT_COLONIZE;§RUnable to colonize:§!;;;;;;;;;;;;x
-COLONIZE_LAST_INVESTMENT;We have just invested in this area. Next investment can be done after §Y$DATE$§!;;;;;;;;;;;;x
-COLONY_INVEST_COST;Cost of investment: §Y$COST$§! Colonial Power;;;;;;;;;;;;x
-COLONY_INVEST_COST_LACK;Cost of investment: §R$COST$§! Colonial Power;;;;;;;;;;;;x
-COLONIAL_INVESTMENT;Currently invested: §R$VALUE$§!;;;;;;;;;;;;x
-COLONIAL_MAINTENANCE;Power tied up in maintenance: §R$VALUE$§!;;;;;;;;;;;;x
-AVAILABLE_COLONIAL_POWER;Available: §Y$VALUE$§!;;;;;;;;;;;;x
-PW_PROTECTORATE;Protectorate;;;;;;;;;;;;x
+COUNTRYALERT_NO_Colonial;我が国の植民地で注意すべき事はありません。;;;;;;;;;;;;x
+COUNTRYALERT_NO_Crisis;現在、危機はありません。;;;;;;;;;;;;x
+COUNTRYALERT_Crisis;現在の危機は§Y$TEMPERATURE$§Wの加熱度です;;;;;;;;;;;;x
+HAS_GOODS_IN_STATE;ステートで$GOODS$を生産している;;;;;;;;;;;;x
+HAS_NO_GOODS_IN_STATE;ステートで$GOODS$を生産していない;;;;;;;;;;;;x
+MILITARY_MOBILIZE_CRISIS_IMPACT;§R危機の側にいる間に動員することは、事態を加熱させ、戦争につながるでしょう！§W;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST_COUNTRY$による自由$COUNTRY$戦争;;;;;;;;;;;;x
+AGRESSION_WAR_LIBERATE_NAME;$FIRST_COUNTRY$による$ORDER$$COUNTRY$解放戦争;;;;;;;;;;;;x
+CANT_COLONIZE;§R植民地建設不可:§W;;;;;;;;;;;;x
+COLONIZE_LAST_INVESTMENT;我が国はこの分野に投資しました。 次の投資は§Y$DATE$日§W後に行うことができます;;;;;;;;;;;;x
+COLONY_INVEST_COST;投資の費用：§Y$COST$§W植民能力;;;;;;;;;;;;x
+COLONY_INVEST_COST_LACK;投資の費用：§R$COST$§W植民能力;;;;;;;;;;;;x
+COLONIAL_INVESTMENT;現在の投資：§R$VALUE$§W;;;;;;;;;;;;x
+COLONIAL_MAINTENANCE;維持のために消費される能力：§R$VALUE$§W;;;;;;;;;;;;x
+AVAILABLE_COLONIAL_POWER;利用可能: §Y$VALUE$§W;;;;;;;;;;;;x
+PW_PROTECTORATE;保護領;;;;;;;;;;;;x
 D01;$REGION$王国;;;;;;;;;;;;x
-D01_ADJ;Kingsmen;;;;;;;;;;;;x
-D02;The Confederation of $REGION$;;;;;;;;;;;;x
-D02_ADJ;Confederate;;;;;;;;;;;;x
-D03;Commonwealth of $REGION$;;;;;;;;;;;;x
-D03_ADJ;Commonwealth;;;;;;;;;;;;x
+D01_ADJ;王国;;;;;;;;;;;;x
+D02;$REGION$連邦;;;;;;;;;;;;x
+D02_ADJ;連邦;;;;;;;;;;;;x
+D03;$REGION$連邦;;;;;;;;;;;;x
+D03_ADJ;連邦;;;;;;;;;;;;x
 D04;$REGION$共和国;;;;;;;;;;;;x
-D04_ADJ;Republican;;;;;;;;;;;;x
-D05;The $REGION$ State;;;;;;;;;;;;x
-D05_ADJ;Stateite;;;;;;;;;;;;x
+D04_ADJ;共和国;;;;;;;;;;;;x
+D05;$REGION$国;;;;;;;;;;;;x
+D05_ADJ;ステート;;;;;;;;;;;;x
 D06;$REGION$人民共和国;;;;;;;;;;;;x
-D06_ADJ;Republican;;;;;;;;;;;;x
-D07;The Free State of $REGION$;;;;;;;;;;;;x
-D07_ADJ;Freestator;;;;;;;;;;;;x
-D08;The Grand State of $REGION$;;;;;;;;;;;;x
-D08_ADJ;Grandstator;;;;;;;;;;;;x
-D09;The State of $REGION$;;;;;;;;;;;;x
-D09_ADJ;Stateite;;;;;;;;;;;;x
-D10;The Principality of $REGION$;;;;;;;;;;;;x
-D10_ADJ;Princely;;;;;;;;;;;;x
+D06_ADJ;共和国;;;;;;;;;;;;x
+D07;$REGION$自由国;;;;;;;;;;;;x
+D07_ADJ;自由国;;;;;;;;;;;;x
+D08;大$REGION$国;;;;;;;;;;;;x
+D08_ADJ;大国;;;;;;;;;;;;x
+D09;$REGION$国;;;;;;;;;;;;x
+D09_ADJ;ステート;;;;;;;;;;;;x
+D10;$REGION$公国;;;;;;;;;;;;x
+D10_ADJ;公国;;;;;;;;;;;;x
 D11;$REGION$民主共和国;;;;;;;;;;;;x
-D11_ADJ;Depublican;;;;;;;;;;;;x
-D12;The $REGION$ Union;;;;;;;;;;;;x
-D12_ADJ;Unionite;;;;;;;;;;;;x
+D11_ADJ;民主共和国;;;;;;;;;;;;x
+D12;$REGION$連邦;;;;;;;;;;;;x
+D12_ADJ;連邦;;;;;;;;;;;;x
 D13;$REGION$王国;;;;;;;;;;;;x
-D13_ADJ;Kingsmen;;;;;;;;;;;;x
+D13_ADJ;王国;;;;;;;;;;;;x
 D14;$REGION$自治領;;;;;;;;;;;;x
-D14_ADJ;Dominion;;;;;;;;;;;;x
+D14_ADJ;自治;;;;;;;;;;;;x
 D15;$REGION$大公国;;;;;;;;;;;;x
-D15_ADJ;Grandee;;;;;;;;;;;;x
-D16;The $REGION$ Nation;;;;;;;;;;;;x
-D16_ADJ;National;;;;;;;;;;;;x
-D17;The $REGION$ Federation;;;;;;;;;;;;x
-D17_ADJ;Federation;;;;;;;;;;;;x
+D15_ADJ;大公国;;;;;;;;;;;;x
+D16;$REGION$国;;;;;;;;;;;;x
+D16_ADJ;ネーション;;;;;;;;;;;;x
+D17;$REGION$連邦;;;;;;;;;;;;x
+D17_ADJ;連邦;;;;;;;;;;;;x
 D18;$REGION$合衆国;;;;;;;;;;;;x
-D18_ADJ;Union;;;;;;;;;;;;x
-D19;The Democratic Union of $REGION$;;;;;;;;;;;;x
-D19_ADJ;Union;;;;;;;;;;;;x
-D20;The Princedom of $REGION$;;;;;;;;;;;;x
-D20_ADJ;Princely;;;;;;;;;;;;x
-D21;The Union of $REGION$;;;;;;;;;;;;x
-D21_ADJ;Unionite;;;;;;;;;;;;x
+D18_ADJ;合衆国;;;;;;;;;;;;x
+D19;$REGION$民主連合;;;;;;;;;;;;x
+D19_ADJ;連合;;;;;;;;;;;;x
+D20;$REGION$公国;;;;;;;;;;;;x
+D20_ADJ;公国;;;;;;;;;;;;x
+D21;$REGION$連邦;;;;;;;;;;;;x
+D21_ADJ;連邦;;;;;;;;;;;;x
 D22;$REGION$人民民主共和国;;;;;;;;;;;;x
 D22_ADJ;PDR;;;;;;;;;;;;x
-D23;The $REGION$ Area;;;;;;;;;;;;x
-D23_ADJ;Areon;;;;;;;;;;;;x
-D24;The Glorious Union of $REGION$;;;;;;;;;;;;x
-D24_ADJ;Glorious;;;;;;;;;;;;x
-D25;Mighty $REGION$;;;;;;;;;;;;x
-D25_ADJ;Mighty;;;;;;;;;;;;x
+D23;$REGION$エリア;;;;;;;;;;;;x
+D23_ADJ;エリア;;;;;;;;;;;;x
+D24;$REGION$栄誉連合;;;;;;;;;;;;x
+D24_ADJ;栄誉連合;;;;;;;;;;;;x
+D25;大$REGION$;;;;;;;;;;;;x
+D25_ADJ;大国;;;;;;;;;;;;x
 D26;$REGION$自由国;;;;;;;;;;;;x
-D26_ADJ;Freestator;;;;;;;;;;;;x
-D27;The $REGION$ Commonwealth;;;;;;;;;;;;x
-D27_ADJ;Commonwealth;;;;;;;;;;;;x
-D28;The $REGION$ Confederacy;;;;;;;;;;;;x
-D28_ADJ;Confederate;;;;;;;;;;;;x
-D29;The Free People of $REGION$;;;;;;;;;;;;x
-D29_ADJ;Freepeople;;;;;;;;;;;;x
+D26_ADJ;自由国;;;;;;;;;;;;x
+D27;$REGION$連邦;;;;;;;;;;;;x
+D27_ADJ;連邦;;;;;;;;;;;;x
+D28;$REGION$連邦;;;;;;;;;;;;x
+D28_ADJ;連邦;;;;;;;;;;;;x
+D29;$REGION$自由人民国;;;;;;;;;;;;x
+D29_ADJ;自由人民国;;;;;;;;;;;;x
 D30;$REGION$共和国;;;;;;;;;;;;x
-D30_ADJ;Republican;;;;;;;;;;;;x
-D31;The Holy Union of $REGION$;;;;;;;;;;;;x
-D31_ADJ;Zealot;;;;;;;;;;;;x
-D32;The People's Union of $REGION$;;;;;;;;;;;;x
-D32_ADJ;Unionite;;;;;;;;;;;;x
-D33;The Federal States of $REGION$;;;;;;;;;;;;x
-D33_ADJ;Federation;;;;;;;;;;;;x
-D34;The $REGION$ Federal State;;;;;;;;;;;;x
-D34_ADJ;Federation;;;;;;;;;;;;x
-D35;The $REGION$ Confederation;;;;;;;;;;;;x
-D35_ADJ;Confederate;;;;;;;;;;;;x
-D36;The $REGION$ Federation;;;;;;;;;;;;x
-D36_ADJ;Federation;;;;;;;;;;;;x
-D37;The Pious Union of $REGION$;;;;;;;;;;;;x
-D37_ADJ;Pious;;;;;;;;;;;;x
-D38;$REGION$ Land;;;;;;;;;;;;x
-D38_ADJ;Lander;;;;;;;;;;;;x
-D39;The Most Serene Republic of $REGION$;;;;;;;;;;;;x
-D39_ADJ;Serene;;;;;;;;;;;;x
-D40;The Secret Kingdom of $REGION$;;;;;;;;;;;;x
-D40_ADJ;Secret;;;;;;;;;;;;x
+D30_ADJ;共和国;;;;;;;;;;;;x
+D31;神聖$REGION$連邦;;;;;;;;;;;;x
+D31_ADJ;神聖連邦;;;;;;;;;;;;x
+D32;$REGION$人民連合;;;;;;;;;;;;x
+D32_ADJ;人民連合;;;;;;;;;;;;x
+D33;$REGION$連邦;;;;;;;;;;;;x
+D33_ADJ;連邦;;;;;;;;;;;;x
+D34;$REGION$連邦;;;;;;;;;;;;x
+D34_ADJ;連邦;;;;;;;;;;;;x
+D35;$REGION$連邦;;;;;;;;;;;;x
+D35_ADJ;連邦;;;;;;;;;;;;x
+D36;$REGION$連邦;;;;;;;;;;;;x
+D36_ADJ;連邦;;;;;;;;;;;;x
+D37;敬虔なる$REGION$連合;;;;;;;;;;;;x
+D37_ADJ;敬虔連合;;;;;;;;;;;;x
+D38;$REGION$ランド;;;;;;;;;;;;x
+D38_ADJ;ランド;;;;;;;;;;;;x
+D39;最も高貴なる$REGION$共和国;;;;;;;;;;;;x
+D39_ADJ;高貴なる共和国;;;;;;;;;;;;x
+D40;秘密の王国$REGION$;;;;;;;;;;;;x
+D40_ADJ;秘密王国;;;;;;;;;;;;x
 D41;$REGION$・コミューン;;;;;;;;;;;;x
-D41_ADJ;Communist;;;;;;;;;;;;x
+D41_ADJ;コミューン;;;;;;;;;;;;x
 D42;$REGION$・コミューン;;;;;;;;;;;;x
-D42_ADJ;Communist;;;;;;;;;;;;x
-D43;The Worker's Union of $REGION$;;;;;;;;;;;;x
-D43_ADJ;Worker;;;;;;;;;;;;x
+D42_ADJ;コミューン;;;;;;;;;;;;x
+D43;$REGION$労働者連邦;;;;;;;;;;;;x
+D43_ADJ;労働者連邦;;;;;;;;;;;;x
 D44;$REGION$方伯;;;;;;;;;;;;x
-D44_ADJ;Landgravine;;;;;;;;;;;;x
-D45;The Nation of $REGION$;;;;;;;;;;;;x
-D45_ADJ;Nationite;;;;;;;;;;;;x
-D46;Holy $REGION$;;;;;;;;;;;;x
-D46_ADJ;Zealous;;;;;;;;;;;;x
+D44_ADJ;伯;;;;;;;;;;;;x
+D45;$REGION$国;;;;;;;;;;;;x
+D45_ADJ;ネーション;;;;;;;;;;;;x
+D46;神聖$REGION$;;;;;;;;;;;;x
+D46_ADJ;神聖国;;;;;;;;;;;;x
 D47;$REGION$自治領;;;;;;;;;;;;x
-D47_ADJ;Dominator;;;;;;;;;;;;x
-D48;The People's State of $REGION$;;;;;;;;;;;;x
-D48_ADJ;Popular;;;;;;;;;;;;x
-D49;The High Kingdom of $REGION$;;;;;;;;;;;;x
-D49_ADJ;Highest;;;;;;;;;;;;x
-D50;The Lesser Duchy of $REGION$;;;;;;;;;;;;x
-D50_ADJ;Duchy;;;;;;;;;;;;x
+D47_ADJ;自治;;;;;;;;;;;;x
+D48;$REGION$人民国;;;;;;;;;;;;x
+D48_ADJ;人民国;;;;;;;;;;;;x
+D49;$REGION$上級王国;;;;;;;;;;;;x
+D49_ADJ;上級王国;;;;;;;;;;;;x
+D50;$REGION$小公国;;;;;;;;;;;;x
+D50_ADJ;小公国;;;;;;;;;;;;x
 dominion_conservative;保守党;;;;;;;;;;;;x
-dominion_reactionary;The Old Guard;;;;;;;;;;;;x
+dominion_reactionary;保守派;;;;;;;;;;;;x
 dominion_liberal;自由党;;;;;;;;;;;;x
-dominion_anarcho_liberal;The Freedom Party;;;;;;;;;;;;x
+dominion_anarcho_liberal;解放党;;;;;;;;;;;;x
 dominion_socialist;社会党;;;;;;;;;;;;x
 dominion_communist;共産党;;;;;;;;;;;;x
-dominion_fascist;The Imperial Party;;;;;;;;;;;;x
-PW_UPGRADE_TO_COLONY;Click to convert to upgrade to colony. You need §Y$VALUE$§! colonial power points free to do this.;;;;;;;;;;;;x
-PW_CANT_UPGRADE_TO_COLONY;Upgrading to colony cost §R$VALUE$§! colonial power points.;;;;;;;;;;;;x
-PW_CANT_UPGRADE_TO_STATE;Incorporating as a state cost §R$VALUE$§! colonial power points.;;;;;;;;;;;;x
-CREATE_DOMINION;Release Dominion;;;;;;;;;;;;x
-CANT_CREATE_PROTECTORATE_COST;You need to have §R$VALUE$§! free colonial power points to create a protectorate.;;;;;;;;;;;;x
-torpedo_attacks_desc;The torpedo is a self-propelled weapon with an explosive warhead, launched above or below the water surface, propelled underwater towards a target, and designed to detonate either on contact with its target or in proximity to it. Launched from a small ship, it can be deadly to even the largest warships.;;;;;;;;;;;;x
+dominion_fascist;帝国党;;;;;;;;;;;;x
+PW_UPGRADE_TO_COLONY;クリックして植民地に昇格変換します。 これを行うには、§Y$VALUE$§Wの植民能力ポイントが必要です。;;;;;;;;;;;;x
+PW_CANT_UPGRADE_TO_COLONY;植民地に昇格させるには、§R$VALUE$§W植民能力ポイント必要です。;;;;;;;;;;;;x
+PW_CANT_UPGRADE_TO_STATE;ステートとして組み込むには、§R$VALUE$§W植民能力ポイント必要です。;;;;;;;;;;;;x
+CREATE_DOMINION;領土を解放;;;;;;;;;;;;x
+CANT_CREATE_PROTECTORATE_COST;保護領を作成するには§R$VALUE$§Wの未使用植民能力ポイントが必要です。;;;;;;;;;;;;x
+torpedo_attacks_desc;魚雷は、爆発性の弾頭を持ち、水面上または水面下に発射、目標に向かって水中を推進し、接触時または近くで爆発するように設計された自走兵器です。小型船であっても、最大級の軍艦に致命傷を与える可能性があります。;;;;;;;;;;;;x

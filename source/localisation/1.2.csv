@@ -178,7 +178,7 @@ REVOLTALLIANCE_SETUP;ある国が革命のために我々との同盟を破棄�
 REVOLTALLIANCE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 REVOLTALLIANCE_1;外国で革命！;;;;;;;;;;;;x
 REVOLTALLIANCE_2;$MONARCHTITLE$国の;;;;;;;;;;;;x
-REVOLTALLIANCE_3;§Y$ACTOR$§W;;;;;;;;;;;;x
+REVOLTALLIANCE_3;§Y$ACTOR$§Wで;;;;;;;;;;;;x
 REVOLTALLIANCE_4;革命が発生しました！;;;;;;;;;;;;x
 REVOLTALLIANCE_5;彼らと我々の同盟はすべて破棄され、そこにかけた影響力は無駄になりました。;;;;;;;;;;;;x
 REVOLTALLIANCE_6;*;;;;;;;;;;;;x

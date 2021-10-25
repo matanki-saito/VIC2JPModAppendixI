@@ -1,259 +1,259 @@
 ﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-AI_FEARS_US_TITLE1;$TAG_0_0_UPPER$ FEARS OUR MIGHT!;;;;;;;;;;;;x
-AI_FEARS_US_DESC1_LONG;Reports of rumours are coming in from our correspondent in $TAG_0_0$. An unnamed source informs that a series of meetings involving top military officers have taken place in their capital in the last few months. The top theme of these meetings involves a possible fictitious scenario where war is declared and our military invades them. Measures of counter-attack and, if needed, even guerrilla warfare methods were discussed. Apparently the top command of the $TAG_0_0_ADJ$ army is preparing for the worst. It seems we are feared by them!;;;;;;;;;;;;x
-AI_FEARS_US_DESC1_MEDIUM;An unnamed source in $TAG_0_0$ reports that the government there is preparing for the worst. A fictitious scenario involving a war declaration by our country against them is deemed possible, and top military officers consider our military might frightening!;;;;;;;;;;;;x
-AI_FEARS_US_DESC1_SHORT;Reports are coming in from an unnamed source in $TAG_0_0$ of a series of military meetings in their capital. It seems they deem an invasion by our troops a serious possibility! ;;;;;;;;;;;;x
-AI_FEARS_US_TITLE2;$TAG_0_0$ fears we are coming!;;;;;;;;;;;;x
-AI_FEARS_US_DESC2_LONG;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! A detailed analysis of the chilly relations between our countries and a careful comparison of our relative military strengths led the editor to the conclusion that our countries might soon find themselves in a state of war, and when that day comes, $TAG_0_0$'s very existence might be threatened. The elite and the commoners alike, the citizens of $TAG_0_0$ demand their government to seek alliance with a greater power to diminish the unavoidable threat we are posing.;;;;;;;;;;;;x
-AI_FEARS_US_DESC2_MEDIUM;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! A detailed analysis of the chilly relations between our countries led the editor to the conclusion that absent new guarantees, our countries might soon find themselves in a state of war.;;;;;;;;;;;;x
-AI_FEARS_US_DESC2_SHORT;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! Analysis of chilly relations between our countries led the editor to the conclusion that war might be unavoidable.;;;;;;;;;;;;x
-AI_FEARS_US_TITLE3;$TAG_0_0_ADJ$ insults!;;;;;;;;;;;;x
-AI_FEARS_US_DESC3_LONG;Prejudice and hatred reign in $TAG_0_0$. The growing chorus of insults reached new lows on Monday as the $TAG_0_0_ADJ$ foreign minister slapped our ambassador on the lawn of our embassy in $TAG_0_0$. When asked for comment, our minister for foreign affairs said that this was 'More proof, as if any was needed, that they cannot be trusted to behave in a civilised manner. Savages and cads govern in $TAG_0_0$, and the sooner these wretches are rooted out the better'. Diplomatic channels remain open for now, but war may be inevitable.;;;;;;;;;;;;x
-AI_FEARS_US_DESC3_MEDIUM;Prejudice and hatred reign supreme in $TAG_0_0$. On Monday the $TAG_0_0_ADJ$ foreign minister slapped our ambassador. Our minister for foreign affairs said that 'savages and cads govern in $TAG_0_0$, and the sooner these wretches are rooted out, the better'.;;;;;;;;;;;;x
-AI_FEARS_US_DESC3_SHORT;On Monday the $TAG_0_0_ADJ$ foreign minister slapped our ambassador. Savages and bounders govern in $TAG_0_0$, and the sooner these wretches are rooted out, the better.;;;;;;;;;;;;x
+AI_FEARS_US_TITLE1;$TAG_0_0$、我が国の力を恐れる！;;;;;;;;;;;;x
+AI_FEARS_US_DESC1_LONG;駐$TAG_0_0$特派員からの報告によると、過去数ヵ月にわたり軍最高幹部を含む一連の会議が首都で開催された模様。これら会議の主要テーマは、宣戦布告され、我が軍が侵攻してくる可能性を含む架空のシナリオである。対抗措置や、必要に迫られればゲリラ戦に持ち込む方法さえ議論された。$TAG_0_0$軍最高司令官は最悪の状況に備えているらしい。彼らは我が国に恐れをなしているようだ！;;;;;;;;;;;;x
+AI_FEARS_US_DESC1_MEDIUM;$TAG_0_0$の匿名情報筋は、政府が最悪の状況に備えていると報じている。我が国からの宣戦布告を含む架空のシナリオの可能性を想定、軍の最高幹部は我が軍の力が恐ろしいと考えている！;;;;;;;;;;;;x
+AI_FEARS_US_DESC1_SHORT;$TAG_0_0$の匿名の情報筋からの報告によると、首都で一連の軍事会議が行われている模様。彼らは我が軍に侵攻される可能性を深刻に考えているようだ！;;;;;;;;;;;;x
+AI_FEARS_US_TITLE2;$TAG_0_0$、我が国の襲来を恐れる！;;;;;;;;;;;;x
+AI_FEARS_US_DESC2_LONG;先日、$TAG_0_0$の新聞に載った記事が、かの国に衝撃を与えている。我が国との冷え切った関係の詳細な分析と相対的な軍事力の慎重な比較により、両国がまもなく戦争状態に陥り、そしてその日が来れば$TAG_0_0$の存在そのものが脅かされるであろう、との結論を導き出したからである。エリート層も平民層も$TAG_0_0$市民は異口同音に、避けられない脅威を減らすため、より強大な国との同盟を政府に要求している。;;;;;;;;;;;;x
+AI_FEARS_US_DESC2_MEDIUM;先日、$TAG_0_0$の新聞に載った記事が、かの国に衝撃を与えている。編集者が、我が国との冷え切った関係を詳細に分析した結果、新たな安全保障策がなければ、遠からず両国が戦争状態に陥る可能性があると結論付けたからである。;;;;;;;;;;;;x
+AI_FEARS_US_DESC2_SHORT;先日、$TAG_0_0$の新聞に載った記事が、かの国に衝撃を与えている。我が国との冷え切った関係を分析した結果、戦争は避けられないと結論付けたからである。;;;;;;;;;;;;x
+AI_FEARS_US_TITLE3;$TAG_0_0$が侮辱！;;;;;;;;;;;;x
+AI_FEARS_US_DESC3_LONG;偏見と憎悪が$TAG_0_0$を覆っている。月曜日には、$TAG_0_0$の外相が在$TAG_0_0$大使館の芝生の上で我が国の大使を平手打ちしたことで、侮辱の大合唱が高まり、新たな段階に達した。コメントを求められた時、我が国の外務大臣は「これこそ彼らが文明的な振る舞いをするなどと信用できない何よりの証拠だ」と述べて、「$TAG_0_0$は野蛮人と恥知らずが支配している、これら哀れな者たちを一刻も早く根絶した方が良い」と語った。外交ルートは今のところ開かれたままだが、もはや戦争は避けられないかもしれない。;;;;;;;;;;;;x
+AI_FEARS_US_DESC3_MEDIUM;偏見と憎悪が$TAG_0_0$を覆っている。月曜日に、$TAG_0_0$の外相が我が国の大使を平手打ちしたのだ。我が国の外務大臣は「$TAG_0_0$は野蛮人と恥知らずが支配している、これら哀れな者たちを一刻も早く根絶した方が良い」と語った。;;;;;;;;;;;;x
+AI_FEARS_US_DESC3_SHORT;月曜に$TAG_0_0$の外相が我が国の大使を平手打ちした。$TAG_0_0$は野蛮人と恥知らずが支配しており、一刻も早く根絶された方が良い。;;;;;;;;;;;;x
 AI_FEARS_OTHER_TITLE1;$TAG_0_0$の恐怖;;;;;;;;;;;;x
-AI_FEARS_OTHER_DESC1_LONG;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! A detailed analysis of their chilly relations with $TAG_0_1$ and a comparison of their relative military strengths led the editor to the conclusion that both countries might soon find themselves in a state of war, and when that day comes, $TAG_0_0$'s very existence might be threatened. The elite and the commoners alike, the citizens of $TAG_0_0$ demand their government to seek alliances to diminish the unavoidable threat the $TAG_0_1_ADJ$ pose.;;;;;;;;;;;;x
-AI_FEARS_OTHER_DESC1_MEDIUM;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! A detailed analysis of their chilly relations with $TAG_0_1$ led the editor to the conclusion that absent new guarantees, both countries might soon find themselves in the state of war.;;;;;;;;;;;;x
-AI_FEARS_OTHER_DESC1_SHORT;A recent article in a $TAG_0_0_ADJ$ newspaper startled their nation! Analysis of their chilly relations with $TAG_0_1$ led to the conclusion that war might be unavoidable.;;;;;;;;;;;;x
+AI_FEARS_OTHER_DESC1_LONG;先日、$TAG_0_0$の新聞に載った記事が、かの国に衝撃を与えている。$TAG_0_1$との冷え切った関係の詳細な分析と相対的な軍事力の慎重な比較により、両国がまもなく戦争状態に陥り、そしてその日が来れば$TAG_0_0$の存在そのものが脅かされるであろう、との結論を導き出したからである。エリート層も平民層も$TAG_0_0$市民は異口同音に、避けられない脅威を減らすため、より強大な国との同盟を政府に要求している。;;;;;;;;;;;;x
+AI_FEARS_OTHER_DESC1_MEDIUM;先日、$TAG_0_0$の新聞に載った記事が、全土に衝撃を与えている。編集者が$TAG_0_1$との冷え切った関係を詳細に分析した結果、新たな安全保障策がなければ、遠からず両国が戦争状態に陥る可能性があると結論付けたからである。;;;;;;;;;;;;x
+AI_FEARS_OTHER_DESC1_SHORT;先日、$TAG_0_0$の新聞に載った記事が、全土に衝撃を与えている。$TAG_0_1$との冷え切った関係を分析した結果、戦争は避けられないとの結論付けたからである。;;;;;;;;;;;;x
 AI_FEARS_OTHER_TITLE2;$TAG_0_0$の恐怖;;;;;;;;;;;;x
 AI_FEARS_OTHER_DESC2_LONG;$TAG_0_0_ADJ$政界内部からの報告によると全ての高官に深刻な不安と恐怖が広がっているようだ。$TAG_0_1$との対立が国際紛争を引き起こし、$TAG_0_0$は力を失うかもしれないと多くが予測している。それ故に彼らは戦争が起きる可能性を考慮して具体的な準備をしていると噂されている。恐怖は民衆にも広がっているらしく悲惨な敗北という最悪の結果も予想されている。;;;;;;;;;;;;x
-AI_FEARS_OTHER_DESC2_MEDIUM;The mood of $TAG_0_0_ADJ$ officials is one of frightful apprehension when it comes to the actions of $TAG_0_1$. Being ever watchful of their actions, many fear that an eventual war between both countries will result in a cruel defeat to $TAG_0_0$.;;;;;;;;;;;;x
-AI_FEARS_OTHER_DESC2_SHORT;Through local press reports, it seems the $TAG_0_0_ADJ$ population and government are suffering from a widespread fear of $TAG_0_1$'s military power. More on page 4.;;;;;;;;;;;;x
-AI_LOVES_US_TITLE1;$TAG_0_0$: Our best friend;;;;;;;;;;;;x
-AI_LOVES_US_DESC1_LONG;Have you ever considered fellow $TAG_0_0_ADJ$ citizens your best friends? Perhaps. However, it certainly seems they consider us as a target, not to fight against, but to befriend! A series of diplomats and envoys in our capital have been outspoken in their support for an alliance between our two great nations, should war break out. 'It is no wonder that we must pledge support to each other in these troubled times. When everyone around you is at each other's throats, a friend in need is a friend indeed!' said a diplomat in an interview.;;;;;;;;;;;;x
-AI_LOVES_US_DESC1_MEDIUM;$TAG_0_0_ADJ$ diplomats in our capital are outspoken in their support for an alliance between our two great nations. According to governmental sources, relations between us and them are at an all time high and may even lead to a mutual pledge of military support soon.;;;;;;;;;;;;x
-AI_LOVES_US_DESC1_SHORT;The relations between the $TAG_0_0_ADJ$ government and ours have never been better. Political analysts say that they consider us as a potential ally and friend for peace and war.;;;;;;;;;;;;x
-AI_LOVES_US_TITLE2;$TAG_0_0$ stands with us!;;;;;;;;;;;;x
-AI_LOVES_US_DESC2_LONG;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of amiable relations between our countries. Calling on numerous examples of peaceful cooperation based on trust and friendship, the editor declared both our nations to stand as friends and brothers. Using words like 'trustworthy', 'reliable' and 'steadfast' to describe our relations, the newspaper encouraged $TAG_0_0$'s government to continue aligning themselves with our policies to pursue common interests and goals, and to strengthen mutual guarantees and assurances.;;;;;;;;;;;;x
-AI_LOVES_US_DESC2_MEDIUM;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of amiable relations between our countries. Calling on numerous examples of peaceful cooperation based on trust and friendship, the editor declared both our nations to stand as friends and brothers.;;;;;;;;;;;;x
-AI_LOVES_US_DESC2_SHORT;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of amiable relations between our nations. Editor encouraged their government to continue aligning themselves with our policies.;;;;;;;;;;;;x
-AI_LOVES_US_TITLE3;$TAG_0_0$ knows its place!;;;;;;;;;;;;x
-AI_LOVES_US_DESC3_LONG;"Common sense is the order of the day in $TAG_0_0$, as their government and people continue to be enamoured with all things $OURCOUNTRY_ADJ$. In the political, military and cultural spheres, our obviously apparent superiority is readily acknowledged by the snivelling wretches. The $TAG_0_0_ADJ$ foreign minister, in a shameful attempt to ingratiate himself with our elites, said ""We welcome the paternal and guiding hand of $OURCOUNTRY_ADJ$. Long may our countries' friendship continue, to our mutual benefit"". Whether that will be the case remains to be seen.";;;;;;;;;;;;x
-AI_LOVES_US_DESC3_MEDIUM;Common sense is the order of the day in the $TAG_0_0_ADJ$ capital, as their government and people continue to be enamoured with all things $OURCOUNTRY_ADJ$. In the political, military and cultural spheres, our obvious superiority is acknowledged by the wretches.;;;;;;;;;;;;x
-AI_LOVES_US_DESC3_SHORT;The $TAG_0_0_ADJ$ government and people continue to be enamoured with $OURCOUNTRY$. In all spheres, our obvious superiority is readily acknowledged.;;;;;;;;;;;;x
+AI_FEARS_OTHER_DESC2_MEDIUM;$TAG_0_1$のふるまいについて、$TAG_0_0$政府高官の気分は憂慮一色だ。かの国の動静を常に注視しているので、両国間の戦争の結果、$TAG_0_0$の無残な敗北を恐れる声が多いのである。;;;;;;;;;;;;x
+AI_FEARS_OTHER_DESC2_SHORT;地元の報道を通じて$TAG_0_0$の政府や民衆は、広まった$TAG_0_1$の軍事力の恐怖に苦しんでいるようである。詳細は4面;;;;;;;;;;;;x
+AI_LOVES_US_TITLE1;$TAG_0_0$は我が国最良の友邦;;;;;;;;;;;;x
+AI_LOVES_US_DESC1_LONG;$TAG_0_0$の人々を親友と考えたことは？あるのかもしれない。しかし彼らは確かに我が国を、戦うためではなく友好のための目標と見なしているようだ！外交官や使節団が我が国の首都に来訪し、戦争が起こった場合には、両国の同盟を支持する発言をしている。「この困難な時代に相互に支援を誓わなければならないのも不思議ではない。貴国の周辺国は互いに敵意を抱いている。まさかの時の友こそ真の友である!」と外交官はインタビューで語った。;;;;;;;;;;;;x
+AI_LOVES_US_DESC1_MEDIUM;我が国首都に駐在する$TAG_0_0$外交官らは、二国間同盟の支持を率直に語っている。政府筋によると、両国関係はかつてないほど深く、近いうちに相互軍事支援を約束することさえありうるという。;;;;;;;;;;;;x
+AI_LOVES_US_DESC1_SHORT;$TAG_0_0$政府と我が国の関係はこれまでにないほど良くなった。政治評論家によれば、かの国は我が国を平時と戦時を問わず潜在的盟友だと考えているという。;;;;;;;;;;;;x
+AI_LOVES_US_TITLE2;$TAG_0_0$は我が国と共にある！;;;;;;;;;;;;x
+AI_LOVES_US_DESC2_LONG;$TAG_0_0$の新聞に、我が国との良好な関係を描き出す記事が掲載された。その記事の書き手は、信頼と友情に基づく平和的な協力の例を数多く挙げ、両国が友人・兄弟であることを宣言した。同紙は「信用できる・信頼できる・不動」などの言葉を使って両国関係を説明し、$TAG_0_0$政府が共通の利益と目標を追求し、相互の保証を強化するために我が国の利益と目標との協調を継続するよう促した。;;;;;;;;;;;;x
+AI_LOVES_US_DESC2_MEDIUM;$TAG_0_0$の新聞に、我が国との良好な関係を描き出す記事が掲載された。その記事の書き手は、信頼と友情に基づく平和的な協力の例を数多く挙げ、両国が友人・兄弟であることを宣言した。;;;;;;;;;;;;x
+AI_LOVES_US_DESC2_SHORT;$TAG_0_0$の新聞に、我が国との良好な関係を描き出す記事が掲載された。その記事の書き手は、自国政府が我が国の政策との協調を継続するよう促した。;;;;;;;;;;;;x
+AI_LOVES_US_TITLE3;$TAG_0_0$は自身の立場を知っている！;;;;;;;;;;;;x
+AI_LOVES_US_DESC3_LONG;$TAG_0_0$にも世間の常識が広まったようだ。政府や国民が$OURCOUNTRY$に夢中になり続けているからである。政治・軍事・文化の分野における我が国の明らかな優越性は、哀れな愚民といえども認めざるを得ないようだ。$TAG_0_0$の外相は、我が国の上層部に恩を着せようとする恥ずかしい言動として「我々は$OURCOUNTRY$の父親のような指導を歓迎する」「両国の友好関係が長く続き、お互いの利益になりますように」と述べた。そうなるかどうかはまだ分からない。;;;;;;;;;;;;x
+AI_LOVES_US_DESC3_MEDIUM;$TAG_0_0$の首都にも世間の常識が広まったようだ。政府や国民が$OURCOUNTRY$全てのものに魅了され続けているからである。政治・軍事・文化の分野における我が国の明白な優越性は、哀れな愚民といえども認めざるを得ないようだ。;;;;;;;;;;;;x
+AI_LOVES_US_DESC3_SHORT;$TAG_0_0$の政府や国民は$OURCOUNTRY$に魅了され続けている。勢力圏内の全てにおいて、我が国の明らかな優越性は容易に認めざるを得ないからだ。;;;;;;;;;;;;x
 AI_LOVES_OTHER_TITLE1;$TAG_0_0$の関係;;;;;;;;;;;;x
 AI_LOVES_OTHER_DESC1_LONG;$TAG_0_0_ADJ$の新聞の記事には$TAG_0_1$との友好関係が描かれている。記者は信頼と友情に基づく平和的協力の数々の事例を引き合いに出し、両国は友人であり兄弟であると断言した。記事は「信頼できる 」、「確固たる 」、「頼もしい」などの言葉を使って彼らとの関係を説明している。新聞は共通の利益を追求し、相互の結束と保証を強化するために$TAG_0_1$の政策と連携し続けるよう$TAG_0_0$政府に促した。;;;;;;;;;;;;x
-AI_LOVES_OTHER_DESC1_MEDIUM;An article in a $TAG_0_0_ADJ$ newspaper paints a picture of their amiable relations with $TAG_0_1$. Calling on numerous examples of peaceful cooperation based on trust and friendship, the editor declared both nations to stand as friends and brothers.;;;;;;;;;;;;x
+AI_LOVES_OTHER_DESC1_MEDIUM;$TAG_0_0$の新聞に、$TAG_0_1$との良好な関係を描き出す記事が掲載された。その記事の書き手は、信頼と友情に基づく平和的な協力の例を数多く挙げ、両国が友人・兄弟であることを宣言した。;;;;;;;;;;;;x
 AI_LOVES_OTHER_DESC1_SHORT;$TAG_0_0_ADJ$の新聞の記事には$TAG_0_1$との友好関係が描かれている。記者は$TAG_0_1$との連盟を維持するよう要請した。;;;;;;;;;;;;x
 AI_LOVES_OTHER_TITLE2;$TAG_0_0_ADJ$と$TAG_0_1_ADJ$の関係;;;;;;;;;;;;x
-AI_LOVES_OTHER_DESC2_LONG;Although history might have put our two countries at odds sometimes, it is clear that fate herself decided to bring us together!', said the $TAG_0_0_ADJ$ government spokesman yesterday in their nation's capital, referring to the recent increase of cooperation with $TAG_0_1$. The abolition of some custom duties between both lands last year and the frequent visits of ambassadors from $TAG_0_0$ seem to show that a guarantee of friendship through a military alliance is indeed a solid possibility.;;;;;;;;;;;;x
+AI_LOVES_OTHER_DESC2_LONG;「歴史上、両国は時折対立して来たかもしれないが、運命が我々を団結させるように決めたことは明らかだ！」昨日、$TAG_0_0$政府広報担当者は、首都において、$TAG_0_1$との協力関係が高まっていることに言及した。昨年の両国間のいくつかの関税撤廃と$TAG_0_0$大使の頻繁な訪問は、軍事同盟を通じた友情の保証が確かであることを示しているのかもしれない。;;;;;;;;;;;;x
 AI_LOVES_OTHER_DESC2_MEDIUM;昨日、$TAG_0_1_ADJ$首都での首脳会談で$TAG_0_0_ADJ$の外交官達の笑顔が見られた。「$TAG_0_1$は昔からの味方だ 」と、ある$TAG_0_0_ADJ$の職員が言及した。政治アナリストたちは近く同盟協定が調印されるかもしれないと予測している。;;;;;;;;;;;;x
 AI_LOVES_OTHER_DESC2_SHORT;「$TAG_0_1_ADJ$の兄弟たちと繁栄の未来を！」は$TAG_0_0_ADJ$の与党の最新のスローガンだ。これは将来の軍事同盟の兆候だと多くの人が噂している。;;;;;;;;;;;;x
 OTHER_NEW_GP_TITLE1;$TAG_0_1$の台頭;;;;;;;;;;;;x
-OTHER_NEW_GP_DESC_LONG1;Following $TAG_0_0$'s decline, $TAG_0_1$ assumes higher standing among the nations of the world by ascending to the position of one of the great powers. Many a proof of $TAG_0_0$'s struggling economy, feeble military and waning prestige unveiled over the recent months, as their allies couldn't rely on their assistance and their government became a subject to foreign ploys. Their fall from the ranks of the worthy comes as benefit to $TAG_0_1$, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;;;;;;;;;;;;x
-OTHER_NEW_GP_DESC_MEDIUM1;Following $TAG_0_0$'s persisting decline, $TAG_0_1$ assumes higher standing among the nations of the world by ascending to the position of one of the great powers, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;;;;;;;;;;;;x
-OTHER_NEW_GP_DESC_SHORT1;Following $TAG_0_0$'s persisting decline, $TAG_0_1$ assumes higher standing among the nations of the world by ascending to the position of one of the great powers.;;;;;;;;;;;;x
-WE_BECOME_GP_TITLE1;We benefit from $TAG_0_0$'s decline;;;;;;;;;;;;x
-WE_BECOME_GP_DESC_LONG1;Following $TAG_0_0$'s decline, we assume our rightful standing among the nations of the world by ascending to the position of one of the great powers. Many a proof of $TAG_0_0$'s struggling economy, feeble military and waning prestige unveiled over the recent months, as their allies couldn't rely on their assistance and their government became subject to foreign ploys. Their demise from the ranks of the worthy comes as benefit to us, with our global influence and leadership replacing theirs, proving that nature does not tolerate a vacuum.;;;;;;;;;;;;x
-WE_BECOME_GP_DESC_MEDIUM1;Following $TAG_0_0$'s decline, we assume our rightful standing among the nations of the world by ascending to the position of one of the great powers. Their demise from the ranks of the worthy comes as benefit to us, with our global influence replacing theirs.;;;;;;;;;;;;x
-WE_BECOME_GP_DESC_SHORT1;Following $TAG_0_0$'s decline, we assume our rightful standing among the nations of the world by ascending to the position of one of the great powers.;;;;;;;;;;;;x
-WE_LOSE_GP_TITLE1;$TAG_0_1$ benefits from our decline;;;;;;;;;;;;x
-WE_LOSE_GP_DESC_LONG1;Following our country's persisting decline, $TAG_0_1$ assumes higher standing among the nations of the world by ascending to the position of one of the great powers. Many a proof of our struggling economy, feeble military and waning prestige unveiled over the recent months, as our allies couldn't rely on our assistance and our government became a subject to foreign ploys. Our demise from the ranks of the worthy comes as benefit to $TAG_0_1$, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;;;;;;;;;;;;x
-WE_LOSE_GP_DESC_MEDIUM1;Following our country's persisting decline, $TAG_0_1$ assumes higher standing among the nations of the world by ascending to the position of one of the great powers, expanding their global esteem, proving that nature doesn't tolerate a vacuum.;;;;;;;;;;;;x
-WE_LOSE_GP_DESC_SHORT1;Following our country's persisting decline, $TAG_0_1$ assumes higher standing among the nations of the world by ascending to the position of one of the great powers.;;;;;;;;;;;;x
-CRISIS_START_TITLE1;Crisis set in motion!;;;;;;;;;;;;x
-CRISIS_START_DESC_LONG1;Whether there still remains any hope to resolve the matter peacefully, noone is able to tell at this point, as great powers of the world lock themselves in the power struggle of the commencing international crisis. A diplomatic settlement of the matter might still remain within reach, but the clock on reaching one quickly runs out, and as the belligerent participants delay the resolution by drawing lines in sand and flexing their muscles in politics of attrition and coercion to reduce or avoid concessions, they might soon find themselves in the dreaded state of war.;;;;;;;;;;;;x
-CRISIS_START_DESC_MEDIUM1;Great powers of the world lock themselves in a power struggle. A diplomatic settlement of the matter might still remain within reach, but the clock on reaching one quickly runs out, as the belligerent parties delay the resolution by drawing lines in sand and flexing their muscles.;;;;;;;;;;;;x
-CRISIS_START_DESC_SHORT1;Great powers of the world lock themselves in a power struggle. A diplomatic settlement of the matter might still remain within reach, but the clock on reaching one quickly runs out.;;;;;;;;;;;;x
-CRISIS_END_TITLE1;CRISIS AVERTED!;;;;;;;;;;;;x
-CRISIS_END_DESC_LONG1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, which many claimed might have plunged them into war if a compromise was not reached. 'We declare there is no desire between our peoples to go to war against one another', the competing sides declared, though careful observers took notice that one side might be perceived as the victor, leaving the other with bitter aftertaste of concessions and loss of prestige, threatening the longevity of the signed agreement.;;;;;;;;;;;;x
-CRISIS_END_DESC_MEDIUM1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, which many claimed might have plunged them into the dreaded state of war if a compromise was not reached.;;;;;;;;;;;;x
-CRISIS_END_DESC_SHORT1;It is peace for our time', great powers announce, emerging from the summit negotiations with a diplomatic resolution to the brewing international crisis, averting the possiblity of war.;;;;;;;;;;;;x
+OTHER_NEW_GP_DESC_LONG1;$TAG_0_0$の同盟国は援助を頼ることができず、かの国の政府が外国の策略の対象になったため、苦しい経済・弱々しい軍隊・衰えた名声に関する多くの証拠がここ数ヵ月にわたって明らかにされた。価値ある地位からの転落は、$TAG_0_1$の利益となり、入れ替わりに世界的な尊敬を集めており、権力の空白など存在しないことを証明している。;;;;;;;;;;;;x
+OTHER_NEW_GP_DESC_MEDIUM1;$TAG_0_0$の衰退が続いているため、$TAG_0_1$が世界の列強の1つに昇格し、世界の国々の中でより高い地位を占めるようになり、入れ替わりに世界的な尊敬を集めており、権力の空白など存在しないことを証明している。;;;;;;;;;;;;x
+OTHER_NEW_GP_DESC_SHORT1;$TAG_0_0$の衰退が続いているため、$TAG_0_1$が世界の列強の1つに昇格し、世界の国々の中でより高い地位を占めるようになった。;;;;;;;;;;;;x
+WE_BECOME_GP_TITLE1;$TAG_0_0$の衰退で我が国に恩恵;;;;;;;;;;;;x
+WE_BECOME_GP_DESC_LONG1;同盟国が$TAG_0_0$の援助を頼ることができず、かの国の政府が外国の策略の対象になったため、苦しい経済・弱々しい軍隊・衰えた名声に関する多くの証拠がここ数ヵ月にわたって明らかにされた。価値ある地位からの転落は、我が国の利益へと直結し、世界的な影響力とリーダーシップが、かの国に取って代わり、権力の空白など存在しないことを証明している。;;;;;;;;;;;;x
+WE_BECOME_GP_DESC_MEDIUM1;$TAG_0_0$の衰退が続いているため、我が国は世界の列強の1つに昇格し、世界の国々の中でより高い地位を占めるようになった。価値ある地位からの転落が我が国の利益に直結し、世界的な影響力が、かの国から取って代わった。;;;;;;;;;;;;x
+WE_BECOME_GP_DESC_SHORT1;$TAG_0_0$の衰退が続いているため、我が国は世界の列強の1つに昇格し、世界の国々の中でより高い地位を占めるようになった。;;;;;;;;;;;;x
+WE_LOSE_GP_TITLE1;我が国の衰退で$TAG_0_0$に恩恵;;;;;;;;;;;;x
+WE_LOSE_GP_DESC_LONG1;我が国の衰退が続いているため、$TAG_0_1$が世界の列強の1つに昇格し、世界の国々の中でより高い地位を占めている。我が国の同盟国は我々の援助を頼ることができず、我が国の政府が外国の策略の対象になったため、苦しい経済・弱々しい軍隊・衰えた名声に関する多くの証拠がここ数ヵ月にわたって明らかにされた。価値ある地位からの転落は、$TAG_0_1$の利益となり、入れ替わりに世界的な尊敬を集めており、権力の空白など存在しないことを証明している。;;;;;;;;;;;;x
+WE_LOSE_GP_DESC_MEDIUM1;我が国の衰退が続いているため、$TAG_0_1$が世界の列強の1つに昇格し、世界の国々の中でより高い地位を占めるようになり、入れ替わりに世界的な尊敬を集めており、権力の空白など存在しないことを証明している。;;;;;;;;;;;;x
+WE_LOSE_GP_DESC_SHORT1;我が国の衰退が続いているため、$TAG_0_1$が世界の列強の1つに昇格し、世界の国々の中でより高い地位を占めるようになった。;;;;;;;;;;;;x
+CRISIS_START_TITLE1;動き始めた危機！;;;;;;;;;;;;x
+CRISIS_START_DESC_LONG1;問題を平和的に解決するという望みがまだ残っているかどうか、現時点では誰にも分からない。世界の列強の勢力争いによって国際的な危機が引き起こされようとしているからだ。今なら問題の外交的解決は手の届くところにあるかもしれないが、そのための時間は刻一刻と迫っている。当事国は戦争もあり得るという態度を示し、譲歩を回避するため譲れない一線を引いて、各国に圧力をかけ力を誇示しているので、解決は遅らされている。恐ろしい戦争状態に陥るのも時間の問題だろう。;;;;;;;;;;;;x
+CRISIS_START_DESC_MEDIUM1;世界の列強の勢力争いによって国際的な危機が引き起こされようとしている。今なら問題の外交的解決は手の届くところにあるかもしれないが、そのための時間は刻一刻と迫っている。当事国は戦争もあり得るという態度を示し、譲歩を回避するため譲れない一線を引いて、各国に圧力をかけ力を誇示しているからだ。;;;;;;;;;;;;x
+CRISIS_START_DESC_SHORT1;世界の列強の勢力争いによって国際的な危機が引き起こされようとしている。今なら問題の外交的解決は手の届くところにあるかもしれないが、そのための時間は刻一刻と迫っている。;;;;;;;;;;;;x
+CRISIS_END_TITLE1;危機は避けられた！;;;;;;;;;;;;x
+CRISIS_END_DESC_LONG1;「我々は平和を維持する。」外交的解決を目指すことで妥結した首脳会談の後、列強国はそう宣言した。合意に至らなければ戦争に突入したかもしれないと多くの者が主張していた。「両国民とも戦争を望んでいない」と交渉を有利に進めた側は表明したが、慎重に観察すれば、一方が勝者と見なされ、もう一方は譲歩を余儀なくされた後味の悪さや威信を失った苦い思いをしている可能性もある。調印された協定が短命に終わるということもありうるのだ。;;;;;;;;;;;;x
+CRISIS_END_DESC_MEDIUM1;「我々は平和を維持する。」外交的解決を目指すことで妥結した首脳会談の後、列強国はそう宣言した。合意に至らなければ戦争に突入したかもしれないと多くの者が主張していた。;;;;;;;;;;;;x
+CRISIS_END_DESC_SHORT1;「我々は平和を維持する。」外交的解決を目指すことで妥結した首脳会談の後、列強国はそう宣言した。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_LARGE2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
-RESEARCH_NEWS_LARGE2;$TAG_0_0_ADJ$ scientists have announced yesterday that after months of dedicated and focused research, a new breakthrough in the field of $STRING_0_1$ has been made. It is expected that the entrepreneurs and government of $TAG_0_0$ will soon start putting this newly acquired knowledge to good use, applying it in practical ways throughout the nation.;;;;;;;;;;;;x
+RESEARCH_NEWS_LARGE2;昨日、$TAG_0_0$の科学者達は熱心かつ集中的な研究を数ヵ月続けた後、$STRING_0_1$の分野で新たな大発見があったことを発表した。$TAG_0_0$の起業家と政府は、この新たに獲得した知識をすぐに活用し始め、全国に実用的な方法で適用すると思われる。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_MEDIUM2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
-RESEARCH_NEWS_MEDIUM2;$TAG_0_0_ADJ$ scientists have announced a breakthrough in the field of $STRING_0_1$. This new knowledge will soon be applied in practical ways, said one of the researchers.;;;;;;;;;;;;x
+RESEARCH_NEWS_MEDIUM2;$TAG_0_0$の科学者達は$STRING_0_1$の分野で大発見があったと発表した。この新知識は、実用的な方法ですぐにでも適用されるだろうと、研究者の1人は述べている。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_SMALL2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
-RESEARCH_NEWS_SMALL2;$TAG_0_0_ADJ$ scientists have recently announced a breakthrough in the field of $STRING_0_1$.;;;;;;;;;;;;x
-COMMUNIST_REVOLUTION_NEWS_TITLE_LARGE_COMMUNIST;COMMUNISM TRIUMPHS IN $TAG_0_0_UPPER$!;;;;;;;;;;;;x
-COMMUNIST_REVOLUTION_NEWS_LARGE_COMMUNIST;Workers of the world, unite!' Once more our rallying cry has proven fitting for such a victorious revolution. The corrupt powers of capitalism cannot stop the desire of the proletariat for a better future. We have received joyous news from our comrades in $TAG_0_0$, who managed to rise in rebellion against the crooks and thieves that mistreated and exploited the common folk. They seized the governmental powers, taking it back where it belongs: the hands of the people, represented by the people's committee: $STRING_0_0$!;;;;;;;;;;;;x
-COMMUNIST_REVOLUTION_NEWS_TITLE_MEDIUM_COMMUNIST;COMMUNISM IN $TAG_0_0_UPPER$!;;;;;;;;;;;;x
-COMMUNIST_REVOLUTION_NEWS_MEDIUM_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our communist comrades have been victorious in overthrowing the government and establishing the one and true people's party: $STRING_0_0$!;;;;;;;;;;;;x
+RESEARCH_NEWS_SMALL2;$TAG_0_0$の科学者達は先ごろ、$STRING_0_1$の分野で大発見があったと発表した。;;;;;;;;;;;;x
+COMMUNIST_REVOLUTION_NEWS_TITLE_LARGE_COMMUNIST;共産主義が$TAG_0_0$で勝利！;;;;;;;;;;;;x
+COMMUNIST_REVOLUTION_NEWS_LARGE_COMMUNIST;「万国の労働者よ、団結せよ！」もう一度、我らの叫びは、このような勝利の革命にふさわしいことを証明した。資本主義の腐敗した力では、より良い未来を求めるプロレタリアートを止めることなどできない。我らは$TAG_0_0$の同志達から、人民を虐待・搾取した詐欺師や泥棒に抵抗し立ち上がったという喜ばしいニュースを受け取った。彼らは政府の権力を掌握し、それを本来あるべき場所、$STRING_0_0$に戻したのだ。人民委員会に代表される人民の手の中に！;;;;;;;;;;;;x
+COMMUNIST_REVOLUTION_NEWS_TITLE_MEDIUM_COMMUNIST;$TAG_0_0$の共産主義！;;;;;;;;;;;;x
+COMMUNIST_REVOLUTION_NEWS_MEDIUM_COMMUNIST;「万国の労働者よ、団結せよ！」この叫びは今日、$TAG_0_0$全土で聞くことができる。我ら共産主義の同志達は、政府を打倒し、唯一の真の人民党、$STRING_0_0$を設立することで勝利を収めている！;;;;;;;;;;;;x
 COMMUNIST_REVOLUTION_NEWS_TITLE_SMALL_COMMUNIST;革命！;;;;;;;;;;;;x
-COMMUNIST_REVOLUTION_NEWS_SMALL_COMMUNIST;Workers of the world, unite!' This rallying cry can been heard today throughout $TAG_0_0$, where our comrades have been victorious in overthrowing the corrupt capitalist crooks!;;;;;;;;;;;;x
-battle_we_lose_large_censored_press;Reports from the field tell us that on $DATE_LONG_0$, our courageous troops have made a tactical retreat from the battle against $TAG_0_3$ in $STRING_0_3$. This has been proven necessary to maximise our element of unpredictability and surprise. $VALUE_INT_0_4$ enemy soldiers have been killed by our valiant boys. Although $VALUE_INT_0_2$ of our soldiers are yet to report back for duty, it's worth noting that many of our troops remain hidden to surprise the enemy in an ambush, showing true courage and resilience!;;;;;;;;;;;;x
-battle_we_lose_medium_censored_press;On $DATE_LONG_0$, a tactical retreat from the battle against $TAG_0_3$ has been proven necessary, in order to maximise our element of surprise! $VALUE_INT_0_2$ of our soldiers are said to be hiding for an ambush, while $VALUE_INT_0_4$ enemy troops have been killed!;;;;;;;;;;;;x
-battle_we_lose_small_censored_press;On $DATE_LONG_0$, a tactical retreat has been conducted from the battle against $TAG_0_3$. It is thought $VALUE_INT_0_2$ of our troops are in hiding, preparing for an ambush!;;;;;;;;;;;;x
-battle_we_lose_censored_title_large;Interrupted enemy advance in $STRING_0_3$!;;;;;;;;;;;;x
-battle_we_lose_censored_large;They were outnumbered forty to one in some sections of the front, and still held the line' a high military commander praised the bravery of our soldiers, who managed to delay enemy advance in $STRING_0_3$ for as long as it was strategically feasible, and inflicted $VALUE_INT_0_2$ of casualties against our foes. 'We are not ready to publish the number of casualties on our side' a government official replied, when asked about our own losses. 'Our people must rally behind the government when it comes to national defence' he challenged the sceptics.;;;;;;;;;;;;x
-battle_we_lose_censored_title_medium;Delayed enemy in $STRING_0_3$;;;;;;;;;;;;x
-battle_we_lose_censored_medium;Our brave soldiers succeeded in slowing down enemy advance against our territory, fighting a pitched battle against outnumbering force from $TAG_0_2$. 'If we lose every battle in such a great fashion, we might as well win this entire war' a high ranking officer commented.;;;;;;;;;;;;x
-battle_we_lose_censored_title_small;Moral victory in $STRING_0_3$;;;;;;;;;;;;x
-battle_we_lose_censored_small;On $DATE_LONG_0$ we successfully evacuated troops from the battle of $STRING_0_3$, inflicting $VALUE_INT_0_2$ casualties, but leaving $TAG_0_2$ in control of the field.;;;;;;;;;;;;x
-war_we_lose_censored_large_title;OUR BOYS RETURN HOME.\nPEACE WITH $TAG_2_0_UPPER$ SIGNED!;;;;;;;;;;;;x
-war_we_lose_censored_large_desc;On $DATE_LONG_1$ our government decided to yield in the war against $TAG_2_0$. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and the result was $STRINGS_LIST_4$. 'We gave no quarter, and we can be proud of our boys, we showed we are not a pushover' government officials commented, 'But in the end, it wasn't worth spilling more of our youth's blood'. All citizens are to rejoice that our brave sons are returning home, although no official celebrations are scheduled at this time.;;;;;;;;;;;;x
-war_we_lose_censored_medium_title;PEACE WITH $TAG_2_0_UPPER$!;;;;;;;;;;;;x
-war_we_lose_censored_medium_desc;On $DATE_LONG_1$ our government decided to yield in the war against $TAG_2_0$. The war, known as $STRING_0_0$, raged from $DATE_SHORT_0$ over $STRING_9_0$, and the result was $STRINGS_LIST_4$.;;;;;;;;;;;;x
-war_we_lose_censored_small_title;Peace with $TAG_2_0$;;;;;;;;;;;;x
-war_we_lose_censored_small_desc;$STRING_0_0$ has ended with our surrender to the unexpected victor, $TAG_2_0$.;;;;;;;;;;;;x
-CRISIS_START_TITLE2;Tensions Rise!;;;;;;;;;;;;x
-CRISIS_START_DESC_LONG2;Following months of increasing pressure, tensions in $STRING_0_0$ have reached a point where we have an international crisis on our hands. The Great Powers are trying to find a peaceful solution to prevent further escalation, but there are also some who seek to increase their influence. Frantic diplomatic activity is taking place as the Great Powers clamour for influence. If a resolution is not found, and as those on the side-lines take sides in the dispute, an incident in $STRING_0_0$ has the potential to develop into a general war.;;;;;;;;;;;;x
-CRISIS_START_DESC_MEDIUM2;Great Powers are vying for influence in $STRING_0_0$, and tensions have risen dramatically in the region. A peaceful solution is being sought by the Great Powers in a bid to avoid any further escalation, but it remains to be seen whether conflict can be avoided.;;;;;;;;;;;;x
-CRISIS_START_DESC_SHORT2;Tensions in $STRING_0_0$ have developed into a major crisis, as the Great Powers attempt to gain influence in the region. Frantic diplomatic activity is underway to try and avert war. ;;;;;;;;;;;;x
-CRISIS_END_TITLE2;Tensions Recede;;;;;;;;;;;;x
-CRISIS_END_DESC_LONG2;There is widespread relief following the news that a peaceful solution has been arrived at in $STRING_0_0$, recently a diplomatic hot spot. <CrisisWinner++++++> has managed to increase their influence after securing the backing of the Great Powers. An International Conference successfully brought the crisis to an end following weeks of diplomatic manoeuvres. War has been averted for the time being, although there is not universal satisfaction with the outcome, and it remains to be seen whether another power will challenge <CrisisWinner++++++> in the future.;;;;;;;;;;;;x
-CRISIS_END_DESC_MEDIUM2;The international crisis in $STRING_0_0$ has reached a peaceful solution following a diplomatic conference of the Great Powers. <CrisisWinner++++++> has been able to increase their influence, without resorting to war. It remains to be seen whether this peace will last.;;;;;;;;;;;;x
-CRISIS_END_DESC_SHORT2;War has been averted as the crisis in $STRING_0_0$ has been resolved following a conference of the Great Powers. <CrisisWinner++++++> has successfully increased their influence ;;;;;;;;;;;;x
-OTHER_NEW_GP_DESC_LONG2;$TAG_0_1$ has been growing in status for a number of years, and has now risen to be considered one of the world Great Powers. The $TAG_0_1_ADJ$ reputation, enhanced by international acceptance of their status, has grown considerably, and we now expect $TAG_0_1$ push to extend their influence. $TAG_0_0$ has been unable to halt their recent decline, and are now widely considered to be a secondary power in world affairs. This loss of status will be keenly felt, and already their international influence has decreased markedly. ;;;;;;;;;;;;x
-OTHER_NEW_GP_DESC_MEDIUM2;$TAG_0_1$ has been widely accepted as a Great Power by the international community. This recognises the steady growth in power of the state, but has not been universally welcomed. $TAG_0_0$ is now considered a mere secondary power, much to their dismay.;;;;;;;;;;;;x
-OTHER_NEW_GP_DESC_SHORT2;The rising state of $TAG_0_1$ has displaced $TAG_0_0$ as a Great Power in the eyes of the international community, following shifts in status and international influence. ;;;;;;;;;;;;x
-AI_LOVES_US_TITLE4;Warm Relations;;;;;;;;;;;;x
-AI_LOVES_US_DESC4_LONG;Our correspondent has been told by his sources within the Foreign office that in the last few weeks, the leader of $TAG_0_0$ made a grand speech to his people praising our nation and the achievements of our people. It is believed that the speech is an attempt by $TAG_0_0$ to draw closer to our mighty nation and it we must response to these overtures with the courtesy typical of the $TAG_0_1_ADJ$ people. We praise these attempts and hope that they will lead to a continued period of collaboration between our two glorious countries.;;;;;;;;;;;;x
-AI_LOVES_US_DESC4_MEDIUM;After a reportedly very productive meeting with our ambassador last week, a representative of the $TAG_0_0_ADJ$ people gave a speech on the steps of the Foreign office praising our nation and government, opening the door to a new dialogue of collaboration and partnership.;;;;;;;;;;;;x
-AI_LOVES_US_DESC4_SHORT;A new era of Friendship between our nations has begun' These were the words of the $TAG_0_0_ADJ$ Ambassador as he spoke to assembled journalists following talks in the capital.;;;;;;;;;;;;x
+COMMUNIST_REVOLUTION_NEWS_SMALL_COMMUNIST;「万国の労働者よ、団結せよ！」今日この叫びが響き渡った$TAG_0_0$は、腐敗した資本主義の悪党を打倒するため、我らの同志が勝利を収めた所だ！;;;;;;;;;;;;x
+battle_we_lose_large_censored_press;現地からの報告によれば、$DATE_LONG_0$、勇敢なる我が軍は、$STRING_0_3$での$TAG_0_3$との戦いから戦術的撤退を行ったという。これは予測不可能性と奇襲を最大限に活用するために必要であったことが判明している。$VALUE_INT_0_4$の敵兵は、我が国の勇猛な兵士たちによって討ち取られた。$VALUE_INT_0_2$の我が兵の着任はまだ報告されていないが、多くの兵士が真の勇気と抵抗を示しており、待ち伏せ攻撃で敵を奇襲するために潜伏していることを忘れてはならないのだ！;;;;;;;;;;;;x
+battle_we_lose_medium_censored_press;$DATE_LONG_0$、奇襲を最大限に活用するために、$TAG_0_3$との戦闘から戦術的撤退の必要があることが判明した！$VALUE_INT_0_4$の敵兵は討ち取った！我が国の$VALUE_INT_0_2$の兵士は待ち伏せのために潜伏しているという。;;;;;;;;;;;;x
+battle_we_lose_small_censored_press;$DATE_LONG_0$、$TAG_0_3$との戦闘から戦術的撤退を実施。我が国の$VALUE_INT_0_2$の兵士が潜伏し、待ち伏せの準備をしていると思われる！;;;;;;;;;;;;x
+battle_we_lose_censored_title_large;$STRING_0_3$で敵の進撃を妨害！;;;;;;;;;;;;x
+battle_we_lose_censored_large;「前線のいくつかの分隊で40対1と劣勢だったが、いまだ戦線は維持している」と最高司令官は、戦略的に可能な限り$STRING_0_3$で敵の進軍を遅らせ、$VALUE_INT_0_2$で敵に損害を与えた我が国の兵士の勇敢さを賞賛した。自軍の損失についての質問に、ある政府高官は「死傷者数を公表する準備はできていない」と答え、「国防に関しては、国民は政府のもとに結束せねばならない」と彼は懐疑論者に反論した。;;;;;;;;;;;;x
+battle_we_lose_censored_title_medium;$STRING_0_3$で敵を遅延させる;;;;;;;;;;;;x
+battle_we_lose_censored_medium;我が国の勇敢な兵士たちは$TAG_0_2$の多勢に無勢な部隊との激しい戦闘を繰り広げ、敵の進撃を遅らせることに成功した。高官は「このような素晴らしいやり方で全ての戦いに負けるならば、この戦争全体に勝つかもしれない」とコメントした。;;;;;;;;;;;;x
+battle_we_lose_censored_title_small;$STRING_0_3$での精神的勝利;;;;;;;;;;;;x
+battle_we_lose_censored_small;$DATE_LONG_0$、$STRING_0_3$の戦いからの部隊退避に成功、$VALUE_INT_0_2$の犠牲者を出したが、惜しくも現地は$TAG_0_2$が支配したままだ。;;;;;;;;;;;;x
+war_we_lose_censored_large_title;我々の息子たちが帰還。\n$TAG_2_0$との和平に調印！;;;;;;;;;;;;x
+war_we_lose_censored_large_desc;$DATE_LONG_1$、我が国の政府は$TAG_2_0$との戦争において降伏することを決定した。$STRING_0_0$と呼ばれる戦争は、$DATE_SHORT_0$から$STRING_9_0$を巡って激しさを増し、結果は$STRINGS_LIST_4$となった。政府関係者は、「情け容赦なく戦った兵士たちを誇りに思う。我々が容易い相手ではないことを示した。」「だが、これ以上若者の血を流す価値はない。」と述べている。現時点では公式の祝賀式典は予定されていないが、全国民は、勇敢な兵士たちの帰還を喜ぶべきであろう。;;;;;;;;;;;;x
+war_we_lose_censored_medium_title;$TAG_2_0$との和平！;;;;;;;;;;;;x
+war_we_lose_censored_medium_desc;$DATE_LONG_1$、我が国の政府は$TAG_2_0$との戦争において降伏することを決定。$STRING_0_0$と呼ばれる戦争は、$DATE_SHORT_0$から$STRING_9_0$を巡って激戦となり、結果は$STRINGS_LIST_4$であった。;;;;;;;;;;;;x
+war_we_lose_censored_small_title;$TAG_2_0$との和平！;;;;;;;;;;;;x
+war_we_lose_censored_small_desc;$STRING_0_0$は、予想外の勝者である$TAG_2_0$に降伏、終結した。;;;;;;;;;;;;x
+CRISIS_START_TITLE2;緊張が高まる！;;;;;;;;;;;;x
+CRISIS_START_DESC_LONG2;何ヵ月にもわたって圧力が溜まり続けたことで、$STRING_0_0$の緊張は国際的な危機にまで達した。列強はこれ以上の事態のエスカレーションを防ぐために平和的な解決策を模索しているが、なかにはこの機会に自らの影響力を増やそうと努める国もある。列強の勢力争いが激化するにつれて各国の外交活動も本格化している。解決策が見つからず、当事国以外の国までが加担すれば、$STRING_0_0$の紛争は全面戦争にまで発展する可能性もある。;;;;;;;;;;;;x
+CRISIS_START_DESC_MEDIUM2;列強は $STRING_0_0$ への影響力を争っており、この地域では緊張が劇的に高まっている。これ以上の事態の加熱を防ぐため、列強が平和的な解決策を模索しているが、紛争を回避できるかどうかはまだ分からない。;;;;;;;;;;;;x
+CRISIS_START_DESC_SHORT2;列強がこの地域で影響力を得ようと試みたため、$STRING_0_0$の緊張は大きな危機へと発展した。戦争を回避するため必死の外交活動が進行中である。;;;;;;;;;;;;x
+CRISIS_END_TITLE2;緊張緩和;;;;;;;;;;;;x
+CRISIS_END_DESC_LONG2;最近、外交上の紛争地域である$STRING_0_0$に平和的な解決策がもたらされたというニュースを受けて、安心感が広がった。<CrisisWinner++++++>は、列強の支持を得た後、影響力を高めることに成功した。国際会議は、数週間にわたる外交的措置を経て、危機を無事に終わらせた。戦争は当面の間、回避されたが、その結果に普遍的な満足感があるわけではなく、将来、別の勢力が<CrisisWinner++++++>に挑戦するかどうかは不明である。;;;;;;;;;;;;x
+CRISIS_END_DESC_MEDIUM2;$STRING_0_0$の国際的な危機は、列強の外交会議を経て、平和的な解決策に達した。<CrisisWinner++++++>は、戦争に頼ることなく、影響力を高めることに成功した。この平和が持続するかどうかはまだ不明である。;;;;;;;;;;;;x
+CRISIS_END_DESC_SHORT2;$STRING_0_0$の危機が列強の会議を経て解決し、戦争は回避された。<CrisisWinner++++++>は影響力を拡大した。;;;;;;;;;;;;x
+OTHER_NEW_GP_DESC_LONG2;$TAG_0_1$は何年にもわたって地位が高まり続け、今や世界列強の1つと見なされるまでになった。$TAG_0_1$の評判は、その地位が国際的に受け入れられるようになったことで大幅に向上し、$TAG_0_1$が影響力を拡大すると思われる。$TAG_0_0$はここ最近、衰退を止めることができず、現在の世界情勢では準列強国であると広く見なされている。この地位の喪失は深刻に感じられており、すでにその国際的影響力は著しく減少している。;;;;;;;;;;;;x
+OTHER_NEW_GP_DESC_MEDIUM2;$TAG_0_1$は、国際社会において列強として広く受け入れられている。$TAG_0_1$は、国際社会から列強として広く受け入れられている。これは、国力の着実な成長であると認められるが、一般的には歓迎されていない。$TAG_0_0$は今や単なる準列強国と見なされ、落胆しているようだ。;;;;;;;;;;;;x
+OTHER_NEW_GP_DESC_SHORT2;$TAG_0_1$の台頭により、地位と国際的な影響の変化を受けて、国際社会から見て列強の$TAG_0_0$と入れ替わったようだ。;;;;;;;;;;;;x
+AI_LOVES_US_TITLE4;暖かな関係;;;;;;;;;;;;x
+AI_LOVES_US_DESC4_LONG;外務省の情報筋によると、ここ数週間、$TAG_0_0$の指導者は、国民に向けて盛大な演説を行い、我が国と国民の功績を称賛しているとのことだ。この演説は、$TAG_0_0$が我々の強大な国家に近づこうとしているものと考えられており、我々は$TAG_0_1$の人々の典型的な礼儀をもって、このような呼びかけに応えなければならない。我々はこれらの試みを称賛するとともに、輝かしい両国の間で継続的な協力関係が築かれることを願うものである。;;;;;;;;;;;;x
+AI_LOVES_US_DESC4_MEDIUM;先週、我が国の大使との非常に生産的な会議が行われたと報じられた後、$TAG_0_0$国民の代表は、外務省の階段で演説を行い、我が国と政府を称賛し、協力・提携の新たな対話への扉を開いた。;;;;;;;;;;;;x
+AI_LOVES_US_DESC4_SHORT;「両国間の友好の新時代が始まった。」これは、$TAG_0_0$大使が首都での会談後、集まった記者に向けて語った言葉である。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_LARGE2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
-RESEARCH_NEWS_LARGE2;$TAG_0_0_ADJ$ scientists have announced yesterday that after months of dedicated and focused research, a new breakthrough in the field of $STRING_0_1$ has been made. It is expected that the entrepreneurs and government of $TAG_0_0$ will soon start putting this newly acquired knowledge to good use, applying it in practical ways throughout the nation.;;;;;;;;;;;;x
+RESEARCH_NEWS_LARGE2;昨日、$TAG_0_0$の科学者達は数ヵ月にわたる集中・専念した研究により、$STRING_0_1$の分野における新たな大発明があったと発表した。$TAG_0_0$政府や起業家は、すぐにも新知識を国家全体に実用的な方法で適用し、有効に活用すると思われる。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_MEDIUM2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
-RESEARCH_NEWS_MEDIUM2;$TAG_0_0_ADJ$ scientists have announced a breakthrough in the field of $STRING_0_1$. This new knowledge will soon be applied in practical ways, said one of the researchers.;;;;;;;;;;;;x
+RESEARCH_NEWS_MEDIUM2;$TAG_0_0$の科学者達は$STRING_0_1$の分野で大発明があったと発表した。この新知識は実用的な方法で、すぐにも適用されるだろう、と研究者の1人は述べている。;;;;;;;;;;;;x
 RESEARCH_NEWS_TITLE_SMALL2;$TAG_0_0$で新発見！;;;;;;;;;;;;x
-RESEARCH_NEWS_SMALL2;$TAG_0_0_ADJ$ scientists have recently announced a breakthrough in the field of $STRING_0_1$.;;;;;;;;;;;;x
+RESEARCH_NEWS_SMALL2;$TAG_0_0$の科学者達は先ごろ、$STRING_0_1$の分野で大発明があったと発表した。;;;;;;;;;;;;x
 INVENTION_NEWS_TITLE_LARGE2;新たな特許！;;;;;;;;;;;;x
-INVENTION_NEWS_LARGE2;Science Report: Improvements and innovations in the field of $STRING_0_1$ have been patented and registered by researchers in $TAG_0_0$. The documentation of these advancements, although currently a secret kept behind closed doors, is expected to progressively spread to other lands and in time contribute to the progress of science in the world. ;;;;;;;;;;;;x
+INVENTION_NEWS_LARGE2;科学レポート：$STRING_0_1$の分野における改良や技術革新は、$TAG_0_0$の研究者によって特許取得および登録されている。これら進歩の記録は、現在は秘密にされているが、徐々に他国にも広まり、やがて世界の科学の進歩に貢献すると思われる。;;;;;;;;;;;;x
 INVENTION_NEWS_TITLE_MEDIUM2;新たな特許！;;;;;;;;;;;;x
-INVENTION_NEWS_MEDIUM2;Improvements and innovations in the field of $STRING_0_1$ have been registered in the National Patent Office of $TAG_0_0$. ;;;;;;;;;;;;x
+INVENTION_NEWS_MEDIUM2;$STRING_0_1$の分野における改良や技術革新は、$TAG_0_0$の特許庁に登録されている。;;;;;;;;;;;;x
 INVENTION_NEWS_TITLE_SMALL2;新たな特許！;;;;;;;;;;;;x
-INVENTION_NEWS_SMALL2;New improvements and innovations in the field of $STRING_0_1$ have been patented in $TAG_0_0$. ;;;;;;;;;;;;x
-EDITORIAL_ABSMON;Editorial: why it is right and proper to hate anti-legitimists - providence itself demands it! Why, these ne’er-do-wells would have the peasant rabble govern themselves (see page 10) ;;;;;;;;;;;;x
-EDITORIAL_PRUCON;Editorial: why it is right to hate reformists of every stripe - the natural order demands it! Why, these liberal speculators and cosmopolitans would run our nation as a whorehouse (see page 10);;;;;;;;;;;;x
-EDITORIAL_CONMON;Editorial: why it is right to hate republicans - stability demands it! Why, without a figurehead to smile benevolently upon us, intrigue and the guillotine will destroy us all (page 10);;;;;;;;;;;;x
-EDITORIAL_DEMOCRACY;Editorial: why it is right to hate revolutionaries of every stripe - because they cannot be bribed! Why, men of such zeal and ridgid doctrinism show no respect for the rule of law (pg. 10);;;;;;;;;;;;x
-EDITORIAL_PRESDICT;Editorial: why it is right to hate subversives – the President demands it! Why, these criminals only yesterday crudely vandalised a marble statue of his Excellency in the capital (see page 10);;;;;;;;;;;;x
-EDITORIAL_BOURDICT;Editorial: why it is right to hate the poor – your own rational self-interest demands it! Why, these parasitic gutter people choose to be poor. Show pity to them at your peril. (see page 10);;;;;;;;;;;;x
-EDITORIAL_PROLDICT;Editorial: why it is right to hate the parasites – the party demands it! Why, even the lowliest village baker is an exploiter of the masses. Eradicating the rich will free us all (see page 10);;;;;;;;;;;;x
-EDITORIAL_FASCDICT;Editorial: why it is right to hate the parasites – the party demands it! Why, even the lowliest village baker is an exploiter of the masses. Eradicating the rich will free us all (see page 10);;;;;;;;;;;;x
-FAKE_UNKNOWN;Promising new writer Ellis Bell has written a fascinating look into matters of love in the moors of Yorkshire in Wuthering Heights. We look forward to seeing more from this young man.;;;;;;;;;;;;x
-FAKE_UNKNOWN;Literary scandal! Wuthering Heights writer Ellis Bell is in fact a woman named Emily Brontë! The novel's popularity continues unabated as the petticoats of London sigh for Heathcliff.;;;;;;;;;;;;x
-FAKE_UNKNOWN;Richard Francis Burton, translator of The Thousand and one Nights and Kama Sutra, has infiltrated the hajj in Mecca. For his exclusive account of his travels, see p10.;;;;;;;;;;;;x
+INVENTION_NEWS_SMALL2;$STRING_0_1$の分野における改良や技術革新は、$TAG_0_0$で特許登録されている。;;;;;;;;;;;;x
+EDITORIAL_ABSMON;社説：反正統王朝主義者を嫌悪することが当然かつ適当である理由 ー 摂理そのものがそれを求めるからだ！このろくでなし共は、なぜ農民階級に自らを統治させようとするのか(10面参照);;;;;;;;;;;;x
+EDITORIAL_PRUCON;社説：あらゆる種類の改革主義者を嫌悪することが当然である理由 ー 自然の秩序がそれを求めるからだ！このリベラルな思索家や世界主義者らは、なぜ我が国を売春宿として運営しようとするのか(10面参照);;;;;;;;;;;;x
+EDITORIAL_CONMON;社説：なぜ共和主義者を嫌悪するのが当然なのか、安定には必要だからだ！代表者が優しく微笑みかけてくれなければ、陰謀とギロチンが我々の全てを滅ぼすだろう(10面);;;;;;;;;;;;x
+EDITORIAL_DEMOCRACY;社説：あらゆる種類の革命家を嫌悪することが当然である理由 ー それは彼らが金で買収できないからだ！そのような熱意と厳格な教義至上主義の人間が、なぜ法規に対して敬意を示さないのか(10面参照);;;;;;;;;;;;x
+EDITORIAL_PRESDICT;社説：なぜ破壊分子を嫌悪するのが当然なのか？大統統がそれを要求するからだ！この犯罪者らは、つい昨日なぜ首都にある閣下の大理石像を粗雑に破壊したのか(10面参照);;;;;;;;;;;;x
+EDITORIAL_BOURDICT;社説：なぜ貧乏人を嫌悪することが当然なのか？貴方の合理的な利己心がそれを求めているからだ！この最底辺の寄生者らは、なぜ貧困に身を置くことを選ぶのか。彼らに情けをかければ貴方が危険に晒されるであろう。(10面参照);;;;;;;;;;;;x
+EDITORIAL_PROLDICT;社説：なぜ寄生者を嫌悪することが正しいのか - 党がそれを要求するからだ！最も低級な村のパン屋でさえ大衆を搾取する者である。金持ちを根絶すれば、我々は皆解放されるのだ。(10面を参照);;;;;;;;;;;;x
+EDITORIAL_FASCDICT;社説：なぜ寄生者を嫌悪することが正しいのか - 党がそれを要求するからだ！最も低級な村のパン屋でさえ大衆を搾取する者である。金持ちを根絶すれば、我々は皆解放されるのだ。(10面を参照);;;;;;;;;;;;x
+FAKE_UNKNOWN;有望な新人作家エリス・ベルは「嵐が丘」において、ヨークシャーの原野を舞台にして愛の問題を魅力的に描いた。我々はこの若者がもっと多くのものを見せてくれるのを楽しみにしている。;;;;;;;;;;;;x
+FAKE_UNKNOWN;文学スキャンダル！「嵐が丘」の作家エリス・ベルは、エミリー・ブロンテという女性だった。作品の人気は、主人公ヒースクリフのためにロンドンの婦人方がため息をついている間も衰えていない。;;;;;;;;;;;;x
+FAKE_UNKNOWN;リチャード・フランシス・バートン, translator of The Thousand and one Nights and Kama Sutra, has infiltrated the hajj in Mecca. For his exclusive account of his travels, see p10.;;;;;;;;;;;;x
 FAKE_UNKNOWN;Actress Virginia Rappe found dead in Fatty Arbuckle's New York hotel suite. It is time to rein in the Hollywood playboys and their degenerate films before they ruin our nation's moral values.;;;;;;;;;;;;x
 FAKE_UNKNOWN;George Gershwin's new composition Rhapsody in Blue mixes classical and jazz stylings to create a sophisticated-yet-playful bridge of old and new sounds befitting of our modern era.;;;;;;;;;;;;x
 FAKE_UNKNOWN;F. Scott and Zelda Fitzgerald depart New York to seek a brighter future in the American expatriate community in Paris. It seems all the most talented Americans end up in Paris eventually.;;;;;;;;;;;;x
 FAKE_UNKNOWN;In yet another unintended side effect of the Volstead Act's prohibition of alcohol, Americans are pioneering a variety of new cocktails in an attempt to make bootleg alcohol palatable.;;;;;;;;;;;;x
-FAKE_Cthulhu;Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn;;;;;;;;;;;;x
+FAKE_Cthulhu;Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn(死せるクトゥルー、ルルイエの館にて、夢見るままに待ちいたり);;;;;;;;;;;;x
 some_fake_1836_title_12;桜;;;;;;;;;;;;x
-some_fake_1836_12;Japanese government decides the new national colour will be that of a cherry blossom, for it best represents this marvellous country's national character. Calling it 'pink' is outlawed.;;;;;;;;;;;;x
-some_fake_1836_title_13;The Good River;;;;;;;;;;;;x
-some_fake_1836_13;A team of expert American cartographers deliver the most accurate drawings of the 'good' Ohio River to date, to be included in future local and international maps. More rivers to follow.;;;;;;;;;;;;x
+some_fake_1836_12;日本政府は、この素晴らしい国の国民性を最もよく表している桜の花を新しい国の色とすることに決定した。これを「ピンク」と呼ぶことは禁止されている。;;;;;;;;;;;;x
+some_fake_1836_title_13;見事な川;;;;;;;;;;;;x
+some_fake_1836_13;米国の地図製作専門家からなるチームが、これまでで最も正確な「見事な」オハイオ川の図面を提供している。これらは将来の現地地図や世界地図に追加される。さらに多くの川がこの後に続く。;;;;;;;;;;;;x
 some_fake_1836_title_14;ヤン・マイエン;;;;;;;;;;;;x
-some_fake_1836_14;Inexplicably high numbers of migrants are reported to have moved recently to the barren island of Jan Mayen in the Arctic Ocean. 'We were tired of all that noise' revealed one of the pioneers.;;;;;;;;;;;;x
+some_fake_1836_14;北極海の不毛の島、ヤン・マイエン島に最近、不可解なほどの多くの移民が報告されている。「私たちは全ての騒音にうんざりしていました」と開拓者の一人は明かした。;;;;;;;;;;;;x
 some_fake_1880_title_8;月狂条例;;;;;;;;;;;;x
-some_fake_1880_8;Recent legislation requires ship owners to pay a fine should their arriving vessel discharge into the ports of this country a person or persons assessed as lunatics, idiots or convicts.;;;;;;;;;;;;x
-some_fake_1890_title_8;Lucky 55;;;;;;;;;;;;x
-some_fake_1890_8;Fifty four confirmed winners of the state lottery to split between themselves a record amount of prize money. 'I can't find my ticket!', complains the hapless fifty fifth.;;;;;;;;;;;;x
-some_fake_1910_title_11;Dreadnought hoax;;;;;;;;;;;;x
-some_fake_1910_11;A group of young artistocrats, disguised with turbans and blackened faces as a party of Abyssinian princes, trick their way into the Royal Navy's flagship for a private tour of the vessel.;;;;;;;;;;;;x
-some_fake_1910_title_12;Radios Killing Culture?;;;;;;;;;;;;x
-some_fake_1910_12;The radio has recently come about, causing concerns that it will kill society and socialization. Proponents say only thought-provoking and intelligent broadcasts will be considered.;;;;;;;;;;;;x
-some_fake_1910_title_13;Revolt of the Lash;;;;;;;;;;;;x
-some_fake_1910_13;Black crewmen of the Brazilian Navy mutiny against their white officers. They threaten to fire upon Rio de Janeiro if racial abuse and physical violence against lower ranks are not abolished.;;;;;;;;;;;;x
+some_fake_1880_8;最近の法律では、この国の港に到着した船舶が、精神異常者、白痴、囚人と判断された者を下ろす際に、船主は罰金を払う必要がある。;;;;;;;;;;;;x
+some_fake_1890_title_8;幸運な55人;;;;;;;;;;;;x
+some_fake_1890_8;54人の州宝くじの当選者たちが記録的な額の賞金を山分けする。「私のチケットが見つからない！」と不幸な55人目が不平を述べている。;;;;;;;;;;;;x
+some_fake_1910_title_11;偽エチオピア皇帝事件;;;;;;;;;;;;x
+some_fake_1910_11;ターバンを羽織り、顔を黒くした若い芸術家達が、エチオピア皇帝一行に扮し、英国海軍を騙して旗艦を入港させ、船内を私的巡回した。;;;;;;;;;;;;x
+some_fake_1910_title_12;ラジオは文化を損なうか？;;;;;;;;;;;;x
+some_fake_1910_12;近ごろラジオが登場し、社会や社会的適応を損なうのではないかという懸念を引き起こしている。支持者は、示唆に富んだ知的な放送のみが慎重に検討されることになると述べている。;;;;;;;;;;;;x
+some_fake_1910_title_13;チバータ(鞭)の反乱;;;;;;;;;;;;x
+some_fake_1910_13;ブラジル海軍の黒人乗組員が白人将校に反乱を起こした。彼らは、下級階級に対する人種的虐待や身体的暴力が廃止されなければ、リオデジャネイロを攻撃すると脅している。;;;;;;;;;;;;x
 some_fake_1920_title_13;男性服改革党;;;;;;;;;;;;x
-some_fake_1920_13;New movement urges men to dress more beautifully and hygienically. 'Most members wish for shorts, a few for the kilt, nearly all hate trousers.' The MDRP also opposes the wearing of hats.;;;;;;;;;;;;x
-dino_fake_1830_title_1;Ornithichnology;;;;;;;;;;;;x
-dino_fake_1830_1;Prof. Hitchcock reports fossil tracks of birds discovered near the Connecticut river in Massachusetts. Some of the foot marks indicate that they were made by some enormous species of bird...;;;;;;;;;;;;x
+some_fake_1920_13;男性はより美しく、より衛生的に装うのが新しい流行である。「メンバーの大半は短パンを好み、キルトを好んでいる者は少数ながら、そのほとんどがズボンを嫌っている。」党は帽子の着用にも反対している。;;;;;;;;;;;;x
+dino_fake_1830_title_1;鳥類学;;;;;;;;;;;;x
+dino_fake_1830_1;ヒッチコック教授は、マサチューセッツ州コネチカット川近くで発見された鳥の足跡の化石を報告。足跡のいくつかは、巨大な鳥類によって形成されたことを示しているようだ...;;;;;;;;;;;;x
 dino_fake_1830_title_2;プラテオサウルス;;;;;;;;;;;;x
-dino_fake_1830_2; In honour of Dr. Engelhardt, original discoverer of the remains, Dr. von Meyer named a new giant saurian as Plateosaurus engelhardti. It seems to be related to Iguanodon and Megalosaurus.;;;;;;;;;;;;x
+dino_fake_1830_2;遺跡の最初の発見者であるエンゲルハルト博士に敬意を表して、フォン・マイヤー博士は新しい巨大なトカゲ類をプラテオサウルス・エンゲルハルトティと名付けた。イグアノドンやメガロサウルスと関係があるようだ。;;;;;;;;;;;;x
 dino_fake_1830_title_3;テコドントサウルス;;;;;;;;;;;;x
-dino_fake_1830_3;This unusual saurian has teeth in its sockets instead of having them fused to the jaw like modern reptiles, say Dr. Riley and Dr. Stutchbury, the describers of this lizard.;;;;;;;;;;;;x
+dino_fake_1830_3;この珍しいトカゲ類の歯は、現代の爬虫類のように顎に固定しているのではなく歯槽の中にあると、このトカゲの説明者ライリー博士とスタッチベリー博士は言っている。;;;;;;;;;;;;x
 dino_fake_1830_title_4;ポエキロプレウロン;;;;;;;;;;;;x
-dino_fake_1830_4;Dr. Eudes-Deslongchamps resports on a new saurian known from vertebrae, ribs and limbs. He thinks this animal is related to the Megalosaurus.;;;;;;;;;;;;x
+dino_fake_1830_4;ユード・デロンシャン博士が新種のトカゲ類の脊椎骨と肋骨と肢骨を発見。博士はメガロサウルスの近縁であろうと考えている。;;;;;;;;;;;;x
 dino_fake_1840_title_1;恐竜;;;;;;;;;;;;x
-dino_fake_1840_1; Dinosauria is the name Prof. Owen proposed for the tribe of Saurians that include Megalosaurus, Hylaeosaurus and Iguanodon. These dinosaurians are remarkable for their large size.;;;;;;;;;;;;x
+dino_fake_1840_1;「恐竜」とは、オーウェン教授が提唱した、メガロサウルス・ヒラエオサウルス・イグアナドンを含むトカゲ類の名称である。これら恐竜は、その大きさで注目されている。;;;;;;;;;;;;x
 dino_fake_1840_title_2;ケティオサウルス;;;;;;;;;;;;x
-dino_fake_1840_2; A new giant fossil sea-dwelling reptilian was discovered. Prof. Owen named it Cetiosaurus, which means “whale lizard”.;;;;;;;;;;;;x
+dino_fake_1840_2;巨大な海棲爬虫類の化石が新たに発見された。オーウェン教授はそれを「クジラトカゲ」を意味するケティオサウルスと名付けた。;;;;;;;;;;;;x
 dino_fake_1840_title_3;カルディオドン;;;;;;;;;;;;x
-dino_fake_1840_3;A single heart shaped tooth was discovered in Wiltshire, England. After analyzing it Prof. Owen decided to give it the name of Cardiodon.;;;;;;;;;;;;x
+dino_fake_1840_3;イギリスのウィルトシャーで1本のハート形の歯が発見された。分析の結果、オーウェン教授はこの歯を「カルディオドン」と命名することにした。;;;;;;;;;;;;x
 dino_fake_1840_title_4;レグノサウルス;;;;;;;;;;;;x
-dino_fake_1840_4;After some jaws of the Iguanodon were discovered, Dr. Mantell assumed his error in a previously assigned portion of a jaw to this beast and now described it as a separate species.;;;;;;;;;;;;x
-dino_fake_1840_title_5;Dinosauria?;;;;;;;;;;;;x
-dino_fake_1840_5;Biologist Richard Owen creates first life-size concrete sculptures of extinct gigantic reptiles, fossils of which were discovered in South Africa and New Zealand. He calls them 'dinosauria'.;;;;;;;;;;;;x
-dino_fake_1850_title_1;Dinosaurians in America;;;;;;;;;;;;x
-dino_fake_1850_1;Dr. Leidy has described two new dinosaurians from America, named Trachodon and Deinodon. Other undeterminate lacertians named Palaeoscincus and Troodon were also discovered.;;;;;;;;;;;;x
+dino_fake_1840_4;イグアノドンのいくつかの顎が発見された後、マンテル博士は、以前この獣のものだと想定し、顎の一部を割り当てていたことを誤りとし、今では別の種であると説明している。;;;;;;;;;;;;x
+dino_fake_1840_title_5;恐竜類？;;;;;;;;;;;;x
+dino_fake_1840_5;生物学者リチャード・オーウェンは絶滅した巨大爬虫類の等身大コンクリート模型を初めて制作した。このような化石は南アフリカやニュージーランドで発見されており、彼はそれらを「恐竜類」と呼んでいる。;;;;;;;;;;;;x
+dino_fake_1850_title_1;アメリカの恐竜;;;;;;;;;;;;x
+dino_fake_1850_1;ライディ博士は、アメリカから新たにトラコドンとデイノドンという恐竜を発見した。他にもパラエオスキンクスとトロオドンと名付けられた未確定のトカゲのような種類が発見された。;;;;;;;;;;;;x
 dino_fake_1850_title_2;ハドロサウルス;;;;;;;;;;;;x
-dino_fake_1850_2;This new dinosaurian appears to be related to the Iguanodon. Dr. Leidy suspects the animal sustained itself in a bipedal erect posture.;;;;;;;;;;;;x
+dino_fake_1850_2;この新しい恐竜はイグアノドン系統のようだ。ライディ博士はこの動物が立っていて二足歩行していたのではないかと疑っている。;;;;;;;;;;;;x
 dino_fake_1860_title_1;コンプソグナトゥス;;;;;;;;;;;;x
-dino_fake_1860_1;A new species of saurian was found and was named Compsognathus. Dr. Wagner says the lizard reminds us somewhat of birds but such relationship cannot be justified.;;;;;;;;;;;;x
+dino_fake_1860_1;新種のトカゲ類が発見され、コンプソグナトゥスと名付けられた。ワグナー博士によると、このトカゲは鳥類を連想させるが、そのような関係性は証明できないという。;;;;;;;;;;;;x
 dino_fake_1860_title_2;アーケオプテリクス;;;;;;;;;;;;x
-dino_fake_1860_2;A finely fossilized feather was discovered and Dr. von Meyer named it Archaeopteryx which means ancient feather or wing.;;;;;;;;;;;;x
-dino_fake_1860_title_3;johnstoni, Astrodon johnstoni!;;;;;;;;;;;;x
-dino_fake_1860_3;After Dr. Johnston named some saurian teeth as Astrodon, Dr. Leidy now completes the name and gives it a specific epithet in his honour.;;;;;;;;;;;;x
+dino_fake_1860_2;細かく化石化した羽が発見され、フォン・マイヤー博士はそれを古代の羽または翼を意味するアーケオプテリクス(始祖鳥)と名付けた。;;;;;;;;;;;;x
+dino_fake_1860_title_3;ジョンストニ、アストロドン・ジョンストニ！;;;;;;;;;;;;x
+dino_fake_1860_3;ジョンストン博士はいくつかのトカゲ類の歯をアストロドンと命名、その後、ライディ博士が種小名がなかったその歯に彼の名を付け再命名した。;;;;;;;;;;;;x
 dino_fake_1860_title_4;ラエラプス;;;;;;;;;;;;x
-dino_fake_1860_4;Professor Cope announces the discovery of a terrifying rapacious gigantic dinosaur related to Megalosaurus and Dinodon.;;;;;;;;;;;;x
+dino_fake_1860_4;コープ教授はメガロサウルスやディノドンに関連する恐ろしいほど巨大な恐竜の発見を発表した。;;;;;;;;;;;;x
 dino_fake_1860_title_5;エラスモサウルス;;;;;;;;;;;;x
-dino_fake_1860_5;E.D. Cope reports on a new enaliosaur related to the Plesiosaurus, but with a much longer tail.;;;;;;;;;;;;x
+dino_fake_1860_5;E.D.コープ氏は、プレシオサウルスに似た新しいエナリオサウルスについて、より長い尾を持っていると報告している。;;;;;;;;;;;;x
 dino_fake_1860_title_6;アーケオプテリクス;;;;;;;;;;;;x
-dino_fake_1860_6;Archaeopteryx fossils discovered in Bavaria. Described as 'the first bird' and 'the missing link between dinosaurs and birds', it constitutes the proof Darwin needed to validate his theory.;;;;;;;;;;;;x
+dino_fake_1860_6;バイエルンで発見された化石アーケオプテリクスは「始祖鳥」「恐竜と鳥の間のミッシングリンク」と表現され、ダーウィンが彼の理論検証の為に必要な証拠を構成している。;;;;;;;;;;;;x
 dino_fake_1860_title_7;ヒプセロサウルス;;;;;;;;;;;;x
-dino_fake_1860_7;Mr. Matheron reports on vertebrae and giant egg fragments from a likely aquatic saurian he names Hypselosaurus from the Fuveau basin.;;;;;;;;;;;;x
+dino_fake_1860_7;マセロン氏は、フュヴォー盆地でヒプセロサウルスと名付けられた水棲トカゲ類の椎骨と巨大な卵の断片について報告している。;;;;;;;;;;;;x
 dino_fake_1870_title_1;戦争だ！;;;;;;;;;;;;x
-dino_fake_1870_1;After Dr. Marsh reported openly to the public Dr. Cope’s error in placing Elasmosaurus’ head in its tail they have become sworn enemies and a ferocious scientific competition has now started.;;;;;;;;;;;;x
-dino_fake_1870_title_2;More on Archaeopteryx;;;;;;;;;;;;x
-dino_fake_1870_2;New fossils of the primitive bird Archaeopteryx show shocking reptilian features as claws and teeth. Evolutionists are making a big deal of these findings and call it a missing link.;;;;;;;;;;;;x
-dino_fake_1870_title_3;Prof. Huxley’s Insanity!;;;;;;;;;;;;x
-dino_fake_1870_3;Many prominent palaeontologists are fearing for Prof. Huxley’s mental state after he proposed another ridiculous evolutionary claim: he says reptilian dinosaurians and birds are related!;;;;;;;;;;;;x
+dino_fake_1870_1;マーシュ博士が、エラスモサウルスの頭を尻尾に入れたコープ博士の誤りを公に報告した後、二人は宿敵となり、今では熾烈な科学競争が始まっている。;;;;;;;;;;;;x
+dino_fake_1870_title_2;始祖鳥の詳細;;;;;;;;;;;;x
+dino_fake_1870_2;原始的な鳥、始祖鳥の新しい化石は、爪や歯がある衝撃的な爬虫類の特徴を示している。進化論者は、これらの調査結果で大騒ぎしており、ミッシングリンクと呼んでいる。;;;;;;;;;;;;x
+dino_fake_1870_title_3;ハクスリー教授の狂気！;;;;;;;;;;;;x
+dino_fake_1870_3;多くの著名な古生物学者が、爬虫類である恐竜と鳥類は関係があると言うハクスリー教授の精神状態を心配している。;;;;;;;;;;;;x
 dino_fake_1870_title_4;ステゴサウルス;;;;;;;;;;;;x
-dino_fake_1870_4;A new kind of weird and enormous turtle was discovered in the North American West. Prof. Marsh called it Stegosaurus, meaning roofed lizard.;;;;;;;;;;;;x
+dino_fake_1870_4;北アメリカ西部で、新種の奇妙で巨大なカメが発見された。マーシュ教授は、それを屋根付きのトカゲを意味するステゴサウルスと呼んだ。;;;;;;;;;;;;x
 dino_fake_1870_title_5;プテラノドン;;;;;;;;;;;;x
-dino_fake_1870_5;A breakthrough discovery by O.C. Marsh. Airborne creatures fossils of which were found in North America, unlike any other species of pterosaurian, seem to had lacked teeth entirely.;;;;;;;;;;;;x
+dino_fake_1870_5;O.C.マーシュ氏が画期的な発見をした。北米で発見された空中生物の化石は、他の種類の翼竜類とは異なり、完全に歯を欠いていたようだ。;;;;;;;;;;;;x
 dino_fake_1870_title_6;アガタウマス;;;;;;;;;;;;x
-dino_fake_1870_6;Buried in a coal formation in Wyoming lied 'the wreck of one of the princes among giants', as E.D. Cope described of what was undoubtedly the largest land animal known to date.;;;;;;;;;;;;x
-dino_fake_1870_title_7;Bridger Basin works;;;;;;;;;;;;x
-dino_fake_1870_7;Marsh, Cope and Leidy move their excavation work to the Bridger Basin area in Wyoming. Their camps mere miles apart, top three paleontologists are reported to never speak with one another.;;;;;;;;;;;;x
-dino_fake_1870_title_8;Vote of no confidence;;;;;;;;;;;;x
-dino_fake_1870_8;Professor Marsh is elated over his election to the prestigious National Academy of Sciences. Professor Cope is reported to have been the only member of the academy to cast a 'no' vote.;;;;;;;;;;;;x
+dino_fake_1870_6;ワイオミング州の石炭層に埋もれていたのは、E.D.コープ氏が今日までに知られている最大陸上動物であることは間違いないと述べていた「巨人の王子たちの1人の残骸」である。;;;;;;;;;;;;x
+dino_fake_1870_title_7;ブリッジャー盆地の発掘作業場;;;;;;;;;;;;x
+dino_fake_1870_7;マーシュ、コープ、ライディの3氏は、発掘調査のためワイオミング州ブリッジャー盆地に移動した。彼らのキャンプは数マイル離れており、古生物学者トップ3はお互いに話すことはないと報告されている。;;;;;;;;;;;;x
+dino_fake_1870_title_8;不信任投票;;;;;;;;;;;;x
+dino_fake_1870_8;マーシュ教授は権威ある米国科学アカデミーに選出されたことを喜んでいる。コープ教授はアカデミーのメンバーの中で唯一「反対」票を投じたと報告されている。;;;;;;;;;;;;x
 dino_fake_1870_title_9;ヘスペロルニス;;;;;;;;;;;;x
-dino_fake_1870_9;Professor Marsh announces discovery of Hesperornis, a tall and almost wingless aquatic volucrine propelling with powerful hind legs and using his toothed beak to snatch underwater prey.;;;;;;;;;;;;x
-dino_fake_1870_title_10;Marsh among the Sioux;;;;;;;;;;;;x
-dino_fake_1870_10;In their boldest excursion to date, professor Marsh and his party cross the Sioux territory to reach the most promising excavation sites in the White River Badlands in South Dakota.;;;;;;;;;;;;x
-dino_fake_1870_title_11;Marsh's camp raided!;;;;;;;;;;;;x
-dino_fake_1870_11;O.C. Marsh and his group are reported to have barely escaped an Indian war party raid against their camp. Their hasty retreat didn't hinder securing of nearly two tonnes of excavated bones.;;;;;;;;;;;;x
-dino_fake_1870_title_12;Vertebrate galore;;;;;;;;;;;;x
-dino_fake_1870_12;Professor Cope reports from the San Juan River area, where he discovered dozens of new vertebrate species after departing from the geological survey expedition he had been attached to.;;;;;;;;;;;;x
+dino_fake_1870_9;マーシュ教授は、強力な後ろ足で推進し、水中の獲物を捕まえるため歯の付いた嘴を使用し、背が背が高くほとんど翼のない水棲動物群であるヘスペロルニスの発見を発表した。;;;;;;;;;;;;x
+dino_fake_1870_title_10;スー族の中のマーシュ氏;;;;;;;;;;;;x
+dino_fake_1870_10;マーシュ教授一行は、スー族の土地を横断し、サウスダコタ州ホワイトリバーバッドランズにある最も有望な発掘現場にたどり着くため、これまでで最も大胆な探検を行う模様。;;;;;;;;;;;;x
+dino_fake_1870_title_11;マーシュ氏のキャンプが襲撃される！;;;;;;;;;;;;x
+dino_fake_1870_11;O.C.マーシュ氏ら一行が、彼らの野営地に対するインディアン戦闘部隊の襲撃からかろうじて逃れたとの報告があった。急な撤退であっても、発掘された2トン近い骨の確保を妨げるものではなかった。;;;;;;;;;;;;x
+dino_fake_1870_title_12;脊椎動物が多数;;;;;;;;;;;;x
+dino_fake_1870_12;コープ教授は所属していた地質調査遠征と別れた後、数十種の脊椎動物の新種を発見した、とサンフアン川河川敷からの報告をしている。;;;;;;;;;;;;x
 dino_fake_1870_title_13;コモ・ブラフ;;;;;;;;;;;;x
-dino_fake_1870_13;O.C. Marsh discloses two of his agents uncovered bones as thick and as long as logs at the excavation in Como Bluff, Wyoming. Diplodocus and Allosaurus among many newly discovered species.;;;;;;;;;;;;x
-dino_fake_1880_title_1;Brontosaurus?;;;;;;;;;;;;x
-dino_fake_1880_1;Dug up and assembled by palaeontologist O.C. Marsh, to the untrained eye, Brontosaurus looks suspiciously similar to the already known Apatosaurus. His skull is completely different, though.;;;;;;;;;;;;x
-dino_fake_1880_title_2;Equine fraud?;;;;;;;;;;;;x
-dino_fake_1880_2;E.D. Cope accuses O.C. Marsh of stealing Kowalevsky's research into the genealogy and evolution of the horse. 'What is new in it, isn't correct, what is correct isn't new', he concludes.;;;;;;;;;;;;x
-dino_fake_1880_title_3;Marsh's repartee;;;;;;;;;;;;x
-dino_fake_1880_3;Kowalevsky was at least stricken with remorse and ended his unfortunate career by blowing out his brains. Cope still lives unrepentant', writes O.C. Marsh in response to his rival's attacks.;;;;;;;;;;;;x
-dino_fake_1880_title_4;Cope's Bible;;;;;;;;;;;;x
-dino_fake_1880_4;Professor E.D. Cope publishes his life's work - 'The Vertebrata of the Tertiary Formations of the West', a thousand pages long volume offering the most comprehensive study of the subject.;;;;;;;;;;;;x
-dino_fake_1880_title_5;Cope's Marshiana;;;;;;;;;;;;x
-dino_fake_1880_5;Cope gathers a copious account of Marsh's scientific errors and unethical practices by interviewing his former and present employees, to be used to ruin Marsh's scientific reputation.;;;;;;;;;;;;x
-dino_fake_1880_title_6;Iguanodon, Iguanodon everywhere!;;;;;;;;;;;;x
-dino_fake_1880_6;In the town of Bernissart an enormous quantity of these dinosaurians was discovered. Dr. Dollo studied them and concluded the animal was a biped, like Dr. Mantell proposed many years ago.;;;;;;;;;;;;x
-dino_fake_1880_title_7;The Classification of Dinosauria;;;;;;;;;;;;x
-dino_fake_1880_7;After some previous classifications, Prof. Seeley has now proposed that dinosaurians should be classified according to their pelvis. Two groups then emerge, Saurischia and Ornitischia.;;;;;;;;;;;;x
-dino_fake_1880_title_8;News on Stegosaurus;;;;;;;;;;;;x
-dino_fake_1880_8;After more material has been found for Stegosaurus Prof. Marsh now thinks the animal is instead a new unusual kind of dinosaur.;;;;;;;;;;;;x
-dino_fake_1880_title_9;Sauropods;;;;;;;;;;;;x
-dino_fake_1880_9;This new group of dinosaurs exceeds by far the size of the largest land animals known. Atlantosaurus, Titanosaurus, Morosaurus, Apatosaurus and Diplodocus are some of them.;;;;;;;;;;;;x
+dino_fake_1870_13;O.C.マーシュ氏は、ワイオミング州コモ・ブラフの発掘調査で、調査員2人が丸太のように太く長い骨を発見したことを明かした。新たに発見された多種の中にはディプロドクスとアロサウルスも含まれている。;;;;;;;;;;;;x
+dino_fake_1880_title_1;ブロントサウルス？;;;;;;;;;;;;x
+dino_fake_1880_1;古生物学者O.C.マーシュ氏が発掘し組み立てたブロントサウルスは、訓練されていない目には、既知のアパトサウルスに疑わしいほど酷似して見えるが、頭蓋骨は全く異なっている。;;;;;;;;;;;;x
+dino_fake_1880_title_2;馬の詐欺か？;;;;;;;;;;;;x
+dino_fake_1880_2;E.D.コープ氏は、O.C.マーシュ氏が馬の系統と進化に関するコバレフスキー氏の研究を盗んだことを非難。「その中で新しいことは正しくなく、正しいことは新しくない」と彼は結論づけている。;;;;;;;;;;;;x
+dino_fake_1880_title_3;マーシュ氏の談話;;;;;;;;;;;;x
+dino_fake_1880_3;「少なくともコバレフスキー氏は自責の念に駆られ、頭を撃ち抜くことで不幸なキャリアを終わらせた。コープ氏はいまだ悔い改めることなく生きている」。O.C.マーシュ氏はライバルの攻撃に応えてこう述べた。;;;;;;;;;;;;x
+dino_fake_1880_title_4;コープ氏の必携書;;;;;;;;;;;;x
+dino_fake_1880_4;E.D.コープ教授がライフワークである「西洋の第三紀層の脊椎動物」を出版した。このテーマの最も包括的な研究を1000ページに及ぶ内容で披露している。;;;;;;;;;;;;x
+dino_fake_1880_title_5;コープ氏のマーシュ逸話集;;;;;;;;;;;;x
+dino_fake_1880_5;コープ氏は、マーシュ氏の科学的な誤りや非倫理的な行為について、元従業員や現従業員にインタビューを行い、マーシュ氏の科学的な評判を落とすための膨大な情報を収集している模様。;;;;;;;;;;;;x
+dino_fake_1880_title_6;イグアノドン、どこでもイグアノドン！;;;;;;;;;;;;x
+dino_fake_1880_6;ベルニッサールの町では、これらの恐竜が大量に発見された。ドロー博士はそれらを研究し、マンテル博士が何年も前から提唱しているように、この動物は二足歩行であると結論付けた。;;;;;;;;;;;;x
+dino_fake_1880_title_7;恐竜の分類;;;;;;;;;;;;x
+dino_fake_1880_7;これまでのいくつかの分類を経て、シーリー教授は、恐竜は骨盤によって分類されるべきだと提案した。その結果、竜盤類と鳥盤類の2つのグループが出来たのである。;;;;;;;;;;;;x
+dino_fake_1880_title_8;ステゴサウルスに関するニュース;;;;;;;;;;;;x
+dino_fake_1880_8;ステゴサウルス用の多くの資料が発見された後、マーシュ教授は現在、この動物は珍しい新種の恐竜であると考えている。;;;;;;;;;;;;x
+dino_fake_1880_title_9;竜脚類;;;;;;;;;;;;x
+dino_fake_1880_9;この新しい恐竜群は、既知の最大陸上動物サイズをはるかに超えている。アトラントサウルス・ティタノサウルス・モロサウルス・アパトサウルス・ディプロドクスはその一部である。;;;;;;;;;;;;x
 dino_fake_1880_title_10;ケラトプス;;;;;;;;;;;;x
-dino_fake_1880_10;A new kind of horned dinosaur was discovered by Prof. Marsh. This animal shows that the diversity of these great saurians is bigger than suspected.;;;;;;;;;;;;x
+dino_fake_1880_10;マーシュ教授が新種の角のある恐竜を発見した。この動物は、これら巨大トカゲ類の多様性が予想以上に大きいことを示している。;;;;;;;;;;;;x
 dino_fake_1880_title_11;アロサウルス;;;;;;;;;;;;x
-dino_fake_1880_11;This big carnivorous dinosaur surely did come out from some nightmare. The skull with its big teeth is terrifying, Prof. Marsh reports.;;;;;;;;;;;;x
+dino_fake_1880_11;この大きな肉食恐竜は、確かに悪夢から出てきたのだろう。その大きな歯を持つ頭蓋骨は恐ろしいものだ、とマーシュ教授は報告している。;;;;;;;;;;;;x
 dino_fake_1880_title_12;ケラトサウルス;;;;;;;;;;;;x
-dino_fake_1880_12;The discovery of ankylosed (fused) metatarsal bones of a dinosaur called Ceratosaurus brings birds and dinosaurs closer together, O.C. Marsh says.;;;;;;;;;;;;x
+dino_fake_1880_12;ケラトサウルスと呼ばれる恐竜の固定(融合)した中足骨の発見によって、鳥類と恐竜がより近いものとなったと、O.C.マーシュ氏は述べている。;;;;;;;;;;;;x
 dino_fake_1880_title_13;コエロフィシス;;;;;;;;;;;;x
-dino_fake_1880_13;Prof. Cope reports on a new species of dinosaur named Coelophysis, which means “hollow form”, a characteristic of the bones of dinosaurians.;;;;;;;;;;;;x
+dino_fake_1880_13;コープ教授は、骨の特徴が「空洞の形状」を意味する「コエロフィシス」という新種の恐竜について報告した。;;;;;;;;;;;;x
 dino_fake_1880_title_14;アンフィコエリアス・フラギリムス;;;;;;;;;;;;x
-dino_fake_1880_14;Prof. Cope described a new species of dinosaur named Amphicoelias fragillimus. The dimensions of the vertebra and the femur are so big that the true size of the beast should remain unknown.;;;;;;;;;;;;x
+dino_fake_1880_14;コープ教授は、新種の恐竜の名前をアンフィコエリアス・フラギリムスであると説明した。脊椎と大腿骨は非常に大きく、真の大きさは不明のままである。;;;;;;;;;;;;x
 dino_fake_1880_title_15;カマラサウルス;;;;;;;;;;;;x
-dino_fake_1880_15;A big saurian, this stocky beast, described by E.D. Cope, was fortunately an herbivore, saving our minds from even bigger nightmares.;;;;;;;;;;;;x
+dino_fake_1880_15;E.D.コープ氏によって説明された、大トカゲ類、このがっしりした獣は、幸いにも草食動物で、我々の心をさらなる大きな悪夢から救ってくれた。;;;;;;;;;;;;x
 dino_fake_1890_title_1;トリケラトプス;;;;;;;;;;;;x
-dino_fake_1890_1;O.C. Marsh announces that the horned skull of a species he previously believed to be a large and unusual Pliocene mammal, alike to a bison, in fact belongs to a dinosaur he names Triceratops.;;;;;;;;;;;;x
-dino_fake_1890_title_2;Warfare of Scientists;;;;;;;;;;;;x
-dino_fake_1890_2;Outraged by the government attempt to confiscate his bone collection, Cope inspires a series of publications in the 'New York Herald' lambasting Marsh and his political allies in the USGS.;;;;;;;;;;;;x
-dino_fake_1890_title_3;USGS funding cut;;;;;;;;;;;;x
-dino_fake_1890_3;In the light of recent reports of fund mishandling and favoritism within the United States Geological Survey, Congress cuts agency's funding, disbanding the Chief Paleontologist's office.;;;;;;;;;;;;x
+dino_fake_1890_1;O.C.マーシュ氏は、以前はバイソンに似た大型で珍しい鮮新世の哺乳類だと考えていた角のある頭蓋骨が、実はトリケラトプスという恐竜であることを発表した。;;;;;;;;;;;;x
+dino_fake_1890_title_2;科学者の戦い;;;;;;;;;;;;x
+dino_fake_1890_2;政府が骨コレクションを没収しようとしたことに憤慨したコープ氏は「ニューヨーク・ヘラルド」への連載を思い立ち、マーシュ氏と米国地質調査所内の彼の政治的盟友たちをこき下ろした。;;;;;;;;;;;;x
+dino_fake_1890_title_3;USGSの資金削減;;;;;;;;;;;;x
+dino_fake_1890_3;最近のUSGS(米国地質調査所)内での資金の誤用や優遇措置の報告を受け、議会は調査所の資金を削減し、古生物主任研究員のオフィスを解散させた。;;;;;;;;;;;;x
 dino_fake_1890_title_4;トロサウルス;;;;;;;;;;;;x
-dino_fake_1890_4;This horned dinosaur possessed one the biggest heads of any animal known. The frill of this species is incredibly elongated, much more than in Triceratops.;;;;;;;;;;;;x
+dino_fake_1890_4;この角の生えた恐竜は、知られている動物の中でも最大の頭部を持っていた。この種のフリルはトリケラトプスよりもはるかに長いものだ。;;;;;;;;;;;;x
 dino_fake_1900_title_1;コープの頭蓋骨;;;;;;;;;;;;x
-dino_fake_1900_1;Cope is reported to have donated his skull to science following his death, to be compared with Marsh's skull and resolve the conflict by measuring the intellectual prowess of both rivals.;;;;;;;;;;;;x
+dino_fake_1900_1;コープ氏は死後、頭蓋骨を科学のために寄贈したと伝えられている。マーシュ氏の頭蓋骨と比較し、ふたりのライバルの優れた知能を測定することで対立を解消するためだ。;;;;;;;;;;;;x
 dino_fake_1900_title_2;マーシュの頭蓋骨;;;;;;;;;;;;x
-dino_fake_1900_2;Marsh rejects Cope's final challenge, refusing to donate his skull and exacting vengeance by condemning his rival's skull to be forever stored in a crate at the University of Pennsylvania.;;;;;;;;;;;;x
+dino_fake_1900_2;マーシュ氏は、頭蓋骨の寄贈を拒み、コープ氏最後の挑戦を拒絶した。ライバルの頭蓋骨がペンシルヴェニア大学の木箱の中に永久に保管されるように強いるという仕返しをしたのだ。;;;;;;;;;;;;x
 dino_fake_1920_title_1;ヴェロキラプトル;;;;;;;;;;;;x
-dino_fake_1920_1;The new species discovered in Mongolia by Peter Kaisen is believed to have been an intelligent pack hunter. Mr. Kaisen could be heard referring to the recovered specimen as a 'clever girl'.;;;;;;;;;;;;x
+dino_fake_1920_1;モンゴルでピーター・カイゼン氏によって発見された新種は、群れで狩りを行う知的なハンターであったと考えられている。カイゼン氏は回収された標本を「賢い娘」と呼んでいると聞く。;;;;;;;;;;;;x
 dino_fake_1930_title_1;ニャササウルス;;;;;;;;;;;;x
-dino_fake_1930_1;Fossils of Nyasasaurus discovered near Lake Nyasa in Southern Tanzania by Francis 'Rex' Parrington. Remains are vastly incomplete, but they are claimed to predate any other known dinosaur.;;;;;;;;;;;;x
+dino_fake_1930_1;ニアササウルスの化石が、フランシス・「レックス」・パリントンによって、タンザニア南部ニアサ湖(マラウイ湖)近くで、発見された。化石は不完全だが、他の既知の恐竜よりも以前に存在していたと言われている。;;;;;;;;;;;;x
 KEYNAME;TEXT;;;;;;;;;;;;x

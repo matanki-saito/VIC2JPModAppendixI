@@ -22,7 +22,7 @@ WEGAINCB_1;開戦事由;;;;;;;;;;;;x
 WEGAINCB_2;我々は次を得ました：;;;;;;;;;;;;x
 WEGAINCB_3;開戦事由「$CASUS$」;;;;;;;;;;;;x
 WEGAINCB_4;次の者に対して;;;;;;;;;;;;x
-WEGAINCB_5;$ENEMY$;;;;;;;;;;;;x
+WEGAINCB_5;『$CASUS$』;;;;;;;;;;;;x
 WEGAINCB_6;$DESC$;;;;;;;;;;;;x
 WEGAINCB_LOG;$ENEMY$に対しての開戦事由「$CASUS$」を獲得。;;;;;;;;;;;;x
 WEGAINCB_BTN1;OK;;;;;;;;;;;;x
@@ -86,7 +86,7 @@ BREAKCOUNTRY_HEADER;$CAPITAL$からの報告;;;;;;;;;;;;x
 BREAKCOUNTRY_1;$FACTION$の勝利！;;;;;;;;;;;;x
 BREAKCOUNTRY_2;$MONARCHTITLE$、$FACTION$は自分たちの要求を押し通しました！;;;;;;;;;;;;x
 BREAKCOUNTRY_3;*;;;;;;;;;;;;x
-BREAKCOUNTRY_4;$EFFECTS$;;;;;;;;;;;;x
+BREAKCOUNTRY_4;我々は、この要求を受け入れるほかありません。;;;;;;;;;;;;x
 BREAKCOUNTRY_5;*;;;;;;;;;;;;x
 BREAKCOUNTRY_6;*;;;;;;;;;;;;x
 BREAKCOUNTRY_LOG;$FACTION$は要求を押し通しました！;;;;;;;;;;;;x
@@ -98,8 +98,8 @@ BREAKCOUNTRYOTHER_SETUP;反乱派閥が他の国家で要求を押し通した�
 BREAKCOUNTRYOTHER_HEADER;大使より;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_1;$OTHER$;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_2;$FACTION$が次の地域で自分たちの要求を押し通しました。;;;;;;;;;;;;x
-BREAKCOUNTRYOTHER_3;$OTHER$;;;;;;;;;;;;x
-BREAKCOUNTRYOTHER_4;$EFFECTS$;;;;;;;;;;;;x
+BREAKCOUNTRYOTHER_3;$OTHER$で、;;;;;;;;;;;;x
+BREAKCOUNTRYOTHER_4;自分たちの要求を実施させました。;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_5;*;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_6;*;;;;;;;;;;;;x
 BREAKCOUNTRYOTHER_LOG;$FACTION$は$OTHER$で要求を押し通しました！;;;;;;;;;;;;x
@@ -111,7 +111,7 @@ INVENTION_SETUP;新発明があったとき;;;;;;;;;;;;x
 INVENTION_HEADER;報告です;;;;;;;;;;;;x
 INVENTION_1;大発見;;;;;;;;;;;;x
 INVENTION_2;我々の国家の科学者が次のことを発見しました：;;;;;;;;;;;;x
-INVENTION_3;$INVENTION$;;;;;;;;;;;;x
+INVENTION_3;$INVENTION$を発明しました。;;;;;;;;;;;;x
 INVENTION_4;$DESC$;;;;;;;;;;;;x
 INVENTION_5;効果：;;;;;;;;;;;;x
 INVENTION_6;$EFFECT$;;;;;;;;;;;;x
@@ -214,7 +214,7 @@ BANKRUPTCY_BTN1;これはまずい;;;;;;;;;;;;x
 THEY_BANKRUPTCY_SETUP;他の国家が破産したとき;;;;;;;;;;;;x
 THEY_BANKRUPTCY_HEADER;$MESSENGER$;;;;;;;;;;;;x
 THEY_BANKRUPTCY_1;破産！;;;;;;;;;;;;x
-THEY_BANKRUPTCY_2;$COUNTRY$;;;;;;;;;;;;x
+THEY_BANKRUPTCY_2;$COUNTRY$は;;;;;;;;;;;;x
 THEY_BANKRUPTCY_3;は破産を宣言せざるを得ませんでした。;;;;;;;;;;;;x
 THEY_BANKRUPTCY_4;*;;;;;;;;;;;;x
 THEY_BANKRUPTCY_5;*;;;;;;;;;;;;x
@@ -335,9 +335,9 @@ SIEGEUS_SETUP;敵が我々の州を占領し始めた場合、;;;;;;;;;;;;x
 SIEGEUS_HEADER;$MESSENGER$;;;;;;;;;;;;x
 SIEGEUS_1;我々の州の占領が始まりました;;;;;;;;;;;;x
 SIEGEUS_2;$MONARCHTITLE$、;;;;;;;;;;;;x
-SIEGEUS_3;$PROV$;;;;;;;;;;;;x
+SIEGEUS_3;$PROV$に対する攻囲が始まりました。;;;;;;;;;;;;x
 SIEGEUS_4;の占領が始まっています。ですが心配ご無用！;;;;;;;;;;;;x
-SIEGEUS_5;$ATTACKER$;;;;;;;;;;;;x
+SIEGEUS_5;$ATTACKER$軍は、;;;;;;;;;;;;x
 SIEGEUS_6;はすぐに我が軍により撃退されるでしょう。;;;;;;;;;;;;x
 SIEGEUS_LOG;$PROV$の占領が始まりました。;;;;;;;;;;;;x
 SIEGEUS_BTN1;OK;;;;;;;;;;;;x

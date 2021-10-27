@@ -178,8 +178,7 @@ def generate_dot_mod_file(mod_title_name,
     with open(out_file_path, "w", encoding="utf-8") as fw:
         lines = [
             'name="{}"'.format(mod_title_name),
-            'archive="mod/{}.zip"'.format(mod_file_name),
-            'user_dir="{}"'.format(mod_file_name)
+            'archive="mod/{}.zip"'.format(mod_file_name)
         ]
 
         fw.write("\n".join(lines))

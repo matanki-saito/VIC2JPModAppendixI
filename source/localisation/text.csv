@@ -214,15 +214,15 @@ FE_DIFFICULTY;難易度：;;;;;;;;;;;;x
 FE_AT_WAR;交戦国：;;;;;;;;;;;;x
 FE_ALLIES;同盟国：;;;;;;;;;;;;x
 FE_LOAD;ロード;;;;;;;;;;;;x
-FE_BOOKEDMARKED;ブックマ-ク:;;;;;;;;;;;;x
+FE_BOOKEDMARKED;ブックマーク日付:;;;;;;;;;;;;x
 FE_STARTING_DATE;開始日：;;;;;;;;;;;;x
-FE_BOOKMARK_TITLE;ブックマ-ク名;;;;;;;;;;;;x
-FE_BOOKMARK_DATE;ブックマ-ク日;;;;;;;;;;;;x
+FE_BOOKMARK_TITLE;ブックマーク名;;;;;;;;;;;;x
+FE_BOOKMARK_DATE;ブックマーク日;;;;;;;;;;;;x
 FE_LOCAL_GAMES;ローカルゲーム;;;;;;;;;;;;x
-FE_MY_GAME;マイゲ-ム;;;;;;;;;;;;x
+FE_MY_GAME;マイゲーム;;;;;;;;;;;;x
 FE_CANCEL;キャンセル;;;;;;;;;;;;x
 PLAYER_LOST_TITLE;プレイヤー切断;;;;;;;;;;;;x
-PLAYER_LOST_DESC;プレイヤ-:$playername$の接続が切断されました。どうしますか？;;;;;;;;;;;;x
+PLAYER_LOST_DESC;プレイヤー: $playername$の接続が切断されました。どうしますか？;;;;;;;;;;;;x
 SERVER_LOST_TITLE;サーバーが見つかりません！;;;;;;;;;;;;x
 REMOVE_SERVER_LOST_DESC;サーバーが見つかりません。ゲームを終了します。;;;;;;;;;;;;x
 OK;OK;;;;;;;;;;;;x
@@ -230,17 +230,17 @@ CANCEL;キャンセル;;;;;;;;;;;;x
 SAVE;セーブ;;;;;;;;;;;;x
 QUIT;終了;;;;;;;;;;;;x
 START;開始;;;;;;;;;;;;x
-CONTINUE;コンティニュ-;;;;;;;;;;;;x
+CONTINUE;コンティニュー;;;;;;;;;;;;x
 CONNECTED;接続されました;;;;;;;;;;;;x
 NAME_TAKEN;その名前は使われています。別の名前を選択してください。;;;;;;;;;;;;x
 CONNECTING;接続中...;;;;;;;;;;;;x
 BANNED;あなたはこのゲームを禁止されています。;;;;;;;;;;;;x
 CONNECTION_FAILED;接続に失敗しました！;;;;;;;;;;;;x
 GAME_NOT_FOUND;ゲームが見つかりません。;;;;;;;;;;;;x
-WAITING_FOR_PLAYERS;プレイヤ-達を待っています...;;;;;;;;;;;;x
-ALL_PLAYERS_HERE;全てのプレイヤ-がそろいました。;;;;;;;;;;;;x
+WAITING_FOR_PLAYERS;プレイヤー達を待っています...;;;;;;;;;;;;x
+ALL_PLAYERS_HERE;全てのプレイヤーがそろいました。;;;;;;;;;;;;x
 LOOKING_FOR_HOST;ホストを捜しています...;;;;;;;;;;;;x
-LOST_PLAYER;プレイヤ-との接続がロストしました...;;;;;;;;;;;;x
+LOST_PLAYER;プレイヤーとの接続がロストしました...;;;;;;;;;;;;x
 SERVER_LOST;サーバーが見つかりません。;;;;;;;;;;;;x
 JOIN_IP_TITLE;IPアドレスを入力してください...;;;;;;;;;;;;x
 HOST_TITLE;貴方のゲーム名を入力してください...;;;;;;;;;;;;x
@@ -254,12 +254,12 @@ QUIT_TITLE;ゲームを終了する;;;;;;;;;;;;x
 QUIT_DESC;本当にゲームを終了してデスクトップに戻りますか？;;;;;;;;;;;;x
 ZOOM_IN;拡大;;;;;;;;;;;;x
 ZOOM_OUT;縮小;;;;;;;;;;;;x
-RESIGN_TITLE;ゲ-ムを中断する;;;;;;;;;;;;x
+RESIGN_TITLE;ゲームを中断する;;;;;;;;;;;;x
 RESIGN_DESC;本当にメインメニューに戻りますか？;;;;;;;;;;;;x
 SCAN;スキャン;;;;;;;;;;;;x
 STOP_SCAN;スキャンを停止;;;;;;;;;;;;x
 TIP_KICK;プレイヤーをキック;;;;;;;;;;;;x
-TIP_BAN;プレイヤ-をBANし、このセッションから追放する;;;;;;;;;;;;x
+TIP_BAN;プレイヤーをBANし、このセッションから追放する;;;;;;;;;;;;x
 PLAYER_KICKED;$NAME$ はホストにキックされました。;;;;;;;;;;;;x
 PLAYER_BANNED;$NAME$ はホストによって追放されました。;;;;;;;;;;;;x
 YOUKICKED;あなたは不快な行為をしたためキックされました！;;;;;;;;;;;;x
@@ -447,7 +447,7 @@ tank_short;戦車;;;;;;;;;;;;x
 plane_short;航空;;;;;;;;;;;;x
 commerce_raider_short;仮装巡;;;;;;;;;;;;x
 cruiser_short;巡洋;;;;;;;;;;;;x
-frigate_short;フリゲ-ト;;;;;;;;;;;;x
+frigate_short;フリゲート;;;;;;;;;;;;x
 manowar_short;戦列;;;;;;;;;;;;x
 ironclad_short;装甲;;;;;;;;;;;;x
 dreadnought_short;戦艦;;;;;;;;;;;;x
@@ -682,13 +682,13 @@ OSELECT_UNIT;選択;;;;;;;;;;;;x
 OSELECT_UNIT_DRO;複数のユニットを選択した場合、それらを一度にまとめて操作することができます;;;;;;;;;;;;x
 DESELECT_UNIT;選択解除;;;;;;;;;;;;x
 DESELECT_UNIT_DRO;このボタンを押すと、このユニット画面を閉じることができます;;;;;;;;;;;;x
-MERGE_UNITS;合流;;;;;;;;;;;;x
-MERGE_UNITS_DRO;合流を選ぶことで、現在選択中の部隊全てを、一つの部隊にまとめる事ができます;;;;;;;;;;;;x
-REORGANISE_UNITS;再編成;;;;;;;;;;;;x
-NO_REORGANISE_UNITS;2つの部隊が選択されているときにだけ、再編成が可能です。;;;;;;;;;;;;x
-REORGANISE_UNITS_DRO;再編成を使えば、選択された2つの部隊間でユニットを入れ換えることができます;;;;;;;;;;;;x
+MERGE_UNITS;選択したユニットを合流;;;;;;;;;;;;x
+MERGE_UNITS_DRO;合流を選ぶことで、現在選択中のユニット全てを、一つのユニットにまとめる事ができます。;;;;;;;;;;;;x
+REORGANISE_UNITS;2つのユニットを再編成;;;;;;;;;;;;x
+NO_REORGANISE_UNITS;2つのユニットが選択されているときにだけ、再編成が可能です。;;;;;;;;;;;;x
+REORGANISE_UNITS_DRO;再編成を使えば、選択された2つのユニット間でサブユニットを入れ換えることができます;;;;;;;;;;;;x
 TRANSFER_SUB;転属;;;;;;;;;;;;x
-TRANSFER_SUB_DRO;ここをクリックすれば、このユニットを他の部隊へ転属させることができます。;;;;;;;;;;;;x
+TRANSFER_SUB_DRO;ここをクリックすれば、このサブユニットを他のユニットへ転属させることができます。;;;;;;;;;;;;x
 CONFIRM_DISBAND_TITLE;このユニットを解隊してよろしいですか？;;;;;;;;;;;;x
 CONFIRM_DISBAND_DESC;このユニットは解隊されたので、物資や燃料等を消費することはありません。部隊の兵員は、人的資源として還元されます。;;;;;;;;;;;;x
 SUNK_SHIP_LABEL;$NAME$に撃沈された艦船。;;;;;;;;;;;;x
@@ -1129,7 +1129,7 @@ BAL_ADJ;バリ;;;;;;;;;;;;x
 MUG_ADJ;ムガール;;;;;;;;;;;;x
 MOL_ADJ;モルダヴィア;;;;;;;;;;;;x
 WAL_ADJ;ワラキア;;;;;;;;;;;;x
-DAI_ADJ;越;;;;;;;;;;;;x
+DAI_ADJ;ベトナム;;;;;;;;;;;;x
 COL_ADJ;コロンビア;;;;;;;;;;;;x
 WIA_ADJ;ヴィエンチャン;;;;;;;;;;;;x
 ZUL_ADJ;ズールー;;;;;;;;;;;;x
@@ -1464,7 +1464,7 @@ xhosa;コサ;;;;;;;;;;;;x
 yao;ヤオ;;;;;;;;;;;;x
 zulu;ズールー;;;;;;;;;;;;x
 ENG_fascist_dictatorship;ブリタニア共和国;;;;;;;;;;;;x
-ENG_fascist_dictatorship_ADJ;英;;;;;;;;;;;;x
+ENG_fascist_dictatorship_ADJ;イギリス;;;;;;;;;;;;x
 fascist_rebels_title;ファシスト;;;;;;;;;;;;x
 fascist_rebels_name;$COUNTRY$ファシスト軍;;;;;;;;;;;;x
 fascist_rebels_desc;義勇軍とは、過激な新イデオロギーであるファシズムに突き動かされている革命家の集団です。暴力と大衆行動の教義の下で活動し、戦いの訓練を積んでいる彼ら革命家たちは、相手が古い君主制国家であろうが若き民主制国家であろうが、同様に何としてでも打倒しようと考えています。そして、それらに代えて、絶対的な全体主義ファシズム国家を樹立しようとしています。;;;;;;;;;;;;x
@@ -1473,8 +1473,8 @@ communist_rebels_title;共産党;;;;;;;;;;;;x
 communist_rebels_name;$COUNTRY$共産軍;;;;;;;;;;;;x
 communist_rebels_desc;赤衛隊は、政府に対して、そして何より、彼らがブルジョワ国家・社会の反動的な虚飾と考える全ての事物に対して反乱を起した共産主義者たちによって構成されています。宗教、伝統、私有財産や家族といった制度に対して異を唱える彼ら革命家たちは、それらの代わりに『プロレタリア独裁』体制を樹立しようとしています。もっとも、彼らは、約束された階級のない共産主義のユートピアを目指して、長い道のりを歩んでいるはずですが、道の傍らには死体が山のように転がっています。;;;;;;;;;;;;x
 communist_rebels_army;$COUNTRY$赤衛隊;;;;;;;;;;;;x
-anarcho_liberal_rebels_title;無政府-自由派;;;;;;;;;;;;x
-anarcho_liberal_rebels_name;$COUNTRY$無政府-自由派;;;;;;;;;;;;x
+anarcho_liberal_rebels_title;無政府資本主義者;;;;;;;;;;;;x
+anarcho_liberal_rebels_name;$COUNTRY$無政府資本主義者;;;;;;;;;;;;x
 anarcho_liberal_rebels_desc;民兵隊は、真偽のほどはともかく、圧政を敷く政府と、その手先となって活動する国家機関に立ち向かうため蜂起した、好戦的な自由主義者によって構成されています。彼らは、何はともあれ、自分たちの個人の自由を守るため、戦おうとします。彼ら革命家たちは、専制的？な国家と戦う自分たちのことを、本当の意味での自由の戦士だと思っています。;;;;;;;;;;;;x
 anarcho_liberal_rebels_army;$COUNTRY$民兵隊;;;;;;;;;;;;x
 reactionary_rebels_title;反動主義派;;;;;;;;;;;;x
@@ -1501,7 +1501,7 @@ disgruntled_rabble_title;不穏分子;;;;;;;;;;;;x
 disgruntled_rabble_name;不穏分子;;;;;;;;;;;;x
 disgruntled_rabble_desc;彼らは、社会に不満を抱く市民たちによって構成される暴徒の集団です。憂さ晴らしに、暴れたり略奪したりすることが目的のようです。;;;;;;;;;;;;x
 disgruntled_rabble_army;$COUNTRY$蜂起軍;;;;;;;;;;;;x
-ORG_NAME;Organization: §Y$VAL$§W;;;;;;;;;;;;x
+ORG_NAME;組織率: §Y$VAL$§W;;;;;;;;;;;;x
 ORG_DESC_DAILY;日々の増加分: §Y$VAL$§W;;;;;;;;;;;;x
 ORG_DESC_POP;POPの寄与分: §Y$VAL$§W;;;;;;;;;;;;x
 ORG_DESC_ADMIN_SPENDING;行政費: §Y$VAL$§W;;;;;;;;;;;;x
@@ -3530,8 +3530,8 @@ EVTOPTA1000;わかった。;;;;;;;;;;;;x
 EVTNAME1001;共産主義の理想;;;;;;;;;;;;x
 EVTDESC1001;「支配階級など存在せず、落伍者も存在しない、人類が圧制・窮乏から解放され自由な社会を求め...否、『必要』とするのだ。政府も階級格差も存在しない、労働者が生産手段を支配している社会こそ、我らには必要なのだ。」;;;;;;;;;;;;x
 EVTOPTA1001;わかった。;;;;;;;;;;;;x
-EVTNAME1002;無政府-自由主義者;;;;;;;;;;;;x
-REMOVE_EVTDESC1002;無政府-自由主義者たちが、通りで宣伝活動を行っています。「法執行機関、裁判所、国防組織といったものに対する国家の統制を廃止し、代わりに、異なる法制度に基づく、自発的民間組織によって組織された機関が、これらの業務を行うべきなのです。通貨は、公開市場において、民間団体や競合勢力から供給されるべきなのです。個人の活動や経済活動は、政治によってではなく、市場の自然法や私法によって規律されるべきなのです。」\n\n無政府-自由主義者たちは、自分たちの声を、この国の政治家にも聞いてもらおうとします。;;;;;;;;;;;;x
+EVTNAME1002;無政府資本主義者;;;;;;;;;;;;x
+REMOVE_EVTDESC1002;無政府資本主義者たちが、通りで宣伝活動を行っています。「法執行機関、裁判所、国防組織といったものに対する国家の統制を廃止し、代わりに、異なる法制度に基づく、自発的民間組織によって組織された機関が、これらの業務を行うべきなのです。通貨は、公開市場において、民間団体や競合勢力から供給されるべきなのです。個人の活動や経済活動は、政治によってではなく、市場の自然法や私法によって規律されるべきなのです。」\n\n無政府資本主義者たちは、自分たちの声を、この国の政治家にも聞いてもらおうとします。;;;;;;;;;;;;x
 EVTOPTA1002;わかった。;;;;;;;;;;;;x
 EVTNAME1003;第三の道;;;;;;;;;;;;x
 EVTDESC1003;「団結は力なり！政府は弱体化しつつある。それゆえに、我々を団結させ、我々に強力な国民意識を与えることのできる、資本家どもの甘く有害な声に惑わされない政党が必要なのだ。」『第3の道』、もしくはファシスト派と呼ぶべきかもしれない勢力が、上院の議席を狙っています。;;;;;;;;;;;;x
@@ -4979,7 +4979,7 @@ REMOVE_EVTDESC15310;She stalks through the city-streets of $PROVINCENAME$ with a
 EVTOPTA15310;酷い。なんて酷い話だ。;;;;;;;;;;;;x
 EVTOPTB15310;あらゆる手段を講じて、学校を閉鎖しろ;;;;;;;;;;;;x
 EVTNAME16000;分かれたる家;;;;;;;;;;;;x
-REMOVE_EVTDESC16000;A house divided against itself cannot stand. I believe this government cannot endure, permanently, half slave and half free. I do not expect the Union to be dissolved ・I do not expect the house to fall ・but I do expect it will cease to be divided. It will become all one thing or all the other.' -- Abraham Lincoln\n\nIt is over. All attempts at compromise, the efforts of decades of public discourse on the issue of slavery, have failed. This morning the congressmen from the Southern states resigned their offices, and the slave states declared secession from the perpetual Union. A southern wind blows hard on our house divided.;;;;;;;;;;;;x
+REMOVE_EVTDESC16000;A house divided against itself cannot stand. I believe this government cannot endure, permanently, half slave and half free. I do not expect the Union to be dissolved — I do not expect the house to fall — but I do expect it will cease to be divided. It will become all one thing or all the other.' -- Abraham Lincoln\n\nIt is over. All attempts at compromise, the efforts of decades of public discourse on the issue of slavery, have failed. This morning the congressmen from the Southern states resigned their offices, and the slave states declared secession from the perpetual Union. A southern wind blows hard on our house divided.;;;;;;;;;;;;x
 EVTOPTA16000;合衆国に万歳三唱！;;;;;;;;;;;;x
 EVTOPTB16000;ディキシーの旗とともに進め！万歳！;;;;;;;;;;;;x
 EVTNAME16010;ジョン・ブラウンの最後の襲撃;;;;;;;;;;;;x
@@ -5332,7 +5332,7 @@ EVTDESC18190;上院の反動主義派の議員が、本日議場で講演を行�
 EVTOPTA18190;奪還すべし！;;;;;;;;;;;;x
 EVTOPTB18190;今ある領土で充分だ;;;;;;;;;;;;x
 EVTNAME18200;議場の扇動者;;;;;;;;;;;;x
-EVTDESC18200;「・・・したがって、我が国の貿易商人や商人には、海や陸を自由に行き来できる無制限の権利があり、政府がその権利を制限することはできないのです。」\n\n無政府-自由主義派に属する若きカリスマ的上院議員が、自由貿易政策のさらなる推進を訴える演説を行いました。大衆は、彼の言葉に耳を傾けているようです。我々は、この機会を利用して、さらに自由放任政策を推し進めるための法案を提出することができます。また、そうしなければ、演説を無視したとして、彼の支持者の怒りを買う恐れがあります。;;;;;;;;;;;;x
+EVTDESC18200;「・・・したがって、我が国の貿易商人や商人には、海や陸を自由に行き来できる無制限の権利があり、政府がその権利を制限することはできないのです。」\n\n無政府資本主義派に属する若きカリスマ的上院議員が、自由貿易政策のさらなる推進を訴える演説を行いました。大衆は、彼の言葉に耳を傾けているようです。我々は、この機会を利用して、さらに自由放任政策を推し進めるための法案を提出することができます。また、そうしなければ、演説を無視したとして、彼の支持者の怒りを買う恐れがあります。;;;;;;;;;;;;x
 EVTOPTA18200;自由放任主義を推し進めよう;;;;;;;;;;;;x
 EVTOPTB18200;あんな演説は無視するに限る;;;;;;;;;;;;x
 EVTNAME18500;警官隊のパレード;;;;;;;;;;;;x
@@ -6140,7 +6140,7 @@ EVTNAME36906;アイルランドで大凶作！;;;;;;;;;;;;x
 EVTDESC36906;1845年、アイルランドで、収穫前のジャガイモの大半が、疫病菌に枯死させられました。大飢饉の発生は、避けられそうにありません。;;;;;;;;;;;;x
 EVTOPTA36906;我々には、彼らを救うことはできそうにない！;;;;;;;;;;;;x
 EVTOPTB36906;できる限りの手立てを講じよう！;;;;;;;;;;;;x
-EVTNAME36907;ヴァニティ・フェア;;;;;;;;;;;;x
+EVTNAME36907;虚栄の市;;;;;;;;;;;;x
 EVTDESC36907;1847年、作家のウィリアム・メイクピース・サッカレーは、『虚栄の市』を発表しました。この作品は、上流階級の生気のない虚構の世界を批判したものでした。;;;;;;;;;;;;x
 EVTOPTA36907;スキャンダルだ！;;;;;;;;;;;;x
 EVTNAME36908;大陸と電信線がつながる;;;;;;;;;;;;x
@@ -6361,28 +6361,28 @@ immigration_focus;移民;;;;;;;;;;;;x
 immigration;移民誘致;;;;;;;;;;;;x
 colonial_focus;植民地化;;;;;;;;;;;;x
 colonize;植民地化;;;;;;;;;;;;x
-promotion_focus;助成;;;;;;;;;;;;x
-promote_aristocrats;貴族育成;;;;;;;;;;;;x
-promote_artisans;職人育成;;;;;;;;;;;;x
-promote_bureaucrats;官僚育成;;;;;;;;;;;;x
-promote_capitalists;資本家育成;;;;;;;;;;;;x
-promote_clergymen;聖職者育成;;;;;;;;;;;;x
-promote_clerks;事務員育成;;;;;;;;;;;;x
+promotion_focus;昇格;;;;;;;;;;;;x
+promote_aristocrats;貴族を奨励;;;;;;;;;;;;x
+promote_artisans;職人を奨励;;;;;;;;;;;;x
+promote_bureaucrats;官僚を奨励;;;;;;;;;;;;x
+promote_capitalists;資本家を奨励;;;;;;;;;;;;x
+promote_clergymen;聖職者を奨励;;;;;;;;;;;;x
+promote_clerks;事務員を奨励;;;;;;;;;;;;x
 promote_craftsmen;工員を奨励;;;;;;;;;;;;x
-promote_farmers;農民育成;;;;;;;;;;;;x
-promote_labourers;労働者育成;;;;;;;;;;;;x
-promote_officers;将校育成;;;;;;;;;;;;x
-promote_soldiers;兵士育成;;;;;;;;;;;;x
+promote_farmers;農民を奨励;;;;;;;;;;;;x
+promote_labourers;労働者を奨励;;;;;;;;;;;;x
+promote_officers;将校を奨励;;;;;;;;;;;;x
+promote_soldiers;兵士を奨励;;;;;;;;;;;;x
 production_focus;生産;;;;;;;;;;;;x
-automation_focus;自動車産業育成;;;;;;;;;;;;x
-electrical_focus;電気産業育成;;;;;;;;;;;;x
-chemical_focus;化学産業育成;;;;;;;;;;;;x
-shipping_focus;造船業育成;;;;;;;;;;;;x
-textile_focus;紡績産業育成;;;;;;;;;;;;x
-wood_focus;木工産業育成;;;;;;;;;;;;x
-basic_industry_focus;基本産業育成;;;;;;;;;;;;x
-armaments_focus;兵器産業育成;;;;;;;;;;;;x
-consumer_focus;消費財産業育成;;;;;;;;;;;;x
+automation_focus;自動車産業を奨励;;;;;;;;;;;;x
+electrical_focus;電気産業を奨励;;;;;;;;;;;;x
+chemical_focus;化学産業を奨励;;;;;;;;;;;;x
+shipping_focus;造船業を奨励;;;;;;;;;;;;x
+textile_focus;紡績産業を奨励;;;;;;;;;;;;x
+wood_focus;木工産業を奨励;;;;;;;;;;;;x
+basic_industry_focus;基本産業を奨励;;;;;;;;;;;;x
+armaments_focus;兵器産業を奨励;;;;;;;;;;;;x
+consumer_focus;消費財産業を奨励;;;;;;;;;;;;x
 railroad_build_desc;従来に比べ、資本家が鉄道を敷設する可能性を§Y$VAL$§W%上昇させます。;;;;;;;;;;;;x
 immigration_focus_desc;従来に比べ、移民がこのプロヴィンスを選ぶ可能性を§Y$VAL$§W上昇させます。;;;;;;;;;;;;x
 colony_focus_desc;毎月、植民地レベルを§Y$VAL$§W%上昇させます。;;;;;;;;;;;;x
@@ -6913,7 +6913,7 @@ UW_TOTAL_STR_IRO;最大兵員数は、$VALUE$です。\n;;;;;;;;;;;;x
 UW_LOC_IRO;現在地;;;;;;;;;;;;x
 UW_SUPPLIES_FROM;ここは、このユニットの補給拠点です。;;;;;;;;;;;;x
 UW_BASED_FROM;ここは、このユニットの作戦拠点基地です。;;;;;;;;;;;;x
-UW_SPEED;これは、マップ上を移動する際の、このユニットの移動速度です。この速度は、部隊・艦隊の中で、もっとも低速のユニットにあわせられます。;;;;;;;;;;;;x
+UW_SPEED;これは、マップ上を移動する際の、このユニットの移動速度です。この速度は、部隊・艦隊の中で、もっとも低速のサブユニットにあわせられます。;;;;;;;;;;;;x
 UW_UNLOAD_NOT_VALID;艦隊が港に停泊している場合のみ、部隊を下船させることができます。;;;;;;;;;;;;x
 UW_UNLOAD_VALID;この部隊を下船させます。;;;;;;;;;;;;x
 UW_LOAD_NO_FLEET_FOUND;この部隊を乗船させることができる艦隊が、ここには存在しません。;;;;;;;;;;;;x
@@ -9216,7 +9216,7 @@ conservative;保守派;;;;;;;;;;;;x
 socialist;社会主義派;;;;;;;;;;;;x
 communist;共産主義派;;;;;;;;;;;;x
 liberal;自由主義派;;;;;;;;;;;;x
-anarcho_liberal;無政府-自由主義派;;;;;;;;;;;;x
+anarcho_liberal;無政府資本主義者;;;;;;;;;;;;x
 UPPERHOUSE_SETUP;上院の勢力図に変化があったとき;;;;;;;;;;;;x
 UPPERHOUSE_HEADER;$COUNTRY$の政治ニュース;;;;;;;;;;;;x
 UPPERHOUSE_1;上院の勢力図に変化;;;;;;;;;;;;x
@@ -9500,13 +9500,13 @@ good_pensions_desc;公的年金の支給額は、多額です。;;;;;;;;;;;;x
 health_care;医療保険制度;;;;;;;;;;;;x
 no_health_care;制度なし;;;;;;;;;;;;x
 no_health_care_desc;医療保険制度は存在しません。;;;;;;;;;;;;x
-trinket_health_care;貧弱;;;;;;;;;;;;x
+trinket_health_care;貧弱な医療保険制度;;;;;;;;;;;;x
 trinket_health_care_desc;医療保険制度は、非常に低水準です。;;;;;;;;;;;;x
-low_health_care;低水準;;;;;;;;;;;;x
+low_health_care;低水準な医療保険制度;;;;;;;;;;;;x
 low_health_care_desc;医療保険制度は、低水準です。;;;;;;;;;;;;x
-acceptable_health_care;及第点;;;;;;;;;;;;x
+acceptable_health_care;及第点の医療保険制度;;;;;;;;;;;;x
 acceptable_health_care_desc;医療保険制度は、まずまず水準です。;;;;;;;;;;;;x
-good_health_care;高水準;;;;;;;;;;;;x
+good_health_care;高水準の医療保険制度;;;;;;;;;;;;x
 good_health_care_desc;医療保険制度は、高い水準です。;;;;;;;;;;;;x
 protectionism_l;保護貿易主義;;;;;;;;;;;;x
 free_trade_l;自由貿易主義;;;;;;;;;;;;x
@@ -14992,7 +14992,7 @@ HAVE_PRESTIGE_LESS_THAN;威信が以下の値よりも低い：;;;;;;;;;;;;x
 HAVE_PRESTIGE_MORE_THAN;威信が以下の値よりも高い：;;;;;;;;;;;;x
 CAN_NOT_BUILD_FACTORY;工場を建設することは不可能です。\n;;;;;;;;;;;;x
 CAN_BUILD_FACTORY;工場を建設することは可能です。\n;;;;;;;;;;;;x
-GEN_POP_HAVE;Must have have $WHAT$;;;;;;;;;;;;x
+GEN_POP_HAVE;Must have $WHAT$;;;;;;;;;;;;x
 GEN_POP_NOT_HAVE;Must not have $WHAT$.;;;;;;;;;;;;x
 IS_NOT_SPHERELEADER_OF;影響圏化に$ADJ$が存在しない;;;;;;;;;;;;x
 IS_SPHERELEADER_OF;影響圏化に$ADJ$が存在する;;;;;;;;;;;;x

@@ -50,7 +50,7 @@ IS_NOT_ACCEPTED_CULTURE_POP;受容文化ではありません。\n;;;;;;;;;;;;x
 IS_ACCEPTED_CULTURE_POP;受容文化です。\n;;;;;;;;;;;;x
 IS_NOT_PRIMARY_CULTURE_POP;§Y$NAME$§Wではない\n;;;;;;;;;;;;x
 IS_PRIMARY_CULTURE_POP;§Y$NAME$§Wである\n;;;;;;;;;;;;x
-NEW_CORE_EFFECT_TAG2;$TAG$は中核州として§Y$NEW$§Wを得るでしょう。\n;;;;;;;;;;;;x
+NEW_CORE_EFFECT_TAG2;$TAG$は§Y$NEW$§Wを中核州として得るでしょう。\n;;;;;;;;;;;;x
 digin;塹壕;;;;;;;;;;;;x
 terrain;地形;;;;;;;;;;;;x
 crossing;交差路;;;;;;;;;;;;x
@@ -165,7 +165,7 @@ tut_6a_13;ベルギーの工業生産を改善するためには、より多く�
 DEN_251;アイスランドとグリーンランド;;;;;;;;;;;;x
 CANCELALLIANCE_THEY_ACCEPT_BTN2;OK;;;;;;;;;;;;x
 CANCELALLIANCE_THEY_ACCEPT_BTN3;移動;;;;;;;;;;;;x
-tut_1b_19;ここでは手動で将軍を割り当てます。さぁ、スパで師団を選択してください。;;;;;;;;;;;;x
+tut_1b_19;ここでは手動で将軍を割り当てます。さぁ、スパにいる師団を選択してください。;;;;;;;;;;;;x
 TOPBAR_DEC_SPEED;ゲーム速度を落とす;;;;;;;;;;;;x
 fort;要塞;;;;;;;;;;;;x
 fort_short;要塞;;;;;;;;;;;;x

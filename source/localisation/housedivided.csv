@@ -6,8 +6,8 @@ MIL_FROM_LEADERS;指揮官;;;;;;;;;;;;x
 OCCUPATION_SCORE;占領：;;;;;;;;;;;;x
 BLOCKADE_SCORE;封鎖：;;;;;;;;;;;;x
 OUTLINER_TOOLTIP_EMPLOYED;工場の就業者数：§Y$COUNT$§W（§Y$PERC$§W%）;;;;;;;;;;;;x
-TRADE_SUPPLY_NEED_A;1日当たり$VAL$を陸軍に供給しなければならない。\n;;;;;;;;;;;;x
-TRADE_SUPPLY_NEED_N;1日当たり$VAL$を海軍に供給しなければならない。\n;;;;;;;;;;;;x
+TRADE_SUPPLY_NEED_A;陸軍に対して、一日あたり$VAL$供給しなければなりません。\n;;;;;;;;;;;;x
+TRADE_SUPPLY_NEED_N;海軍に対して、一日あたり$VAL$供給しなければなりません。\n;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_SET_PRIO_WAR;この国とは交戦中につき、影響を及ぼすことができません。;;;;;;;;;;;;x
 DIPLOMACY_INFLUENCE_NOT_WORTH;この国にはすでに最大限の影響力を与えており、我が国以外に影響を及ぼしている国はありません。これ以上の影響力ポイントは不要です。;;;;;;;;;;;;x
 COLONY_ABORT_HEADER;入植に失敗したとき;;;;;;;;;;;;x
@@ -263,7 +263,7 @@ conservative_focus;§Y保守主義§W政党への連帯感;;;;;;;;;;;;x
 socialist_focus;§Y社会主義§W政党への連帯感;;;;;;;;;;;;x
 communist_focus;§Y共産主義§W政党 への連帯感;;;;;;;;;;;;x
 liberal_focus;§Y自由主義§W政党への連帯感;;;;;;;;;;;;x
-anarcho_liberal_focus;§Y無政府-自由主義§W政党への連帯感;;;;;;;;;;;;x
+anarcho_liberal_focus;§Y無政府資本主義§!政党への連帯感;;;;;;;;;;;;x
 NATIONAL_FOCUS_PARTY_LOYALTY_DESC;政党への連帯感の1日当たりの変化：§Y$VAL$§W;;;;;;;;;;;;x
 PARTY_WITH_IDEOLOGY_NOT_EXIST;現在§Y$IDEOLOGY$§Wの政党は活動していません。;;;;;;;;;;;;x
 NATIONAL_FOCUS_PARTY_LOYALTY_EFFECT;NF(国力傾注)により、$PARTY$への連帯感が1日当たり$VAL$ずつ変化しています。;;;;;;;;;;;;x
@@ -308,7 +308,7 @@ CB_NOT_ON_SPHERES;影響圏化にある国家に対する戦争を正当化す�
 NO_WAR_JUSTIFICATION;かの国への宣戦布告を正当化できる開戦事由はありません。;;;;;;;;;;;;x
 NOT_HOSTILE_BUILD;敵対的ではない;;;;;;;;;;;;x
 ACW_NAME;分かれたる家;;;;;;;;;;;;x
-ACW_DESC;南部連合諸州による連邦離脱の動きが相次いだことで、北米全土が戦場と化した。内戦の行方は混沌としていたが、すでに鉄道や電報、連発銃などが利用できるようになっていたことから、歴史上かつてない戦いになるであろうことは必至だった。一方、ヨーロッパではイギリスが、鋼の船体と蒸気の動力を持つ軍艦の実戦投入を試みており、実現すれば海戦の様相が激変するだろう。世界中に広がった産業化の波は次第に勢いを増しつつあり、一国また一国と飲み込まれていく。結局、時代は変わる運命にあるのだ。;;;;;;;;;;;;x
+ACW_DESC;連合国が連邦からの離脱を試みるにつれて、北米では内戦が激化しています。その結果は不確かですが、双方が鉄道、電信、連発銃を利用できるため、これが新たな種類の戦争になることはすでに約束されています。一方、ヨーロッパでは、イギリスが最初の鉄製船体を持つ蒸気駆動の軍艦を実験しており、この組み合わせは海上での戦争に革命をもたらすことが約束されています。世界的な産業革命は、ますます多くの国が工業化し始めるにつれて加速し続けています。時代がいま変わりつつあります。;;;;;;;;;;;;x
 EVTNAME90000;$CB_TARGET_NAME$の脅威;;;;;;;;;;;;x
 EVTDESC90000;$CB_TARGET_NAME$が我が国を狙っていることは周知の事実です。彼らが理不尽な攻撃を仕掛けてくるのは時間の問題であり、我が国としては先制攻撃で身を守る以外道はありません。幸い、かの国の非道なもくろみの詳細が報道機関に流出し、我々に味方する声が高まっています。;;;;;;;;;;;;x
 EVTOPTA90000;敵は目の前だ！;;;;;;;;;;;;x
@@ -815,7 +815,7 @@ CAN_NATIONALIZE;外国人投資家がいる;;;;;;;;;;;;x
 IS_NOT_IN_A_SPHERE;影響圏化にない;;;;;;;;;;;;x
 ACTIVATE_TECH_EFFECT;技術を利用できるようにする：§Y$NAME$§W;;;;;;;;;;;;x
 TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;高度な技術は文明国にしか利用できません。§Y政治タブ§Wで西洋化すれば、基礎技術が獲得でき、その後は独力で研究できるようになります。;;;;;;;;;;;;x
-RELATION_BETWEEN;Current relation between $COUNTRY1$ and $COUNTRY2$: $RELATION$;;;;;;;;;;;;x
+RELATION_BETWEEN;$COUNTRY1$と$COUNTRY2$の間の現在の関係: $RELATION$;;;;;;;;;;;;x
 ADD_RELATIVE_INCOME_EFFECT;国庫：$VALUE$¤;;;;;;;;;;;;x
 CORRUPTION_LESS_THAN;未満の汚職;;;;;;;;;;;;x
 CORRUPTION_MORE_THAN;以上の汚職;;;;;;;;;;;;x

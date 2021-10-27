@@ -55,7 +55,7 @@ conservative_focus_short;§Y保守主義§Wへの連帯感;;;;;;;;;;;;x
 socialist_focus_short;§Y社会主義§Wへの連帯感;;;;;;;;;;;;x
 communist_focus_short;§Y共産主義§Wへの連帯感;;;;;;;;;;;;x
 liberal_focus_short;§Y自由主義§Wへの連帯感;;;;;;;;;;;;x
-anarcho_liberal_focus_short;§Y無政府-自由主義§Wへの連帯感;;;;;;;;;;;;x
+anarcho_liberal_focus_short;§Y無政府資本主義者§!への連帯感;;;;;;;;;;;;x
 automation_focus_short;自動車産業;;;;;;;;;;;;x
 electrical_focus_short;電気産業;;;;;;;;;;;;x
 chemical_focus_short;化学産業;;;;;;;;;;;;x
@@ -99,14 +99,14 @@ UBD_ADJ;バルト;;;;;;;;;;;;x
 UBD_conservative;保守主義者;;;;;;;;;;;;x
 UBD_liberal;自由党;;;;;;;;;;;;x
 UBD_reactionary;反動主義者;;;;;;;;;;;;x
-UBD_anarcho_liberals;無政府-自由主義派;;;;;;;;;;;;x
+UBD_anarcho_liberals;無政府資本主義者;;;;;;;;;;;;x
 UBD_socialist;社会党;;;;;;;;;;;;x
 UBD_communist;ボリシェヴィキ;;;;;;;;;;;;x
 UBD_fascist;国家社会主義党;;;;;;;;;;;;x
 BYE_conservative;保守主義者;;;;;;;;;;;;x
 BYE_liberal;自由党;;;;;;;;;;;;x
 BYE_reactionary;反動主義者;;;;;;;;;;;;x
-BYE_anarcho_liberals;無政府-自由主義派;;;;;;;;;;;;x
+BYE_anarcho_liberals;無政府資本主義者;;;;;;;;;;;;x
 BYE_socialist;ベラルーシ社会主義連合;;;;;;;;;;;;x
 BYE_communist;ボリシェヴィキ;;;;;;;;;;;;x
 BYE_fascist;国家社会主義党;;;;;;;;;;;;x
@@ -124,7 +124,7 @@ ARA_ADJ;アラビア;;;;;;;;;;;;x
 ARA_conservative;保守主義者;;;;;;;;;;;;x
 ARA_liberal;自由党;;;;;;;;;;;;x
 ARA_reactionary;反動主義者;;;;;;;;;;;;x
-ARA_anarcho_liberals;無政府-自由主義派;;;;;;;;;;;;x
+ARA_anarcho_liberals;無政府資本主義者;;;;;;;;;;;;x
 ARA_socialist;社会党;;;;;;;;;;;;x
 ARA_communist;共産党;;;;;;;;;;;;x
 ARA_fascist;国家社会主義党;;;;;;;;;;;;x

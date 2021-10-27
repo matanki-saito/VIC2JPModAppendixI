@@ -27,7 +27,7 @@ IS_MOBILIZED_IRO;(動員された予備役);;;;;;;;;;;;x
 ADD_CRIME;§Y$NAME$§Wを獲得。\n;;;;;;;;;;;;x
 TOPBAR_WAR_PLUS;そして、それらの衛星国と自治領です。\n;;;;;;;;;;;;x
 CANTBUILD_FORCEDISARM;我々は平和条約で軍拡を制限されているため、新規に軍事ユニットを作成できません。;;;;;;;;;;;;x
-SOME_LIFE_NEEDS;生活必需品はある程度は満たされています;;;;;;;;;;;;x
+SOME_LIFE_NEEDS;部分的に満たされた生活必需品需要;;;;;;;;;;;;x
 TOPBAR_AVG_CHANGE;来月中には$VAL$§W変化する見込みです。;;;;;;;;;;;;x
 TECH_DAILY_RESEARCHPOINTS_BASE_TOOLTIP;１日あたりの基礎研究点：§Y$VALUE$§W;;;;;;;;;;;;x
 TECH_DAILY_RESEARCHPOINTS_TOTAL_TOOLTIP;１日あたりの研究点：§G+$VALUE$§W;;;;;;;;;;;;x

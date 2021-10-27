@@ -179,8 +179,8 @@ TRUCE_LASTS_UNTIL;停戦は、§Y$DATE$年§Wまで続きます。;;;;;;;;;;;;x
 LOBBY_HOST_ONLY;ゲームを開始できるのは、ホストだけです;;;;;;;;;;;;x
 LOBBY_WAITING;全プレイヤーが開始するのを待つか、見当たらないプレイヤーをキックしなければなりません。;;;;;;;;;;;;x
 NO_UNIT_TECH;§Y$UNIT$§Wを作成するためには、§Y$TECH$§Wを発見していなければなりません。;;;;;;;;;;;;x
-NO_UNIT_REGIMENTS;§Y$UNIT$§Wを作成できるプロヴィンスはありません。§Y兵士§Wが足りません。;;;;;;;;;;;;x
-NO_UNIT_PORTS;§Y$UNIT$§Wを作成できるプロヴィンスはありません。§Y沿岸§Wプロヴィンスが必要です。;;;;;;;;;;;;x
+NO_UNIT_REGIMENTS;§Y$UNIT$§Wを作成できる州はありません。§Y兵士§Wが足りません。;;;;;;;;;;;;x
+NO_UNIT_PORTS;§Y$UNIT$§Wを作成できる州はありません。§Y沿岸§W州が必要です。;;;;;;;;;;;;x
 DIPLOMACY_WARDIALOG_ALLIES;§Y$COUNTRY$§Wは、以下の国家に守られています:;;;;;;;;;;;;x
 DIPLOMACY_WARDIALOG_NUM_ALLIES;§Y$COUNTRY$§Wは、§Y$NUM$§Wヵ国に守られています;;;;;;;;;;;;x
 DIPLOMACY_WARDIALOG_ALLY;同盟国;;;;;;;;;;;;x
@@ -294,7 +294,7 @@ EVTOPTB13201;我々は、眠れる竜である$FROMCOUNTRY$を目覚めさせて
 annex_core_country;秩序回復;;;;;;;;;;;;x
 annex_core_country_short;$RECIPIENT$併合;;;;;;;;;;;;x
 annex_core_country_setup;$RECIPIENT$併合;;;;;;;;;;;;x
-annex_core_country_desc;全ての領土が我が国の中核プロヴィンスでもある§Y他国§Wを併合しましょう。;;;;;;;;;;;;x
+annex_core_country_desc;全ての領土が我が国の中核州でもある§Y他国§Wを併合しましょう。;;;;;;;;;;;;x
 liberal_rebels_title;ジャコバン派反乱軍;;;;;;;;;;;;x
 liberal_rebels_name;ジャコバン派反乱軍;;;;;;;;;;;;x
 liberal_rebels_desc;自由主義者の集まりであるジャコバン派反乱軍は、幅広い階層が政治参加できるようになることを要求しています。絶対君主制の下では、彼らは立憲君主制を実現するため蜂起するでしょう。そして、それ以外の統治形態の場合には、彼らは民主制を実現しようと試みます。;;;;;;;;;;;;x

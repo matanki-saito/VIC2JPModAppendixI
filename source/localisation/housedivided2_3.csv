@@ -67,7 +67,7 @@ armaments_focus_short;軍需産業;;;;;;;;;;;;x
 consumer_focus_short;消費財;;;;;;;;;;;;x
 WAR_GOAL_SUCCESS_PRESTIGE_CHANGE;この戦争目標を達成すると威信が$PRES$上昇;;;;;;;;;;;;x
 WAR_GOAL_FAILURE_PRESTIGE_CHANGE;この戦争目標の達成に失敗すると威信が$PRES$低下;;;;;;;;;;;;x
-POP_INTERNAL_MIGRATION;§Y$NUM$§W人が他の国内プロヴィンスに移住しようとしています。;;;;;;;;;;;;x
+POP_INTERNAL_MIGRATION;§Y$NUM$§!人が他の国内州に移住しようとしています。;;;;;;;;;;;;x
 POP_EXTERNAL_MIGRATION;§Y$NUM$§W人が他国に移住しようとしています。;;;;;;;;;;;;x
 POP_COLONIAL_MIGRATION;§Y$NUM$§W人が植民地に移住しようとしています。;;;;;;;;;;;;x
 INVESTED_IN_US_SETUP;他国が我が国に投資したとき;;;;;;;;;;;;x

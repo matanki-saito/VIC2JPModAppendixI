@@ -71,7 +71,7 @@ AIREASON_ATTACKING_ENEMIES;敵を攻撃している;;;;;;;;;;;;x
 AIREASON_COMMON_FOE;共通の敵;;;;;;;;;;;;x
 AIREASON_WAR_WITH_SPHERE_LEADER;影響圏の指導国との戦争;;;;;;;;;;;;x
 AIREASON_CONSTRUCTING_CB;戦略的関心;;;;;;;;;;;;x
-AIREASON_HELD_CORES;中核プロヴィンスを所有;;;;;;;;;;;;x
+AIREASON_HELD_CORES;中核州を所有;;;;;;;;;;;;x
 AIREASON_NEGATIVE_RELATIONS;否定的な関係;;;;;;;;;;;;x
 AIREASON_THREATS;脅威;;;;;;;;;;;;x
 AIREASON_TOO_MANY_GP_ALLIES;列強の同盟国が多すぎる;;;;;;;;;;;;x
@@ -99,7 +99,7 @@ AI_DIPLOMATIC_VALUE;外交的価値;;;;;;;;;;;;x
 AI_DIPLO_NO;彼らは受け入れないでしょう;;;;;;;;;;;;x
 AI_DIPLO_YES;彼らは受け入れるでしょう;;;;;;;;;;;;x
 SHIP_BUILD_MIN_BASE_LEVEL_WARNING;§Rこの軍港には建造できません。レベル§Y$LVL$§R以上が必要です。§W;;;;;;;;;;;;x
-NAVAL_BASE_OVERSEAS_LIMIT;§R海外プロヴィンスでは主力艦を建造できません。§R;;;;;;;;;;;;x
+NAVAL_BASE_OVERSEAS_LIMIT;§R海外州では主力艦を建造できません。§!;;;;;;;;;;;;x
 NAVAL_COMBAT_DAMAGE_DESC_TITLE;§R推定火力は§G$POWER$§R：;;;;;;;;;;;;x
 NAVAL_COMBAT_DAMAGE_DESC_BASE;§Y$UNIT$§Wの基礎攻撃力：§G$VAL$§W;;;;;;;;;;;;x
 NAVAL_COMBAT_DAMAGE_DESC_TORP;魚雷攻撃：§G$VAL$§R;;;;;;;;;;;;x
@@ -146,8 +146,8 @@ COLONIZE_PHASE_COLONIZATION;植民地化;;;;;;;;;;;;x
 COLONIZE_PHASE_COLONIZATION_DESC;前フェーズの勝者が、植民地に転換するか、投資を失うまで$MONTHS$ヵ月あります。;;;;;;;;;;;;x
 TICKING_WARSCORE_DESC_GRACE;$VAL$ (残り§Y$DAY$§W日);;;;;;;;;;;;x
 TICKING_WARSCORE_DESC_GRACE_EXPLAIN;領土請求国の戦争目的§G$MIN$%§W以上が達成されると、徐々に戦勝点が増加します。\n戦争目的が§Y$DAYS$日の猶予期間§W以内に達成されなければ、代わりに領有国の戦勝点が増加します。領土請求国が占領し、領有国が奪還した場合、双方の戦勝点が徐々に§Y0§Wに戻っていきます。;;;;;;;;;;;;x
-TICKING_WARSCORE_FULFILL_TERRITORY_WG;§Gこの戦争目的の対象ステートのプロヴィンス$MIN$%以上を占領したときに達成されます。§W;;;;;;;;;;;;x
-TICKING_WARSCORE_FULFILL_TERRITORY_ANY;§G対象国に属するプロヴィンス$MIN$%以上を占領したときに達成されます。§W;;;;;;;;;;;;x
+TICKING_WARSCORE_FULFILL_TERRITORY_WG;§Gこの戦争目的の対象ステートの州$MIN$%以上を占領したときに達成されます。§!;;;;;;;;;;;;x
+TICKING_WARSCORE_FULFILL_TERRITORY_ANY;§G対象国に属する州$MIN$%以上を占領したときに達成されます。§!;;;;;;;;;;;;x
 TICKING_WARSCORE_FULFILL_BATTLE;§G一度戦ったことがあり§G$BAT$§G以上、我が国が戦闘によって、より多くの戦勝点を得たときに達成されます。§W;;;;;;;;;;;;x
 CREATE_PROTECTORATE;保護領を建設;;;;;;;;;;;;x
 JAN;ヤン・マイエン;;;;;;;;;;;;x

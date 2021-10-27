@@ -70,7 +70,7 @@ NAVAL_COMBAT_DETAILS_SHOOTING;§Y$WHO$§Wへ砲撃中。\n- 組織率の損害§
 NAVAL_COMBAT_DETAILS_FILTERING;左マウスボタンをクリックすると、この船をターゲットとしている全ての船が表示されます。;;;;;;;;;;;;x
 MAPMODE_NAVAL_TOOLTIP_LEVEL;海軍基地レベル§G$LVL$§W;;;;;;;;;;;;x
 MAPMODE_NAVAL_TOOLTIP_NO_BASE;この地域に海軍基地はありません。;;;;;;;;;;;;x
-MAPMODE_NAVAL_TOOLTIP_CAP;このプロヴィンスの§Y海軍補給能力§Wは総§G$TOT$§Wの§G$CAP$§Wです。;;;;;;;;;;;;x
+MAPMODE_NAVAL_TOOLTIP_CAP;この州の§Y海軍補給能力§!は総§G$TOT$§!の§G$CAP$§!です。;;;;;;;;;;;;x
 MAPMODE_NAVAL_TOOLTIP_IN_OTHER;海軍基地はすでにこの地域の§Y$PROV$§Wにあります。;;;;;;;;;;;;x
 MAPMODE_NAVAL_TOOLTIP_UNDER_CON;海軍基地は既に建設中です。;;;;;;;;;;;;x
 NAVAL_SUPPLY_PENALTY_DESC;§Y海軍補給能力§Wによる§R$PEN$%§Wのペナルティの影響を受けます。;;;;;;;;;;;;x
@@ -89,7 +89,7 @@ CB_DESTROY_FORTS;要塞を破壊する;;;;;;;;;;;;x
 CB_DESTROY_NAVAL_BASES;海軍基地を破壊する;;;;;;;;;;;;x
 po_destroy_forts;$STATE$の全要塞を破壊する;;;;;;;;;;;;x
 po_destroy_naval_bases;$STATE$の海軍基地を破壊する;;;;;;;;;;;;x
-ALL_CORE_PROVINCES;中核プロヴィンスを持つ全地域;;;;;;;;;;;;x
+ALL_CORE_PROVINCES;中核州を持つ全地域;;;;;;;;;;;;x
 ALL_SATES;全地域;;;;;;;;;;;;x
 dismantle_forts_desc;要塞と海軍基地を解体します。;;;;;;;;;;;;x
 dismantle_forts;要塞を解体します;;;;;;;;;;;;x
@@ -139,8 +139,8 @@ diplomatic_focus;外交;;;;;;;;;;;;x
 increase_tension;くすぶり度の増加;;;;;;;;;;;;x
 increase_tension_focus_desc;毎月、約§Y$VAL$%§W紛争の火種のくすぶり度が上昇します。;;;;;;;;;;;;x
 NOT_A_FLASHPOINT;§R紛争の火種がくすぶっていない§W;;;;;;;;;;;;x
-MAPMODE_21;危機マップ;;;;;;;;;;;;x
-MAPMODE_22;海軍基地マップ;;;;;;;;;;;;x
+MAPMODE_21;危機;;;;;;;;;;;;x
+MAPMODE_22;海軍基地;;;;;;;;;;;;x
 FLASHPOINT_TENSION;紛争の火種のくすぶり度: §Y$VALUE$§W%;;;;;;;;;;;;x
 EXECUTING_HISTORY;歴史の実行;;;;;;;;;;;;x
 CRISIS_TEMPERATURE;危機の加熱度：§R$VALUE$%§W;;;;;;;;;;;;x

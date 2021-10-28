@@ -219,7 +219,7 @@ WARGOAL_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 WARGOAL_OTHER_ACCEPT_LOG;$ACTOR$が$RECIPIENT$との戦争で「$WARGOAL$」の戦争目的を追加し、戦争を拡大しました;;;;;;;;;;;;x
 NO_GP_ACTION_ON_SELF;自国を標的にするなど、愚か者のやることです;;;;;;;;;;;;x
 OL_VIEW_SIEGES;§Y占領§W表示切替;;;;;;;;;;;;x
-BADBOY_EFFECT;悪評が$VALUE$$DIRECTION$\n;;;;;;;;;;;;x
+BADBOY_EFFECT;汚名が$VALUE$$DIRECTION$\n;;;;;;;;;;;;x
 unification_annex_casus_belli;統一戦争;;;;;;;;;;;;x
 unification_annex_casus_belli_desc;我々の§Y文化連合§Wにとって中核領域にあたる地域を解放しましょう。;;;;;;;;;;;;x
 unification_annex_casus_belli_setup;我々の§Y文化連合§Wにとって中核領域にあたる地域を解放しましょう。;;;;;;;;;;;;x

@@ -47,7 +47,7 @@ great_war_penalty_cb_desc;他の§Y国§Wを武装解除させ、敗戦国に賠
 great_war_penalty_cb_setup;$RECIPIENT$を武装解除させ、賠償金を支払わせる。;;;;;;;;;;;;x
 great_war_penalty_cb_short;大戦条約;;;;;;;;;;;;x
 GREAT_WAR_OBLIGATORY_CB_DESC;大戦における全ての敵に対する開戦事由：;;;;;;;;;;;;x
-GREAT_WAR_CB_JUSTIFY_COST_DESC;悪評が§G$PERC$%§W軽減される。（§Y大戦§Wであるため）;;;;;;;;;;;;x
+GREAT_WAR_CB_JUSTIFY_COST_DESC;汚名が§G$PERC$%§!軽減される。（§Y大戦§!であるため）;;;;;;;;;;;;x
 GREAT_WAR_CB_CONSTRUCTION_SPEED_DESC;§Y$TARGET$§Wと大戦を行っています;;;;;;;;;;;;x
 fascist_focus_short;§Yファシズム§Wへの連帯感;;;;;;;;;;;;x
 reactionary_focus_short;§Y反動主義§Wへの連帯感;;;;;;;;;;;;x

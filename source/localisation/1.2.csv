@@ -319,7 +319,7 @@ MUST_NEGOTIATE_WITH_WAR_LEADER_STATUS_QUO_OUR_SIDE;我々が戦争目的のタ�
 witwatersrand_gold_rush;ウィットウォーターズランド・ゴールドラッシュ;;;;;;;;;;;;x
 desc_witwatersrand_gold_rush;ウィットウォーターズランドでのゴールドラッシュにより我々は国際的に知られる様になりました。;;;;;;;;;;;;x
 ENG_bourgeois_dictatorship;ブリタニア共和国;;;;;;;;;;;;x
-DIPLOMACY_CANNOT_SET_PRIO_TRUCE;彼らと休戦している間はこの国に影響を及ぼすことはできません;;;;;;;;;;;;x
+DIPLOMACY_CANNOT_SET_PRIO_TRUCE;彼らと休戦している間はこの国に影響を及ぼすことができません;;;;;;;;;;;;x
 MEX_absolute_monarchy;メキシコ帝国;;;;;;;;;;;;x
 MEX_prussian_constitutionalism;メキシコ帝国;;;;;;;;;;;;x
 MEX_hms_government;メキシコ帝国;;;;;;;;;;;;x

@@ -2100,7 +2100,7 @@ WETARGET_DECREASEOPINION_LOG;$ACTOR$は、$RECIPIENT$に対する我が国の発
 WETARGET_REMOVEFROMSPHERE_LOG;$ACTOR$は我々の影響圏から$RECIPIENT$を排除しました。;;;;;;;;;;;;x
 DIPL_AT_WAR;戦争中は認められません;;;;;;;;;;;;x
 CW_WARNINSPHERE_SHORT;彼らは$COUNTRY$の影響圏化です。;;;;;;;;;;;;x
-WARGOAL_COST_DESC;悪評$BADBOY$、威信$PRESTIGE$、和平コスト$COST$;;;;;;;;;;;;x
+WARGOAL_COST_DESC;汚名$BADBOY$、威信$PRESTIGE$、和平コスト$COST$;;;;;;;;;;;;x
 DIPL_NOT_AT_WAR;我が国は戦争中ではありません;;;;;;;;;;;;x
 WAR_BUTTON;宣戦布告;;;;;;;;;;;;x
 PEACE_BUTTON;和平提案;;;;;;;;;;;;x
@@ -2139,7 +2139,7 @@ GUNBOAT_NONE_IN_PORT;彼らの中核州周辺に艦隊は存在しません;;;;;
 GUNBOAT_NO_LOAN;かの国は、我が国から資金を借り入れていません;;;;;;;;;;;;x
 GUNBOAT_NOT_IN_DEFAULT;かの国は、順調に借款を償還しています;;;;;;;;;;;;x
 GUNBOAT_ALREADY_ACTIVE;かの国は、すでに$COUNTRY$から借款を償還するよう威嚇されています;;;;;;;;;;;;x
-REMOVE_NO_CB_EFFECT;我が国には、これを正当化できる口実が欠けています: §R悪評+$INFAMY$§W;;;;;;;;;;;;x
+REMOVE_NO_CB_EFFECT;我が国には、これを正当化できる口実が欠けています: §R汚名+$INFAMY$§W;;;;;;;;;;;;x
 PEACE_WILL_ACCEPT;かの国は、この提案を受諾するでしょう。;;;;;;;;;;;;x
 PEACE_WILL_NOT_ACCEPT;かの国は、この提案を受諾しないでしょう。;;;;;;;;;;;;x
 DIPLOMACY_THEY_BETTER_OPINION;§Y$TARGET$§Wは§Y$RECIPIENT$§Wに対して§Y$OPINION$§Wの影響力を有しているため、我が国は彼らに対してこの行動を行うことができません。\n;;;;;;;;;;;;x

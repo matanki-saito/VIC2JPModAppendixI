@@ -46,7 +46,7 @@ NEWS_TOOLTIP_NO_NEW;未読の新聞はありません。;;;;;;;;;;;;x
 become_independent_desc;武力によって、宗主国からの独立を宣言します;;;;;;;;;;;;x
 CRISIS_DAYS_UNTIL_WAR;外交的解決策が見つからない場合、戦争が§Y$DAYS$§W日中に勃発するでしょう。;;;;;;;;;;;;x
 REMOVEFROMSPHERE_COST_NO_INFAMY;これを行うためには、威信が§R$PRESTIGE$§W必要です。;;;;;;;;;;;;x
-REMOVEFROMSPHERE_COST;これを行うためには、威信が§R$PRESTIGE$§W必要であり、悪評§R$INFAMY$§Wを被ります;;;;;;;;;;;;x
+REMOVEFROMSPHERE_COST;これを行うためには、威信が§R$PRESTIGE$§!必要であり、汚名§R$INFAMY$§!を被ります;;;;;;;;;;;;x
 REMOVEFROMSPHERE_DESC;§Y列強§Wの影響圏から国家を削除します。;;;;;;;;;;;;x
 CRISIS_INTEREST;彼らの興味：§Y$VAL$§W;;;;;;;;;;;;x
 CRISIS_MAKE_OFFER_INVALID;我が国は何か提案する必要があります！;;;;;;;;;;;;x

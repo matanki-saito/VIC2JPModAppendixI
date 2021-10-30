@@ -455,7 +455,7 @@ clipper_transport_short;輸送帆船;;;;;;;;;;;;x
 steam_transport_short;輸送機船;;;;;;;;;;;;x
 monitor_short;砲艦;;;;;;;;;;;;x
 MAX_STRENGTH;最大兵員数;;;;;;;;;;;;x
-DEFAULT_ORG;組織率;;;;;;;;;;;;x
+DEFAULT_ORG;指揮統制率;;;;;;;;;;;;x
 BUILD_TIME;部隊建造時間;;;;;;;;;;;;x
 MAXIMUM_SPEED;最高速度;;;;;;;;;;;;x
 TRANSPORT_WEIGHT;重量;;;;;;;;;;;;x
@@ -488,7 +488,7 @@ RD;*;;;;;;;;;;;;x
 TRAIT_ATTACK;攻撃;;;;;;;;;;;;x
 TRAIT_DEFEND;防御;;;;;;;;;;;;x
 TRAIT_MORALE;士気;;;;;;;;;;;;x
-TRAIT_ORGANISATION;組織率;;;;;;;;;;;;x
+TRAIT_ORGANISATION;指揮統制率;;;;;;;;;;;;x
 TRAIT_RECONAISSANCE;偵察;;;;;;;;;;;;x
 TRAIT_SPEED;速度;;;;;;;;;;;;x
 TRAIT_ATTRITION;損耗;;;;;;;;;;;;x
@@ -668,7 +668,7 @@ TERRAIN_MOVEMENT_COST;移動コスト: ;;;;;;;;;;;;x
 TERRAIN_ATTACK;攻撃: ;;;;;;;;;;;;x
 TERRAIN_DEFENCE;防御: ;;;;;;;;;;;;x
 SUBTT_STRENGTH;兵員数;;;;;;;;;;;;x
-SUBTT_ORG;組織率;;;;;;;;;;;;x
+SUBTT_ORG;指揮統制率;;;;;;;;;;;;x
 SUBTT_EXP;経験;;;;;;;;;;;;x
 LOAD_CAPACITY_LABEL;重量$NUM$まで輸送可能です。;;;;;;;;;;;;x
 TOTAL_WEIGHT;この部隊の重量は$NUM$です。;;;;;;;;;;;;x
@@ -1501,7 +1501,7 @@ disgruntled_rabble_title;不穏分子;;;;;;;;;;;;x
 disgruntled_rabble_name;不穏分子;;;;;;;;;;;;x
 disgruntled_rabble_desc;彼らは、社会に不満を抱く市民たちによって構成される暴徒の集団です。憂さ晴らしに、暴れたり略奪したりすることが目的のようです。;;;;;;;;;;;;x
 disgruntled_rabble_army;$COUNTRY$蜂起軍;;;;;;;;;;;;x
-ORG_NAME;組織率: §Y$VAL$§W;;;;;;;;;;;;x
+ORG_NAME;指揮統制率: §Y$VAL$§W;;;;;;;;;;;;x
 ORG_DESC_DAILY;日々の増加分: §Y$VAL$§W;;;;;;;;;;;;x
 ORG_DESC_POP;POPの寄与分: §Y$VAL$§W;;;;;;;;;;;;x
 ORG_DESC_ADMIN_SPENDING;行政費: §Y$VAL$§W;;;;;;;;;;;;x
@@ -3158,16 +3158,16 @@ ADD_PROVINCE_MONEY_EFFECT;§Y$PROVINCE$§Wで§G$VALUE$ ¤§W入手します。\
 CREATE_VASSAL_EFFECT;§Y$TARGET_COUNTRY$§Wは§Y$COUNTRY$§Wの傀儡国になります。\n;;;;;;;;;;;;x
 ADD_BUILDING_EFFECT;§Y$PROVINCE$§Wで§Y$VALUE$§Wレベルの§Y$BUILDING$§Wを入手します。\n;;;;;;;;;;;;x
 REMOVE_BUILDING_EFFECT;§Y$PROVINCE$§Wで§Y$BUILDING$§Wのレベルを§Y$VALUE$§Wに設定します。\n;;;;;;;;;;;;x
-ADD_ORGANISATION_POPULARITY_EFFECT;§Y$IDEOLOGY$§Wは§G$ORGANISATION$§Wの組織率と§G$POPULARITY$§Wの支持率を獲得します§W。\n;;;;;;;;;;;;x
-REMOVE_ORGANISATION_POPULARITY_EFFECT;§Y$IDEOLOGY$§Wは§R$ORGANISATION$§Wの組織率と§R$POPULARITY$§Wの支持率を失います§W。\n;;;;;;;;;;;;x
+ADD_ORGANISATION_POPULARITY_EFFECT;§Y$IDEOLOGY$§Wは§G$ORGANISATION$§Wの指揮統制率と§G$POPULARITY$§Wの支持率を獲得します§W。\n;;;;;;;;;;;;x
+REMOVE_ORGANISATION_POPULARITY_EFFECT;§Y$IDEOLOGY$§Wは§R$ORGANISATION$§Wの指揮統制率と§R$POPULARITY$§Wの支持率を失います§W。\n;;;;;;;;;;;;x
 ADD_NEUTRALITY_EFFECT;§Y$COUNTRY$§Wの中立度が§R$VALUE$§W上昇します§W。\n;;;;;;;;;;;;x
 REMOVE_NEUTRALITY_EFFECT;§Y$COUNTRY$§Wの中立度が§G$VALUE$§W低下します§W。\n;;;;;;;;;;;;x
 ADD_DISSENT_EFFECT;不満度が§R$VALUE$§W上昇します§W。\n;;;;;;;;;;;;x
 REMOVE_DISSENT_EFFECT;不満度が§G$VALUE$§W低下します§W。\n;;;;;;;;;;;;x
 FORM_GOVERMENT_IN_EXILE;亡命政府を結成します。\n;;;;;;;;;;;;x
 REVOKE_GOVERMENT_IN_EXILE;亡命政府を解散します。\n;;;;;;;;;;;;x
-ADD_RULING_PARTY_ORG_EFFECT;$NAME$の組織率が§Y$VALUE$§W上昇します。;;;;;;;;;;;;x
-REMOVE_RULING_PARTY_ORG_EFFECT;$NAME$の組織率が§Y$VALUE$§W低下します。\n;;;;;;;;;;;;x
+ADD_RULING_PARTY_ORG_EFFECT;$NAME$の指揮統制率が§Y$VALUE$§W上昇します。;;;;;;;;;;;;x
+REMOVE_RULING_PARTY_ORG_EFFECT;$NAME$の指揮統制率が§Y$VALUE$§W低下します。\n;;;;;;;;;;;;x
 ADD_RULING_PARTY_POP_EFFECT;$NAME$の支持率が§Y$VALUE$§W上昇します。\n;;;;;;;;;;;;x
 REMOVE_RULING_PARTY_POP_EFFECT;$NAME$の支持率が§Y$VALUE$§W低下します。\n;;;;;;;;;;;;x
 JOIN_FACTION_EFFECT;$FACTION$に参加します。\n;;;;;;;;;;;;x
@@ -3320,7 +3320,7 @@ desc_fascist_welfare; ;;;;;;;;;;;;x
 beer_hall_putsch;ビヤホール一揆;;;;;;;;;;;;x
 desc_beer_hall_putsch; ;;;;;;;;;;;;x
 protector_of_eastern_christendom;東方教会の守護者;;;;;;;;;;;;x
-desc_protector_of_eastern_christendom;我が国は、オスマン帝国内の東方教会の守護者の称号を主張します。これにより、我が国の国威は上昇します。しかし、戦争に敗北すると、この称号を失うかもしれないため、注意してください。;;;;;;;;;;;;x
+desc_protector_of_eastern_christendom;我が国は、オスマン帝国内の東方教会の守護者の称号を主張します。これにより、我が国の威信は上昇します。しかし、戦争に敗北すると、この称号を失うかもしれないため、注意してください。;;;;;;;;;;;;x
 protect_eastern_christians_title;東方教会の擁護者;;;;;;;;;;;;x
 protect_eastern_christians_desc;オスマン帝国は自国のキリスト教徒を迫害しているという噂が、あちこちで広まっています。東方教会の擁護者であると宣言することで、我が国はオスマン帝国に対して、迫害をやめるよう圧力をかけることができます。しかし、その称号を主張することで、我が国と、ヨーロッパのほかの列強国との間に、摩擦が生じる恐れがあります。;;;;;;;;;;;;x
 REMOVE_immigrant_employment;移民の雇用;;;;;;;;;;;;x
@@ -6647,10 +6647,10 @@ MODIFIER_COMBAT_MOVEMENT_SPEED;戦闘移動速度;;;;;;;;;;;;x
 MODIFIER_ATTACK_REINFORCE_CHANCE;攻撃増強確率;;;;;;;;;;;;x
 MODIFIER_DEFEND_REINFORCE_CHANCE;防御増強確率;;;;;;;;;;;;x
 MODIFIER_COMBAT_WIDTH;戦闘幅;;;;;;;;;;;;x
-MODIFIER_ORG_REGAIN;組織回復率;;;;;;;;;;;;x
-MODIFIER_LAND_ORGANISATION;陸軍組織率;;;;;;;;;;;;x
-MODIFIER_AIR_ORGANISATION;空軍組織率;;;;;;;;;;;;x
-MODIFIER_NAVAL_ORGANISATION;海軍組織率;;;;;;;;;;;;x
+MODIFIER_ORG_REGAIN;指揮統制回復率;;;;;;;;;;;;x
+MODIFIER_LAND_ORGANISATION;陸軍指揮統制率;;;;;;;;;;;;x
+MODIFIER_AIR_ORGANISATION;空軍指揮統制率;;;;;;;;;;;;x
+MODIFIER_NAVAL_ORGANISATION;海軍指揮統制率;;;;;;;;;;;;x
 MODIFIER_RESERVES_PENALTY_SIZE;予備役ペナルティ;;;;;;;;;;;;x
 MODIFIER_GLOBAL_RESOURCES;資源;;;;;;;;;;;;x
 MODIFIER_RESEARCH_POINTS_MODIFIER;研究点修正;;;;;;;;;;;;x
@@ -13653,7 +13653,7 @@ medium_artillery_desc;従来の火砲に、第一次世界大戦の戦訓や急�
 heavy_artillery;重砲;;;;;;;;;;;;x
 heavy_artillery_desc;戦場の怪物である重砲は、長い射程と大きな破壊力を持っていました。その脅威にさらされる歩兵からは、あらゆる戦場で恐れられました。大口径砲を備える重砲は、射程が長いことから、前線からある程度後方に配置されていたとしても、広い範囲に支援砲撃を行うことができました。;;;;;;;;;;;;x
 military_science;軍事科学;;;;;;;;;;;;x
-military_science_desc;この技術は、陸軍の科学的発展に関するものです。統計、兵站や入念に準備された計画は、戦争において重要な要因となります。新技術は、我が国の部隊の組織率の値を上昇させるでしょう。;;;;;;;;;;;;x
+military_science_desc;この技術は、陸軍の科学的発展に関するものです。統計、兵站や入念に準備された計画は、戦争において重要な要因となります。新技術は、我が国の部隊の指揮統制率の値を上昇させるでしょう。;;;;;;;;;;;;x
 military_staff_system;参謀制度;;;;;;;;;;;;x
 military_staff_system_desc;参謀制度;;;;;;;;;;;;x
 military_plans;軍事計画;;;;;;;;;;;;x
@@ -13711,7 +13711,7 @@ operational_destruction_doctrine_desc;“作戦破壊”では、敵軍の補給
 strategic_destruction_doctrine;戦略爆撃ドクトリン;;;;;;;;;;;;x
 strategic_destruction_doctrine_desc;“戦略爆撃”では、敵国の軍需生産能力を破壊する目的で、敵の都市や工業地帯を集中的に爆撃するため、航空戦力が必要でした。これにより、敵国国民の戦意を挫き、敵国政府に降伏するよう圧力をかけることができます。;;;;;;;;;;;;x
 army_leadership;陸軍の統率;;;;;;;;;;;;x
-army_leadership_desc;この技術は、将校団の教育や統率の指針に関するものです。優れた統率力の持ち主は、部隊の組織率や士気を高めます。;;;;;;;;;;;;x
+army_leadership_desc;この技術は、将校団の教育や統率の指針に関するものです。優れた統率力の持ち主は、部隊の指揮統制率や士気を高めます。;;;;;;;;;;;;x
 army_command_principle;命令の原則;;;;;;;;;;;;x
 army_command_principle_desc;命令の原則;;;;;;;;;;;;x
 army_professionalism;職業軍人精神;;;;;;;;;;;;x
@@ -13927,7 +13927,7 @@ advanced_fire_control_desc;艦砲や軍艦建造に関連する技術が進歩�
 15_inch_main_armament;15インチ(38cm)砲;;;;;;;;;;;;x
 15_inch_main_armament_desc;最初期の弩級戦艦の主砲は、ほとんどが12インチ(30cm)砲か13.5インチ(34.3cm)砲でした。しかし、当時の海軍は、すぐにより大口径の主砲を搭載することを望み始めました。この結果、超弩級戦艦は主砲として15インチ(38cm)砲や16インチ(40cm)砲を搭載するようになり、弩級戦艦と比べると威力・射程距離ともに増大しました。;;;;;;;;;;;;x
 naval_science;海軍科学;;;;;;;;;;;;x
-naval_science_desc;この技術領域は、海軍の科学的発展に関するものです。統計、兵站や入念に準備された計画は、戦争において重要な要因となります。新技術は、我が国の艦船の組織率の値を上昇させるでしょう。;;;;;;;;;;;;x
+naval_science_desc;この技術領域は、海軍の科学的発展に関するものです。統計、兵站や入念に準備された計画は、戦争において重要な要因となります。新技術は、我が国の艦船の指揮統制率の値を上昇させるでしょう。;;;;;;;;;;;;x
 alphabetic_flag_signaling;信号旗;;;;;;;;;;;;x
 alphabetic_flag_signaling_desc;信号旗;;;;;;;;;;;;x
 naval_plans;海軍計画;;;;;;;;;;;;x
@@ -13969,7 +13969,7 @@ war_gamming_desc;戦争計画立案や準備のために兵棋演習を利用す
 combined_arms_planning;統合作戦計画;;;;;;;;;;;;x
 combined_arms_planning_desc;第一次世界大戦の戦訓から、列強国は『統合作戦』能力を重視するようになりました。『統合作戦』能力とは、陸・海・空軍が協働してひとつの戦略目標達成を際に必要となる、様々な能力の総称です。統合作戦は、敵海軍基地の破壊や海上交通路の安全確保といった海軍戦略上の大目標を達成するために、上陸作戦という形でしばしば実施されました。もはや海軍が、他の軍種の協力なしに、独立して大作戦を実施することはありえません。大きな戦略的展望に合致するよう、新戦術を開発・発展させることが、海軍に求められています。;;;;;;;;;;;;x
 naval_leadership;海軍の統率;;;;;;;;;;;;x
-naval_leadership_desc;この技術領域は、将校団の教育や統率の指針に関するものです。優れた統率力の持ち主は、部隊の組織率や士気を高めます。;;;;;;;;;;;;x
+naval_leadership_desc;この技術領域は、将校団の教育や統率の指針に関するものです。優れた統率力の持ち主は、部隊の指揮統制率や士気を高めます。;;;;;;;;;;;;x
 the_command_principle;命令の原則;;;;;;;;;;;;x
 the_command_principle_desc;命令の原則;;;;;;;;;;;;x
 naval_professionalism;職業軍人精神;;;;;;;;;;;;x
@@ -14758,7 +14758,7 @@ PERMANENT_PRESTIGE_TECH;永続的威信;;;;;;;;;;;;x
 COLONIAL_PRESTIGE_MODIFIER_TECH;植民地による威信;;;;;;;;;;;;x
 SHARED_PRESTIGE_TECH;共有中の威信(現在);;;;;;;;;;;;x
 TECH_POP_GROWTH;POP増加;;;;;;;;;;;;x
-TECH_REBEL_ORG_GAIN;反乱軍組織率上昇;;;;;;;;;;;;x
+TECH_REBEL_ORG_GAIN;反乱軍指揮統制率上昇;;;;;;;;;;;;x
 DIPLOMATIC_POINTS_TECH;外交点;;;;;;;;;;;;x
 TECH_PLURALITY;多様性;;;;;;;;;;;;x
 TECH_FACTORY;工場コスト;;;;;;;;;;;;x
@@ -14853,7 +14853,7 @@ GOVERNMENT_POSITION_TRIGGER;§Y$NAME$§Wは§Y$POSITION$§Wである。\n;;;;;;;
 GOVERNMENT_POSITION_NOT_TRIGGER;§Y$NAME$§Wは§Y$POSITION$§Wではない。\n;;;;;;;;;;;;x
 IS_GUARANTEEING_TRIGGER;§Y$COUNTRY$§Wが§Y$TARGET_COUNTRY$§Wの独立を保障している。\n;;;;;;;;;;;;x
 DISSENT_IS_ATLEAST_TRIGGER;少なくとも、国民不満度が§Y$VALUE$§W以上溜まっている。\n;;;;;;;;;;;;x
-ORGANISATION_IS_ATLEAST_TRIGGER;少なくとも、§Y$IDEOLOGY$§Wの§Y組織率は$VALUE$§W以上です。\n;;;;;;;;;;;;x
+ORGANISATION_IS_ATLEAST_TRIGGER;少なくとも、§Y$IDEOLOGY$§Wの指揮統制率は§Y$VALUE$§W以上です§W。\n;;;;;;;;;;;;x
 POPULARITY_IS_ATLEAST_TRIGGER;少なくとも、§Y$IDEOLOGY$§Wの§Y支持率は$VALUE$§W以上です。\n;;;;;;;;;;;;x
 IS_THREATEND_TRIGGER;他国の§Y$COUNTRY$§Wに対する脅威度が、少なくとも§Y$VALUE$§W以上である。\n;;;;;;;;;;;;x
 THREAT_IS_NOT_TRIGGER;§Y$COUNTRY$§Wの§Y$TARGET_COUNTRY$§Wに対する脅威度が、§Y$VALUE$§W未満である。\n;;;;;;;;;;;;x
@@ -14872,14 +14872,14 @@ NO_MILITARY_ACCESS_WITH_TRIGGER;§Y$COUNTRY$§Wは§Y$TARGET_COUNTRY$§Wの軍�
 LOST_NATIONAL_PROVINCES_NOT_TRIGGER;§Y$COUNTRY$§Wは§Y$VALUE$%も国土§Wを失っていません§W。\n;;;;;;;;;;;;x
 LOST_IC_IS_NOT_TRIGGER;§Y$COUNTRY$§Wは§Y$VALUE$%もIC§Wを失っていません§W。\n;;;;;;;;;;;;x
 DISSENT_IS_NOT_TRIGGER;国民不満度は§Y$VALUE$§W未満です。\n;;;;;;;;;;;;x
-ORGANISATION_IS_NOT_TRIGGER;§Y$IDEOLOGY$§Wの§Y組織率は$VALUE$§W未満です§W。\n;;;;;;;;;;;;x
+ORGANISATION_IS_NOT_TRIGGER;§Y$IDEOLOGY$§Wの§Y指揮統制率は$VALUE$§W未満です§W。\n;;;;;;;;;;;;x
 POPULARITY_IS_NOT_TRIGGER;§Y$IDEOLOGY$§Wの§Y支持率は$VALUE$§W未満です§W。\n;;;;;;;;;;;;x
 IS_NOT_THREATEND_TRIGGER;他国の§Y$COUNTRY$§Wに対する脅威度は、§Y$VALUE$§W未満です。\n;;;;;;;;;;;;x
 IS_NOT_GUARANTEEING_TRIGGER;§Y$COUNTRY$§Wは§Y$TARGET_COUNTRY$§Wの独立を保障していません。\n;;;;;;;;;;;;x
 COUNTRY_HAS_UNITS_IN_PROVINCE_TRIGGER;§Y$COUNTRY$§Wは、§Y$PROVINCE$§Wに部隊を駐屯させています。\n;;;;;;;;;;;;x
 COUNTRY_HAS_NO_UNITS_IN_PROVINCE_TRIGGER;§Y$COUNTRY$§Wは、§Y$PROVINCE$§Wに部隊を駐屯させていません。\n;;;;;;;;;;;;x
-ALL_ORG_POP_IS_NOT_TRIGGER;§Y$IDEOLOGY$§Wの組織率は§Y$ORGANISATION$§W未満です。支持率も§Y$POPULARITY$§W未満です§W。\n;;;;;;;;;;;;x
-ALL_ORG_POP_IS_ATLEAST_TRIGGER;§Y$IDEOLOGY$§Wの組織率は、少なくとも§Y$ORGANISATION$§W以上です。支持率も、少なくとも§Y$POPULARITY$§W以上です。\n;;;;;;;;;;;;x
+ALL_ORG_POP_IS_NOT_TRIGGER;§Y$IDEOLOGY$§Wの指揮統制率は§Y$ORGANISATION$§W未満です。支持率も§Y$POPULARITY$§W未満です§W。\n;;;;;;;;;;;;x
+ALL_ORG_POP_IS_ATLEAST_TRIGGER;§Y$IDEOLOGY$§Wの指揮統制率は、少なくとも§Y$ORGANISATION$§W以上です。支持率も、少なくとも§Y$POPULARITY$§W以上です。\n;;;;;;;;;;;;x
 IS_NOT_LAW_TRIGGER;§Y$LAW$§Wは$GROUP$である。;;;;;;;;;;;;x
 IS_LAW_TRIGGER;$GROUP$は§Y$LAW$§Wではない。;;;;;;;;;;;;x
 IS_IN_EXILE;は亡命政府である。;;;;;;;;;;;;x

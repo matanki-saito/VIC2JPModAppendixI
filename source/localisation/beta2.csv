@@ -40,7 +40,7 @@ MAY_GAS_ATTACK;毒ガス攻撃が使用可能です\n;;;;;;;;;;;;x
 MAY_GAS_DEFEND;毒ガス攻撃への防衛が可能です\n;;;;;;;;;;;;x
 IMMIGRANTS_FROM;§G$VAL$§Wの$NAME$からの移民がいます。;;;;;;;;;;;;x
 EMIGRANTS_TO;§R$VAL$§W人の$NAME$への移民がいます。;;;;;;;;;;;;x
-PW_ALL_FOCUSES_USED;ナショナルフォーカスは全て使用中です。;;;;;;;;;;;;x
+PW_ALL_FOCUSES_USED;NF(国力傾注)は全て使用中です。;;;;;;;;;;;;x
 HAS_NO_FACTORIES;工場はありません。\n;;;;;;;;;;;;x
 HAS_FACTORIES;工場があります。\n;;;;;;;;;;;;x
 RETREAT_DELAY_IRO;退却が可能になるまで、あと§Y$VAL$§W日必要です。;;;;;;;;;;;;x

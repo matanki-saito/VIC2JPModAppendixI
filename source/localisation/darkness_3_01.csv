@@ -107,7 +107,7 @@ NAVAL_COMBAT_DAMAGE_DESC_LUCK;運と意思決定：§Y$VAL$%§W;;;;;;;;;;;;x
 NAVAL_COMBAT_DAMAGE_DESC_HULL;交戦相手の船体(§R$HULL$§W)によって減少：§R$VAL$%§W;;;;;;;;;;;;x
 NAVAL_COMBAT_DAMAGE_DESC_EXP;交戦相手の経験(§R$EXP$%§W)によって減少：§R$VAL$%§W;;;;;;;;;;;;x
 NAVAL_COMBAT_DAMAGE_DESC_NOORG;交戦相手の指揮統制率がない：§Y$VAL$%§!;;;;;;;;;;;;x
-NAVAL_COMBAT_DAMAGE_DESC_STR;こちら側の耐久力によって減少：§R$VAL$%§W;;;;;;;;;;;;x
+NAVAL_COMBAT_DAMAGE_DESC_STR;こちら側の充足率によって減少：§R$VAL$%§!;;;;;;;;;;;;x
 NAVAL_COMBAT_HIT_CHANCE_DESC;命中のチャンス：§Y$VAL$%§W;;;;;;;;;;;;x
 NAVAL_COMBAT_HIT_CHANCE_DESC_EVA;(交戦相手の回避率§R$VAL$%§Wによって減少);;;;;;;;;;;;x
 MOBILIZATION_PROGRESS_PAUSED;§Y$PROV$§Wの動員募集はすぐに開始します。;;;;;;;;;;;;x

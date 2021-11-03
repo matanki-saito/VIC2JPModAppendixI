@@ -78,7 +78,7 @@ egyptian_excavations_desc;我々の国家は王家の谷における考古学発
 POP_DETAILS_EXPENSES;支出：;;;;;;;;;;;;x
 red_shirts_title;赤シャツ隊;;;;;;;;;;;;x
 red_shirts_name;ガリバルディの赤シャツ隊;;;;;;;;;;;;x
-red_shirts_desc;赤シャツ隊（Camicie rosse）は、多数の領邦に分断されていたイタリアをひとつの国民国家にまとめ上げようと戦った、ジョゼッペ?ガリバルディに率いられた義勇兵部隊に与えられた名前です。その名は、ガリバルディと彼の部下が、赤シャツを着ていたことに由来します。国の内外で非常に人気があり、一般には革命家として見られていた、カリスマ的指導者であるガリバルディは、サルデーニャ王家の下でイタリアが統一されるべく、尽力しました。彼らイタリア人ナショナリストは、イタリア統一のために戦います。;;;;;;;;;;;;x
+red_shirts_desc;赤シャツ隊（Camicie rosse）は、多数の領邦に分断されていたイタリアをひとつの国民国家にまとめ上げようと戦った、ジョゼッペ・ガリバルディに率いられた義勇兵部隊に与えられた名前です。その名は、ガリバルディと彼の部下が、赤シャツを着ていたことに由来します。国の内外で非常に人気があり、一般には革命家として見られていた、カリスマ的指導者であるガリバルディは、サルデーニャ王家の下でイタリアが統一されるべく、尽力しました。彼らイタリア人ナショナリストは、イタリア統一のために戦います。;;;;;;;;;;;;x
 red_shirts_army;赤シャツ千人隊;;;;;;;;;;;;x
 EVTNAME11103;千人隊！;;;;;;;;;;;;x
 EVTDESC11103;$MONARCHTITLE$！著名なイタリア人革命家ジョゼッペ・ガリバルディと、彼が率いる千人隊が、$FROMCOUNTRY$の政府を打倒し、その地を支配下に置いたとの知らせが、たった今、我々のもとに届きました。この無骨な革命家は、イタリア全土の解放者として、イタリアの三色旗を振りながら歓喜するイタリア人の群集から、至る所で歓迎されています。我が国が半島において支配的地位を築いていることから、$FROMCOUNTRY$新政府は、新生イタリアが誕生するにあたっては、諸勢力の筆頭として$COUNTRY$が然るべき地位を占めることを認めると伝えてきています。;;;;;;;;;;;;x
@@ -247,7 +247,7 @@ REMOVE_unification_humiliate_cb_setup;共通する文化を有する連合にお
 unification_humiliate_cb_short;覇権の認容;;;;;;;;;;;;x
 NORMAL_UNIFICATION_HUMILIATE_NAME;$FIRST_COUNTRY$-$SECOND_COUNTRY$同胞戦争;;;;;;;;;;;;x
 AGRESSION_UNIFICATION_HUMILIATE_NAME;$FIRST_COUNTRY$-$SECOND_COUNTRY$同胞戦争;;;;;;;;;;;;x
-PRODUCTION_REQUIRED_DAILY_INPUTS;日々の必要な資材量:;;;;;;;;;;;;x
+PRODUCTION_REQUIRED_DAILY_INPUTS;日々の必要な原材料:;;;;;;;;;;;;x
 PRODUCTION_DAILY_OUTPUT;日々の生産量:;;;;;;;;;;;;x
 COUNTRYALERT_NO_HasClosedFactories;我が国に、破産した工場はありません;;;;;;;;;;;;x
 COUNTRYALERT_HasClosedFactories;以下のステートに、破産した工場があります:;;;;;;;;;;;;x

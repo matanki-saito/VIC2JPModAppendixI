@@ -18,8 +18,8 @@ HAS_CULTURE_CORE;$CUL$は$WHERE$の主流文化である\n;;;;;;;;;;;;x
 PROMOTION_EFFECT_FROM_ADMIN;行政効率が昇格速度に与える影響：§Y$PERCENTAGE$§W;;;;;;;;;;;;x
 OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;この地域の工場の雇用状況：$PERC$;;;;;;;;;;;;x
 REVOLTALLIANCE_LOG;革命です！　同盟関係が崩壊しました！;;;;;;;;;;;;x
-tut_5b_12b;施政方針タブをクリックして継続。;;;;;;;;;;;;x
-tut_5b_14b;運動タブをクリックして継続。;;;;;;;;;;;;x
+tut_5b_12b;施政方針タブをクリックして先に進んでください。;;;;;;;;;;;;x
+tut_5b_14b;運動タブをクリックして先に進んでください。;;;;;;;;;;;;x
 Workforce;労働力;;;;;;;;;;;;x
 Ideology;イデオロギー;;;;;;;;;;;;x
 SELL;売却;;;;;;;;;;;;x

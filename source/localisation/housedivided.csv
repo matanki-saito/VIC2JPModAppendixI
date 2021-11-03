@@ -179,7 +179,7 @@ PRODUCTION_FACTORY_TODAY_PROFIT;昨日の利益率：$VALUE$;;;;;;;;;;;;x
 PRODUCTION_FACTORY_PROFITABILITY;平均利益率（過去$DAYS$日間）：$VALUE$;;;;;;;;;;;;x
 PRODUCTION_FACTORY_CURRENT_BUDGET;現在の工場の予算：$VALUE$;;;;;;;;;;;;x
 PRODUCTION_FACTORY_INVESTMENT;投資による分：$VALUE$;;;;;;;;;;;;x
-PRODUCTION_FACTORY_SUBSIDIES;産業補助金による分：$VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_SUBSIDIES;工業助成金による分：$VALUE$;;;;;;;;;;;;x
 INFLUENCE_OVERFLOW_TOOLTIP;我が国は他国からの影響力を減らすために、1日当たり§Y$VALUE$§Wの影響力ポイントを使用しています。;;;;;;;;;;;;x
 TRADE_FLOW_PRODUCED;§Y生産場所／生産者：§W;;;;;;;;;;;;x
 TRADE_FLOW_USED;§Y用途：§W;;;;;;;;;;;;x
@@ -470,13 +470,13 @@ EVTOPTA90910;幌馬車は西へ！;;;;;;;;;;;;x
 SUPPRESSION_POINTS;抑圧ポイント;;;;;;;;;;;;x
 school_reforms;学校制度;;;;;;;;;;;;x
 no_schools;学校制度なし;;;;;;;;;;;;x
-low_schools;基本的な学校制度;;;;;;;;;;;;x
-acceptable_schools;十分な学校制度;;;;;;;;;;;;x
-good_schools;高度な学校制度;;;;;;;;;;;;x
-no_schools_l;学校制度なし;;;;;;;;;;;;x
-low_schools_l;基本的な学校制度;;;;;;;;;;;;x
-acceptable_schools_l;十分な学校制度;;;;;;;;;;;;x
-good_schools_l;高度な学校制度;;;;;;;;;;;;x
+low_schools;基礎的な学校制度;;;;;;;;;;;;x
+acceptable_schools;容認可能な学校制度;;;;;;;;;;;;x
+good_schools;高水準な学校制度;;;;;;;;;;;;x
+no_schools_l;学校制度：なし;;;;;;;;;;;;x
+low_schools_l;学校制度：基礎的;;;;;;;;;;;;x
+acceptable_schools_l;学校制度：容認可能;;;;;;;;;;;;x
+good_schools_l;学校制度：高水準;;;;;;;;;;;;x
 no_schools_desc;公立学校がありません。;;;;;;;;;;;;x
 low_schools_desc;公立学校が普及していません。;;;;;;;;;;;;x
 acceptable_schools_desc;公立学校が普及しています。;;;;;;;;;;;;x
@@ -744,7 +744,7 @@ CIVILIZE_DESC;西洋の考え方を全面的に受け入れます。このこと
 CIVILIZE_NO_MASTER_DESC;西洋思想を完全に受け入れます。その結果、世界中の先進技術が利用できるようになります。;;;;;;;;;;;;x
 INFLUENCE_RELATION;関係;;;;;;;;;;;;x
 NO_CIV_PROGRESS;西洋化がまったく進んでいません。軍事または経済分野の改革を実施する必要があります。;;;;;;;;;;;;x
-RESEARCH_POINTS_LABEL;研究ポイント：;;;;;;;;;;;;x
+RESEARCH_POINTS_LABEL;研究点：;;;;;;;;;;;;x
 MODIFIER_UNCIV_ECONOMIC;経済改革コスト;;;;;;;;;;;;x
 MODIFIER_UNCIV_MILITARY;軍事改革コスト;;;;;;;;;;;;x
 MODIFIER_SELF_UNCIV_ECONOMIC;経済改革コスト;;;;;;;;;;;;x
@@ -781,7 +781,7 @@ SET_MILITARY_REFORM_EFFECT;選択した軍事改革：§Y$NAME$§W\n;;;;;;;;;;;;
 NATIONALIZE_INDUSTRY_EFFECT;国有化を実施;;;;;;;;;;;;x
 DIPLOMACY_ALMOST_WESTERN_NATION_STATUS;西洋化途上国;;;;;;;;;;;;x
 DIPLOMACY_PRIMITIVENATION_STATUS;未発達国;;;;;;;;;;;;x
-UNCIV_CANT_RESEARCH;研究が行えるように西洋化を進める;;;;;;;;;;;;x
+UNCIV_CANT_RESEARCH;研究を行うには西洋化が必要;;;;;;;;;;;;x
 TB_NATIONALFOCUS_CULTURE;主流／同族文化に属する§Y$NUM$§W人の人々によってNF(国力傾注)ポイントが§Y$FOCUS$§Wもたらされました。;;;;;;;;;;;;x
 meiji_restoration_boost;明治維新;;;;;;;;;;;;x
 meiji_restoration_boost_desc;天皇の御名において今こそ変革を！;;;;;;;;;;;;x

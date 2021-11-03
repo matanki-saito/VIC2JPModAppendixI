@@ -1531,7 +1531,7 @@ DIPLOMACY_PRESTIGE;威信;;;;;;;;;;;;x
 DIPLOMACY_MILITARY;軍事点;;;;;;;;;;;;x
 DIPLOMACY_ECONIMIC;工業点;;;;;;;;;;;;x
 DIPLOMACY_TOTAL;順位;;;;;;;;;;;;x
-DIPLOMACY_OPINION;発言力;;;;;;;;;;;;x
+DIPLOMACY_OPINION;評価;;;;;;;;;;;;x
 REL_HOSTILE;敵対関係;;;;;;;;;;;;x
 REL_OPPOSED;対立関係;;;;;;;;;;;;x
 REL_NEUTRAL;中立関係;;;;;;;;;;;;x
@@ -1655,7 +1655,7 @@ POLITICS_PARTY_TOOLTIP;$PARTY$ ($IDEOLOGY$)\n;;;;;;;;;;;;x
 POLITICS_UPPERHOUSE_CHART_TOOLTIP;上院の$PERCENT$%が$IDEOLOGY$です\n;;;;;;;;;;;;x
 POLITICS_VOTERS_CHART_TOOLTIP;有権者の$PERCENT$%が$IDEOLOGY$です\n;;;;;;;;;;;;x
 POLITICS_PEOPLE_CHART_TOOLTIP;人口の$PERCENT$%が$IDEOLOGY$です\n;;;;;;;;;;;;x
-POLITICS_SET_RULING_PARTY_TOOLTIP;$PARTY$が我が国の与党に選ばれました\n;;;;;;;;;;;;x
+POLITICS_SET_RULING_PARTY_TOOLTIP;$PARTY$を我が国の与党として選択\n;;;;;;;;;;;;x
 POLITICS_CANNOT_SET_RULING_PARTY_TOOLTIP;以下の理由により、我々は$PARTY$を我が国の与党に選ぶことはできません:\n;;;;;;;;;;;;x
 POLITICS_HOLD_ELECTION_TOOLTIP;新しい与党を選出するため、選挙を実施してください。\n;;;;;;;;;;;;x
 POLITICS_CANNOT_HOLD_ELECTION_TOOLTIP;$GOVERNMENT$の下では、選挙の実施が認められていません。\n;;;;;;;;;;;;x
@@ -1665,7 +1665,7 @@ POLITICS_SORT_BY_PEOPLE_TOOLTIP;国民から見た重要度で並び替え;;;;;;
 POLITICS_SORT_BY_VOTERS_TOOLTIP;有権者から見た重要度で並び替え;;;;;;;;;;;;x
 POLITICS_IN_FAVOR_TOOLTIP;(上院の$PERCENT$%が改革に賛成);;;;;;;;;;;;x
 POLITICS_NATIONALVALUE_TOOLTIP;我が国の国民性は§Y$NATIONALVALUE$§Wです。\n;;;;;;;;;;;;x
-POLITICS_PLURALITY_TOOLTIP;我が国の多様性は$PERCENT$%です。\n;;;;;;;;;;;;x
+POLITICS_PLURALITY_TOOLTIP;我が国の多元性は$PERCENT$%です。\n;;;;;;;;;;;;x
 POLITICS_REVANCHSIM_TOOLTIP;我が国の報復主義は$PERCENT$%です。\n;;;;;;;;;;;;x
 REMOVE_HOLD_ELECTION;選挙期間中\n;;;;;;;;;;;;x
 POLITICS_IMPORTANT_ISSUES_DESC;重要な関心事;;;;;;;;;;;;x
@@ -3111,7 +3111,7 @@ SOCIAL_DESC;社会保障費は、我が国の社会改革に必要な資金に�
 MODIFIER_ADDED;$WHERE$では“§Y$WHAT$§W”が§Y$DATE$年§Wまで続き、以下の効果を及ぼします：\n$EFFECT$\n\n;;;;;;;;;;;;x
 IN_;の;;;;;;;;;;;;x
 ALL_;全;;;;;;;;;;;;x
-PLURALITY_EFFECT;多様性が$VALUE$$DIRECTION$。\n;;;;;;;;;;;;x
+PLURALITY_EFFECT;多元性が$VALUE$$DIRECTION$。\n;;;;;;;;;;;;x
 CONSCIOUSNESS_EFFECT;政治意識が$VALUE$$DIRECTION$。\n;;;;;;;;;;;;x
 MILITANCY_EFFECT;闘争性が$VALUE$$DIRECTION$。\n;;;;;;;;;;;;x
 REMOVE_MINISTER_EFFECT;§Y$NAME$§Wを更迭します§W。\n;;;;;;;;;;;;x
@@ -3316,17 +3316,17 @@ desc_am_everywhere;ファシスト系の新聞が、この州で創刊されま�
 the_massacre;虐殺;;;;;;;;;;;;x
 desc_the_massacre;社会主義者や自由主義者からなるグループの人々が、何者かに殺害されました。;;;;;;;;;;;;x
 fascist_welfare;ファシストの福祉;;;;;;;;;;;;x
-desc_fascist_welfare; ;;;;;;;;;;;;x
+desc_fascist_welfare;;;;;;;;;;;;;x
 beer_hall_putsch;ビヤホール一揆;;;;;;;;;;;;x
-desc_beer_hall_putsch; ;;;;;;;;;;;;x
+desc_beer_hall_putsch;;;;;;;;;;;;;x
 protector_of_eastern_christendom;東方教会の守護者;;;;;;;;;;;;x
 desc_protector_of_eastern_christendom;我が国は、オスマン帝国内の東方教会の守護者の称号を主張します。これにより、我が国の威信は上昇します。しかし、戦争に敗北すると、この称号を失うかもしれないため、注意してください。;;;;;;;;;;;;x
 protect_eastern_christians_title;東方教会の擁護者;;;;;;;;;;;;x
 protect_eastern_christians_desc;オスマン帝国は自国のキリスト教徒を迫害しているという噂が、あちこちで広まっています。東方教会の擁護者であると宣言することで、我が国はオスマン帝国に対して、迫害をやめるよう圧力をかけることができます。しかし、その称号を主張することで、我が国と、ヨーロッパのほかの列強国との間に、摩擦が生じる恐れがあります。;;;;;;;;;;;;x
 REMOVE_immigrant_employment;移民の雇用;;;;;;;;;;;;x
-REMOVE_desc_immigrant_employment; ;;;;;;;;;;;;x
+REMOVE_desc_immigrant_employment;;;;;;;;;;;;;x
 REMOVE_no_immigrant_employment;移民の雇用なし;;;;;;;;;;;;x
-REMOVE_desc_no_immigrant_employment; ;;;;;;;;;;;;x
+REMOVE_desc_no_immigrant_employment;;;;;;;;;;;;;x
 REMOVE_institutional_community;移民コミュニティ;;;;;;;;;;;;x
 REMOVE_desc_institutional_community;この州に、移民のため、移民コミュニティが設立されました。;;;;;;;;;;;;x
 REMOVE_no_institutional_community;移民コミュニティなし;;;;;;;;;;;;x
@@ -3793,7 +3793,7 @@ EVTOPTA3401;それどころか、失業手当の減額が必要だ;;;;;;;;;;;;x
 EVTOPTB3401;現在の支給額で充分だ;;;;;;;;;;;;x
 EVTOPTC3401;そうだな、そうすべき時期かもしれない;;;;;;;;;;;;x
 EVTNAME3402;失業手当が予算を超過;;;;;;;;;;;;x
-EVTDESC3402;「今年度予算についてですが、失業対策に関係する経費の支払いが、再び、予算を数%超過する見込みです。And this is what this is really all about, gentlemen, percentages. Those critical percentages that stand between us and bankruptcy.」\n\nOur unemployment programs are starting to run at a heavier loss than expected, and some taxpayers are becoming extremely concerned with these runaway strains on the budget. A committee acting out of one of our states has formed a coalition for the revocation of unemployment benefits, and are making national headlines with their efforts.;;;;;;;;;;;;x
+EVTDESC3402;「そして、今年度の予算では、失業対策に関係する経費の支払いが、再び、予算を数パーセント超過する見込みです。数パーセント、これこそが問題なのです、諸君。我々と破産との間に立っているのは、この重要な数パーセントなのです。」\n\n失業対策は予想以上の損失を出し始めており、一部の納税者はこうした予算の暴走に強い懸念を抱いています。ある州の委員会が、失業手当の取り消しを求める連立を結成し、その取り組みで全国に大きく報道されています。;;;;;;;;;;;;x
 EVTOPTA3402;納税者委員会など無視しろ;;;;;;;;;;;;x
 EVTOPTB3402;失業手当を減額しよう;;;;;;;;;;;;x
 EVTOPTC3402;失業手当を支持する連立を形成しよう;;;;;;;;;;;;x
@@ -3975,12 +3975,12 @@ EVTDESC4200;我が国で一二を争う名門大学の教授が、政治哲学�
 EVTOPTA4200;改革を実施すべきである;;;;;;;;;;;;x
 EVTOPTB4200;今回の小論文は、我が国の名声を高めるだろう;;;;;;;;;;;;x
 EVTNAME4201;政治改革クラブ;;;;;;;;;;;;x
-EVTDESC4201;$COUNTRY$において、全国的な政治改革クラブが結成されました。このクラブは、$COUNTRY$の投票制度の改革を、重要な政治課題として掲げていました。そして、結成したばかりであるにもかかわらず、公開討論会では、早くもかなりの政治的注目を集めています。政治改革クラブは、現行のドント方式を採用した投票制度を、比例代表制の一種に変更することを目指しています。政治改革クラブは、比例代表性の導入によって、業界団体・労働組合などの票田集団による影響を減らし、国民にとってより公平で均衡のとれた代議制が実現すると主張しています。政治改革クラブに寄せられる関心の高さを考えると、我々がこの問題に何の対処も行わなければ、激しい圧力にさらされるかもしれません。しかし、この問題は、我々にとってあまり優先度の高い問題ではありません。;;;;;;;;;;;;x
+EVTDESC4201;$COUNTRY$において、全国的な政治改革クラブが結成されました。このクラブは、$COUNTRY_ADJ$の投票制度の改革を、重要な政治課題として掲げていました。そして、結成したばかりであるにもかかわらず、公開討論会では、早くもかなりの政治的注目を集めています。政治改革クラブは、現行のジェファーソン方式を採用した投票制度を、比例代表制の一種に変更することを目指しています。政治改革クラブは、比例代表性の導入によって、業界団体・労働組合などの票田集団による影響を減らし、国民にとってより公平で均衡のとれた代議制が実現すると主張しています。政治改革クラブに寄せられる関心の高さを考えると、我々がこの問題に何の対処も行わなければ、激しい圧力にさらされるかもしれません。しかし、この問題は、我々にとってあまり優先度の高い問題ではありません。;;;;;;;;;;;;x
 EVTOPTA4201;我々は、この機会を利用すべきだ;;;;;;;;;;;;x
 EVTOPTB4201;今は改革の時期ではない;;;;;;;;;;;;x
 EVTNAME4202;改革を任される;;;;;;;;;;;;x
-EVTDESC4202;現在、上院では、自由主義派が議席数で安定的優位を確保しています。これは、我が国の有権者が、我々に対して、政治改革の実施を明確に望んでいることの現われだと思われます。現状は、我が国の投票制度を改革する好機だといえます。しかし、どのような方向に改革するべきかという問題があります。有権者の支持のもと、我々はどのような方向にも進むことができます。しかし、現実的には、選択肢は単純小選挙区制かドント方式かのどちらかとなります。改革案を進めるためには、立法府において審議した上でなければなりません。しかし、改革に勢いをつけるためには、現状は絶好の機会かもしれません。;;;;;;;;;;;;x
-EVTOPTA4202;単純小選挙区制を進めよう;;;;;;;;;;;;x
+EVTDESC4202;現在、上院では、自由主義派が議席数で安定的優位を確保しています。これは、我が国の有権者が、我々に対して、政治改革の実施を明確に望んでいることの現われだと思われます。現状は、我が国の投票制度を改革する好機だといえます。しかし、どのような方向に改革するべきかという問題があります。有権者の支持のもと、我々はどのような方向にも進むことができます。しかし、現実的には、選択肢は小選挙区制かジェファーソン方式かのどちらかとなります。改革案を進めるためには、立法府において審議した上でなければなりません。しかし、改革に勢いをつけるためには、現状は絶好の機会かもしれません。;;;;;;;;;;;;x
+EVTOPTA4202;小選挙区制を進めよう;;;;;;;;;;;;x
 EVTOPTB4202;ジェファーソン方式を進めよう;;;;;;;;;;;;x
 EVTOPTC4202;選挙制度改革は不要だ;;;;;;;;;;;;x
 EVTNAME4300;憲章改革集会;;;;;;;;;;;;x
@@ -4477,7 +4477,7 @@ EVTOPTA13110;良い考えだ！;;;;;;;;;;;;x
 EVTOPTB13110;すきま風かな？扉を閉めよ！;;;;;;;;;;;;x
 EVTNAME13120;王様と私;;;;;;;;;;;;x
 EVTDESC13120;王室の教育係として我が国が雇ったヨーロッパ人女性家庭教師は、なかなかの仕事ぶりです。ただ、彼女は、王室に妙な考えを導入しようとしています。たとえば、神によって全ての人類は平等に創られたであるとか、$COUNTRY$は古くから続く奴隷制度を廃止すべきであるなどと、非常に辛辣な言葉で触れ回っているとのことです。陛下、彼女の発言は、私には危険なものに感じられます・・・;;;;;;;;;;;;x
-EVTOPTA13120;Enjoy the conversations, but ultimately do nothing;;;;;;;;;;;;x
+EVTOPTA13120;会話を楽しもう、最終的には何もしないが;;;;;;;;;;;;x
 EVTOPTB13120;危険かどうかはともかく、私は彼女が正しいと思う;;;;;;;;;;;;x
 EVTNAME13130;ヨーロッパの軍事顧問団;;;;;;;;;;;;x
 EVTDESC13130;西洋のある列強国が、我が国に対して関心を持っているようで、軍事顧問団の派遣を提案してきました。この提案は、我が国の軍事研究に対して、大きな利益をもたらすかもしれません。しかし、提案を受け入れた場合、有事の際、我が国は応分の負担を求められる恐れがあります。もっとも、このような好意的な提案を拒絶した場合、列強国に侮辱と受け取られる恐れもあります。我々は、軍事顧問団の派遣を、受け入れるべきでしょうか？;;;;;;;;;;;;x
@@ -4570,7 +4570,7 @@ EVTOPTA13352;まったくだ・・・;;;;;;;;;;;;x
 EVTNAME13360;外交使節団;;;;;;;;;;;;x
 EVTDESC13360;$PROVINCENAME$に住む西洋人が、我が国と西洋世界との間で、さらなる外交折衝や文化交流を進めるため、外交使節団を結成しました。;;;;;;;;;;;;x
 EVTOPTA13360;それは興味深い。;;;;;;;;;;;;x
-EVTNAME13400;Sitting Down with Europeans;;;;;;;;;;;;x
+EVTNAME13400;ヨーロッパ人と膝を交える;;;;;;;;;;;;x
 EVTDESC13400;「何て綺麗なのかしら！」子供のようにはしゃぎながら、彼女は感嘆の声を上げました。ヨーロッパ人貿易商人は、世界中から$PROVINCENAME$に、好奇心をそそる様々な品々をもたらしました。しかし、この非常に美しいソファーほど、私の興味を惹く品は、他にありません。商人によれば、このソファーの材料は・・・;;;;;;;;;;;;x
 EVTOPTA13400;試しに、座ってみよう！;;;;;;;;;;;;x
 EVTNAME13410;望遠鏡;;;;;;;;;;;;x
@@ -4673,7 +4673,7 @@ REMOVE_EVTOPTE14140;You have my permission.;;;;;;;;;;;;x
 REMOVE_EVTNAME14150;Immigration and Jobs;;;;;;;;;;;;x
 REMOVE_EVTDESC14150;The current inflow of immigrants have created a demand for more jobs. Most of the immigrants demand the same rights as your residents. The situation is a bit harsh.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14150;They have no right to demand anything.;;;;;;;;;;;;x
-REMOVE_EVTOPTB14150;Why should they have the same rightsー.;;;;;;;;;;;;x
+REMOVE_EVTOPTB14150;Why should they have the same rights?.;;;;;;;;;;;;x
 REMOVE_EVTOPTC14150;We'll see what we can do.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14150;We will work this out.;;;;;;;;;;;;x
 REMOVE_EVTOPTE14150;Won't be easy, but we'll do everything we can.;;;;;;;;;;;;x
@@ -4688,7 +4688,7 @@ REMOVE_EVTNAME14170;Peace and Quiet;;;;;;;;;;;;x
 REMOVE_EVTDESC14170;All is well in $PROVINCENAME$, the different cultures have nothing to complain about as they have the same rights as everyone else. There are some protests against the system, but nothing that can't be fixed.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14170;Good.;;;;;;;;;;;;x
 REMOVE_EVTOPTB14170;Let us keep it that way.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14170;Protestsー What protests?;;;;;;;;;;;;x
+REMOVE_EVTOPTC14170;Protests? What protests?;;;;;;;;;;;;x
 REMOVE_EVTOPTD14170;There are some complaining, yes?;;;;;;;;;;;;x
 REMOVE_EVTOPTE14170;We can't have that!;;;;;;;;;;;;x
 REMOVE_EVTNAME14180;Bickering Neighbour;;;;;;;;;;;;x
@@ -5151,10 +5151,10 @@ REMOVE_EVTDESC17120;The pressure to discuss women's suffrage in the Upper House 
 REMOVE_EVTOPTA17120;This will be thoroughly discussed.;;;;;;;;;;;;x
 REMOVE_EVTOPTB17120;No, we can't allow this.;;;;;;;;;;;;x
 REMOVE_EVTNAME17130;Lawless Suffragettes;;;;;;;;;;;;x
-REMOVE_EVTDESC17130;Four broken windows, attempted arson, technical assault of two police officers... The police officers weren't hurt, but I bet their pride was. What in the world compelled you to do such a thingー' the police asked.\nThe woman did not answer him. He sighed and left the jail, only to be stopped by another police officer.\n'She hasn't eaten since she was brought in. What should we doー'.\n'Nothing, for now. Make sure she has food and water, but don't force her to eat. She'll eat when she's hungry.';;;;;;;;;;;;x
+REMOVE_EVTDESC17130;Four broken windows, attempted arson, technical assault of two police officers... The police officers weren't hurt, but I bet their pride was. What in the world compelled you to do such a thing?' the police asked.\nThe woman did not answer him. He sighed and left the jail, only to be stopped by another police officer.\n'She hasn't eaten since she was brought in. What should we do?'.\n'Nothing, for now. Make sure she has food and water, but don't force her to eat. She'll eat when she's hungry.';;;;;;;;;;;;x
 REMOVE_EVTOPTA17130;Okay.;;;;;;;;;;;;x
 REMOVE_EVTNAME17140;ハンガーストライキ;;;;;;;;;;;;x
-REMOVE_EVTDESC17140;She has still not eaten, and it's been two days. Why is she doing thisー'\n'She's a suffragette, probably trying to use hunger strike to gain more support for her cause.'\n'What should we doー';;;;;;;;;;;;x
+REMOVE_EVTDESC17140;She has still not eaten, and it's been two days. Why is she doing this?'\n'She's a suffragette, probably trying to use hunger strike to gain more support for her cause.'\n'What should we do?';;;;;;;;;;;;x
 REMOVE_EVTOPTA17140;Release her.;;;;;;;;;;;;x
 REMOVE_EVTOPTB17140;Force-feed her!;;;;;;;;;;;;x
 REMOVE_EVTNAME17150;猫とねずみ法;;;;;;;;;;;;x
@@ -5514,7 +5514,7 @@ EVTNAME22011;流刑植民地制度を廃止;;;;;;;;;;;;x
 EVTDESC22011;我が国には、もはや流刑植民地に適した場所は存在しません。それゆえ、流刑植民地制度は廃止されました。;;;;;;;;;;;;x
 EVTOPTA22011;まあ、これも時代の流れだ;;;;;;;;;;;;x
 EVTNAME22020;監獄改善運動連盟;;;;;;;;;;;;x
-EVTDESC22020;「汚い談話室が2部屋、不快な寝室が3部屋あった。男性囚人用の寝室は、一辺が8フィート(2.4ｍ)の正方形の形をしている。いっぽう、女性囚人用の寝室は、9×8フィート(2.7m×2.4m)のものがひとつと、一辺が4.5フィート(1.4ｍ)の正方形の形をしたものがひとつずつある。いずれの寝室も、床に敷かれたワラはホコリまみれで、ダニ・シラミなどの害虫もいっぱいである。運動場はない。そして、囚人用の水場もない。些細な規則に違反した囚人が、鉄鎖につながれている。前回の訪問時には、8名が女性囚人だった。」\n- ジョン・ハワード\n\n$COUNTRY$でも、監獄改善運動連盟が結成されました。彼ら改善運動家は、我が国の刑務所や更正施設の、あまりにも劣悪な環境に抗議しています。連盟は、劣悪な刑務所の環境を改善するため、いくつかの案と共に、single ceiling accommodation policies を採用するよう主張しています。;;;;;;;;;;;;x
+EVTDESC22020;「汚い談話室が2部屋、不快な寝室が3部屋あった。男性囚人用の寝室は、一辺が8フィート(2.4ｍ)の正方形の形をしている。いっぽう、女性囚人用の寝室は、9×8フィート(2.7m×2.4m)のものがひとつと、一辺が4.5フィート(1.4ｍ)の正方形の形をしたものがひとつずつある。いずれの寝室も、床に敷かれたワラはホコリまみれで、ダニ・シラミなどの害虫もいっぱいである。運動場はない。そして、囚人用の水場もない。些細な規則に違反した囚人が、鉄鎖につながれている。前回の訪問時には、8名が女性囚人だった。」\n- ジョン・ハワード\n\n$COUNTRY$でも、監獄改善運動連盟が結成されました。彼ら改善運動家は、我が国の刑務所や更正施設の、あまりにも劣悪な環境に抗議しています。連盟は、劣悪な刑務所の環境を改善するため、いくつかの案と共に、監獄の収容設備を一つ屋根の下に作る方針を採用するよう主張しています。;;;;;;;;;;;;x
 EVTOPTA22020;刑務所が汚いのは当然だよ、君。;;;;;;;;;;;;x
 EVTOPTB22020;ある程度の改善は、必要だろう;;;;;;;;;;;;x
 EVTOPTC22020;それよりまず、上院で第一党になる事が重要だ;;;;;;;;;;;;x
@@ -5752,7 +5752,7 @@ EVTDESC36612;1900年、スウェーデン議会は、フィンランドとの国
 EVTOPTA36612;我が国の防衛体制を、さらに強化する必要がある！;;;;;;;;;;;;x
 EVTOPTB36612;防衛力を強化する必要はない;;;;;;;;;;;;x
 EVTNAME36614;カール・ユーナス・ルーヴェ・アルムクヴィストが『それでよい』を発表;;;;;;;;;;;;x
-EVTDESC36614;カール・ヨーナス・ローヴェ・アルムクヴィストは、スウェーデンで最も著名な作家の一人で、複雑な性格の持ち主でした。理想主義や神秘主義、そして社会意識によって特徴付けられて膨大な数の散文作品を発表し、スウェーデン文学の発展に対して、大きな影響を及ぼしました。小説『それも悪くない(Det gar an)』で、彼は当時の社会における結婚や女性の役割に対する伝統的意識について、疑問を投げ掛けました。The book promptly caused a scandal.;;;;;;;;;;;;x
+EVTDESC36614;カール・ヨーナス・ローヴェ・アルムクヴィストは、スウェーデンで最も著名な作家の一人で、複雑な性格の持ち主でした。理想主義や神秘主義、そして社会意識によって特徴付けられて膨大な数の散文作品を発表し、スウェーデン文学の発展に対して、大きな影響を及ぼしました。小説『それも悪くない(Det gar an)』で、彼は当時の社会における結婚や女性の役割に対する伝統的意識について、疑問を投げ掛けました。その本はすぐにスキャンダルを引き起こしました。;;;;;;;;;;;;x
 EVTOPTA36614;素晴らしい作家だ！;;;;;;;;;;;;x
 EVTNAME36615;農業不振と大規模移住;;;;;;;;;;;;x
 EVTDESC36615;農業部門にとって、1880年代は最悪の時期でした。増大し続ける人口と不満の高まりとが結びつき、大規模な移住の動きの引き金となりました。1880年代を通して、非常に多くの家族が国外へと移住していきました。アメリカン・ドリームを夢見て、34万人以上の人々がアメリカへと移住していきました。;;;;;;;;;;;;x
@@ -6025,7 +6025,7 @@ EVTNAME35000;イギリス王室がザクセン＝コーブルク＝ゴータ家�
 EVTDESC35000;今回の戦争では、大英帝国がドイツに挑戦してきている。そのため、我々の英国に住むいとこは、自分たちの評判を守るため、家名を捨てることを決心したようです！彼らは今や、ウィンザー家を名乗っています。我が公国と、彼ら一家の間にあった、全ての一族のつながりが、今や断ち切られました。;;;;;;;;;;;;x
 EVTOPTA35000;血は、水よりも濃いという話だが...;;;;;;;;;;;;x
 EVTNAME36200;憲法に署名;;;;;;;;;;;;x
-EVTDESC36200;Standerforsamlingerneの業績を踏まえ、シュレースヴィヒ＝ホルシュタインおよびプロイセンとの戦争の間に、デンマーク国王フレデリク7世は憲法に署名しました。その内容は、議会選挙、一般徴兵制度、そして絶対王政の放棄を認めるものでした。新憲法成立後も、国王は、多数党から内閣を選任する権利と、法律を承認する権利を有していました。しかし、デンマークに、初めて真の民主主義体制が生まれたことは、間違いない事実です。;;;;;;;;;;;;x
+EVTDESC36200;議会（Stænderforsamlingerne）の働きを受けて、シュレースヴィヒ＝ホルシュタインおよびプロイセンとの戦争の間に、デンマーク国王フレデリク7世は憲法に署名しました。その内容は、議会選挙、一般徴兵制度、そして絶対王政の放棄を認めるものでした。新憲法成立後も、国王は、多数党から内閣を選任する権利と、法律を承認する権利を有していました。しかし、デンマークに、初めて真の民主主義体制が生まれたことは、間違いない事実です。;;;;;;;;;;;;x
 EVTOPTA36200;国王陛下に栄光あれ！;;;;;;;;;;;;x
 EVTNAME36201;最初の社会主義運動;;;;;;;;;;;;x
 EVTDESC36201;1871年、ルイス・ピオは社会主義インターナショナルのデンマーク支部を結成し、社会改革と労働者の団結を訴え始めました。;;;;;;;;;;;;x
@@ -6844,7 +6844,7 @@ PEACENEWPROVUS;§Y$NATION$§Wは、以下の領土を割譲します:§R;;;;;;;;
 PEACENEWPROVTHEM;§Y$NATION$§Wは、以下の領土を割譲します:§G;;;;;;;;;;;;x
 PEACETO;§Y$REC$§Wに;;;;;;;;;;;;x
 PEACENONE;分割無し;;;;;;;;;;;;x
-PEACEREQDESC;$COUNTRY$が敵対関係の終了を提案してきています。我が国がこの提案を受け入れた場合、この戦争は終わります。\n$RESULT$\nDo you wish to accept their offer?;;;;;;;;;;;;x
+PEACEREQDESC;$COUNTRY$が敵対関係の終了を提案してきています。我が国がこの提案を受け入れた場合、この戦争は終わります。\n$RESULT$\nこの申し出を受け入れますか？;;;;;;;;;;;;x
 TRADENO_PORTS;双方の国が輸出入港を有していない場合、海を越えて貿易を行うことはできません。;;;;;;;;;;;;x
 PEACE_NOT_LEADER;敵陣営の主導国とのみ、交渉が行えます。;;;;;;;;;;;;x
 STOPNFLDESC;関係改善の実施を中止します。;;;;;;;;;;;;x
@@ -9196,7 +9196,7 @@ bourgeois_dictatorship;ブルジョワ独裁;;;;;;;;;;;;x
 fascist_dictatorship;ファシスト独裁;;;;;;;;;;;;x
 absolute_monarchy;絶対君主制;;;;;;;;;;;;x
 prussian_constitutionalism;プロイセン立憲君主制;;;;;;;;;;;;x
-REMOVE_hms_government;HMS政府;;;;;;;;;;;;x
+REMOVE_hms_government;陛下の政府;;;;;;;;;;;;x
 democracy;民主制;;;;;;;;;;;;x
 proletarian_dictatorship_ruler;議長;;;;;;;;;;;;x
 presidential_dictatorship_ruler;大統領;;;;;;;;;;;;x
@@ -9403,7 +9403,7 @@ universal_weighted_voting_desc;誰もが投票権を認められています。�
 universal_voting;普通選挙;;;;;;;;;;;;x
 universal_voting_desc;誰もが投票権を認められています。;;;;;;;;;;;;x
 voting_system;投票制度;;;;;;;;;;;;x
-first_past_the_post;最多得票者当選制;;;;;;;;;;;;x
+first_past_the_post;小選挙区制;;;;;;;;;;;;x
 first_past_the_post_desc;最も票を獲得した候補者が当選します。;;;;;;;;;;;;x
 jefferson_method;ジェファーソン方式;;;;;;;;;;;;x
 jefferson_method_desc;『ジェファーソン方式』とは、議席を配分するための最高平均方式のひとつです。;;;;;;;;;;;;x
@@ -9422,7 +9422,7 @@ censored_press_desc;ある程度、報道の自由が認められています。
 free_press;自由報道;;;;;;;;;;;;x
 free_press_desc;報道機関は、政府からの干渉を受けることなく、自由に活動を行うことができます。;;;;;;;;;;;;x
 trade_unions;労働組合;;;;;;;;;;;;x
-no_trade_unions;非合法;;;;;;;;;;;;x
+no_trade_unions;違法;;;;;;;;;;;;x
 no_trade_unions_desc;労働組合を組織することは、認められていません。;;;;;;;;;;;;x
 state_controlled;政府による統制;;;;;;;;;;;;x
 state_controlled_desc;労働組合は、政府によって統制されています。;;;;;;;;;;;;x
@@ -9443,15 +9443,15 @@ secret_ballots;秘密投票;;;;;;;;;;;;x
 secret_ballots_desc;買収や脅迫の影響を有権者が受けることを防ぐため、有権者は秘密投票選挙を選択しました。これにより、与党は有権者に影響を及ぼす方法を失いました。;;;;;;;;;;;;x
 social_reforms;社会改革;;;;;;;;;;;;x
 wage_reform;最低賃金;;;;;;;;;;;;x
-no_minimum_wage;制度なし;;;;;;;;;;;;x
+no_minimum_wage;最低賃金制度なし;;;;;;;;;;;;x
 no_minimum_wage_desc;最低賃金制度は存在しません。;;;;;;;;;;;;x
-REMOVE_trinket_wage;形式的;;;;;;;;;;;;x
+REMOVE_trinket_wage;形式的な最低賃金;;;;;;;;;;;;x
 trinket_wage_desc;最低賃金の設定額は、非常に低水準です。;;;;;;;;;;;;x
-low_minimum_wage;低い最低賃金;;;;;;;;;;;;x
+low_minimum_wage;低水準な最低賃金;;;;;;;;;;;;x
 low_minimum_wage_desc;最低賃金の設定額は、低水準です。;;;;;;;;;;;;x
 acceptable_minimum_wage;容認可能な最低賃金;;;;;;;;;;;;x
 acceptable_minimum_wage_desc;最低賃金の設定額は、ほとんどの人々にとって、まずまずの水準です。;;;;;;;;;;;;x
-good_minimum_wage;良い最低賃金;;;;;;;;;;;;x
+good_minimum_wage;高水準な最低賃金;;;;;;;;;;;;x
 good_minimum_wage_desc;最低賃金の設定額は、標準以上の水準です。;;;;;;;;;;;;x
 work_hours;最大労働時間;;;;;;;;;;;;x
 no_work_hour_limit;無制限;;;;;;;;;;;;x
@@ -9477,36 +9477,36 @@ good_safety;優良な安全規制;;;;;;;;;;;;x
 good_safety_desc;充分な労働安全衛生体制が整えられています。;;;;;;;;;;;;x
 unemployment_subsidies;失業給付;;;;;;;;;;;;x
 no_subsidies;給付金なし;;;;;;;;;;;;x
-no_subsidies_desc;失業手当制度は存在しません。;;;;;;;;;;;;x
-trinket_subsidies;貧弱;;;;;;;;;;;;x
-trinket_subsidies_desc;失業手当の支給額は、非常に少額です。;;;;;;;;;;;;x
-low_subsidies;低水準;;;;;;;;;;;;x
-low_subsidies_desc;失業手当の支給額は、少額です。;;;;;;;;;;;;x
-acceptable_subsidies;優良;;;;;;;;;;;;x
-acceptable_subsidies_desc;失業手当の支給額は、充分な額です。;;;;;;;;;;;;x
-good_subsidies;高水準;;;;;;;;;;;;x
-good_subsidies_desc;失業手当の支給額は、多額です。;;;;;;;;;;;;x
+no_subsidies_desc;失業給付制度は存在しません。;;;;;;;;;;;;x
+trinket_subsidies;ごく僅かな給付金;;;;;;;;;;;;x
+trinket_subsidies_desc;失業給付の支給額は、非常に少額です。;;;;;;;;;;;;x
+low_subsidies;低水準な給付金;;;;;;;;;;;;x
+low_subsidies_desc;失業給付の支給額は、少額です。;;;;;;;;;;;;x
+acceptable_subsidies;拡大された給付金;;;;;;;;;;;;x
+acceptable_subsidies_desc;失業給付の支給額は、充分な額です。;;;;;;;;;;;;x
+good_subsidies;豊富な給付金;;;;;;;;;;;;x
+good_subsidies_desc;失業給付の支給額は、多額です。;;;;;;;;;;;;x
 pensions;年金制度;;;;;;;;;;;;x
-no_pensions;制度なし;;;;;;;;;;;;x
+no_pensions;年金制度なし;;;;;;;;;;;;x
 no_pensions_desc;公的年金制度は存在しません。;;;;;;;;;;;;x
-trinket_pensions;貧弱;;;;;;;;;;;;x
+trinket_pensions;ごく僅かな年金;;;;;;;;;;;;x
 trinket_pensions_desc;公的年金の支給額は、非常に少額です。;;;;;;;;;;;;x
-low_pensions;低水準;;;;;;;;;;;;x
+low_pensions;低水準な年金;;;;;;;;;;;;x
 low_pensions_desc;公的年金の支給額は、少額です。;;;;;;;;;;;;x
-acceptable_pensions;及第点;;;;;;;;;;;;x
+acceptable_pensions;容認可能な年金;;;;;;;;;;;;x
 acceptable_pensions_desc;公的年金の支給額は、まずまずの額です。;;;;;;;;;;;;x
-good_pensions;高水準;;;;;;;;;;;;x
+good_pensions;高水準な年金;;;;;;;;;;;;x
 good_pensions_desc;公的年金の支給額は、多額です。;;;;;;;;;;;;x
 health_care;医療保険制度;;;;;;;;;;;;x
-no_health_care;制度なし;;;;;;;;;;;;x
+no_health_care;医療保険制度なし;;;;;;;;;;;;x
 no_health_care_desc;医療保険制度は存在しません。;;;;;;;;;;;;x
-trinket_health_care;貧弱な医療保険制度;;;;;;;;;;;;x
+trinket_health_care;ごく僅かな医療保険制度;;;;;;;;;;;;x
 trinket_health_care_desc;医療保険制度は、非常に低水準です。;;;;;;;;;;;;x
 low_health_care;低水準な医療保険制度;;;;;;;;;;;;x
 low_health_care_desc;医療保険制度は、低水準です。;;;;;;;;;;;;x
-acceptable_health_care;及第点の医療保険制度;;;;;;;;;;;;x
+acceptable_health_care;容認可能な医療保険制度;;;;;;;;;;;;x
 acceptable_health_care_desc;医療保険制度は、まずまず水準です。;;;;;;;;;;;;x
-good_health_care;高水準の医療保険制度;;;;;;;;;;;;x
+good_health_care;高水準な医療保険制度;;;;;;;;;;;;x
 good_health_care_desc;医療保険制度は、高い水準です。;;;;;;;;;;;;x
 protectionism_l;保護貿易主義;;;;;;;;;;;;x
 free_trade_l;自由貿易主義;;;;;;;;;;;;x
@@ -9537,7 +9537,7 @@ wealth_weighted_voting_l;投票権：財産重視有産階級以上;;;;;;;;;;;;x
 wealth_voting_l;投票権：有産階級以上;;;;;;;;;;;;x
 universal_weighted_voting_l;投票権：財産重視普通選挙;;;;;;;;;;;;x
 universal_voting_l;投票権：普通選挙;;;;;;;;;;;;x
-first_past_the_post_l;最多得票者当選制;;;;;;;;;;;;x
+first_past_the_post_l;小選挙区制;;;;;;;;;;;;x
 jefferson_method_l;ジェファーソン方式;;;;;;;;;;;;x
 proportional_representation_l;比例代表制;;;;;;;;;;;;x
 yes_meeting_l;集会の自由：保障;;;;;;;;;;;;x
@@ -9545,7 +9545,7 @@ no_meeting_l;集会の自由：未保障;;;;;;;;;;;;x
 state_press_l;報道の自由：国営報道機関のみ;;;;;;;;;;;;x
 censored_press_l;報道の自由：検閲あり;;;;;;;;;;;;x
 free_press_l;報道の自由：自由報道;;;;;;;;;;;;x
-no_trade_unions_l;労働組合：非合法;;;;;;;;;;;;x
+no_trade_unions_l;労働組合：違法;;;;;;;;;;;;x
 state_controlled_l;労働組合：政府による統制;;;;;;;;;;;;x
 non_socialist_l;労働組合：非社会主義系組合限定;;;;;;;;;;;;x
 all_trade_unions_l;労働組合：制限なし;;;;;;;;;;;;x
@@ -9555,9 +9555,9 @@ gerrymandering_l;政党：ゲリマンダー;;;;;;;;;;;;x
 non_secret_ballots_l;政党：公開投票;;;;;;;;;;;;x
 secret_ballots_l;政党：秘密投票;;;;;;;;;;;;x
 no_minimum_wage_l;最低賃金制度：なし;;;;;;;;;;;;x
-trinket_wage_l;最低賃金制度：貧弱;;;;;;;;;;;;x
+trinket_wage_l;最低賃金制度：ごく僅か;;;;;;;;;;;;x
 low_minimum_wage_l;最低賃金制度：低水準;;;;;;;;;;;;x
-acceptable_minimum_wage_l;最低賃金制度：及第点;;;;;;;;;;;;x
+acceptable_minimum_wage_l;最低賃金制度：容認可能;;;;;;;;;;;;x
 good_minimum_wage_l;最低賃金制度：高水準;;;;;;;;;;;;x
 no_work_hour_limit_l;労働時間規制：なし;;;;;;;;;;;;x
 fourteen_hours_l;労働時間規制：最大14時間;;;;;;;;;;;;x
@@ -9565,24 +9565,24 @@ twelve_hours_l;労働時間規制：最大12時間;;;;;;;;;;;;x
 ten_hours_l;労働時間規制：最大10時間;;;;;;;;;;;;x
 eight_hours_l;労働時間規制：最大8時間;;;;;;;;;;;;x
 no_safety_l;労働安全規則：なし;;;;;;;;;;;;x
-trinket_safety_l;労働安全規則：貧弱;;;;;;;;;;;;x
+trinket_safety_l;労働安全規則：ごく僅か;;;;;;;;;;;;x
 low_safety_l;労働安全規則：低水準;;;;;;;;;;;;x
-acceptable_safety_l;労働安全規則：及第点;;;;;;;;;;;;x
+acceptable_safety_l;労働安全規則：容認可能;;;;;;;;;;;;x
 good_safety_l;労働安全規則：高水準;;;;;;;;;;;;x
-no_subsidies_l;失業手当：なし;;;;;;;;;;;;x
-trinket_subsidies_l;失業手当：貧弱;;;;;;;;;;;;x
-low_subsidies_l;失業手当：低水準;;;;;;;;;;;;x
-acceptable_subsidies_l;失業手当：及第点;;;;;;;;;;;;x
-good_subsidies_l;失業手当：高水準;;;;;;;;;;;;x
+no_subsidies_l;失業給付：なし;;;;;;;;;;;;x
+trinket_subsidies_l;失業給付：ごく僅か;;;;;;;;;;;;x
+low_subsidies_l;失業給付：低水準;;;;;;;;;;;;x
+acceptable_subsidies_l;失業給付：容認可能;;;;;;;;;;;;x
+good_subsidies_l;失業給付：高水準;;;;;;;;;;;;x
 no_pensions_l;年金：なし;;;;;;;;;;;;x
-trinket_pensions_l;年金：貧弱;;;;;;;;;;;;x
+trinket_pensions_l;年金：ごく僅か;;;;;;;;;;;;x
 low_pensions_l;年金：低水準;;;;;;;;;;;;x
-acceptable_pensions_l;年金：及第点;;;;;;;;;;;;x
+acceptable_pensions_l;年金：容認可能;;;;;;;;;;;;x
 good_pensions_l;年金：高水準;;;;;;;;;;;;x
 no_health_care_l;医療保険制度：なし;;;;;;;;;;;;x
-trinket_health_care_l;医療保険制度：貧弱;;;;;;;;;;;;x
+trinket_health_care_l;医療保険制度：ごく僅か;;;;;;;;;;;;x
 low_health_care_l;医療保険制度：低水準;;;;;;;;;;;;x
-acceptable_health_care_l;医療保険制度：及第点;;;;;;;;;;;;x
+acceptable_health_care_l;医療保険制度：容認可能;;;;;;;;;;;;x
 good_health_care_l;医療保険制度：高水準;;;;;;;;;;;;x
 EVENTHAPPENOTHEROPTION_SETUP;他国で複数の選択肢が存在する歴史イベントが発生したとき;;;;;;;;;;;;x
 EVENTHAPPENOTHEROPTION_HEADER;外務大臣からの報告;;;;;;;;;;;;x
@@ -14760,7 +14760,7 @@ SHARED_PRESTIGE_TECH;共有中の威信(現在);;;;;;;;;;;;x
 TECH_POP_GROWTH;POP増加;;;;;;;;;;;;x
 TECH_REBEL_ORG_GAIN;反乱軍指揮統制率上昇;;;;;;;;;;;;x
 DIPLOMATIC_POINTS_TECH;外交点;;;;;;;;;;;;x
-TECH_PLURALITY;多様性;;;;;;;;;;;;x
+TECH_PLURALITY;多元性;;;;;;;;;;;;x
 TECH_FACTORY;工場コスト;;;;;;;;;;;;x
 TECH_MAX_LEVEL;最大レベル;;;;;;;;;;;;x
 TECH_DIPLOMATIC_INFLUENCE;外交点獲得;;;;;;;;;;;;x
@@ -14962,8 +14962,8 @@ NOT_UPPER_HOUSE_TR;§Y$NAME$§Wが上院に占める割合は§Y$VAL$§W%未満�
 UPPER_HOUSE_TR;少なくとも、§Y$NAME$§Wが上院に占める割合は§Y$VAL$§W以上です。\n;;;;;;;;;;;;x
 NOT_IS_NEXT_REFORM_TR;$ISSUE$は$GROUP$問題で次に実施できる改革ではありません。;;;;;;;;;;;;x
 IS_NEXT_REFORM_TR;$ISSUE$は$GROUP$問題で次に実施できる改革です。;;;;;;;;;;;;x
-NOT_PLURALITY_TR;多様性は§Y$VAL$§W未満です。\n;;;;;;;;;;;;x
-PLURALITY_TR;少なくとも、多様性は§Y$VAL$§W以上です。\n;;;;;;;;;;;;x
+NOT_PLURALITY_TR;多元性は§Y$VAL$§W未満です。\n;;;;;;;;;;;;x
+PLURALITY_TR;少なくとも、多元性は§Y$VAL$§W以上です。\n;;;;;;;;;;;;x
 HAVE_MINORTITIES;以下には、少数派が存在している: ;;;;;;;;;;;;x
 HAVE_NOT_MINORITIES;以下には、少数派が存在していない: ;;;;;;;;;;;;x
 AGREE_RP_TR;少なくとも、与党と同じイデオロギーの人々は§Y$VAL$%§W以上です。;;;;;;;;;;;;x

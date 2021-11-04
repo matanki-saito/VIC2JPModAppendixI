@@ -142,7 +142,7 @@ NOT_A_FLASHPOINT;§R紛争の火種がくすぶっていない§W;;;;;;;;;;;;x
 MAPMODE_21;危機;;;;;;;;;;;;x
 MAPMODE_22;海軍基地;;;;;;;;;;;;x
 FLASHPOINT_TENSION;紛争の火種のくすぶり度: §Y$VALUE$§W%;;;;;;;;;;;;x
-EXECUTING_HISTORY;歴史の実行;;;;;;;;;;;;x
+EXECUTING_HISTORY;歴史を実行中;;;;;;;;;;;;x
 CRISIS_TEMPERATURE;危機の加熱度：§R$VALUE$%§W;;;;;;;;;;;;x
 HAS_CRISIS;現在の危機がある;;;;;;;;;;;;x
 HAS_NO_CRISIS;現在の危機がない;;;;;;;;;;;;x

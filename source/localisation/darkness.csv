@@ -92,7 +92,7 @@ po_destroy_naval_bases;$STATE$の海軍基地を破壊する;;;;;;;;;;;;x
 ALL_CORE_PROVINCES;中核州を持つ全地域;;;;;;;;;;;;x
 ALL_SATES;全地域;;;;;;;;;;;;x
 dismantle_forts_desc;要塞と海軍基地を解体します。;;;;;;;;;;;;x
-dismantle_forts;要塞を解体します;;;;;;;;;;;;x
+dismantle_forts;要塞を解体;;;;;;;;;;;;x
 dismantle_forts_short;$STATE$の建築を解体します;;;;;;;;;;;;x
 dismantle_forts_setup;$STATE$の要塞と海軍基地を解体します;;;;;;;;;;;;x
 liberate_country_desc;圧制者から§Y国全体§Wを解放します;;;;;;;;;;;;x

@@ -91,8 +91,8 @@ BUDGET_SUPPLYCOSTS;補給コスト: §Y$VAL$§W;;;;;;;;;;;;x
 BUDGET_TAX;§Y$VAL$§W;;;;;;;;;;;;x
 BUDGET_BASE_TAX;基礎的徴税効率: §Y$VAL$§W%;;;;;;;;;;;;x
 BUDGET_TECH_TAX;技術補正: §Y$VAL$§W%;;;;;;;;;;;;x
-BUDGET_STRATA_NEED;§Y$VAL$§W%の人々が$TYPE$を得ています。;;;;;;;;;;;;x
-BUDGET_STRATA_NO_NEED;§Y$VAL$§W%は、まったく需要を充たせていません。;;;;;;;;;;;;x
+BUDGET_STRATA_NEED;§Y$VAL$§W%の人々が$TYPE$を満たしています。;;;;;;;;;;;;x
+BUDGET_STRATA_NO_NEED;§Y$VAL$§W%の人々がまったく需要を満たせていません。;;;;;;;;;;;;x
 BUDGET_TOTAL_INCOME;総歳入: §Y$VAL$§W;;;;;;;;;;;;x
 TAXES_POOR;下層階級からの税収: §Y$VAL$§W;;;;;;;;;;;;x
 TAXES_MIDDLE;中産階級からの税収: §Y$VAL$§W;;;;;;;;;;;;x
@@ -9802,8 +9802,8 @@ EDUCATION_SPENDING;教育費;;;;;;;;;;;;x
 CRIME_FIGHTING;犯罪対策;;;;;;;;;;;;x
 POP_CULTURE;文化;;;;;;;;;;;;x
 POP_RELIGION;宗教;;;;;;;;;;;;x
-GETTING_NEEDS;「$NEED$」の充足：§Y$VAL$%§W;;;;;;;;;;;;x
-NO_NEED;需要なし;;;;;;;;;;;;x
+GETTING_NEEDS;$NEED$の充足：§Y$VAL$%§W;;;;;;;;;;;;x
+NO_NEED;全く不十分;;;;;;;;;;;;x
 NO_POPS_OF_TYPE;この職業のPOPは存在しません。;;;;;;;;;;;;x
 PV_POP_SIZE;規模;;;;;;;;;;;;x
 WORKFORCE_DISTTITLE;労働力;;;;;;;;;;;;x

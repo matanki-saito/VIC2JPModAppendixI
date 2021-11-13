@@ -7077,7 +7077,7 @@ notechgroup;技術グループ;;;;;;;;;;;;x
 culture_ideas;文化系国策;;;;;;;;;;;;x
 neighbor_bonus;隣国ボーナス;;;;;;;;;;;;x
 PLAY;ゲーム開始;;;;;;;;;;;;x
-DOMESTIC_NATION;nation;;;;;;;;;;;;x
+DOMESTIC_NATION;国家;;;;;;;;;;;;x
 DOMESTIC_RELATION;関係;;;;;;;;;;;;x
 PW_POPULATION;人口;;;;;;;;;;;;x
 PW_UNITS;ユニット;;;;;;;;;;;;x
@@ -7527,7 +7527,7 @@ ARG_communist;共産党;;;;;;;;;;;;x
 ARG_fascist;ファシスト党;;;;;;;;;;;;x
 ARM_conservative;ベイ派;;;;;;;;;;;;x
 ARM_conservative_2;アルメナカン党;;;;;;;;;;;;x
-ARM_liberal;Toughte Sherepa;;;;;;;;;;;;x
+ARM_liberal;トウト・シェルパ;;;;;;;;;;;;x
 ARM_socialist;社会民主ハンチャク党;;;;;;;;;;;;x
 ARM_socialist_2;アルメニア革命連盟;;;;;;;;;;;;x
 ARM_liberal_2;自由主義派;;;;;;;;;;;;x

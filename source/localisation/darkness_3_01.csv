@@ -93,7 +93,7 @@ AIREASON_OTHER_SPHERE;他の影響圏;;;;;;;;;;;;x
 AIREASON_OVERLORD;宗主国;;;;;;;;;;;;x
 AIREASON_BADBOY;汚名;;;;;;;;;;;;x
 AIREASON_RELATIONS;関係;;;;;;;;;;;;x
-AIREASON_GP_RELATIONS;影響力;;;;;;;;;;;;x
+AIREASON_GP_RELATIONS;評価;;;;;;;;;;;;x
 AIREASON_BASE_RELUCTANCE;基本的な不満;;;;;;;;;;;;x
 AI_DIPLOMATIC_VALUE;外交的価値;;;;;;;;;;;;x
 AI_DIPLO_NO;彼らは受け入れないでしょう;;;;;;;;;;;;x

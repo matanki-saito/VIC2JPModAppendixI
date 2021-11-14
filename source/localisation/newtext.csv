@@ -174,7 +174,7 @@ PRODUCTION_PROJECT_MONEY;計画に与えられている予算：§Y$MONEY$§W¤�
 WAR_HAS_COMPLETE_VICTORY;完全勝利;;;;;;;;;;;;x
 DIPLOMACY_CAN_INTERVENE;戦争介入;;;;;;;;;;;;x
 DIPLOMACY_CANNOT_INTERVENE;戦争介入\n以下の理由により、我が国はこちら側で参戦することができません。:;;;;;;;;;;;;x
-DIPLOMACY_OPINION_INFLUENCE;§Y$GP$§Wの発言力：§Y$OPINION$§W;;;;;;;;;;;;x
+DIPLOMACY_OPINION_INFLUENCE;§Y$GP$§Wの評価：§Y$OPINION$§W;;;;;;;;;;;;x
 DIPLOMACY_OPINION_INFLUENCE2;この国の影響：§Y$VALUE$§W;;;;;;;;;;;;x
 DIPLOMACY_SET_PRIO_DESC;影響は、国内での§Y列強§Wの政治的影響力の強さを表しています。;;;;;;;;;;;;x
 DIPLOMACY_PRIMARYCULTURE_DESC;中核文化の人々は、我が国の最上級市民です。;;;;;;;;;;;;x
@@ -1037,12 +1037,12 @@ EXPELADVISORS_OTHER_ACCEPT_SETUP;ある国が他国の顧問を追放したと�
 BANEMBASSY_THEY_ACCEPT_SETUP;我が国がある国の大使を追放したとき;;;;;;;;;;;;x
 BANEMBASSY_WE_ACCEPT_SETUP;ある国が我が国の大使を追放したとき;;;;;;;;;;;;x
 BANEMBASSY_OTHER_ACCEPT_SETUP;ある国が他国の大使を追放したとき;;;;;;;;;;;;x
-INCREASEOPINION_THEY_ACCEPT_SETUP;我が国の発言力がある国で増大したとき;;;;;;;;;;;;x
-INCREASEOPINION_WE_ACCEPT_SETUP;ある国の発言力が我が国で増大したとき;;;;;;;;;;;;x
-INCREASEOPINION_OTHER_ACCEPT_SETUP;ある国の発言力が他国で増大したとき;;;;;;;;;;;;x
-DECREASEOPINION_THEY_ACCEPT_SETUP;我が国の発言力がある国で低下したとき;;;;;;;;;;;;x
-DECREASEOPINION_WE_ACCEPT_SETUP;我が国の発言力がある国で低下したとき;;;;;;;;;;;;x
-DECREASEOPINION_OTHER_ACCEPT_SETUP;我が国の発言力がある国で低下したとき;;;;;;;;;;;;x
+INCREASEOPINION_THEY_ACCEPT_SETUP;我が国の評価がある国で増大したとき;;;;;;;;;;;;x
+INCREASEOPINION_WE_ACCEPT_SETUP;ある国の評価が我が国で増大したとき;;;;;;;;;;;;x
+INCREASEOPINION_OTHER_ACCEPT_SETUP;ある国の評価が他国で増大したとき;;;;;;;;;;;;x
+DECREASEOPINION_THEY_ACCEPT_SETUP;我が国の評価がある国で低下したとき;;;;;;;;;;;;x
+DECREASEOPINION_WE_ACCEPT_SETUP;我が国の評価がある国で低下したとき;;;;;;;;;;;;x
+DECREASEOPINION_OTHER_ACCEPT_SETUP;我が国の評価がある国で低下したとき;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_SETUP;我が国がある国を勢力圏に編入したとき;;;;;;;;;;;;x
 ADDTOSPHERE_WE_ACCEPT_SETUP;ある国が我が国を勢力圏に編入したとき;;;;;;;;;;;;x
 ADDTOSPHERE_OTHER_ACCEPT_SETUP;ある国が他国を勢力圏に編入したとき;;;;;;;;;;;;x
@@ -1058,7 +1058,7 @@ DECREASERELATION_OTHER_ACCEPT_SETUP;我が国が、我が国とある国との�
 WETARGET_DISCREDIT_SETUP;我が国の信用がある国によって失墜させられたとき;;;;;;;;;;;;x
 WETARGET_EXPELADVISORS_SETUP;我が国の顧問がある国によって追放されたとき;;;;;;;;;;;;x
 WETARGET_BANEMBASSY_SETUP;我が国の大使がある国によって追放されたとき;;;;;;;;;;;;x
-WETARGET_DECREASEOPINION_SETUP;ある国における我が国の発言力が他国によって低下させられたとき;;;;;;;;;;;;x
+WETARGET_DECREASEOPINION_SETUP;ある国における我が国の評価が他国によって低下させられたとき;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_SETUP;我が国の勢力圏から、ある国が他国によって離脱させられたとき;;;;;;;;;;;;x
 WAR_WE_ACCEPT_SETUP;ある国が我が国に宣戦を布告したとき;;;;;;;;;;;;x
 PEACE_WE_ACCEPT_SETUP;我が国が和平提案を受諾したとき;;;;;;;;;;;;x
@@ -1273,8 +1273,8 @@ CALLALLYTITLE;参戦を要請;;;;;;;;;;;;x
 DISCREDITTITLE;列強の信用を失墜;;;;;;;;;;;;x
 EXPELADVISORSTITLE;列強の顧問を追放;;;;;;;;;;;;x
 BANEMBASSYTITLE;列強の大使を追放;;;;;;;;;;;;x
-INCREASEOPINIONTITLE;発言力が増大;;;;;;;;;;;;x
-DECREASEOPINIONTITLE;列強の発言力が低下;;;;;;;;;;;;x
+INCREASEOPINIONTITLE;評価が増大;;;;;;;;;;;;x
+DECREASEOPINIONTITLE;列強の評価が低下;;;;;;;;;;;;x
 ADDTOSPHERETITLE;影響圏に編入;;;;;;;;;;;;x
 REMOVEFROMSPHERETITLE;影響圏から排除;;;;;;;;;;;;x
 INCREASERELATION_BUTTON;関係改善;;;;;;;;;;;;x
@@ -1387,7 +1387,7 @@ COUNTRYALERT_CanDoReforms;以下の改革を、我が国は実施可能です:;;
 COUNTRYALERT_CanDoDecisions;以下の施政方針を、我が国は実施可能です:;;;;;;;;;;;;x
 COUNTRYALERT_IsInElection;我が国の領内で、現在、選挙が行われています。§Y$DATE$年§Wに、新与党が選出されます。;;;;;;;;;;;;x
 COUNTRYALERT_HaveRebels;我が国の領内に反乱勢力が存在します！;;;;;;;;;;;;x
-REMOVE_COUNTRYALERT_CanIncreaseOpinion;以下の国で、我が国の発言力を増大させることができます:;;;;;;;;;;;;x
+REMOVE_COUNTRYALERT_CanIncreaseOpinion;以下の国で、我が国の評価を増大させることができます:;;;;;;;;;;;;x
 COUNTRYALERT_LoosingGPStatus;我が国は§Y列強国§Wの地位を失いつつあります！§Y$DAYS$§Wまでに我が国が挽回しなければ、もはや世界は我が国を§Y列強国§Wとは見なくなるでしょう！;;;;;;;;;;;;x
 COUNTRYALERT_NO_IsBuildingFactories;我が国の領内に、現在、建設中／拡張中の工場は存在しません;;;;;;;;;;;;x
 REMOVE_COUNTRYALERT_NO_HasClosedFactories;我が国の領内に休止中の工場は存在しません;;;;;;;;;;;;x
@@ -1396,7 +1396,7 @@ COUNTRYALERT_NO_CanDoReforms;我が国に実施可能な改革はありません
 REMOVE_COUNTRYALERT_NO_CanDoDecisions;我が国に実施可能な施政方針はありません;;;;;;;;;;;;x
 COUNTRYALERT_NO_IsInElection;我が国の領内では、現在、選挙は行われていません;;;;;;;;;;;;x
 COUNTRYALERT_NO_HaveRebels;我が国の領内に反乱勢力は存在しません;;;;;;;;;;;;x
-REMOVE_COUNTRYALERT_NO_CanIncreaseOpinion;我が国の発言力を増大させることができる他国が存在しません;;;;;;;;;;;;x
+REMOVE_COUNTRYALERT_NO_CanIncreaseOpinion;我が国の評価を増大させることができる他国が存在しません;;;;;;;;;;;;x
 COUNTRYALERT_NO_LoosingGPStatus;§Y列強国§Wの地位は安泰です。;;;;;;;;;;;;x
 COUNTRYALERT_NO_GPStatus;我が国は§Y列強国§Wではありません;;;;;;;;;;;;x
 PEACE_DESC;和平交渉をしましょう;;;;;;;;;;;;x
@@ -1967,7 +1967,7 @@ tut_8c_14;しかし最初に設定した戦争目標にこだわる必要はあ�
 tut_8c_15;影響圏;;;;;;;;;;;;x
 tut_8c_16;「勢力圏」は、非列強が特定の列強の影響下に入っている状態を指します。勢力圏の具体的な効果の1つとして、勢力圏内の国々はあなた（ここではプロイセン）の国内市場に組み入れられるので、プロイセン経済への物品供給が潤沢になるのです。もう1つの勢力圏の重要な効果は、すべての中核州を勢力圏内におさめていると、国家統一が可能になるということです。どうすれば諸国を勢力圏内に入れられるのでしょうか？「次へ」をクリックしてください。その答えがわかります。;;;;;;;;;;;;x
 tut_8c_17;地位をめぐる攻防;;;;;;;;;;;;x
-tut_8c_18;勢力圏を獲得するための2つの重要なツールがあります。「影響力」と現在の地位です。;;;;;;;;;;;;x
+tut_8c_18;勢力圏を獲得するための2つの重要なツールがあります。「評価」と現在の地位です。;;;;;;;;;;;;x
 tut_8c_19;影響力は徐々に獲得することができます。このバーを伸ばすことにより、優先指定した国に対する影響力が向上するのです。ドイツを統一したいけれども、ハノーファーがドイツの中核州を領有しています。国リストからハノーファーを見つけ、優先度ボタンをクリックして優先度を最大にしてください。;;;;;;;;;;;;x
 tut_8c_20;現在の評価;;;;;;;;;;;;x
 tut_8c_21;見てのとおり、ハノーファーの我々に対する評価は「中立的」です。ハノーファーを勢力圏に入れるには、評価を「友好的」に引き上げる必要があります。「評価を上げる」という外交選択肢が表示されています。しかしそれにマウスを当てると、影響力が足りないと表示されます。ハノーファーの優先度は高く設定されているので、あとは待つだけです。;;;;;;;;;;;;x

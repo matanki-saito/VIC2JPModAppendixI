@@ -710,7 +710,7 @@ BA_WORK_FORCE;労働力;;;;;;;;;;;;x
 BA_IDEOLOGY;イデオロギー;;;;;;;;;;;;x
 REMOVE_BE_GREAT_POWER;列強国;;;;;;;;;;;;x
 REMOVE_BE_SECOND_RANK;植民国;;;;;;;;;;;;x
-BE_IN_SPHERE_OF;$COUNTRY$の影響圏化;;;;;;;;;;;;x
+BE_IN_SPHERE_OF;$COUNTRY$の影響圏下;;;;;;;;;;;;x
 BE_INDEPENDENT_NATION;独立国;;;;;;;;;;;;x
 BE_PRESTIGE;威信;;;;;;;;;;;;x
 BE_INDUSTRY;工業点;;;;;;;;;;;;x
@@ -1935,9 +1935,9 @@ CANNOT_TARGET_GREATNATION;他の列強国に対して影響を及ぼすことは
 NOT_ENOUGH_RELATION;この国に影響を及ぼすためには、我が国がこの国に対して、少なくとも§Y$NEEDED$§W以上の評価を有していなければなりません。現在の評価は§Y$CURRENT$§Wです。;;;;;;;;;;;;x
 ENOUGH_RELATION;これらの国に対する我が国の評価は、最高値に達しています。;;;;;;;;;;;;x
 ALREADY_BAD_RELATION;§Y$RECIPIENT$§Wは、すでに§Y$TARGET$§Wに対して§Y$OPINION$§Wの評価を有しています。;;;;;;;;;;;;x
-ALREADY_IN_SPHERE;この国家はすでに§Y$LEADER$§Wの影響圏化にあります。;;;;;;;;;;;;x
-IN_NO_SPHERE;この国家は影響圏化にありません;;;;;;;;;;;;x
-IN_OUR_SPHERE;この国家は我々の影響圏化にあります;;;;;;;;;;;;x
+ALREADY_IN_SPHERE;この国家はすでに§Y$LEADER$§Wの影響圏下にあります。;;;;;;;;;;;;x
+IN_NO_SPHERE;この国家は影響圏下にありません;;;;;;;;;;;;x
+IN_OUR_SPHERE;この国家は我々の影響圏下にあります;;;;;;;;;;;;x
 CALL_MUST_BE_ALLIES;参戦を要請するためには、その国と同盟関係がなければなりません。;;;;;;;;;;;;x
 CALL_MUST_BE_AT_WAR;同盟国に参戦を要請するためには、戦争中でなければなりません。;;;;;;;;;;;;x
 CALL_MUST_HAVE_JOINABLE_WAR;同盟国が参戦できる戦争がありません。;;;;;;;;;;;;x
@@ -2099,7 +2099,7 @@ WETARGET_BANEMBASSY_LOG;$ACTOR$は、$RECIPIENT$を説得し、我が国の大�
 WETARGET_DECREASEOPINION_LOG;$ACTOR$は、$RECIPIENT$に対する我が国の評価を$OPINION$低下させました！;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_LOG;$ACTOR$は我々の影響圏から$RECIPIENT$を排除しました。;;;;;;;;;;;;x
 DIPL_AT_WAR;戦争中は認められません;;;;;;;;;;;;x
-CW_WARNINSPHERE_SHORT;彼らは$COUNTRY$の影響圏化です。;;;;;;;;;;;;x
+CW_WARNINSPHERE_SHORT;彼らは$COUNTRY$の影響圏下です。;;;;;;;;;;;;x
 WARGOAL_COST_DESC;汚名$BADBOY$、威信$PRESTIGE$、和平コスト$COST$;;;;;;;;;;;;x
 DIPL_NOT_AT_WAR;我が国は戦争中ではありません;;;;;;;;;;;;x
 WAR_BUTTON;宣戦布告;;;;;;;;;;;;x
@@ -2555,7 +2555,7 @@ BANEMBASSY_OTHER_ACCEPT_BTN3;移動;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_2;$MONARCHTITLE$、我々は;;;;;;;;;;;;x
-ADDTOSPHERE_THEY_ACCEPT_3;影響圏化に§Y$RECIPIENT$§Wを加えました。;;;;;;;;;;;;x
+ADDTOSPHERE_THEY_ACCEPT_3;影響圏下に§Y$RECIPIENT$§Wを加えました。;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_4;*;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_5;*;;;;;;;;;;;;x
 ADDTOSPHERE_THEY_ACCEPT_6;*;;;;;;;;;;;;x
@@ -2895,7 +2895,7 @@ WETARGET_DECREASEOPINION_BTN3;移動;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_HEADER;外務大臣からの報告;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_1;§Y$RECIPIENT$§W;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_2;$MONARCHTITLE$、何者かが我が帝国に対して干渉を行っています！;;;;;;;;;;;;x
-WETARGET_REMOVEFROMSPHERE_3;§Y$RECIPIENT$§Wはもはや我々の影響圏化にはありません。;;;;;;;;;;;;x
+WETARGET_REMOVEFROMSPHERE_3;§Y$RECIPIENT$§Wはもはや我々の影響圏下にはありません。;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_4;我々は、今回の事態の背後に;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_5;*;;;;;;;;;;;;x
 WETARGET_REMOVEFROMSPHERE_6;*;;;;;;;;;;;;x
@@ -14938,8 +14938,8 @@ IS_NOT_ACCEPTED_CULTURE;主要文化ではない。;;;;;;;;;;;;x
 IS_ACCEPTED_CULTURE;主要文化である。;;;;;;;;;;;;x
 IS_NOT_COASTAL;沿岸州ではない。;;;;;;;;;;;;x
 IS_COASTAL;沿岸州である。;;;;;;;;;;;;x
-IS_NOT_IN_SPHERE;$ADJ$の影響圏化にはない;;;;;;;;;;;;x
-IS_IN_SPHERE;$ADJ$の影響圏化にある;;;;;;;;;;;;x
+IS_NOT_IN_SPHERE;$ADJ$の影響圏下にはない;;;;;;;;;;;;x
+IS_IN_SPHERE;$ADJ$の影響圏下にある;;;;;;;;;;;;x
 IS_NOT_SLAVE_STATE;奴隷州ではない。;;;;;;;;;;;;x
 IS_SLAVE_STATE;奴隷州である。;;;;;;;;;;;;x
 IS_NOT_COLONIAL_STATE;植民ステートではない。;;;;;;;;;;;;x
@@ -14994,8 +14994,8 @@ CAN_NOT_BUILD_FACTORY;工場を建設することは不可能です。\n;;;;;;;;
 CAN_BUILD_FACTORY;工場を建設することは可能です。\n;;;;;;;;;;;;x
 GEN_POP_HAVE;Must have $WHAT$;;;;;;;;;;;;x
 GEN_POP_NOT_HAVE;Must not have $WHAT$.;;;;;;;;;;;;x
-IS_NOT_SPHERELEADER_OF;影響圏化に$ADJ$が存在しない;;;;;;;;;;;;x
-IS_SPHERELEADER_OF;影響圏化に$ADJ$が存在する;;;;;;;;;;;;x
+IS_NOT_SPHERELEADER_OF;影響圏下に$ADJ$が存在しない;;;;;;;;;;;;x
+IS_SPHERELEADER_OF;影響圏下に$ADJ$が存在する;;;;;;;;;;;;x
 HAVE_LESS_DIPLOMATIC_RELATION;が以下の値よりも外交関係が薄い：;;;;;;;;;;;;x
 POP_NOT_OF_CULTURE;$WHAT$ではありません。;;;;;;;;;;;;x
 POP_OF_CULTURE;$WHAT$です。;;;;;;;;;;;;x

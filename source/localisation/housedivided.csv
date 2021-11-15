@@ -245,7 +245,7 @@ WORLD_RANKING_SECONDARY_POWER;§Y$COUNTRY$§Wは準列強です。;;;;;;;;;;;;x
 POPULATION_DENSITY_AT_PROVINCE;§Y$PROV$§Wの総人口：;;;;;;;;;;;;x
 NATIONALITY_MAJORITY_AT_PROVINCE;§Y$PROV$§Wの多数派民族：;;;;;;;;;;;;x
 SPHERE_OF_INFL_GREAT_POWER;§Y$COUNTRY$§Wは列強です。;;;;;;;;;;;;x
-SPHERE_OF_INFL_IS_IN_SPHERE;§Y$COUNTRY1$§Wは§Y$COUNTRY2$§Wの影響圏化にあります。;;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_IN_SPHERE;§Y$COUNTRY1$§Wは§Y$COUNTRY2$§Wの影響圏下にあります。;;;;;;;;;;;;x
 SPHERE_OF_INFL_IS_INFL_BY;§Y$COUNTRY$§Wに影響力を与えている国：;;;;;;;;;;;;x
 PARTY_LOYALTY_EFFECT_DESC;§Y$PROV$§Wにおける§Y$PARTY$§Wへの連帯感は$OPERATOR$§Y$VALUE$§Wになります。;;;;;;;;;;;;x
 PARTY_LOYALTY_EFFECT_OPERATOR_ADD;上昇;;;;;;;;;;;;x
@@ -304,7 +304,7 @@ CB_CREATE_TECH;開戦正当化効率：$VAL$;;;;;;;;;;;;x
 SUPPRESSION_TECH_DESC;抑圧効率：$VAL$;;;;;;;;;;;;x
 CB_CREATION_TIME_DAYS;この戦争の開戦事由を獲得するのに約§Y$DAYS$§W日かかります。;;;;;;;;;;;;x
 CB_NOT_ON_PUPPETS;§Y傀儡§Wと§Y藩部§Wを攻める戦争は正当化できません。;;;;;;;;;;;;x
-CB_NOT_ON_SPHERES;影響圏化にある国家に対する戦争を正当化することはできません。;;;;;;;;;;;;x
+CB_NOT_ON_SPHERES;影響圏下にある国家に対する戦争を正当化することはできません。;;;;;;;;;;;;x
 NO_WAR_JUSTIFICATION;かの国への宣戦布告を正当化できる開戦事由はありません。;;;;;;;;;;;;x
 NOT_HOSTILE_BUILD;敵対的ではない;;;;;;;;;;;;x
 ACW_NAME;分かれたる家;;;;;;;;;;;;x
@@ -430,11 +430,11 @@ MSG_FILTER_TOOLTIP_BESTGUESS;最良推測方式で国を選択;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_ENEMIES;敵国を選択;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_ALLIES;同盟国を選択;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_NEIGHBOURS;隣国を選択;;;;;;;;;;;;x
-MSG_FILTER_TOOLTIP_SPHERE;あなたの影響圏化の国家を選択してください。（列強である場合）;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_SPHERE;あなたの影響圏下の国家を選択してください。（列強である場合）;;;;;;;;;;;;x
 MSG_FILTER_TOOLTIP_CONTINENT;同じ大陸に州を所有する国家を選択;;;;;;;;;;;;x
 PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;他国ではそのようなことをする権利がありません。;;;;;;;;;;;;x
 INVESTMENT_PENALTY_FACTOR;他国の投資家;;;;;;;;;;;;x
-SPHERE_SHARE_NOT_IN_SPHERE;影響圏化になければ世界市場で自由に取引できます;;;;;;;;;;;;x
+SPHERE_SHARE_NOT_IN_SPHERE;影響圏下になければ世界市場で自由に取引できます;;;;;;;;;;;;x
 SPHERE_SHARE_UNCIV;非文明国の資源は全体の§Y$PERCENTAGE$%§Wが勢力圏の指導国の市場で取引されます。;;;;;;;;;;;;x
 SPHERE_SHARE_2NDRANK;準列強の資源は全体の§Y$PERCENTAGE$%§Wが勢力圏の指導国の市場で取引されます。（基本値：§Y$BASE_PERCENTAGE$%§W);;;;;;;;;;;;x
 SPHERE_SHARE_CIV;文明国の資源は全体の§Y$PERCENTAGE$%§Wが勢力圏の指導国の市場で取引されます。（基本値：§Y$BASE_PERCENTAGE$%§W）;;;;;;;;;;;;x
@@ -812,7 +812,7 @@ NUMBER_MOVEMENT_SUPPORTERS;支持者の数;;;;;;;;;;;;x
 NUMBER_MOVEMENT_SUPPORTERS_DESC;支持者が多くなるにつれて運動を抑圧するのが難しくなります。支持者が少ない改革を実施すると、それより多くの支持者を擁する運動が全て過激化します。;;;;;;;;;;;;x
 PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;他国の工場は操業を停止できません。\n;;;;;;;;;;;;x
 CAN_NATIONALIZE;外国人投資家がいる;;;;;;;;;;;;x
-IS_NOT_IN_A_SPHERE;影響圏化にない;;;;;;;;;;;;x
+IS_NOT_IN_A_SPHERE;影響圏下にない;;;;;;;;;;;;x
 ACTIVATE_TECH_EFFECT;技術を利用できるようにする：§Y$NAME$§W;;;;;;;;;;;;x
 TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;高度な技術は文明国にしか利用できません。§Y政治タブ§Wで西洋化すれば、基礎技術が獲得でき、その後は独力で研究できるようになります。;;;;;;;;;;;;x
 RELATION_BETWEEN;$COUNTRY1$と$COUNTRY2$の間の現在の関係: $RELATION$;;;;;;;;;;;;x

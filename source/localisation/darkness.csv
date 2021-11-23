@@ -515,7 +515,7 @@ EVTOPTB20000;我が国には関係のないことだ;;;;;;;;;;;;x
 CRISIS_BACK_DOWN;解決策を提案;;;;;;;;;;;;x
 CRISISOFFERDESC;$COUNTRY$は現在の危機を、我々に有利な形で解決することを申し出ています：;;;;;;;;;;;;x
 CRISISDEMANDDESC;$COUNTRY$は現在の危機を、彼らに有利な形で解決することを要求しています：;;;;;;;;;;;;x
-crisis_free_peoples;自由な人々;;;;;;;;;;;;x
+crisis_free_peoples;人民を解放;;;;;;;;;;;;x
 crisis_free_peoples_short;$THIRD$が$STATE$を獲得;;;;;;;;;;;;x
 crisis_free_peoples_setup;$STATE$を$RECIPIENT$から$THIRD$に取り戻す;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_ACCEPT_SETUP;我々が危機の時に相手側からの提案を受け入れるとき;;;;;;;;;;;;x

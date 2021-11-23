@@ -2084,7 +2084,7 @@ place_in_the_sun_setup;$RECIPIENT$から$STATE$植民地を獲得;;;;;;;;;;;;x
 cut_down_to_size;身の程を知らせる;;;;;;;;;;;;x
 cut_down_to_size_short;$RECIPIENT$に身の程を知らせる;;;;;;;;;;;;x
 cut_down_to_size_setup;$RECIPIENT$に身の程を知らせる;;;;;;;;;;;;x
-free_peoples;自由な人々;;;;;;;;;;;;x
+free_peoples;人民を解放;;;;;;;;;;;;x
 free_peoples_short;$THIRD$が$STATE$を獲得;;;;;;;;;;;;x
 free_peoples_setup;$STATE$を$RECIPIENT$から$THIRD$に取り戻す;;;;;;;;;;;;x
 protect_minor;弱者の守護者;;;;;;;;;;;;x

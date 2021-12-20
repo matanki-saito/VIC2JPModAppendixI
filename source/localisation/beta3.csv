@@ -12,7 +12,7 @@ CB_ALLOWED_CONCESSION;敗北の受け入れ;;;;;;;;;;;;x
 MAINTENANCE_DESC;保全に必要な物資は次の通り：;;;;;;;;;;;;x
 MISSING_MAINTENANCE;保全に必要な物資が不足しているため工場の生産力が§R$PERC$§Wにまで低下しています;;;;;;;;;;;;x
 PROCEED;続行;;;;;;;;;;;;x
-ENDGAME_HEADLINE;ゲームオーバー;;;;;;;;;;;;x
+ENDGAME_HEADLINE;ゲーム終了;;;;;;;;;;;;x
 ENDGAME_DESC;百年の節目を経て、私達は近代に入りました。世界は大きくその姿を变えましたがあなたの国はどうでしたか？;;;;;;;;;;;;x
 NEEDS_BOUGHT;推定される今日の需要は次の通り：;;;;;;;;;;;;x
 TOTAL_NEEDS_BOUGHT;推定される需要コストは次の通り：;;;;;;;;;;;;x

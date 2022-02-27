@@ -459,7 +459,7 @@ EVTOPTA90105;アカになるくらいなら死んだ方がましだ！;;;;;;;;;;
 MOVEMENT_RADICALISM_BASE;基本値：§R$VAL$§W%;;;;;;;;;;;;x
 MOVEMENT_RADICALISM_ACCUMULATED;抑圧：§R$VAL$§W%;;;;;;;;;;;;x
 MOVEMENT_RADICALISM_GRANTED_REFORMS;容認された改革：§G$VAL$§W%;;;;;;;;;;;;x
-MOVEMENT_RADICALISM_CULTURE;$CULTURE$: $VAL$;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_CULTURE;$CULTURE$：$VAL$;;;;;;;;;;;;x
 ALREADY_SUPPRESSED;運動が過激ではないため、抑圧できません。;;;;;;;;;;;;x
 EVTNAME90900;中国;;;;;;;;;;;;x
 EVTDESC90900;これだけ改革が進めば、無教養なヨーロッパ人どもも我が国の「文明化」を認めざるを得ないでしょう。我々は、我が国土を一括支配し、外国の干渉を拒否する権利を尊重されるべきです。;;;;;;;;;;;;x

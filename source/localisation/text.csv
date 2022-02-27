@@ -4600,35 +4600,35 @@ REMOVE_EVTOPTA14040;We are patriots and we are going to fight for our country!;;
 REMOVE_EVTOPTB14040;Violence can be used, but in this situation it would be meaningless.;;;;;;;;;;;;x
 REMOVE_EVTOPTC14040;War between countries is never good.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14040;This can be solved without violence.;;;;;;;;;;;;x
-REMOVE_EVTNAME14050;High Tariffs;;;;;;;;;;;;x
+REMOVE_EVTNAME14050;高い関税;;;;;;;;;;;;x
 REMOVE_EVTDESC14050;Smuggling has become a major problem since $PROVINCENAME$ raised the tariffs on several goods. Something must be done about this, quick!;;;;;;;;;;;;x
-REMOVE_EVTOPTA14050;Raise the tariffs!;;;;;;;;;;;;x
-REMOVE_EVTOPTB14050;Lower the tariffs on those goods and raise it on some others.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14050;Leave the tariffs as they were.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14050;Lower the tariffs just a bit.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14050;We need to lower the tariffs altogether.;;;;;;;;;;;;x
-REMOVE_EVTNAME14060;Export and Import;;;;;;;;;;;;x
+REMOVE_EVTOPTA14050;関税を上げるべきだ！;;;;;;;;;;;;x
+REMOVE_EVTOPTB14050;これら産品の関税を下げ、代わりに他の物の関税を上げよう;;;;;;;;;;;;x
+REMOVE_EVTOPTC14050;従来どおりの関税でよい;;;;;;;;;;;;x
+REMOVE_EVTOPTD14050;少しだけ関税を下げよう;;;;;;;;;;;;x
+REMOVE_EVTOPTE14050;我々は全ての関税を下げる必要がある;;;;;;;;;;;;x
+REMOVE_EVTNAME14060;輸出と輸入;;;;;;;;;;;;x
 REMOVE_EVTDESC14060;The new products have begun to outcompete the $PROVINCENAME$s own products and the citizens have difficulty competing with imported goods.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14060;We should export our products.;;;;;;;;;;;;x
 REMOVE_EVTOPTB14060;Then we need to find something new for them to do.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14060;Leave the tariffs as they were.;;;;;;;;;;;;x
+REMOVE_EVTOPTC14060;従来どおりの関税でよい;;;;;;;;;;;;x
 REMOVE_EVTOPTD14060;Lower the tariffs on some goods and raise it on some others.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14060;Raise the tariffs.;;;;;;;;;;;;x
-REMOVE_EVTNAME14070;Monopoly;;;;;;;;;;;;x
+REMOVE_EVTOPTE14060;関税を上げるべきだ;;;;;;;;;;;;x
+REMOVE_EVTNAME14070;独占;;;;;;;;;;;;x
 REMOVE_EVTDESC14070;Merchants from $PROVINCENAME$ are arguing with the finance minister, who wants to monopolize part of their trade. Their heated discussion have reach your ears and you try to cool both sides down.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14070;I see no reason to monopolize it.;;;;;;;;;;;;x
 REMOVE_EVTOPTB14070;You both have great arguments, but we will not monopolize that.;;;;;;;;;;;;x
 REMOVE_EVTOPTC14070;Let do and let pass, the world goes on by itself. No monopoly.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14070;Great idea, but let me take a look at this first.;;;;;;;;;;;;x
 REMOVE_EVTOPTE14070;That is a great idea. We will do that.;;;;;;;;;;;;x
-REMOVE_EVTNAME14080;The Production Quota;;;;;;;;;;;;x
+REMOVE_EVTNAME14080;生産割り当て;;;;;;;;;;;;x
 REMOVE_EVTDESC14080;The production quota is too high. We will never be able to reach the demand.' The other farmers stand behind him, waiting. Their weathered faces show the same concern and determination as their speaker.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14080;Nonsense. The production quota will remain the same.;;;;;;;;;;;;x
 REMOVE_EVTOPTB14080;You have nothing to worry about.;;;;;;;;;;;;x
 REMOVE_EVTOPTC14080;We will deal with it if the production quota becomes a problem.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14080;You might be right.;;;;;;;;;;;;x
 REMOVE_EVTOPTE14080;You are right.;;;;;;;;;;;;x
-REMOVE_EVTNAME14090;Local or State Economy;;;;;;;;;;;;x
+REMOVE_EVTNAME14090;地方経済か、国家経済か;;;;;;;;;;;;x
 REMOVE_EVTDESC14090;A debate have been flaring up in the Upper House about whether the state should interfere or not in the local economy. Opponents argue that the state's economy is centrally managed while the provinces economy should be controlled locally. Regardless, the economy is going straight to hell. TODO;;;;;;;;;;;;x
 REMOVE_EVTOPTA14090;This works!;;;;;;;;;;;;x
 REMOVE_EVTOPTB14090;It takes some time, but it will work.;;;;;;;;;;;;x
@@ -14731,7 +14731,7 @@ paper_mill;製紙工場;;;;;;;;;;;;x
 furniture_factory;家具工場;;;;;;;;;;;;x
 luxury_furniture_factory;高級家具工場;;;;;;;;;;;;x
 synthetic_oil_factory;合成石油工場;;;;;;;;;;;;x
-RGO_INPUT_TECH;RGO_INPUT_TECH;;;;;;;;;;;;x
+RGO_INPUT_TECH;RGO仕入効率技術;;;;;;;;;;;;x
 RGO_OUTPUT_TECH;RGO生産効率技術;;;;;;;;;;;;x
 RGO_THROUGHPUT_TECH;RGO処理効率技術;;;;;;;;;;;;x
 RGO_NONE_EFFECT_TECH;;;;;;;;;;;;;x

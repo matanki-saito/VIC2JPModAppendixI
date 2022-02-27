@@ -71,7 +71,7 @@ EVTDESC14600_NEWS_MEDIUM;ここのところ、大気中に、何かよく分か�
 EVTDESC14600_NEWS_SHORT;動揺の波が、$COUNTRY$の植民地を揺さぶりつつある。彼らは、これに対処する方法を決定する必要に迫られている。原住民に譲歩した場合、国際的名声は大打撃を被るだろう。しかし、譲歩することなしに、今回の事態を乗り切ることができるであろうか？;;;;;;;;;;;;x
 EVTDESC14670_NEWS_LONG;ヨーロッパのさる主要紙が掲載した、ある植民地の状況を記した報告記事が、$COUNTRY$に衝撃を与えている。記事は、贈収賄と腐敗によって作り上げられた精巧なシステムにより、植民地省の影響力が及ばないところで、植民地や鉱山、プランテーションの秩序を維持するため、原住民に対して手足を切断するなどの非人道的な虐待が常用されていると、植民地の実情を厳しく糾弾している。;;;;;;;;;;;;x
 EVTDESC14670_NEWS_MEDIUM;ヨーロッパのさる主要紙が掲載した、ある植民地の状況を記した報告記事が、$COUNTRY$に衝撃を与えている。原住民に対して手足を切断するなどの非人道的な虐待が常用されていると、植民地の実情を厳しく糾弾している。;;;;;;;;;;;;x
-EVTDESC14670_NEWS_SHORT;$COUNTRY$ is in shock, as a major European newspaper published a report today on the conditions in one of her colonies proving brutal mistreatment of natives.;;;;;;;;;;;;x
+EVTDESC14670_NEWS_SHORT;ヨーロッパのさる主要紙が掲載した、ある植民地での原住民に対する非人道的な虐待を記した報告記事が、$COUNTRY$に衝撃を与えている。;;;;;;;;;;;;x
 EVTDESC14740_NEWS_LONG;ヨーロッパの国々がアフリカや世界を奪い合うにつれて、植民地競争は絶えず増加しているなか、$COUNTRY$は植民地経営においての優越を示した。過去数年で、$COUNTRY$植民地の1つが適切に管理されたヨーロッパの植民地のモデルとして国際的に認識され、ヨーロッパの議会や宮廷で$COUNTRY$式植民地政策として注目が集まっている。$COUNTRY$の研究と国際的な名声にすばらしい恩恵をもたらすことだろう。;;;;;;;;;;;;x
 EVTDESC14740_NEWS_MEDIUM;$COUNTRY$植民地の1つが適切に管理されたヨーロッパの植民地のモデルとして国際的に認識され、$COUNTRY$式植民地政策として注目が集まっている。$COUNTRY$の研究と国際的な名声にすばらしい恩恵をもたらすことだろう。;;;;;;;;;;;;x
 EVTDESC14740_NEWS_SHORT;$COUNTRY$植民地の1つが適切に管理されたヨーロッパの植民地のモデルとして国際的に認識されるようになった。;;;;;;;;;;;;x
@@ -440,7 +440,7 @@ EVTDESC36923_NEWS_MEDIUM;The natural philosopher Charles Darwin has published on
 EVTDESC36923_NEWS_SHORT;The scientist Charles Darwin has published on the origin of species, which he claims that life has evolved through a scientific process known as natural selection and not an act of divinity.;;;;;;;;;;;;x
 EVTDESC36925_NEWS_LONG;悪名高い連続殺人犯、切り裂きジャックによる少なくとも6人の売春婦殺害が、ヴィクトリア朝の支配層を恐怖に陥れ、衝撃を与えている。しかし、これらの殺人によって引き起こされた狼狽は、イースト・エンド周辺の通り、特に事件が起きたホワイトチャペル周辺を覆っている極端な貧困と堕落の存在を、英国民に気づかせた。噂では、犯人が逮捕を逃れ続けているのは、地位の高い人々とのつながりがあったからだとされているが、詳細を本紙に掲載するには余りにも事件が解明されていないのだ。;;;;;;;;;;;;x
 EVTDESC36925_NEWS_MEDIUM;切り裂きジャックによる少なくとも6人の売春婦殺害が、ヴィクトリア朝の支配層を恐怖に陥れている。しかし、これらの殺人によって引き起こされた狼狽は、イースト・エンド周辺を覆っている極端な貧困の存在を、国民に気づかせた。詳細を本紙に掲載するには余りにも事件が解明されていない。;;;;;;;;;;;;x
-EVTDESC36925_NEWS_SHORT;The gruesome murder of at least six prostitutes by Jack the Ripper has horrified the Victorian establishment. Details of the outrages are too grizzly to publish in this journal at this time.;;;;;;;;;;;;x
+EVTDESC36925_NEWS_SHORT;切り裂きジャックによる少なくとも6人の陰惨な売春婦殺害が、ヴィクトリア朝の支配層を恐怖に陥れている。詳細を本紙に掲載するには余りにも事件が解明されていない。;;;;;;;;;;;;x
 EVTDESC36929_NEWS_LONG;【$COUNTRY$】完成から19ヵ月後、ダンディー近郊のテイ湾を渡る橋は強風による負荷で崩落した。6両編制の列車も巻き込まれ全員が死亡した。橋の設計者であるトーマス・バウチ卿は、設計や品質管理など複数の欠陥の責任を問われ、フォース湾に計画中だった橋の設計から外された。設計者としての彼の評判は地に落ち、崩れた橋は別の設計者によって再建されている。バウチ卿は1年後に亡くなった。;;;;;;;;;;;;x
 EVTDESC36929_NEWS_MEDIUM;【$COUNTRY$】完成から19ヵ月後、ダンディー近郊のテイ湾を渡る橋は強風による負荷で崩落した。6両編制の列車も巻き込まれ全員が死亡した。橋を設計したトーマス・バウチ卿は、事故の責任を問われた。;;;;;;;;;;;;x
 EVTDESC36929_NEWS_SHORT;【$COUNTRY$】完成から19ヵ月後、ダンディー近郊のテイ湾を渡る橋は強風による負荷で崩落した。6両編制の列車も巻き込まれ全員が死亡した。;;;;;;;;;;;;x

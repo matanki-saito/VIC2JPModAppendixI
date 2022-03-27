@@ -4616,39 +4616,39 @@ REMOVE_EVTOPTD14060;Lower the tariffs on some goods and raise it on some others.
 REMOVE_EVTOPTE14060;関税を上げるべきだ;;;;;;;;;;;;x
 REMOVE_EVTNAME14070;独占;;;;;;;;;;;;x
 REMOVE_EVTDESC14070;Merchants from $PROVINCENAME$ are arguing with the finance minister, who wants to monopolize part of their trade. Their heated discussion have reach your ears and you try to cool both sides down.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14070;I see no reason to monopolize it.;;;;;;;;;;;;x
-REMOVE_EVTOPTB14070;You both have great arguments, but we will not monopolize that.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14070;Let do and let pass, the world goes on by itself. No monopoly.;;;;;;;;;;;;x
+REMOVE_EVTOPTA14070;私には、それを専売制にする必要性があるとは思えない;;;;;;;;;;;;x
+REMOVE_EVTOPTB14070;どちらの意見ももっともだが、それを専売制にするのはやめよう;;;;;;;;;;;;x
+REMOVE_EVTOPTC14070;市場のなりゆきに任せるべきだ。専売制にする必要はない。;;;;;;;;;;;;x
 REMOVE_EVTOPTD14070;Great idea, but let me take a look at this first.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14070;That is a great idea. We will do that.;;;;;;;;;;;;x
+REMOVE_EVTOPTE14070;それは素晴らしい考えだ。実施しましょう。;;;;;;;;;;;;x
 REMOVE_EVTNAME14080;生産割り当て;;;;;;;;;;;;x
-REMOVE_EVTDESC14080;The production quota is too high. We will never be able to reach the demand.' The other farmers stand behind him, waiting. Their weathered faces show the same concern and determination as their speaker.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14080;Nonsense. The production quota will remain the same.;;;;;;;;;;;;x
-REMOVE_EVTOPTB14080;You have nothing to worry about.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14080;We will deal with it if the production quota becomes a problem.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14080;You might be right.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14080;You are right.;;;;;;;;;;;;x
+REMOVE_EVTDESC14080;「生産の割り当てが、あまりにも過大です。我々は、割当量を達成できそうにありません。」他の農民たちは、彼の後ろに立ち、返事を待っています。陳情を行っている者と同様に、彼らの疲れきった顔は、一様に懸念と決意を示しています。;;;;;;;;;;;;x
+REMOVE_EVTOPTA14080;下らん。生産割り当ては、従来どおりだ。;;;;;;;;;;;;x
+REMOVE_EVTOPTB14080;あなたは何も心配しないでよい;;;;;;;;;;;;x
+REMOVE_EVTOPTC14080;もし本当に生産割り当てを達成できないのであれば、そのときは考えよう。;;;;;;;;;;;;x
+REMOVE_EVTOPTD14080;あなたの主張が正しいのかもしれない。;;;;;;;;;;;;x
+REMOVE_EVTOPTE14080;あなたの主張は正しい。;;;;;;;;;;;;x
 REMOVE_EVTNAME14090;地方経済か、国家経済か;;;;;;;;;;;;x
 REMOVE_EVTDESC14090;A debate have been flaring up in the Upper House about whether the state should interfere or not in the local economy. Opponents argue that the state's economy is centrally managed while the provinces economy should be controlled locally. Regardless, the economy is going straight to hell. TODO;;;;;;;;;;;;x
 REMOVE_EVTOPTA14090;This works!;;;;;;;;;;;;x
-REMOVE_EVTOPTB14090;It takes some time, but it will work.;;;;;;;;;;;;x
+REMOVE_EVTOPTB14090;かなりの時間がかかるだろうが、それは上手くいくかもしれない。;;;;;;;;;;;;x
 REMOVE_EVTOPTC14090;This is news for me.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14090;We might want to rethink this.;;;;;;;;;;;;x
+REMOVE_EVTOPTD14090;ちょっと考えさせて欲しい。;;;;;;;;;;;;x
 REMOVE_EVTOPTE14090;We will change this.;;;;;;;;;;;;x
 REMOVE_EVTNAME14100;Who Produces What, Where is it Produced, How Much Does it Costs and Where Does it Go?;;;;;;;;;;;;x
 REMOVE_EVTDESC14100;$PROVINCENAME$ have been criticized for its planned economy, it is said that 'the country's economic planners cannot detect consumer preferences, shortages, and surpluses with sufficient accuracy and therefore cannot efficiently co-ordinate production', and this worries the residents of $PROVINCENAME$.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14100;That's rubbish!;;;;;;;;;;;;x
-REMOVE_EVTOPTB14100;The economic planners knows what they are doing.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14100;We will have a look at it.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14100;It's probably nothing, but we'll have a look at it.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14100;They might have a point...;;;;;;;;;;;;x
+REMOVE_EVTOPTA14100;まったくのたわごとだ！;;;;;;;;;;;;x
+REMOVE_EVTOPTB14100;経済計画の立案者たちは、ちゃんと状況を把握しています。;;;;;;;;;;;;x
+REMOVE_EVTOPTC14100;少し考えてみよう;;;;;;;;;;;;x
+REMOVE_EVTOPTD14100;多分問題ないはずだが、少し考えてみよう;;;;;;;;;;;;x
+REMOVE_EVTOPTE14100;彼らの指摘どおりかもしれない・・・;;;;;;;;;;;;x
 REMOVE_EVTNAME14110;Neglected Religions Umbrage;;;;;;;;;;;;x
 REMOVE_EVTDESC14110;Some of the religions in the country feels neglected by the state. For years, they have helped people in many ways, caring for the sick, taking care of the orphans and helping the needy. They only ask for some form of support so they can continue to help people.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14110;Religion is a private matter.;;;;;;;;;;;;x
-REMOVE_EVTOPTB14110;Charity is good, but no.;;;;;;;;;;;;x
+REMOVE_EVTOPTA14110;宗教は私的領域の問題だ。;;;;;;;;;;;;x
+REMOVE_EVTOPTB14110;慈善活動は良い事だが、支援は認められない。;;;;;;;;;;;;x
 REMOVE_EVTOPTC14110;Interesting.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14110;Maybe we could do something to help.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14110;We will help you.;;;;;;;;;;;;x
+REMOVE_EVTOPTD14110;我々は何らかの支援を行うべきかもしれない。;;;;;;;;;;;;x
+REMOVE_EVTOPTE14110;あなたたちを支援しよう。;;;;;;;;;;;;x
 REMOVE_EVTNAME14120;Religious Umbrage;;;;;;;;;;;;x
 REMOVE_EVTDESC14120;Two religions are fighting over some minor issue and have turned to the state in an attempt to solve the conflict.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14120;You must solve this by yourself.;;;;;;;;;;;;x
@@ -4658,12 +4658,12 @@ REMOVE_EVTOPTD14120;Let me give you an advice...;;;;;;;;;;;;x
 REMOVE_EVTOPTE14120;We can help you.;;;;;;;;;;;;x
 REMOVE_EVTNAME14130;Converted Subjects;;;;;;;;;;;;x
 REMOVE_EVTDESC14130;The religious leader of $PROVINCENAME$ is furious. The new residents have brought their own religions and religious leaders with them, and the leader believes that his supporters is starting to become a bit too interested in the new religions.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14130;Try to keep an open mind.;;;;;;;;;;;;x
-REMOVE_EVTOPTB14130;We can do nothing.;;;;;;;;;;;;x
+REMOVE_EVTOPTA14130;広い心を保てるように努力すべきです。;;;;;;;;;;;;x
+REMOVE_EVTOPTB14130;我々にできることは何もないです。;;;;;;;;;;;;x
 REMOVE_EVTOPTC14130;That is regrettably.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14130;There are some things we could try...;;;;;;;;;;;;x
-REMOVE_EVTOPTE14130;We will do what we can, this won't be tolerated.;;;;;;;;;;;;x
-REMOVE_EVTNAME14140;A Holy Place;;;;;;;;;;;;x
+REMOVE_EVTOPTE14130;これは看過できない事態です。我々は可能な限り対策を講じましょう。;;;;;;;;;;;;x
+REMOVE_EVTNAME14140;聖なる場所;;;;;;;;;;;;x
 REMOVE_EVTDESC14140;You have been approached by a religious leader who wants permission to build a house of worship. He is eager to start his project as soon as possible.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14140;No, I can't allow that.;;;;;;;;;;;;x
 REMOVE_EVTOPTB14140;I see no meaning with this.;;;;;;;;;;;;x
@@ -4672,11 +4672,11 @@ REMOVE_EVTOPTD14140;Let me see what I can do.;;;;;;;;;;;;x
 REMOVE_EVTOPTE14140;You have my permission.;;;;;;;;;;;;x
 REMOVE_EVTNAME14150;Immigration and Jobs;;;;;;;;;;;;x
 REMOVE_EVTDESC14150;The current inflow of immigrants have created a demand for more jobs. Most of the immigrants demand the same rights as your residents. The situation is a bit harsh.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14150;They have no right to demand anything.;;;;;;;;;;;;x
-REMOVE_EVTOPTB14150;Why should they have the same rights?.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14150;We'll see what we can do.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14150;We will work this out.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14150;Won't be easy, but we'll do everything we can.;;;;;;;;;;;;x
+REMOVE_EVTOPTA14150;彼らに、何かを要求する権利などありません;;;;;;;;;;;;x
+REMOVE_EVTOPTB14150;なぜ彼らに、同一の権利を与えなければならないのでしょう？;;;;;;;;;;;;x
+REMOVE_EVTOPTC14150;善処しよう;;;;;;;;;;;;x
+REMOVE_EVTOPTD14150;何かいい手立てを考えよう;;;;;;;;;;;;x
+REMOVE_EVTOPTE14150;簡単な話ではないが、我々にできる限りのことはしよう;;;;;;;;;;;;x
 REMOVE_EVTNAME14160;Minor Immigration Problems;;;;;;;;;;;;x
 REMOVE_EVTDESC14160;The primary and accepted culture of $PROVINCENAME$ have nothing to complain about, but the smaller cultures feel discriminated against and want something done about it.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14160;We can do nothing about that..;;;;;;;;;;;;x
@@ -4698,16 +4698,16 @@ REMOVE_EVTOPTB14180;Stop it!;;;;;;;;;;;;x
 REMOVE_EVTOPTC14180;They should know better.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14180;They will tire eventually.;;;;;;;;;;;;x
 REMOVE_EVTOPTE14180;Ignore it.;;;;;;;;;;;;x
-REMOVE_EVTNAME14190;A Soldier's Stomach;;;;;;;;;;;;x
+REMOVE_EVTNAME14190;兵士の胃袋;;;;;;;;;;;;x
 REMOVE_EVTDESC14190;Your generals have begun to complain about the bad food the soldiers are getting and command that more money should be spent on feeding them. The generals argue that the poor diet reduces soldiers' fighting spirit and want to raise it through better food. This may cost a lot.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14190;The soldiers need better food!;;;;;;;;;;;;x
-REMOVE_EVTOPTB14190;They need better food in order to fight well.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14190;We will see how much we can spend on their food.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14190;This is not something we should prioritize.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14190;Maybe we should cut back on other things, such as soldiers...;;;;;;;;;;;;x
-REMOVE_EVTNAME14200;Too Stale for War?;;;;;;;;;;;;x
+REMOVE_EVTOPTA14190;兵士たちは、より良い食糧を必要としている！;;;;;;;;;;;;x
+REMOVE_EVTOPTB14190;兵士たちが善戦するためには、より良い食糧が必要だ。;;;;;;;;;;;;x
+REMOVE_EVTOPTC14190;我々は、兵士たちの食糧に、どの程度の予算を使えるか考えるべきだ。;;;;;;;;;;;;x
+REMOVE_EVTOPTD14190;食糧事情の改善は、我々にとって優先順位の高い問題ではありません。;;;;;;;;;;;;x
+REMOVE_EVTOPTE14190;兵員数など、我々は他に切り詰めるべき分野があるかもしれない・・・;;;;;;;;;;;;x
+REMOVE_EVTNAME14200;軍備が陳腐化しすぎた？;;;;;;;;;;;;x
 REMOVE_EVTDESC14200;A major report that most of the soldiers' weapons are nearly worn out and want someone to go over them to see if they need to be scrapped. To provide soldiers with new weapons would cost more than the current budget for the military can cope with.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14200;That sounds expensive.;;;;;;;;;;;;x
+REMOVE_EVTOPTA14200;費用がかかりそうだな。;;;;;;;;;;;;x
 REMOVE_EVTOPTB14200;Can't they fight without them?;;;;;;;;;;;;x
 REMOVE_EVTOPTC14200;We could perhaps do something about that.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14200;A soldier needs his weapon.;;;;;;;;;;;;x
@@ -4716,7 +4716,7 @@ REMOVE_EVTNAME14210;Words or Violence;;;;;;;;;;;;x
 REMOVE_EVTDESC14210;In a perfect world, weapons would not be necessary. Unfortunately, we do not live in a perfect world and will sometimes have to defend ourselves. If we choose to defend ourselves with words or violence is entirely up to ourselves.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14210;We choose words.;;;;;;;;;;;;x
 REMOVE_EVTOPTB14210;Violence is not the answer.;;;;;;;;;;;;x
-REMOVE_EVTOPTC14210;The pen is mightier than the sword.;;;;;;;;;;;;x
+REMOVE_EVTOPTC14210;ペンは剣より強し。;;;;;;;;;;;;x
 REMOVE_EVTOPTD14210;We need to defend ourselves in the best way possible.;;;;;;;;;;;;x
 REMOVE_EVTOPTE14210;Perhaps violence is the answer.;;;;;;;;;;;;x
 EVTNAME14500;雨が降らない;;;;;;;;;;;;x

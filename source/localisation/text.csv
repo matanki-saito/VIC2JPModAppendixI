@@ -4686,7 +4686,7 @@ REMOVE_EVTOPTD14160;What can we do about that?;;;;;;;;;;;;x
 REMOVE_EVTOPTE14160;We will do something about that.;;;;;;;;;;;;x
 REMOVE_EVTNAME14170;Peace and Quiet;;;;;;;;;;;;x
 REMOVE_EVTDESC14170;All is well in $PROVINCENAME$, the different cultures have nothing to complain about as they have the same rights as everyone else. There are some protests against the system, but nothing that can't be fixed.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14170;Good.;;;;;;;;;;;;x
+REMOVE_EVTOPTA14170;良いことだ。;;;;;;;;;;;;x
 REMOVE_EVTOPTB14170;Let us keep it that way.;;;;;;;;;;;;x
 REMOVE_EVTOPTC14170;Protests? What protests?;;;;;;;;;;;;x
 REMOVE_EVTOPTD14170;There are some complaining, yes?;;;;;;;;;;;;x
@@ -4697,7 +4697,7 @@ REMOVE_EVTOPTA14180;To war, by Jingo!;;;;;;;;;;;;x
 REMOVE_EVTOPTB14180;Stop it!;;;;;;;;;;;;x
 REMOVE_EVTOPTC14180;They should know better.;;;;;;;;;;;;x
 REMOVE_EVTOPTD14180;They will tire eventually.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14180;Ignore it.;;;;;;;;;;;;x
+REMOVE_EVTOPTE14180;無視しろ。;;;;;;;;;;;;x
 REMOVE_EVTNAME14190;兵士の胃袋;;;;;;;;;;;;x
 REMOVE_EVTDESC14190;Your generals have begun to complain about the bad food the soldiers are getting and command that more money should be spent on feeding them. The generals argue that the poor diet reduces soldiers' fighting spirit and want to raise it through better food. This may cost a lot.;;;;;;;;;;;;x
 REMOVE_EVTOPTA14190;兵士たちは、より良い食糧を必要としている！;;;;;;;;;;;;x
@@ -4706,19 +4706,19 @@ REMOVE_EVTOPTC14190;我々は、兵士たちの食糧に、どの程度の予算
 REMOVE_EVTOPTD14190;食糧事情の改善は、我々にとって優先順位の高い問題ではありません。;;;;;;;;;;;;x
 REMOVE_EVTOPTE14190;兵員数など、我々は他に切り詰めるべき分野があるかもしれない・・・;;;;;;;;;;;;x
 REMOVE_EVTNAME14200;軍備が陳腐化しすぎた？;;;;;;;;;;;;x
-REMOVE_EVTDESC14200;A major report that most of the soldiers' weapons are nearly worn out and want someone to go over them to see if they need to be scrapped. To provide soldiers with new weapons would cost more than the current budget for the military can cope with.;;;;;;;;;;;;x
+REMOVE_EVTDESC14200;軍の装備の大半が老朽化しており、それらを廃棄する必要があるかどうか調査すべきだとする報告が出されました。しかし、兵士たちに新しい装備を支給するためには、現在の軍事予算では不足しています。;;;;;;;;;;;;x
 REMOVE_EVTOPTA14200;費用がかかりそうだな。;;;;;;;;;;;;x
-REMOVE_EVTOPTB14200;Can't they fight without them?;;;;;;;;;;;;x
-REMOVE_EVTOPTC14200;We could perhaps do something about that.;;;;;;;;;;;;x
-REMOVE_EVTOPTD14200;A soldier needs his weapon.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14200;We need to upgrade their weapons.;;;;;;;;;;;;x
-REMOVE_EVTNAME14210;Words or Violence;;;;;;;;;;;;x
+REMOVE_EVTOPTB14200;新型兵器なしには、戦えないのですか？;;;;;;;;;;;;x
+REMOVE_EVTOPTC14200;おそらく、我々はこの問題に対して、なんらかの対策が行えるでしょう。;;;;;;;;;;;;x
+REMOVE_EVTOPTD14200;兵士には、武器が必要だ。;;;;;;;;;;;;x
+REMOVE_EVTOPTE14200;我々は、兵士たちの武器を改善するべきだ。;;;;;;;;;;;;x
+REMOVE_EVTNAME14210;言葉か暴力か;;;;;;;;;;;;x
 REMOVE_EVTDESC14210;In a perfect world, weapons would not be necessary. Unfortunately, we do not live in a perfect world and will sometimes have to defend ourselves. If we choose to defend ourselves with words or violence is entirely up to ourselves.;;;;;;;;;;;;x
-REMOVE_EVTOPTA14210;We choose words.;;;;;;;;;;;;x
-REMOVE_EVTOPTB14210;Violence is not the answer.;;;;;;;;;;;;x
+REMOVE_EVTOPTA14210;言葉を選ぼう。;;;;;;;;;;;;x
+REMOVE_EVTOPTB14210;暴力は答えではない。;;;;;;;;;;;;x
 REMOVE_EVTOPTC14210;ペンは剣より強し。;;;;;;;;;;;;x
 REMOVE_EVTOPTD14210;We need to defend ourselves in the best way possible.;;;;;;;;;;;;x
-REMOVE_EVTOPTE14210;Perhaps violence is the answer.;;;;;;;;;;;;x
+REMOVE_EVTOPTE14210;暴力こそが答えなのかもしれない。;;;;;;;;;;;;x
 EVTNAME14500;雨が降らない;;;;;;;;;;;;x
 EVTDESC14500;我が国のある植民地で旱魃が続き、植民地当局と地元住民との間に、摩擦が生じています。この地域の貯水池の水の多くが工場やプランテーション農園に配分され、地元小自作農には充分な灌漑用水が供給されていないことが、その原因です。日が経つにつれ、両者の間の緊張は高まりつつあります。地元小自作農への水の供給を増やすことも、選択肢としてはありえます。しかしその場合、他国からは、我が国が弱体であることの証だと捉えられる恐れがあります。;;;;;;;;;;;;x
 EVTOPTA14500;地元農家に供給する水の量を増やそう;;;;;;;;;;;;x

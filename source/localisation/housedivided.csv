@@ -792,7 +792,7 @@ MOVEMENT_RADICALISM_ADJUST;§Y$MOVEMENT$§Wの過激度：$AMOUNT$;;;;;;;;;;;;x
 MILITARY_REFORM_COST_DESC;軍事改革のコスト修正値： ;;;;;;;;;;;;x
 ECONOMIC_REFORM_COST_DESC;経済改革のコスト修正値： ;;;;;;;;;;;;x
 MAPMODE_19;文明化レベル;;;;;;;;;;;;x
-CHI_absolute_monarchy;中華帝国;;;;;;;;;;;;x
+CHI_absolute_monarchy;大清帝国;;;;;;;;;;;;x
 EVTOPTB23212;このまま空を見上げるのだ！;;;;;;;;;;;;x
 LOSE_CIVILIZED_EFFECT;§Y非文明国§Wの烙印が押されてしまいます。\n;;;;;;;;;;;;x
 french_growth_nerf;フランスの人口減少：;;;;;;;;;;;;x
